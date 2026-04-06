@@ -1,0 +1,682 @@
+{
+  "uuid": "cea66aee-3a10-4bb9-b653-46ec49321824",
+  "chunk": "DoJM2MhD.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Lilliam Rivera’s 2020 novel <i>Never Look Back</i>. The text describes the narrator’s friend Pheus, a young musician, after finishing a performance during a church service.</p><blockquote style=\"margin-left: 40px;\"><p>Pheus pulls a handkerchief from his back pocket and wipes his forehead. I mime a quiet clap for him. He does a slight bow and flashes his dimples. This is where Pheus <u>truly</u> shines. When Pheus is in front of an audience, it’s as if he becomes another person, a more heightened version of himself.</p></blockquote><p style=\"text-align: right;\">©2020 by Lilliam Rivera</p>",
+      "question": "As used in the text, what does the word “truly” most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Obediently"
+        },
+        {
+          "name": "B",
+          "content": "Scarcely"
+        },
+        {
+          "name": "C",
+          "content": "Impolitely"
+        },
+        {
+          "name": "D",
+          "content": "Really"
+        }
+      ],
+      "correct": "Really",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The discoveries of natural satellites by Scott S. Sheppard’s team of astronomers have been ______ : Carpo, which the group of researchers found orbiting Jupiter in 2003, is just one of over one hundred that they have spotted, while many astronomers have been happy to discover only one or two.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "inferior"
+        },
+        {
+          "name": "B",
+          "content": "random"
+        },
+        {
+          "name": "C",
+          "content": "plentiful"
+        },
+        {
+          "name": "D",
+          "content": "likely"
+        }
+      ],
+      "correct": "plentiful",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Certain features are almost always included in the designs of mosques, like the ablution (ritual cleansing) area, which is considered to be a ______ of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Al-Fattah Al-Aleem Mosque, which incorporates elements from the Islamic and Fatimid styles, will also include several of these standard features.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "duplicate"
+        },
+        {
+          "name": "B",
+          "content": "motivation"
+        },
+        {
+          "name": "C",
+          "content": "rejection"
+        },
+        {
+          "name": "D",
+          "content": "hallmark"
+        }
+      ],
+      "correct": "hallmark",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>______ traditional descriptions of pollination syndromes (suites of floral traits, such as nectar composition and scent bouquet, hypothesized to have independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait combinations have led some ecologists to express reservations about the utility of those descriptions.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Proclamations of"
+        },
+        {
+          "name": "B",
+          "content": "Affinities between"
+        },
+        {
+          "name": "C",
+          "content": "Recurrences of"
+        },
+        {
+          "name": "D",
+          "content": "Discrepancies between"
+        }
+      ],
+      "correct": "Discrepancies between",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><u>Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship.</u> While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria <em>Brevundimonas diminuta</em> and <em>Lactobacillus curvatus</em>—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.</p>",
+      "question": "Which choice best states the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It proposes a direction for future research into a biological phenomenon."
+        },
+        {
+          "name": "B",
+          "content": "It explains a biological process by contrasting it with a somewhat similar process."
+        },
+        {
+          "name": "C",
+          "content": "It argues that two biological phenomena are more similar than they may initially appear to be."
+        },
+        {
+          "name": "D",
+          "content": "It explains why a common perception of a biological process is flawed."
+        }
+      ],
+      "correct": "It explains a biological process by contrasting it with a somewhat similar process.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Bogotá, Colombia, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 1,121 respondents from Bogotá, 71.9% indicated that they use the city’s parks, and of the 938 respondents from Fortaleza, 35.7% indicated using city parks. Given that the percentage of Bogotá respondents who reported having access to desired nonpark amenities near parks was much lower than that reported by Fortaleza respondents, the difference in park use can’t be explained by Bogotá residents having more access to desired nonpark amenities near parks.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A study of park use in Bogotá is described, and then a similar study of park use in Fortaleza is analyzed to corroborate the findings of the Bogotá study."
+        },
+        {
+          "name": "B",
+          "content": "A study involving surveys in Bogotá and Fortaleza is introduced, and then a possible explanation for some of the results is considered and rejected."
+        },
+        {
+          "name": "C",
+          "content": "An unexpected finding is described, and then that finding is attributed to the method used to collect survey data in Bogotá and Fortaleza."
+        },
+        {
+          "name": "D",
+          "content": "An unresolved question about park planning is described, and then examples from a study of Bogotá and Fortaleza are used to answer that question."
+        }
+      ],
+      "correct": "A study involving surveys in Bogotá and Fortaleza is introduced, and then a possible explanation for some of the results is considered and rejected.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><em>Tracks</em> is a 1988 novel by Ojibwe writer Louise Erdrich. It explores how historical events affect families on a reservation in rural North Dakota. <em>Tracks</em> is typical of Erdrich’s work. Her writing usually focuses on portrayals of everyday life in Ojibwe communities. Yet some of her novels have fantastical plots and take place outside Ojibwe communities. For example, her 1991 novel <em>The Crown of Columbus</em> is essentially adventure fiction, and the thrilling events in its plot are set largely on a Caribbean island.</p>",
+      "question": "According to the text, what is one way that <em>The Crown of Columbus</em> differs from most of Erdrich’s work?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It has been adapted into a movie."
+        },
+        {
+          "name": "B",
+          "content": "It isn’t set in a rural Ojibwe community."
+        },
+        {
+          "name": "C",
+          "content": "It contains very little dialogue."
+        },
+        {
+          "name": "D",
+          "content": "Its main characters are Ojibwe."
+        }
+      ],
+      "correct": "It isn’t set in a rural Ojibwe community.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Rupa Bajwa’s 2004 novel <em>The Sari Shop</em>. Ramchand works as an assistant in a shop in Amritsar, India.</p><blockquote style=\"margin-left: 40px;\"><p>Even at ten in the morning, the bazaar was throbbing with activity. The halwai [baker] was already installed in front of the Mishthaan Sweet Shop, pressing jalebi batter into squiggly shapes that floated and simmered in the oil in a big iron cauldron. All the shops had opened for the day and, Ramchand noted guiltily, all the shop assistants were already in place, trying to sell things with fixed, attentive smiles on their shiny, bathed faces.</p></blockquote><p style=\"text-align: right;\">©2004 by Rupa Bajwa</p>",
+      "question": "Based on the text, what can most reasonably be inferred about Ramchand?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ramchand is remorseful about arriving to work later than other shop assistants he sees."
+        },
+        {
+          "name": "B",
+          "content": "Ramchand is mesmerized by frying jalebi batter while walking to work as a shop assistant."
+        },
+        {
+          "name": "C",
+          "content": "Ramchand is overwhelmed by a bazaar after seeing the chaos of other shop assistants selling goods."
+        },
+        {
+          "name": "D",
+          "content": "Ramchand is happy about being at work after seeing shop assistants who are satisfied with their jobs."
+        }
+      ],
+      "correct": "Ramchand is remorseful about arriving to work later than other shop assistants he sees.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/8203b88b63f3be43d9624da1d46d137f.png\" style=\"width: 650px; height: 380px;\"></div><p>Lin-Tai Ho and colleagues tracked fish populations in three tide pool-monitoring stations in Taiwan from 1999 to 2018. Although a total of only 36 cheekscaled frillgobies were observed at station 3, that was not the lowest count at any station: ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "there were 338 blackspot sergeants observed at station 1."
+        },
+        {
+          "name": "B",
+          "content": "there were 9 blackspot sergeants observed at station 3."
+        },
+        {
+          "name": "C",
+          "content": "there were 9 spotted frillgobies observed at station 3."
+        },
+        {
+          "name": "D",
+          "content": "there were 65 triplefin blennies observed at station 2."
+        }
+      ],
+      "correct": "there were 9 spotted frillgobies observed at station 3.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Austria and Samoa, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.</p>",
+      "question": "Which potential finding from the team’s study, if true, would most directly support the team’s conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "An assessment of the effect of demographic variables on judgments of laughter type in Austria, Samoa, and the other societies in the study revealed that participants’ evaluations were correlated with the economic conditions of the societies in which participants live."
+        },
+        {
+          "name": "B",
+          "content": "The overall rate of correct judgments by participants was 64%, substantially better than chance, and spontaneous and volitional laughs were recognized at similar rates in Austria, Samoa, and the other societies in the study."
+        },
+        {
+          "name": "C",
+          "content": "Acoustic features of spontaneous laughter, such as pitch and intensity, have measurable variations both within and across societies."
+        },
+        {
+          "name": "D",
+          "content": "A variety of people from Austria and Samoa evaluated the recordings in the study, and no significant differences in listeners’ judgments of laughter types were found."
+        }
+      ],
+      "correct": "The overall rate of correct judgments by participants was 64%, substantially better than chance, and spontaneous and volitional laughs were recognized at similar rates in Austria, Samoa, and the other societies in the study.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction’s size and position, and fish sense these vortices to navigate around the obstructions. Using models of three fish-head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao showed that as vortex size increases, pressure fluctuations at the snout increase for narrow-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish’s snout are greater.</p>",
+      "question": "Which finding, if true, would most directly support the second research team’s hypothesis?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the narrow-headed flat needlefish (<em>Ablennes hians</em>) bumped into the obstructions more often than other specimens of the same fish did."
+        },
+        {
+          "name": "B",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed flat needlefish (<em>Ablennes hians</em>) bumped into the obstructions just as often as the wide-headed devil catfish (<em>Bagarius bagarius</em>) did."
+        },
+        {
+          "name": "C",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed devil catfish (<em>Bagarius bagarius</em>) bumped into obstructions more often than the narrow-headed flat needlefish (<em>Ablennes hians</em>) did."
+        },
+        {
+          "name": "D",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the devil catfish (<em>Bagarius bagarius</em>), which has a relatively wide head, bumped into more than half of the obstructions."
+        }
+      ],
+      "correct": "A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed devil catfish (<em>Bagarius bagarius</em>) bumped into obstructions more often than the narrow-headed flat needlefish (<em>Ablennes hians</em>) did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/46ad4e38ca69140fc034a5e951a13441.png\" style=\"width: 650px; height: 321px;\"></div><p>Myoglobin (Mb) is a protein that primarily aids in oxygen storage and diffusion across the mitochondrial membrane in cardiac muscle cells; these are necessary functions in aerobic organisms, including teleost fish. Carrying out these functions typically requires Mb to be expressed at high levels, evidenced by red heart tissue. The table shows the average Mb levels and their standard deviations (indicating how dispersed the Mb levels of individual fish are in relation to the average) of three teleost fish species, as calculated by Daniel J. Macqueen et al. Based on the data, the researchers concluded that for some teleost species, oxygen storage and diffusion may occur with negligible assistance from Mb.</p>",
+      "question": "Which choice most effectively uses data from the table to support Macqueen et al.’s conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On average, <em>A. anguilla</em> had higher Mb levels in their cardiac tissue than <em>B. coracoideus</em> and <em>P. buchholzi</em> had."
+        },
+        {
+          "name": "B",
+          "content": "Less variation in Mb levels was observed among <em>P. buchholzi</em> individuals than among <em>A. anguilla</em> and <em>B. coracoideus</em> individuals."
+        },
+        {
+          "name": "C",
+          "content": "<em>P. buchholzi</em> had very low Mb levels in their cardiac tissue."
+        },
+        {
+          "name": "D",
+          "content": "Greater average Mb levels in a certain species were associated with greater variance in Mb levels among individuals of that species."
+        }
+      ],
+      "correct": "<em>P. buchholzi</em> had very low Mb levels in their cardiac tissue.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Right-handedness is overwhelmingly prevalent in humans. Among studies of laterality in nonhuman primates, Dulce D. Shafer’s 1988 study of captive gorillas reported no tendency toward right-handedness, while S.G. Lutz-Maki and P.F. MacNeilage’s 1991 study of captive chimpanzees did. However, the latter study included only 14 individuals, and a meta-analysis of primate-laterality studies demonstrated that a minimum sample size of 176 individuals is required to be confident that a finding of population-level handedness is not mere statistical noise. The claim of right-handedness in the 1991 study should therefore be treated skeptically given that ______ </p>",
+      "question": "Which choice most logically completes the text? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "right-handedness does not occur frequently enough among chimpanzees to reliably appear in a sample of only 14 individuals."
+        },
+        {
+          "name": "B",
+          "content": "the apparent difference between the two studies’ results may be partly attributable to the 1988 study using a different standard to determine handedness than the 1991 study did."
+        },
+        {
+          "name": "C",
+          "content": "the study that did not find right-handedness in gorillas was also based on an insufficient population size."
+        },
+        {
+          "name": "D",
+          "content": "the sample size on which the claim is based is far below the threshold identified in the meta-analysis."
+        }
+      ],
+      "correct": "the sample size on which the claim is based is far below the threshold identified in the meta-analysis.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Before the 1858 publication of <em>On the Origin of Species</em>, Charles Darwin developed his theory of natural selection in five notebooks. In them he first expressed one of natural selection’s principles: that species produce more offspring than available resources can sustain. He also listed books he read, such as Charles Lyell’s <em>Elements of Geology</em>. A fall 1838 entry in one of Darwin’s notebooks mentions species’ struggle for survival in a world of insufficient resources “as inference from Malthus,” referring to a 1798 essay by economist Thomas Malthus asserting that population growth will outpace agricultural production. A later notebook, begun in October 1838, mentions “the grand crush of population.” This suggests that ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "though some of Darwin’s notebook entries relating to his theory of natural selection date from 1838, others must have been written as late as 1858."
+        },
+        {
+          "name": "B",
+          "content": "in early fall 1838, Darwin realized that Malthus’s ideas regarding human populations derived from observations of animal behavior in nature."
+        },
+        {
+          "name": "C",
+          "content": "sometime in or before October 1838, Darwin determined that a postulate rooted in economics might also be applicable to biology."
+        },
+        {
+          "name": "D",
+          "content": "a key concept in Darwin’s theory of natural selection had been previously articulated in the same terms by economists sometime between 1798 and 1838."
+        }
+      ],
+      "correct": "sometime in or before October 1838, Darwin determined that a postulate rooted in economics might also be applicable to biology.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When we arrived in Venice, Utah, we ______ a large hillside glyph of the letter <em>V</em>. Later that day, our hosts remarked that such geoglyphs are quite common in the state.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "notice"
+        },
+        {
+          "name": "B",
+          "content": "are noticing"
+        },
+        {
+          "name": "C",
+          "content": "will notice"
+        },
+        {
+          "name": "D",
+          "content": "noticed"
+        }
+      ],
+      "correct": "noticed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On February 1, 2018, a Florida-based research team—Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez—compiled climate data from several sites in Puerto Rico’s Luquillo Mountains. At site CC1, the site with the highest elevation, the air temperature fluctuated slightly throughout the day, registering ______ and 16°C at 5:00 p.m.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "15.4°C at 1:00 a.m. 18.6°C at 11:30 a.m."
+        },
+        {
+          "name": "B",
+          "content": "15.4°C at 1:00 a.m. 18.6°C at 11:30 a.m.,"
+        },
+        {
+          "name": "C",
+          "content": "15.4°C, at 1:00 a.m. 18.6°C, at 11:30 a.m."
+        },
+        {
+          "name": "D",
+          "content": "15.4°C at 1:00 a.m., 18.6°C at 11:30 a.m.,"
+        }
+      ],
+      "correct": "15.4°C at 1:00 a.m., 18.6°C at 11:30 a.m.,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>An emulsifier is a type of compound that serves to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together, like oil and water. Though modern chemists commonly use emulsifiers like myristic acid in their formulations, emulsifiers that have been employed for millennia, such as beeswax and egg yolk, ______ used to this day by chemists as well.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "would have been"
+        },
+        {
+          "name": "B",
+          "content": "were"
+        },
+        {
+          "name": "C",
+          "content": "were being"
+        },
+        {
+          "name": "D",
+          "content": "are"
+        }
+      ],
+      "correct": "are",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Koumanthio Zeinab Diallo, born in 1956, is a poet and novelist from Labé, Guinea. In recent years, more writers from Guinea, including Diallo, ______ to reach audiences beyond the African nation’s borders.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "is beginning"
+        },
+        {
+          "name": "B",
+          "content": "has begun"
+        },
+        {
+          "name": "C",
+          "content": "have begun"
+        },
+        {
+          "name": "D",
+          "content": "begins"
+        }
+      ],
+      "correct": "have begun",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Among the world’s largest deserts are the Syrian Desert, ranked ______ and the Chalbi Desert, ranked twenty-ninth.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "ninth in size, the Kyzylkum Desert; ranked sixteenth,"
+        },
+        {
+          "name": "B",
+          "content": "ninth in size; the Kyzylkum Desert, ranked sixteenth;"
+        },
+        {
+          "name": "C",
+          "content": "ninth in size the Kyzylkum Desert, ranked sixteenth"
+        },
+        {
+          "name": "D",
+          "content": "ninth in size; the Kyzylkum Desert; ranked sixteenth;"
+        }
+      ],
+      "correct": "ninth in size; the Kyzylkum Desert, ranked sixteenth;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Was the Greek mythological figure Dionysus, god of wine and the theater, based on a real person? That was the question posed by the writer Euhemerus (fourth century BCE). Euhemerus claimed that Dionysus and the other Greek deities were based on real-life heroes or leaders, tales of whose exploits, told and retold over time, ______ myths—a position later known as euhemerism.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "having eventually become"
+        },
+        {
+          "name": "B",
+          "content": "eventually became"
+        },
+        {
+          "name": "C",
+          "content": "to eventually become"
+        },
+        {
+          "name": "D",
+          "content": "eventually becoming"
+        }
+      ],
+      "correct": "eventually became",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1929, scientists first isolated a sample of the steroid hormone progesterone, which they knew existed in animals—and, they assumed, only in animals. ______ researchers would find progesterone in corn plants (<i>Zea mays</i>), but this discovery wouldn’t come until decades later.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "Eventually,"
+        },
+        {
+          "name": "D",
+          "content": "Earlier,"
+        }
+      ],
+      "correct": "Eventually,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Decentralized space, in which no points in the performance space are privileged over others, was one of the central principles of Merce Cunningham’s choreographic philosophy. The approach marked a radical departure from the dance philosophies of Cunningham’s mid-twentieth-century contemporaries. ______ resulting in his dance pieces, like <i>Interscape Mirage</i>, being received not merely as experimental spectacles but as groundbreaking artworks.</p>",
+      "question": "Which choice completes the text with the most logical transition? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "Moreover, Cunningham incorporated his principles with great skill and artistry,"
+        },
+        {
+          "name": "B",
+          "content": "Specifically, Cunningham was an accomplished dancer as well as a choreographer,"
+        },
+        {
+          "name": "C",
+          "content": "Accordingly, Cunningham founded his namesake dance company in 1953,"
+        },
+        {
+          "name": "D",
+          "content": "In contrast, Cunningham gained a reputation as an unpredictable iconoclast,"
+        }
+      ],
+      "correct": "Moreover, Cunningham incorporated his principles with great skill and artistry,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many past Olympic Games featured demonstration sports—nonmedal events—to showcase sports related to the host country. These events included korfball, a handball sport popular in the Netherlands, and kyudō, a Japanese form of archery. ______ they were chosen as demonstration sports at the Olympic Games in Amsterdam, the Netherlands, and Tokyo, Japan, respectively.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Additionally,"
+        },
+        {
+          "name": "B",
+          "content": "By contrast,"
+        },
+        {
+          "name": "C",
+          "content": "Fittingly,"
+        },
+        {
+          "name": "D",
+          "content": "Nevertheless,"
+        }
+      ],
+      "correct": "Fittingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>India Arie is an African American singer and songwriter.</li><li>The media outlet NPR has described her music as having an “acoustic guitar-driven groove and lyrics celebrating self-confidence.”</li><li>Her acclaimed albums feature many talented musicians.</li><li>Ricky Quiñones played guitar on her second studio album, <em>Voyage to India</em> (2002).</li><li>John Catchings played cello on her first studio album, <em>Acoustic Soul</em> (2001).</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between Ricky Quiñones and John Catchings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ricky Quiñones and John Catchings have both lent their musical talents to albums by India Arie."
+        },
+        {
+          "name": "B",
+          "content": "Both musicians have played on India Arie albums, but Ricky Quiñones played guitar, whereas John Catchings played cello."
+        },
+        {
+          "name": "C",
+          "content": "Ricky Quiñones played on India Arie’s second studio album, <em>Voyage to India</em>, which was released one year after her album <em>Acoustic Soul</em>."
+        },
+        {
+          "name": "D",
+          "content": "<em>Acoustic Soul</em> and <em>Voyage to India</em>, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie."
+        }
+      ],
+      "correct": "Both musicians have played on India Arie albums, but Ricky Quiñones played guitar, whereas John Catchings played cello.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.</li><li>It is also known as a land bridge.</li><li>The Isthmus of Suez is located in North Africa.</li><li>It connects the Mediterranean Sea to the Red Sea.</li><li>The Auckland Isthmus is located in New Zealand.</li><li>It connects the North Island to Auckland.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the Isthmus of Suez and the Auckland Isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "An isthmus, or land bridge, is a strip of land that connects two larger pieces of land across an expanse of water."
+        },
+        {
+          "name": "B",
+          "content": "The Auckland Isthmus connects the North Island to Auckland."
+        },
+        {
+          "name": "C",
+          "content": "The Isthmus of Suez and the Auckland Isthmus both connect two larger pieces of land across an expanse of water."
+        },
+        {
+          "name": "D",
+          "content": "The Isthmus of Suez is a land bridge, located in North Africa."
+        }
+      ],
+      "correct": "The Isthmus of Suez and the Auckland Isthmus both connect two larger pieces of land across an expanse of water.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Body positions are an important part of dance.</li><li>In Cecchetti method ballet, there is a position called third position.</li><li>It is one of several positions for the dancer’s arms.</li></ul></blockquote>",
+      "question": "The student wants to provide an example of a position in Cecchetti method ballet. Which choice most effectively uses relevant information from the notes to accomplish this goal? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "In dance, some positions are for the dancer’s arms."
+        },
+        {
+          "name": "B",
+          "content": "Cecchetti method ballet includes several dance positions for the dancer’s arms."
+        },
+        {
+          "name": "C",
+          "content": "Third position is an example of a position in Cecchetti method ballet."
+        },
+        {
+          "name": "D",
+          "content": "Body positions are an important part of dance, including Cecchetti method ballet."
+        }
+      ],
+      "correct": "Third position is an example of a position in Cecchetti method ballet.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Receptors in the human tongue can detect sweetness, saltiness, sourness, bitterness, and umami.</li><li>Umami is a rich, savory flavor.</li><li>Umami is triggered by the compounds in a variety of foods, including ham and mushrooms.</li><li>Participants in a research study tasted samples of ma-konbu (a type of brown seaweed) collected from Hokkaido, Japan.</li><li>On average, they rated its umami intensity as high.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the umami intensity of ma-konbu. Which choice most effectively uses relevant information from the notes to accomplish this goal? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "Umami is a rich, savory flavor triggered by compounds in foods such as ham and mushrooms."
+        },
+        {
+          "name": "B",
+          "content": "Samples of ma-konbu, a brown seaweed, have been collected in Hokkaido, Japan."
+        },
+        {
+          "name": "C",
+          "content": "Umami is triggered by compounds in ma-konbu, ham, and mushrooms."
+        },
+        {
+          "name": "D",
+          "content": "Participants in a research study found the umami intensity of ma-konbu, a brown seaweed, to be high."
+        }
+      ],
+      "correct": "Participants in a research study found the umami intensity of ma-konbu, a brown seaweed, to be high.",
+      "solution": ""
+    }
+  ]
+}

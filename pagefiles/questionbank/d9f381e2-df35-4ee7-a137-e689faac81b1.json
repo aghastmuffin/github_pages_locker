@@ -1,0 +1,682 @@
+{
+  "uuid": "d9f381e2-df35-4ee7-a137-e689faac81b1",
+  "chunk": "DLKLDxiE.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The organizers specifically indicated that the conference was intended to focus on childrenâs literature, so despite the education specialistâs ______ her expertise on the subject in general, she found that she could speak authoritatively about the works of author James Haskins, particularly <i>James Van Der Zee: The Picture Takinâ Man</i>, which she had used effectively in classroom instruction for many years.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "insight into"
+        },
+        {
+          "name": "B",
+          "content": "hesitancy about"
+        },
+        {
+          "name": "C",
+          "content": "affinity for"
+        },
+        {
+          "name": "D",
+          "content": "exceptions to"
+        }
+      ],
+      "correct": "hesitancy about",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1891, design artist William Morris cofounded the Kelmscott Press, which printed editions of books using preindustrial methods. Historians argue that Morrisâs repudiation of industrialization is ______ the Kelmscott editionsâ use of handmade materials and intricate ornamentation reminiscent of medieval manuscripts: these meticulously handcrafted elements exemplify the artistry involved.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "insensible to"
+        },
+        {
+          "name": "B",
+          "content": "manifest in"
+        },
+        {
+          "name": "C",
+          "content": "scrutinized by"
+        },
+        {
+          "name": "D",
+          "content": "complicated by"
+        }
+      ],
+      "correct": "manifest in",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>It is tempting to treat the clustering of textile manufacturing firms in Manchester, UK, as representative of industrial agglomeration generally, but Guilia Faggio et al. caution against ______ this one example: the potential for knowledge spillovers, a dominant driver of collocation in this industry, was largely absent from the leather clothing manufacturing industry.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "convening with"
+        },
+        {
+          "name": "B",
+          "content": "corroborating"
+        },
+        {
+          "name": "C",
+          "content": "scrutinizing"
+        },
+        {
+          "name": "D",
+          "content": "extrapolating from"
+        }
+      ],
+      "correct": "extrapolating from",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A number of recording artists ______ distinctions between Indigenous music and other musical styles. For example, Inuit singer-songwriter Tanya Tagaq incorporated Inuit throat singing into electronic music on her album <i>Tongues</i>, and Oji-Cree/Miâkmaq musician Anachnid combined Indigenous flute and powwow vocals with electronic music on her album <i>Dreamweaver</i>.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "reject"
+        },
+        {
+          "name": "B",
+          "content": "observe"
+        },
+        {
+          "name": "C",
+          "content": "replace"
+        },
+        {
+          "name": "D",
+          "content": "disguise"
+        }
+      ],
+      "correct": "reject",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Joel Brown and colleagues showed that high moonlight intensity inhibits the activity of the Arizona pocket mouse (<i>Perognathus amplus</i>), a result explicable in terms of benefits and costs: greater lunar intensity may not enable the mice to increase foraging success enough to offset the higher chance of detection by predatory owls or hawks. Most other nocturnal mammals respond to lunar intensity variations similarly to Arizona pocket mice, but Azaraâs night monkeys (<i>Aotus azarae</i>) display the opposite pattern, as their heavy reliance on visual foraging results in a different balance of reward and risk.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It introduces an observation of a behavioral pattern, presents an explanation for the pattern, and then describes an exception to the pattern that casts doubt on that explanation."
+        },
+        {
+          "name": "B",
+          "content": "It describes and accounts for a finding, characterizes the finding as representative of a general pattern, and then describes and accounts for an exception to that pattern."
+        },
+        {
+          "name": "C",
+          "content": "It discusses two different responses to the same natural phenomenon, explains why one of those responses occurs, and then suggests that the other response still needs to be explained."
+        },
+        {
+          "name": "D",
+          "content": "It presents and explains a study result, indicates that the result is similar to the results of many other studies, and then attributes a conflicting study, result to a difference in that studyâs methods."
+        }
+      ],
+      "correct": "It describes and accounts for a finding, characterizes the finding as representative of a general pattern, and then describes and accounts for an exception to that pattern.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>In 2019 MÃ©rÃ¬da, Mexico, was named a City of Gastronomy by UNESCO in recognition of the cityâs unique food culture. The honor is well known among both residents of the city and tourists who visit. Simply by selecting MÃ©rÃ¬da, UNESCO has helped bring awareness to local recipes, cooking practices, and chefs and has provided a significant boost to the cityâs tourism industry.</p><p><strong>Text 2</strong></p><p>Many people in MÃ©rÃ¬daâs restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2019. However, as researcher Eerang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without the intentional effort that was made to promote the cityâs food scene, many current and potential visitors to MÃ©rÃ¬da would not even be aware that itâs home to uniquely delicious food.</p>",
+      "question": "Which choice best describes a difference in how the authors of the texts view the benefits of being named a City of Gastronomy?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The author of Text 1 considers the effects of MÃ©rÃ¬daâs City of Gastronomy status to be less permanent than the author of Text 2 considers them to be."
+        },
+        {
+          "name": "B",
+          "content": "The author of Text 1 states that the benefits are automatic, while the author of Text 2 states that effort is required to fully achieve the benefits."
+        },
+        {
+          "name": "C",
+          "content": "The author of Text 1 views MÃ©rÃ¬daâs status as a City of Gastronomy as having been beneficial for the city, but the author of Text 2 questions whether thereâs been a benefit."
+        },
+        {
+          "name": "D",
+          "content": "The author of Text 1 assumes that a cityâs restaurant owners and chefs are most likely to benefit from a city being named a City of Gastronomy, but the author of Text 2 states that the honor most affects tour guides and tour operators."
+        }
+      ],
+      "correct": "The author of Text 1 states that the benefits are automatic, while the author of Text 2 states that effort is required to fully achieve the benefits.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like all species of baleen whales, the pygmy right whale feeds on tiny creatures known as krill by filtering water through bristlelike keratin structures called baleen plates. In this way, baleen whales can eat up to 30 percent of their total mass per day. And while no one would call the pygmy right whale smallâit can have a mass as high as 3,500 kgâit is one of the smaller baleen whales and is much smaller than the blue whale, which can weigh a whopping 150,000 kg and consume as much as 45,000 kg of krill per day.</p>",
+      "question": "Based on the text, what can most reasonably be concluded about krill consumption among pygmy right and blue whales?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The quantities of krill consumed by blue whales has made it difficult for pygmy right whales to find sufficient food."
+        },
+        {
+          "name": "B",
+          "content": "Both the pygmy right whale and the blue whale can eat as much as 45,000 kg of krill per day."
+        },
+        {
+          "name": "C",
+          "content": "Most baleen whales include krill in their diets, but the pygmy right whale is less likely than the blue whale to do so."
+        },
+        {
+          "name": "D",
+          "content": "The blue whale is able to eat more krill per day than the pygmy right whale is."
+        }
+      ],
+      "correct": "The blue whale is able to eat more krill per day than the pygmy right whale is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A number of artists associated with hyperpop, a movement in electronic music that emerged in the 2010s, aggressively manipulate their recorded voice. The singer Dorian Electra, for example, shifts the pitch of their vocals to be much deeper than that of Electraâs natural range. And even the hyperpop artists who donât rely on pitch-shifting, such as Rina Sawayama, often distort their vocals using digital tools. By persistently modifying the voice, hyperpop invites the listener to reflect on the extent to which digital technology mediates the human experience today.</p>",
+      "question": "Which description of vocal manipulation in hyperpop is best supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It serves as an example of digital technologyâs negative influence on daily life."
+        },
+        {
+          "name": "B",
+          "content": "It represents the continuity of human experience despite social and historical change."
+        },
+        {
+          "name": "C",
+          "content": "It functions as a commentary on contemporary social conditions."
+        },
+        {
+          "name": "D",
+          "content": "It symbolizes the power of contemporary music to influence listenersâ sense of self."
+        }
+      ],
+      "correct": "It functions as a commentary on contemporary social conditions.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/c264c040e9ab7ccc88c063c0c0ba7103.png\" width=\"313\" height=\"178\"></div><p style=\"margin-top:16px; margin-bottom:16px; text-align:justify; ;\">A student is writing an essay about four pyramids for a history class and wants to note how long ago each pyramid was built and how tall each pyramid is. Consulting the table, the student finds that the Tikal Temple IV was built 1,300 years ago and is ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "70 meters tall."
+        },
+        {
+          "name": "B",
+          "content": "72 meters tall."
+        },
+        {
+          "name": "C",
+          "content": "143.5 meters tall."
+        },
+        {
+          "name": "D",
+          "content": "55 meters tall."
+        }
+      ],
+      "correct": "70 meters tall.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><div>Impact of Four Key Industries on Oklahoma Economy in 2017</div><div style=\"margin-top: 16px; margin-bottom: 16px;\"><img src=\"/images/73313d9fb7ae1d517b72feaec8b4f6da.png\" width=\"512\" height=\"160\" style=\"display: inline-block;\"></div></div><p>The Osage Nation, the Quapaw Tribe, and the more than thirty other tribes in Oklahoma operate numerous businesses and generate billions of dollars in revenue. An economics student is researching the tribes' collective activity as a single industry. The student wants to compare the average amount that industry contributed per employee to Oklahoma's economy with the average amount contributed per employee by three other industries. Looking at the table, the student finds the tribal economic activity contributed over $141,000 per employee, on average, ranking it ____</p>",
+      "question": "Which choice most effectively uses data from the table to complete the comparison?",
+      "options": [
+        {
+          "name": "A",
+          "content": " above all three of the other industries listed in the table."
+        },
+        {
+          "name": "B",
+          "content": " below transportation/warehousing but above both manufacturing and health care."
+        },
+        {
+          "name": "C",
+          "content": " above either health care or manufacturing and nearly equal to transportation/warehousing."
+        },
+        {
+          "name": "D",
+          "content": " below all three of the other industries listed in the table."
+        }
+      ],
+      "correct": " below transportation/warehousing but above both manufacturing and health care.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The phrase <i>usa-don sonda</i> is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to ânext week.â Rafael NÃºnez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speakerâs manual gestures. Previous research has found evidence of Spanish speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, NÃºnez and colleagues claim that this tendency is not in fact ubiquitous.</p>",
+      "question": "Which finding, if true, would most directly support NÃºnez and colleaguesâ claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors."
+        },
+        {
+          "name": "B",
+          "content": "When outdoors and referring to the future, Yupno speakers facing uphill gesture in front of themselves, whereas those facing downhill gesture behind themselves."
+        },
+        {
+          "name": "C",
+          "content": "Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented."
+        },
+        {
+          "name": "D",
+          "content": "Some Yupno grammatical structures used when talking about time are also used in Spanish."
+        }
+      ],
+      "correct": "When outdoors and referring to the future, Yupno speakers facing uphill gesture in front of themselves, whereas those facing downhill gesture behind themselves.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Enelton Fagnani, JosÃ© Roberto GuimarÄ, and Pedro SÃ©rgio Fadini did not find this correlation in a study conducted in Brazil, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Heidi PyhtilÄ and colleagues in Finland, showed similar results to the North American studies, while few have produced results similar to those of Fagnani, GuimarÄ, and Fadiniâs study, suggesting that ______</p>",
+      "question": "Which choice most logically competes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water."
+        },
+        {
+          "name": "B",
+          "content": "there were circumstances unique to PyhtilÄ and colleaguesâ study that impeded accurate measurements of mercury levels."
+        },
+        {
+          "name": "C",
+          "content": "the hypothesis that the positive association is particular to North America is correct."
+        },
+        {
+          "name": "D",
+          "content": "levels of dissolved organic carbon and mercury in bodies of fresh water are both much higher in Brazil than elsewhere."
+        }
+      ],
+      "correct": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some ethicists hold that the moral goodness of an individual's actions depends solely on whether the actions themselves are good, irrespective of the context in which they are carried out. Philosopher L. Sebastian Purcell has shown that surviving works of Aztec (Nahua) philosophy express a very different view. Purcell reveals that these works posit an ethical system in which an individual's actions are judged in light of how well they accord with the individual's role in society and how well they contribute to the community. To the extent that these works are representative of Aztec thought, Purcell's analysis suggests that ________</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the Aztecs would have disputed the idea that the morality of an individualâs actions can be assessed by appealing to standards of behavior that are independent of the individualâs social circumstances."
+        },
+        {
+          "name": "B",
+          "content": "the Aztecs would not have accepted the notion that the morality of an individualâs actions can be fairly evaluated by people who do not live in the same society as that individual."
+        },
+        {
+          "name": "C",
+          "content": "actions by members of Aztec society who contributed a great deal to their community could be judged as morally good even if those actions were inconsistent with behaviors the Aztecs regarded as good in all contexts."
+        },
+        {
+          "name": "D",
+          "content": "similar actions performed by people in different social roles in Aztec society would have been regarded as morally equivalent unless those actions led to different outcomes for the community."
+        }
+      ],
+      "correct": "the Aztecs would have disputed the idea that the morality of an individualâs actions can be assessed by appealing to standards of behavior that are independent of the individualâs social circumstances.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Austronesian language family includes Buginese, Bikol, and some 1,200 other languages throughout the Pacific, making it one of the largest language families in the world and of keen interest to ______ of the University of Toronto.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "linguist: Diane Massam"
+        },
+        {
+          "name": "B",
+          "content": "linguist, Diane Massam,"
+        },
+        {
+          "name": "C",
+          "content": "linguist Diane Massam"
+        },
+        {
+          "name": "D",
+          "content": "linguist, Diane Massam"
+        }
+      ],
+      "correct": "linguist Diane Massam",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The writer Maya Angelou, along with others such as Lorenzo Thomas and Gwendolyn Brooks, ______ commonly associated with the Black Arts movement, a loose-knit group of writers and artists active in the 1960s and the 1970s who were interested in exploring the Black American experience through their work.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is"
+        },
+        {
+          "name": "B",
+          "content": "are"
+        },
+        {
+          "name": "C",
+          "content": "were"
+        },
+        {
+          "name": "D",
+          "content": "have been"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Over the years, dozens of architectural and archaeological sites important to Hawaiian history and culture, such as the Wailua Complex of Heiaus and Menehune Fishpond, have been added to the Hawaii Register of Historic Places, and each year, a review board of experts that includes sociologist Alton Okinaka and architect Katie Stephens gathers to ______ which sites to add next to the growing registry.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "select,"
+        },
+        {
+          "name": "B",
+          "content": "select:"
+        },
+        {
+          "name": "C",
+          "content": "select;"
+        },
+        {
+          "name": "D",
+          "content": "select"
+        }
+      ],
+      "correct": "select",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The <i>sheep</i>, which is written as a long, horizontal hieroglyph shaped like a thumbless hand, and the <i>heqat</i>, which is written as a hieroglyph that looks like four oval items pouring out of a barrel, were ancient Egyptian units of ______ to record length and volume, respectively. Used to record length and volume, respectively, the <i>sheep</i> and <i>heqat</i> have since fallen out of use.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "measurement and used"
+        },
+        {
+          "name": "B",
+          "content": "measurement. Used"
+        },
+        {
+          "name": "C",
+          "content": "measurement, used"
+        },
+        {
+          "name": "D",
+          "content": "measurement used"
+        }
+      ],
+      "correct": "measurement. Used",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Proto-Caribanâa protolanguage, or ancestral language of a family of descendant (daughter) languagesâis said to be the common ancestor of all Cariban languages. This designation is ______ Proto-Cariban is only postulated, its characteristics being inferred from the linguistic properties of its twenty-nine daughters.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hypothetical. However,"
+        },
+        {
+          "name": "B",
+          "content": "hypothetical, however;"
+        },
+        {
+          "name": "C",
+          "content": "hypothetical: however,"
+        },
+        {
+          "name": "D",
+          "content": "hypothetical, however,"
+        }
+      ],
+      "correct": "hypothetical, however;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A species of <i>Byropsis</i> algae produces toxins to avoid being eaten by predators. However, in some cases, the toxins the organism uses to protect itself from predation actually ______ its attractiveness to predators. The Hawaiian sea slug, for example, not only tolerates <i>Byropsis</i> toxins but actually uses them for protection in the same way the algae does.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is increasing"
+        },
+        {
+          "name": "B",
+          "content": "increase"
+        },
+        {
+          "name": "C",
+          "content": "increases"
+        },
+        {
+          "name": "D",
+          "content": "has increased"
+        }
+      ],
+      "correct": "increase",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though heâs performed on many respected albums, including <i>Live at the Beverly Theater</i> in <i>Hollywood</i> by the P-Funk All Stars, drummer Dennis Chambers may be best known for his time as house drummer for the hip-hop label Sugar Hill Records. He did not play drums on the labelâs classic song âRapperâs ______ he joined the label after the songâs release.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Delight,â however,"
+        },
+        {
+          "name": "B",
+          "content": "Delightâ however"
+        },
+        {
+          "name": "C",
+          "content": "Delight,â however;"
+        },
+        {
+          "name": "D",
+          "content": "Delight.â However,"
+        }
+      ],
+      "correct": "Delight,â however;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With many elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existenceâbut this wasnât the case with all elements. ______ the isolation process took years. The element radium, for instance, was discovered in 1898 but not isolated until 1910.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Thus,"
+        },
+        {
+          "name": "B",
+          "content": "However,"
+        },
+        {
+          "name": "C",
+          "content": "Moreover,"
+        },
+        {
+          "name": "D",
+          "content": "Sometimes,"
+        }
+      ],
+      "correct": "Sometimes,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, ______ that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "however,"
+        },
+        {
+          "name": "B",
+          "content": "then,"
+        },
+        {
+          "name": "C",
+          "content": "moreover,"
+        },
+        {
+          "name": "D",
+          "content": "for example,"
+        }
+      ],
+      "correct": "then,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A band might choose a name that is as unique and original as possible. ______ they might name themselves after a recognizable song by a favorite band. This is what the Scottish indie rock band Life Without Buildings did when they named themselves after the song âLife Without Buildingsâ by Japan.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Alternatively,"
+        },
+        {
+          "name": "B",
+          "content": "Thus,"
+        },
+        {
+          "name": "C",
+          "content": "In other words,"
+        },
+        {
+          "name": "D",
+          "content": "For instance,"
+        }
+      ],
+      "correct": "Alternatively,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A wind farm uses turbines to convert wind into electrical power.</li><li>A wind farmâs maximum electrical output is called its nameplate capacity.</li><li>Hallett Wind Farm is located in Hallett, Australia.</li><li>Its nameplate capacity is 351 megawatts.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize Hallett Wind Farmâs nameplate capacity?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Hallett Wind Farm in Hallett, Australia, has a nameplate capacity of 351 megawatts."
+        },
+        {
+          "name": "B",
+          "content": "Wind farms like Hallett Wind Farm harness the power of wind, which they convert into electricity."
+        },
+        {
+          "name": "C",
+          "content": "Hallett, Australia, is home to Hallett Wind Farm."
+        },
+        {
+          "name": "D",
+          "content": "Nameplate capacity is another name for a wind farmâs maximum electrical output."
+        }
+      ],
+      "correct": "Hallett Wind Farm in Hallett, Australia, has a nameplate capacity of 351 megawatts.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Elizabeth Catlettâs sculpture <i>Recognition</i> (1970) shows two African American figures with rounded, indistinct features.</li><li>The figures reach out to each other in a pose that symbolizes a close, supportive relationship.</li><li>Her sculpture <i>Students Aspire</i> (1978) shows two African American figures with sharply defined features.</li><li>The figures hold an equal sign above their heads with one hand and embrace each other with the other hand.</li><li>This pose symbolizes their support for each other in the pursuit of equality.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Catlettâs <em>Students Aspire</em> depicts two figures supporting each other in the pursuit of equality."
+        },
+        {
+          "name": "B",
+          "content": "<em>Recognition</em> and <em>Students Aspire</em> both show African American figures in poses that symbolize supportive relationships."
+        },
+        {
+          "name": "C",
+          "content": "Catlett completed <em>Recognition</em> in 1970 and <em>Students Aspire</em> in 1978."
+        },
+        {
+          "name": "D",
+          "content": "The figures in <em>Recognition</em> have features that are rounded and indistinct, while the figures in <em>Students Aspire</em> have sharply defined features."
+        }
+      ],
+      "correct": "<em>Recognition</em> and <em>Students Aspire</em> both show African American figures in poses that symbolize supportive relationships.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Tlahuiltepa is a municipality in the state of Hidalgo, Mexico.</li><li>Municipalities are governmental regions responsible for providing many public services to their residents.</li><li>One service they provide is water treatment.</li><li>Tlahuiltepaâs population was 9,086 in 2020.</li><li>Hidalgo is divided into 84 municipalities.</li></ul></blockquote>",
+      "question": "The student wants to provide an example of a public service that Tlahuiltepa is responsible for. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As a municipality, Tlahuiltepa is responsible for providing water treatment to its residents."
+        },
+        {
+          "name": "B",
+          "content": "Tlahuiltepa is one of 84 municipalities in Hidalgo providing public services to their communities."
+        },
+        {
+          "name": "C",
+          "content": "In 2020, the municipality of Tlahuiltepa had a population of 9,086."
+        },
+        {
+          "name": "D",
+          "content": "Tlahuiltepaâa governmental region in the state of Hidalgo, Mexicoâprovides public services to its residents."
+        }
+      ],
+      "correct": "As a municipality, Tlahuiltepa is responsible for providing water treatment to its residents.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral talc has a Mohs scale number of 1.</li><li>The mineral calcite has a Mohs scale number of 3.</li><li>The mineral orthoclase has a Mohs scale number of 6.</li></ul></blockquote>",
+      "question": "The student wants to compare the hardness of talc and orthoclase. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Mohs scale of mineral hardness can be used to order calcite, talc, and orthoclase by their ability to scratch other minerals."
+        },
+        {
+          "name": "B",
+          "content": "Orthoclase can leave visible scratches on talc, which means that orthoclase is harder than talc."
+        },
+        {
+          "name": "C",
+          "content": "Orthoclase can leave visible scratches on calcite, which is why orthoclase has a higher number than calcite on the Mohs scale of mineral hardness."
+        },
+        {
+          "name": "D",
+          "content": "A mineral with a Mohs number of 3, like calcite, is harder than one with a Mohs number of 1, like talc."
+        }
+      ],
+      "correct": "Orthoclase can leave visible scratches on talc, which means that orthoclase is harder than talc.",
+      "solution": ""
+    }
+  ]
+}

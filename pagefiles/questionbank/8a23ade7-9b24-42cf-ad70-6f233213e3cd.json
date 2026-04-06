@@ -1,0 +1,682 @@
+{
+  "uuid": "8a23ade7-9b24-42cf-ad70-6f233213e3cd",
+  "chunk": "_ERdh_ih.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Thomas Hardy's 1874 novel <i>Far from the Madding Crowd</i>. In the text, the narrator describes an open tract of land.</p><p>The changes of the seasons are less <u>obtrusive</u> on spots of this kind than amid woodland scenery. Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf.</p>",
+      "question": "As used in the text, what does the word \"obtrusive\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Stubborn"
+        },
+        {
+          "name": "B",
+          "content": "Expansive"
+        },
+        {
+          "name": "C",
+          "content": "Insolent"
+        },
+        {
+          "name": "D",
+          "content": "Conspicuous"
+        }
+      ],
+      "correct": "Conspicuous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary Japanese architecture: the ______ of sleek, contemporary elements and traditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "synthesis"
+        },
+        {
+          "name": "B",
+          "content": "designation"
+        },
+        {
+          "name": "C",
+          "content": "analysis"
+        },
+        {
+          "name": "D",
+          "content": "diffusion"
+        }
+      ],
+      "correct": "synthesis",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Described in treatises mainly published between 1768 and 1950 (such as William Holdsworth and William Aldridge's <i>Natural short-Hand</i>), musical stenography used quickly written squiggles and dots in an attempt to preserve, in print and in real time, the ______ features of live performancesâthose that result from impromptu deviations of performers when fidelity to an established musical score is not mandated.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "inevitable"
+        },
+        {
+          "name": "B",
+          "content": "inconspicuous"
+        },
+        {
+          "name": "C",
+          "content": "extemporaneous"
+        },
+        {
+          "name": "D",
+          "content": "meticulous"
+        }
+      ],
+      "correct": "extemporaneous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The plaice is ectothermic, or cold-blooded, and the southern bluefin tuna is a regional endotherm, meaning that parts of its body are typically warmer than the surrounding water. The basking shark had been classified as a full ectotherm, a position that became ______ after researchers Haley R. Dolton and colleagues showed that the basking shark's body temperature is consistently 1.0 to 1.5 Â°C warmer than the water.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "inconsolable"
+        },
+        {
+          "name": "B",
+          "content": "untenable"
+        },
+        {
+          "name": "C",
+          "content": "unequivocal"
+        },
+        {
+          "name": "D",
+          "content": "unanticipated"
+        }
+      ],
+      "correct": "untenable",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Heege Manuscript</i> (HM) is a collection of booklets of once-unbound paper sheets on which Richard Heege copied various texts at his fifteenth-century home between Derbyshire and Nottinghamshire in England. <u>Most other contemporaneous personal manuscripts like the <i>Findern Anthology</i> (FA) consist primarily of pieces by celebrated medieval authors like Chaucer and other readings favored by elites,</u> whereas the HM has a distinctive emphasis on the popular, including entertainments like scary stories, and the practical, with advice about hygiene.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To provide context for the text's suggestion that the HM is an outlier among collections of its time."
+        },
+        {
+          "name": "B",
+          "content": "To emphasize the ubiquity of hand-copied collections like the FA and the HM in medieval England."
+        },
+        {
+          "name": "C",
+          "content": "To suggest that the FA is a poor point of comparison for a collection like the HM."
+        },
+        {
+          "name": "D",
+          "content": "To illustrate how the discussion of the HM earlier in the text can improve historians' understanding of the FA."
+        }
+      ],
+      "correct": "To provide context for the text's suggestion that the HM is an outlier among collections of its time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>The University of California, Irvine, and the online class provider edX are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of businesspeople in Spain, researcher Natalia Cruz and colleagues addressed this question and reported that participants who received entrepreneurial training showed high innovativeness in entrepreneurial activities.</p><p><strong>Text 2</strong></p><p>While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.</p>",
+      "question": "Based on the texts, the author of Text 2 would most like to know the answer to which question about Cruz and colleagues' study that is not addressed in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Did Cruz and colleagues measure any attributes of the participants in the study after they had received the training?"
+        },
+        {
+          "name": "B",
+          "content": "Did the participants that Cruz and colleagues included in the study share any characteristics or life circumstances?"
+        },
+        {
+          "name": "C",
+          "content": "How many Spanish businesspeople did Cruz and colleagues include in the study?"
+        },
+        {
+          "name": "D",
+          "content": "Did Cruz and colleagues compare Spanish businesspeople who received the training with a group of successful entrepreneurs who did not receive the training?"
+        }
+      ],
+      "correct": "Did Cruz and colleagues measure any attributes of the participants in the study after they had received the training?",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>R.D. Lawrence et al. found that a recommender system (RS)âan algorithm that generates personalized product suggestions for online shoppersâimpacted consumer behavior and increased sales, a result that was corroborated by Dokyun Lee and Kartik Hosanagar. However, Lee and Hosanagar also determined that whereas an RS had a stronger positive effect on item views for utilitarian products (e.g., dish detergents) than for hedonic products (e.g., music albums), the RS had a stronger positive effect on likelihood of purchase for hedonic products than for utilitarian ones.</p>",
+      "question": "Information in the text best supports which statement about recommender systems?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While recommender systems can affect consumer behavior toward suggested products, those effects are not uniform in nature and strength across product categories."
+        },
+        {
+          "name": "B",
+          "content": "By directing customers toward specific product categories on a retailer's website, recommender systems may limit the variety of items seen by online shoppers."
+        },
+        {
+          "name": "C",
+          "content": "By proposing the most useful options to consumers, recommender systems boost the online visibility of utilitarian items that otherwise tend to be overlooked."
+        },
+        {
+          "name": "D",
+          "content": "While recommender systems cause consumers to spend more time viewing utilitarian items such as dish detergents, recommender systems' positive effect on purchase rates is likely limited to hedonic items such as music albums."
+        }
+      ],
+      "correct": "While recommender systems can affect consumer behavior toward suggested products, those effects are not uniform in nature and strength across product categories.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/dbfa5c29983d4668542ee0b2193d0ef5.png\" width=\"549\" height=\"768\"></div><p>Due to the Chorotega region's accessibility, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track fragmentation metrics across different land use capability classes (categories that indicate possible uses of forest land). One such metric, edge density, can be used to indicate the regularity of forest patch sizes, with decreases in edge density suggesting a trend towards uninterrupted forest patches with more regular shapes. The team found a range of edge density levels, from lows of around 80 meters per hectare or less in the 1960s and 1970s for all classes, to a high in 1986 of approximately ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "140 for Class â¦."
+        },
+        {
+          "name": "B",
+          "content": "160 for Class â -â£."
+        },
+        {
+          "name": "C",
+          "content": "60 for Class â¦."
+        },
+        {
+          "name": "D",
+          "content": "50 for Class â¥."
+        }
+      ],
+      "correct": "160 for Class â -â£.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/4354c409b08b1acc7e4b6ff406f338e4.png\" style=\"width: 700px; height: 206px;\"></div><p>Studies of the population density of cougars (<i>Puma concolor</i>) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. For example, the difference between the maximum population density reported by Linda L. Sweanor et al. and that reported by David M. Choate et al. might be artificially large if the use of ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "radio-collar tracking is impractical outside of New Mexico"
+        },
+        {
+          "name": "B",
+          "content": "radio-collar tracking underestimates the density of cougars"
+        },
+        {
+          "name": "C",
+          "content": "helicopter surveying underestimates the density of cougars"
+        },
+        {
+          "name": "D",
+          "content": "helicopter surveying is more common in Utah than the use of radio-collar tracking is"
+        }
+      ],
+      "correct": "radio-collar tracking underestimates the density of cougars",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Vegetation has two primary mechanisms by which it reduces air pollution: deposition (absorption of pollutants) and, the more effective, dispersion (dilution of pollutants by ventilation). Accordingly, establishment of green space to reduce major air pollutants such as coarse particulate matter in urban areas receives considerable attention. Research by Zander S. Venter et al. comprised data from air-quality monitoring stations in Belgium, the US state of West Virginia, and thousands of other global locations over a ten-year span, coupled with aerial imagery of those locations from the same period. The researchers ultimately recommended that reducing anthropogenic emissions remain the primary focus of urban air-quality improvement efforts.</p>",
+      "question": "Which finding from the study, if true, would most directly account for the recommendation by Venter et al.?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The association between levels of coarse particulate matter and green space is strongly negative for locations containing or in close proximity to major cities but becomes insignificant for more rural locations."
+        },
+        {
+          "name": "B",
+          "content": "The association between green space and coarse particulate matter levels is moderately negative overall but becomes slightly negative and sometimes positive when consideration is limited to busy streets with tree cover heavy enough to hinder ventilation."
+        },
+        {
+          "name": "C",
+          "content": "Ambient levels of coarse particulate matter are comparable across locations with comparable local infrastructure (e.g., typical building shape) but vary considerably depending on the predominant type of vegetation present."
+        },
+        {
+          "name": "D",
+          "content": "There is a predictable relationship between a location's typical climate conditions and the efficacy of green space in that location, but anomalous local weather events have an outsized effect on deposition and dispersion of coarse particulate matter."
+        }
+      ],
+      "correct": "The association between green space and coarse particulate matter levels is moderately negative overall but becomes slightly negative and sometimes positive when consideration is limited to busy streets with tree cover heavy enough to hinder ventilation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Northeastern Missouri's Ralls County is among the most rural counties in the United States: the US Census Bureau classified it as 96.1% rural in 2010. Researchers often struggle to recruit residents of counties like Ralls for inclusion in studies. Melissa Valerio and colleagues tested whether an approach called snowball sampling improves recruitment. Working in two rural counties, they recruited a few people (known as \"seeds\") with the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Though the seeds were given minimal guidance, many more people they recruited had the desired characteristics for the study than would be expected by chance alone, most likely because ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the characteristics that made the seeds desirable for inclusion in the proposed study may be unknown to some members of the seeds social networks."
+        },
+        {
+          "name": "B",
+          "content": "most seeds' social networks include some people who do not know one another and who share few characteristics."
+        },
+        {
+          "name": "C",
+          "content": "the seeds social networks tend to be somewhat smaller than the networks of people who do not live in rural areas."
+        },
+        {
+          "name": "D",
+          "content": "the seeds' social networks include a high proportion of people who share characteristics with the seeds."
+        }
+      ],
+      "correct": "the seeds' social networks include a high proportion of people who share characteristics with the seeds.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Neuroscientist Artin Arshamian and his team sought to determine what affects a person's perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer), including the Manig people from a small community in Thailand and urban dwellers from a large city in Mexico. The team observed that across cultures, people generally rated odors about the same: ethyl butyrate, which smells like peaches, was typically rated more pleasant than mushroom alcohol, which smells like fungus. The team's study thus undermined the idea that ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a person who perceives certain odors as pleasant will likely perceive the odors as roughly equal in pleasantness"
+        },
+        {
+          "name": "B",
+          "content": "culture significantly influences whether a person perceives an odor as pleasant or unpleasant"
+        },
+        {
+          "name": "C",
+          "content": "people agree in their perception of odors as pleasant or unpleasant regardless of where they live"
+        },
+        {
+          "name": "D",
+          "content": "personal taste has little influence on whether odors are perceived as pleasant or unpleasant"
+        }
+      ],
+      "correct": "culture significantly influences whether a person perceives an odor as pleasant or unpleasant",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A soil's microbial community (the microbial taxa present in their relative abundances) is known to affect plants' cyclical processes. Corrine Walsh and colleagues hypothesized that microbial communities could also affect plants' flavor chemistry, including volatiles and secondary metabolites like glucosinolates. Recognizing that soil moisture varies by location in the wild and could influence plants' chemistry, Walsh et al. introduced distinct microbial communities to individually potted mustard plants (<i>Brassica juncea</i>) growing in a controlled environment, then measured the plants' glucosinolates, like butenyl and allyl (the most prominent), that create the spicy and bitter flavors in mustard. This method thus enabled the researchers to ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "demonstrate that differences in plants flavor chemistry result from differences in the level of glucosinolates regardless of the soil moisture"
+        },
+        {
+          "name": "B",
+          "content": "re-create the conditions of studies conducted in the wild that found links between soil microbial communities and levels of butenyl in mustard plants"
+        },
+        {
+          "name": "C",
+          "content": "disentangle the influence of microbial communities on soil moisture from their influence on glucosinolate content in the plants"
+        },
+        {
+          "name": "D",
+          "content": "distinguish variations in glucosinolates due to differences in microbial communities from those that in a natural setting may be due to differences in soil moisture"
+        }
+      ],
+      "correct": "distinguish variations in glucosinolates due to differences in microbial communities from those that in a natural setting may be due to differences in soil moisture",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Louisiana resident P.B.S. Pinchback, one of the nearly two thousand African Americans elected to public office during the decade that followed the Civil War, ______ his term as a member of the state senate in 1868.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "to begin"
+        },
+        {
+          "name": "B",
+          "content": "began"
+        },
+        {
+          "name": "C",
+          "content": "beginning"
+        },
+        {
+          "name": "D",
+          "content": "having begun"
+        }
+      ],
+      "correct": "began",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Aftermath the Kings and Their Biographies</i> is one of the hundreds of thousands of manuscripts that have survived from roughly the sixteenth century to the present ______ being passed down through private libraries in the city of Timbuktu, Mali. Many of these manuscripts can be found at the Al-lmam Essayouti Library.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "day. By"
+        },
+        {
+          "name": "B",
+          "content": "day by"
+        },
+        {
+          "name": "C",
+          "content": "day by,"
+        },
+        {
+          "name": "D",
+          "content": "day; by"
+        }
+      ],
+      "correct": "day by",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Occurring in the constellation Perseus, 240 million light-years from Earth, SN 2006gy was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into spaceâthat was first detected by American astronomer Robert Quimby.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "supernova: the"
+        },
+        {
+          "name": "B",
+          "content": "supernova, the"
+        },
+        {
+          "name": "C",
+          "content": "supernova. The"
+        },
+        {
+          "name": "D",
+          "content": "supernovaâthe"
+        }
+      ],
+      "correct": "supernovaâthe",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The neurotechnology company Neuros Medical is working on an exciting new technology: a process that uses bioelectric signals to target sensory nerves to help relieve pain. Neuros Medical's technology, alongside other such neuromodulation technologies that function by stimulating nervous system structures, ______ the way for future advancements in neurotechnology.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "paving"
+        },
+        {
+          "name": "B",
+          "content": "is paving"
+        },
+        {
+          "name": "C",
+          "content": "are paving"
+        },
+        {
+          "name": "D",
+          "content": "have paved"
+        }
+      ],
+      "correct": "is paving",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Taking a structuralist approach to analyzing Tomas Rivera's novel <i>And the Earth Did Not Devour Him</i> would lead a critic to focus on the linguistic conventions inherent in the novel. On the other hand, a New Historicist analysis ______ on historical context and its relationship to power structures might yield a radically different interpretation of Rivera's novel.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "would be focusing"
+        },
+        {
+          "name": "B",
+          "content": "would focus"
+        },
+        {
+          "name": "C",
+          "content": "focuses"
+        },
+        {
+          "name": "D",
+          "content": "focusing"
+        }
+      ],
+      "correct": "focusing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The legacy of the Spanish Empire, which once controlled portions of five continents, is evident in Spanish-speaking Paraguay, one of many places that reveal their imperial history in their language. Contrast Paraguay with the Netherlands, which ceased to be part of the empire in ______ the latter's connection to the empire is so attenuated that Spanish is seldom spoken there today.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1648,"
+        },
+        {
+          "name": "B",
+          "content": "1648"
+        },
+        {
+          "name": "C",
+          "content": "1648:"
+        },
+        {
+          "name": "D",
+          "content": "1648 and"
+        }
+      ],
+      "correct": "1648:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To determine the approximate age of wooden tools excavated from an archaeological site in Spain, archaeologist Joseba Rios-Garaizar and colleagues collected samples of sediments surrounding the tools; these samples were then analyzed using a method known as optically stimulated luminescence (OSL) dating. ______ OSL dating indicated that the tools were between 50,000 and 137,000 years old.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Similarly,"
+        },
+        {
+          "name": "B",
+          "content": "Ultimately,"
+        },
+        {
+          "name": "C",
+          "content": "In addition,"
+        },
+        {
+          "name": "D",
+          "content": "By comparison,"
+        }
+      ],
+      "correct": "Ultimately,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Architect Victor Gruen, the designer of Indiana's Woodmar Plaza shopping mall, conceived of the mall as an indoor version of the European town square, a communal space that encouraged visitors to stroll and linger. ______ he designed Woodmar Plaza with long, pedestrian-friendly promenades and ample seating areas clustered around fountains and greenery.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "Regardless,"
+        },
+        {
+          "name": "C",
+          "content": "Accordingly,"
+        },
+        {
+          "name": "D",
+          "content": "By contrast,"
+        }
+      ],
+      "correct": "Accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In his meta-analysis of recent studies of animal information cascades, Joseph S. McCormick presents several examples of adaptive cascades (i.e., information transfers that benefit a collective), including one that involves humpback whales. However, not all cascades are beneficial. ______ His meta-analysis cites one study that described how black-throated blue warblers followed flock-mates' choice of habitat even when that habitat lacked adequate vegetative cover.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Instead,"
+        },
+        {
+          "name": "B",
+          "content": "In response,"
+        },
+        {
+          "name": "C",
+          "content": "Indeed,"
+        },
+        {
+          "name": "D",
+          "content": "In addition,"
+        }
+      ],
+      "correct": "Indeed,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As can be seen in the case of <i>The Dial</i>, a New York magazine published from July 1920 to July 1929, some small periodicals influential in the development of the modernist movement have been explored in depth by scholars. The London magazine <i>Voices</i> (1919), ______ remains among those modernist periodicals \"of interest and significance about which relatively little is known,\" according to scholars Peter Brooker and Andrew Thacker.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "likewise,"
+        },
+        {
+          "name": "B",
+          "content": "moreover,"
+        },
+        {
+          "name": "C",
+          "content": "though,"
+        },
+        {
+          "name": "D",
+          "content": "for instance,"
+        }
+      ],
+      "correct": "though,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Atoms in a solid state are ordered and cannot move freely; atoms in a liquid state are disordered and can move three-dimensionally.</li><li>Under high pressure and heat, potassium forms an unusual dual structure: a solid lattice of atoms (the host) surrounds partially liquid atom chains (the guest).</li><li>This hybrid state (chain melt) was previously thought to be a transitional phase between solid and liquid states.</li><li>A 2019 study confirmed that even under extreme heat, the host structure remained solid while the guest structure did not become fully liquid.</li><li>These guest atoms exhibited disorder but were confined to one-dimensional movement by the host.</li><li>Chain melt was determined to be a stable, distinct state.</li></ul></blockquote>",
+      "question": "The student wants to explain why potassium is not fully liquid in a chain melt state. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A chain-melt state involves a dual structure of a solid host lattice surrounding partially liquid chains of potassium atoms."
+        },
+        {
+          "name": "B",
+          "content": "In chain melt, some potassium atoms exhibit liquid-like disorder but remain confined by a solid lattice, preventing the free three-dimensional movement of a fully liquid state."
+        },
+        {
+          "name": "C",
+          "content": "A 2019 study confirmed that potassium atoms do not become fully liquid under high pressure and heat; instead, they enter chain melt, a transitional phase between solid and liquid states."
+        },
+        {
+          "name": "D",
+          "content": "Because potassium atoms remain disordered in chain melt even under extreme heat, they cannot reach a fully liquid state."
+        }
+      ],
+      "correct": "In chain melt, some potassium atoms exhibit liquid-like disorder but remain confined by a solid lattice, preventing the free three-dimensional movement of a fully liquid state.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In the 1940s, geneticist Barbara McClintock discovered mobile segments of DNA.</li><li>McClintock called these segments \"controlling elements,\" but they are now commonly known as transposable elements (TEs).</li><li>TEs are capable of altering gene expression as they change position within a cell's genome.</li><li>In 1950, geneticist Esther Lederberg discovered a process (the lysogenic cycle) by which bacteria-infecting viruses (phages) pass their genetic material to a host cell's descendants.</li><li>Phage DNA will enter a bacterial host cell and incorporate itself into the host cell's genome.</li><li>When the host cell divides, the phage DNA replicates along with the host's DNA.</li></ul></blockquote>",
+      "question": "The student wants to compare McClintock's discovery with Lederberg's. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Like McClintock's discovery, which revealed moving DNA segments within a cell's genome, Lederberg's discovery also involved DNA mobility, showing how phage DNA will enter a bacterial host cell and incorporate itself into the cell's genome."
+        },
+        {
+          "name": "B",
+          "content": "Both McClintock and Lederberg were geneticists: McClintock found that phage DNA could be passed to bacterial host cells, and Lederberg identified DNA segments that can change position within genomes."
+        },
+        {
+          "name": "C",
+          "content": "McClintock's and Lederberg's discoveries provided insight into how phage DNA uses the lysogenic cycle to change position within the genome of a bacterial host cell."
+        },
+        {
+          "name": "D",
+          "content": "While McClintock first discovered DNA segments capable of altering gene expression, Lederberg's discovery provided geneticists with a better understanding of how TEs move within host cells."
+        }
+      ],
+      "correct": "Like McClintock's discovery, which revealed moving DNA segments within a cell's genome, Lederberg's discovery also involved DNA mobility, showing how phage DNA will enter a bacterial host cell and incorporate itself into the cell's genome.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes.</p><blockquote style=\"margin-left: 40px;\"><ul><li>Grain was used as commodity money in ancient Sumer.</li><li>In a commodity money economy, specific goods act as a common unit of monetary exchange that can be used to buy and sell other goods.</li><li>In a barter economy, goods are traded directly between parties without the use of money.</li><li>Economists Bruce Champ and Scott Freeman: bartering requires that \\\"the person with whom you wish to trade must not only have what you want but also want what you have. The inefficiency is apparent; a great deal of time is spent merely finding someone with whom to trade.\\\"</li><li>Champ and Freeman: when \\\"individuals might come to accept one particular good in exchange for other goods even if they do not wish to consume that good...barter economies essentially become monetary economies.\\\"</li></ul></blockquote>",
+      "question": "The student wants to paraphrase a quotation from Champ and Freeman to explain the inefficiency of barter economies. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "According to Champ and Freeman, the inefficiencies of barter economies become apparent when goods are traded between parties without the use of money."
+        },
+        {
+          "name": "B",
+          "content": "The precise alignment of desires that barter economies require, Champ and Freeman contend, makes them inefficient."
+        },
+        {
+          "name": "C",
+          "content": "In a barter economy, Champ and Freeman contend, goods are traded directly between parties without the use of money, leading to inefficiency."
+        },
+        {
+          "name": "D",
+          "content": "Champ and Freeman argue that inefficient barter economies can become monetary economies if a good becomes a unit of exchange."
+        }
+      ],
+      "correct": "The precise alignment of desires that barter economies require, Champ and Freeman contend, makes them inefficient.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes.</p><blockquote style=\"margin-left: 40px;\"><ul><li>Vexillology is the study of flags.</li><li>The flags of many countries include symbols like animals, plants, or landforms.</li><li>These symbols often represent an aspect of the region's history, culture, or landscape.</li><li>The flag of Eritrea includes an olive branch.</li><li>The flag of Croatia includes leopards.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize a difference between the two flags?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Many countries feature symbols on their flags, such as animals, plants, or landforms, and the study of these designs is known as vexillology."
+        },
+        {
+          "name": "B",
+          "content": "Countries like Eritrea and Croatia use symbols on their flags; examples include plants and animals."
+        },
+        {
+          "name": "C",
+          "content": "Vexillologists study flags, like those of Eritrea and Croatia."
+        },
+        {
+          "name": "D",
+          "content": "Eritrea includes a plant on its flag, whereas Croatia's flag includes an animal."
+        }
+      ],
+      "correct": "Eritrea includes a plant on its flag, whereas Croatia's flag includes an animal.",
+      "solution": ""
+    }
+  ]
+}

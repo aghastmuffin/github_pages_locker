@@ -1,0 +1,682 @@
+{
+  "uuid": "93cf6ea9-c0fa-434a-a8d7-e6927bcedce1",
+  "chunk": "CHuKZgCT.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from William Wordsworth's 1798 poem <i>Lines Written a Few Miles above Tintern Abbey</i>.</p><blockquote style=\"margin-left: 40px;\">Once again<br>Do I <u>behold</u> these steep and lofty cliffs,<br>Which on a wild secluded scene impress<br>Thoughts of more deep seclusion; and connect<br>The landscape with the quiet of the sky.</blockquote>",
+      "question": "As used in the text, what does the word \"behold\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Regard"
+        },
+        {
+          "name": "B",
+          "content": "Possess"
+        },
+        {
+          "name": "C",
+          "content": "Escape"
+        },
+        {
+          "name": "D",
+          "content": "Neglect"
+        }
+      ],
+      "correct": "Regard",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The decline of the giant ground sloth, a species found throughout South America before it became extinct around 8500 BCE, surely had a number of ______ the larger ecosystem in which it existed. The giant ground sloth was part of a complex food web with other organisms, and its disappearance likely affected several other species.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "sources in"
+        },
+        {
+          "name": "B",
+          "content": "consequences for"
+        },
+        {
+          "name": "C",
+          "content": "similarities to"
+        },
+        {
+          "name": "D",
+          "content": "precedents in"
+        }
+      ],
+      "correct": "consequences for",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Writer Lydia Davis observed that while ______ literary forms, such as the short story, are recognizable as such even as they evolve, there are rarer âintergeneric\" forms that might, for example, use elements of both fiction and essays to create something unclassifiable. Anne Carson's collection <i>Float</i> arguably fits in this category, since it straddles the line between prose and poetry.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "neutral"
+        },
+        {
+          "name": "B",
+          "content": "equivocal"
+        },
+        {
+          "name": "C",
+          "content": "intermediate"
+        },
+        {
+          "name": "D",
+          "content": "orthodox"
+        }
+      ],
+      "correct": "orthodox",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although our knowledge of the Pliocene epoch and the lives of hominids during this time was once ______, recent analyses of fossils like that of the individual known as LH 4, discovered in Tanzania in 1974, have sharpened our picture of what a day in the life of LH 4 may have looked like.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "unprecedented"
+        },
+        {
+          "name": "B",
+          "content": "nebulous"
+        },
+        {
+          "name": "C",
+          "content": "intricate"
+        },
+        {
+          "name": "D",
+          "content": "concrete"
+        }
+      ],
+      "correct": "nebulous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as political operative Jeb Stuart Magruder and Nixon's secretary Rose Mary Woods. But Nixon's legacy is complex: he has been praised for his role in affirming the sovereignty of tribal nations, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "An achievement of a historical figure is described, and then reasons why that achievement is often disregarded by historians are suggested."
+        },
+        {
+          "name": "B",
+          "content": "Information supporting a particular perception of a historical figure is provided, and then additional facts are offered suggesting that this perception is an oversimplification."
+        },
+        {
+          "name": "C",
+          "content": "A list of historical figures is presented, followed by reasons why one should be considered more significant than the others."
+        },
+        {
+          "name": "D",
+          "content": "An assertion about a historical figure is made, and then evidence both for and against that assertion is presented."
+        }
+      ],
+      "correct": "Information supporting a particular perception of a historical figure is provided, and then additional facts are offered suggesting that this perception is an oversimplification.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Panama City, Panama, and Caracas, Venezuela, were surveyed about parks in their cities. Of the 318 respondents from Panama City, 53.5% indicated that they use the city's parks, and of the 1,043 respondents from Caracas, 44.7% indicated using city parks. Given that the percentage of Panama City respondents who reported having access to desired nonpark amenities near parks was much lower than that reported by Caracas respondents, the difference in park use can't be explained by Panama City residents having more access to desired nonpark amenities near parks.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "An unexpected finding is described, and then that finding is attributed to the method used to collect survey data in Panama City and Caracas."
+        },
+        {
+          "name": "B",
+          "content": "An unresolved question about park planning is described, and then examples from a study of Panama City and Caracas are used to answer that question."
+        },
+        {
+          "name": "C",
+          "content": "A study involving surveys in Panama City and Caracas is introduced, and then a possible explanation for some of the results is considered and rejected."
+        },
+        {
+          "name": "D",
+          "content": "A study of park use in Panama City is described, and then a similar study of park use in Caracas is analyzed to corroborate the findings of the Panama City study."
+        }
+      ],
+      "correct": "A study involving surveys in Panama City and Caracas is introduced, and then a possible explanation for some of the results is considered and rejected.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Jerome K. Jerome's 1889 novel <i>Three Men in a Boat (To Say Nothing of the Dog)</i>. The narrator and two friends are taking a boat down the River Thames in England.</p><blockquote style=\"margin-left: 40px;\">In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was heâGeorge himselfâwho had done all the labour worth speaking of.</blockquote>",
+      "question": "Which choice best describes the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To address a particular situation that the narrator finds unexpected"
+        },
+        {
+          "name": "B",
+          "content": "To convey the narrator's confidence that he understands the role expected of him in a group"
+        },
+        {
+          "name": "C",
+          "content": "To examine how the narrator and his friends each contributed to navigating a challenge"
+        },
+        {
+          "name": "D",
+          "content": "To present the narrator's generalization along with supporting examples from a specific situation"
+        }
+      ],
+      "correct": "To present the narrator's generalization along with supporting examples from a specific situation",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<b>Text 1</b><p>The poet Audre Lorde once claimed that poetry is the most inexpensive of art forms to practice. While people who pursue other art formsâpainting, architecture, theaterârequire large blocks of uninterrupted time as well as money to complete their work, poets can write, as Lorde said, âbetween shifts, in the hospital pantry, on the subway, and on scraps of surplus paper.\" So poets can practice their art even if they must earn their living in another way.</p><b>Text 2</b><p>Any assessment of the state of contemporary poetry must reckon with the professionalization of the field. While it is possible in theory for anyone to publish in <i>Virginia Quarterly Review, Kenyon Review</i>, or a similar major poetry outlet, many people who do so have professional training in poetry and extensive practice writing it, which requires time not often available to those who must also work full-time jobs. Thus, financial security indirectly affects which people become poets.</p>",
+      "question": "Based on the texts, Lorde (Text 1) and the author of Text 2 would most likely disagree about the answer to which of the following questions?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Do other art forms than poetry require substantial investments of time and money?"
+        },
+        {
+          "name": "B",
+          "content": "Should poets try to gain experience working in nonartistic fields as a way of improving their poetry?"
+        },
+        {
+          "name": "C",
+          "content": "Does professional training in poetry affect the quality of poetsâ work?"
+        },
+        {
+          "name": "D",
+          "content": "Is working a full-time job a major impediment to practicing the art of poetry?"
+        }
+      ],
+      "correct": "Is working a full-time job a major impediment to practicing the art of poetry?",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Ralph Waldo Emerson's 1841 essay <i>The Method of Nature</i>.</p><blockquote style=\"margin-left: 40px;\">The scholars are the priests of that thought which establishes the foundations of the earth. No matter what is their special work or profession, they stand for the spiritual interest of the world, and it is a common calamity if they neglect their post in a country where the material interest is so predominant as it is in America.</blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Military experience encourages Americans to contemplate aspects of human life that they would not choose to otherwise."
+        },
+        {
+          "name": "B",
+          "content": "It is unfortunate that so many intellectuals are concerned with material things rather than ideas."
+        },
+        {
+          "name": "C",
+          "content": "Many descriptions of the role of scholars in society unfairly diminish their importance."
+        },
+        {
+          "name": "D",
+          "content": "In a country whose citizens are largely preoccupied with tangible gains, it is crucial that some people work to foster and preserve ideas."
+        }
+      ],
+      "correct": "In a country whose citizens are largely preoccupied with tangible gains, it is crucial that some people work to foster and preserve ideas.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At over a thousand pages across two volumes, <i>The Fifty-Year Mission</i>, compiled by Edward Gross and Mark A. Altman, is presented as the \"complete, uncensored, unauthorized oral history\" as told by the people behind the media franchise <i>Star Trek</i>. The work aspires to be comprehensive by, for example, including accounts from cast and crew members of every <i>Star Trek</i> television series and film to date. But while <i>The Fifty-Year Mission</i> is clearly a unique and valuable resource, it has a shortcoming common among oral histories: it lacks a clear authorial point of view that could otherwise unite the various accounts into a cohesive whole.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>The Fifty-Year Mission</i> includes more accounts from people involved with <i>Star Trek</i> television shows than it does from people involved with <i>Star Trek</i> films."
+        },
+        {
+          "name": "B",
+          "content": "The compilers of <i>The Fifty-Year Mission</i> had lofty goals for their oral history of the <i>Star Trek</i> franchise, but the published work lacks information about many key events in the franchise's history."
+        },
+        {
+          "name": "C",
+          "content": "The large amount of material compiled into <i>The Fifty-Year Mission</i> is surprising given that many of the people involved in the <i>Star Trek</i> franchise did not participate in the oral history project."
+        },
+        {
+          "name": "D",
+          "content": "<i>The Fifty-Year Mission</i> represents a worthwhile attempt to thoroughly recount the history of the <i>Star Trek</i> franchise, but its approach has an important limitation."
+        }
+      ],
+      "correct": "<i>The Fifty-Year Mission</i> represents a worthwhile attempt to thoroughly recount the history of the <i>Star Trek</i> franchise, but its approach has an important limitation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction's size and position, and fish sense these vortices in order to navigate around the obstructions. Using models of three fish-head shapesânarrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)âYuzo R. Yanagisuru, Otar Akanyetl, and James C. Liao showed that as vortex size increases, pressure fluctuations at the snout increase for narrow-headed and intermediate-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish's snout are greater.</p>",
+      "question": "Which finding, if true, would most directly challenge the second research team's hypothesis?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the <i>Synodontis macropunctata</i>, which has a relatively wide head, bumped into less than half of the obstructions."
+        },
+        {
+          "name": "B",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) bumped into the obstructions just as often as the wide-headed <i>Synodontis macropunctata</i> did."
+        },
+        {
+          "name": "C",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed <i>Synodontis macropunctata</i> bumped into obstructions more often than the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) did."
+        },
+        {
+          "name": "D",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) bumped into the obstructions more often than others did."
+        }
+      ],
+      "correct": "A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) bumped into the obstructions just as often as the wide-headed <i>Synodontis macropunctata</i> did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/ead3bed7fba27611b2df5c0321b6bfed.png\" width=\"307\" height=\"415\"></div><p>In a study of the evolution of <i>DptA</i> and <i>DptB</i>âDiptericin genes encoding antimicrobial peptides that combat pathogens and foster beneficial microbes in fruit flies (<i>Drosophila</i>)âresearchers assessed <i>Drosophila melanogaster</i> resistance to pathogenic infections by <i>Providencia rettgeri</i> and <i>Acetobacter sicerae</i>, bacteria common in the flies' environments. Subjects included flies identified by mutations silencing <i>DptA</i>, <i>DptB</i>, or both <i>DptA and DptB</i> (termed types A, B, and AB, respectively). In conjunction with the observation that resistance to <i>P. rettgeri</i> correlates with <i>DptA</i> activity but is not significantly affected by <i>DptB</i> activity, data in the graph of survival rates post-<i>A. sicerae</i> infection suggest that ______</p>",
+      "question": "Which completion of the text is best supported by data in the graph?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>DptA</i> confers defense against <i>A. sicerae</i> regardless of the presence of <i>DptB</i>."
+        },
+        {
+          "name": "B",
+          "content": "<i>DptB</i> may have developed as a specific defense against <i>A. sicerae</i>."
+        },
+        {
+          "name": "C",
+          "content": "<i>DptB</i> protects against only one bacteria species, whereas <i>DptA</i> protects against multiple species."
+        },
+        {
+          "name": "D",
+          "content": "defense against <i>A. sicerae</i> is strongest when both <i>DptA</i> and <i>DptB</i> are present."
+        }
+      ],
+      "correct": "<i>DptB</i> may have developed as a specific defense against <i>A. sicerae</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Neurobiologists Laura Cuaya, RaÃºl HernÃ¡ndez-PÃ©rez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Barney (a golden retriever), Mini (a mixed breed), and other dogs while the animals listened to three recordings: one of <i>The Little Prince</i> being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn't resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.</p>",
+      "question": "Which finding from the study, if true, would most directly support the team's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although the dogs' general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language."
+        },
+        {
+          "name": "B",
+          "content": "The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs."
+        },
+        {
+          "name": "C",
+          "content": "The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern of brain activity it showed in response to hearing the language it was not accustomed to was greatest among older dogs."
+        },
+        {
+          "name": "D",
+          "content": "Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the scrambled recording, and the difference in brain activity increased with the age of the dog scanned."
+        }
+      ],
+      "correct": "The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Manchester United Football Club won more than half its home matches between 1947 and 2003, helping to distinguish the team as a top British professional soccer club. Additionally, Manchester United, whose home uniform color is mainly red, was more successful in home matches than was Coventry City Football Club, whose home uniform color is not red. Research has shown that many people associate the color red with power and dominance. Past experiences with red objects such as stop signs can even cause people to respond to the color red with caution and hesitation. These findings, if applicable in the context of athletic competitions, could suggest that the uniforms worn by Manchester United's players in their home matches may have ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "increased Manchester United players' sense of excitement"
+        },
+        {
+          "name": "B",
+          "content": "negatively affected the performance of players on opposing teams"
+        },
+        {
+          "name": "C",
+          "content": "led fans to perceive the team's opponents as more dominant than they actually were"
+        },
+        {
+          "name": "D",
+          "content": "caused Manchester United's players to play less skillfully"
+        }
+      ],
+      "correct": "negatively affected the performance of players on opposing teams",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Biologists Rebecca M. Calisi-Rodriguez and George E. Bentley examined research on white-throated sparrows and degus, both of which have been studied in the laboratory as well as in the wild, to see how studiesâ settings might have affected their results. Lab studies are useful because they make it easy to control important variables, but white-throated sparrows' surroundings can significantly affect their hormone levels. Therefore, it's not altogether surprising that when Calisi-Rodriguez and Bentley examined studies of white-throated sparrows, they found that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hormone levels were higher in wild males than in captive male degus."
+        },
+        {
+          "name": "B",
+          "content": "captive sparrows and wild sparrows usually exhibited very similar hormone levels."
+        },
+        {
+          "name": "C",
+          "content": "significant differences in hormone levels between individuals were found for both captive sparrows and wild sparrows."
+        },
+        {
+          "name": "D",
+          "content": "baseline levels of the hormone corticosterone are higher in captive sparrows than they are in wild sparrows."
+        }
+      ],
+      "correct": "baseline levels of the hormone corticosterone are higher in captive sparrows than they are in wild sparrows.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Exclusively inhabiting tropical countries such as Liberia, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, this raises questions about how chimpanzees in mid-latitude zoos are affected by the lower and more variable UVB irradiance in those locations. In a study of zoo chimpanzees in Norway and other mid-latitude countries, Sophie MoittiÃ© and colleagues found not only that chimpanzees' vitamin D levels correlate with UVB irradiance but also that vitamin D levels show no evidence of plateauing as UVB irradiance reaches its highest local levels, suggesting that ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "averaged across seasons, vitamin D levels in zoo chimpanzees in mid-latitude countries such as Norway tend to be comparable to those in wild chimpanzees in tropical countries such as Liberia."
+        },
+        {
+          "name": "B",
+          "content": "adaptations to seasonal variations in UVB irradiance may be emerging in zoo chimpanzees in Norway and other mid-latitude countries."
+        },
+        {
+          "name": "C",
+          "content": "zoo chimpanzees in Norway and other mid-latitude countries tend to synthesize less vitamin D than they are inherently capable of synthesizing."
+        },
+        {
+          "name": "D",
+          "content": "providing supplemental vitamin D to chimpanzees in zoos in Norway and other mid-latitude countries would likely not be beneficial."
+        }
+      ],
+      "correct": "zoo chimpanzees in Norway and other mid-latitude countries tend to synthesize less vitamin D than they are inherently capable of synthesizing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As cheesemaking practices spread throughout Europe and Asia during and after the Neolithic, divergent strategies for preserving milk ______ whereas rennet-coagulated cheesemaking became key to milk preservation in Europe and Southwest Asia, acid-heat coagulation methods became common among nomadic herding populations of the northeastern Eurasian steppe.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "emerged and"
+        },
+        {
+          "name": "B",
+          "content": "emerged"
+        },
+        {
+          "name": "C",
+          "content": "emerged,"
+        },
+        {
+          "name": "D",
+          "content": "emerged:"
+        }
+      ],
+      "correct": "emerged:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The editors of <i>Home Ground: A Guide to the American Landscape</i> turned to the ______ to craft the entry about \"hueco,\" a term referring to a water-retaining depression in a rock face.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "novelist Stephen Graham Jones,"
+        },
+        {
+          "name": "B",
+          "content": "novelist Stephen Graham Jones"
+        },
+        {
+          "name": "C",
+          "content": "novelist, Stephen Graham Jones,"
+        },
+        {
+          "name": "D",
+          "content": "novelist, Stephen Graham Jones"
+        }
+      ],
+      "correct": "novelist Stephen Graham Jones",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Increased gender diversity is revitalizing the field of economics, according to Harvard's Claudia Goldin. The trailblazing accomplishments of Goldin, winner of the 2023 Nobel Prize in Economics for her work on women in the labor force, ______ to the value of scholars of diverse backgrounds in spurring research into previously unexplored, but vitally important, topics.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "attests"
+        },
+        {
+          "name": "B",
+          "content": "attest"
+        },
+        {
+          "name": "C",
+          "content": "has attested"
+        },
+        {
+          "name": "D",
+          "content": "is attesting"
+        }
+      ],
+      "correct": "attest",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the late nineteenth and early twentieth centuries, automobiles were commonly referred to as horseless carriages after the older technology they still resembled. Known as the Brass Era, this period in automotive design is remembered for its grandeur and artistry, its vehicles ______ by collectors for their ornate detailing and gleaming brass fittings.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "highly prized"
+        },
+        {
+          "name": "B",
+          "content": "had been highly prized"
+        },
+        {
+          "name": "C",
+          "content": "are highly prized"
+        },
+        {
+          "name": "D",
+          "content": "were highly prized"
+        }
+      ],
+      "correct": "highly prized",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a âbasketâ of goods and services priced at 100 US dollars (USD) in the United States would have cost 105 USD in fellow OECD member ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "nationâFinland."
+        },
+        {
+          "name": "B",
+          "content": "nation: Finland."
+        },
+        {
+          "name": "C",
+          "content": "nation, Finland."
+        },
+        {
+          "name": "D",
+          "content": "nation Finland."
+        }
+      ],
+      "correct": "nation Finland.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>English poet and Shakespeare contemporary John Donne's ______ much admired during his lifetime (1572-1631) and in the decades that followed, had, at the time of their enthusiastic rediscovery by the early twentieth-century modernists, been essentially gathering dust for the intervening 250 years.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "works,"
+        },
+        {
+          "name": "B",
+          "content": "works, were"
+        },
+        {
+          "name": "C",
+          "content": "works were"
+        },
+        {
+          "name": "D",
+          "content": "works had been"
+        }
+      ],
+      "correct": "works,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Following the American Revolutionary War, North American foodways underwent a radical transformation, fueled in large part by spiking consumer demand for certain grains. The cultivation, trade, and transportation of maize and wheat, ______ reconfigured the continent's existing regional foodways into a globally oriented food system.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "by comparison,"
+        },
+        {
+          "name": "B",
+          "content": "second of all,"
+        },
+        {
+          "name": "C",
+          "content": "alternatively,"
+        },
+        {
+          "name": "D",
+          "content": "in particular,"
+        }
+      ],
+      "correct": "in particular,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With some elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence, but this wasn't the case with all elements; ______ the isolation process took a few years. The element molybdenum, for instance, was discovered in 1778 but not isolated until 1781.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "even so,"
+        },
+        {
+          "name": "B",
+          "content": "similarly,"
+        },
+        {
+          "name": "C",
+          "content": "furthermore,"
+        },
+        {
+          "name": "D",
+          "content": "often,"
+        }
+      ],
+      "correct": "often,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Eirene, one of the eighty known moons of Jupiter, is designated as Jupiter LVII (âLVII\" means â57\"). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ______ that Eirene is the fifty-seventh moon from Jupiter in terms of proximity.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "moreover,"
+        },
+        {
+          "name": "B",
+          "content": "finally,"
+        },
+        {
+          "name": "C",
+          "content": "however,"
+        },
+        {
+          "name": "D",
+          "content": "then,"
+        }
+      ],
+      "correct": "then,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Ibn Sina was a Persian philosopher and physician.</li><li>His book <i>The Canon of Medicine</i> recorded the most advanced medical knowledge of his time.</li><li>It was published in the year 1025 CE.</li><li>It was used as a medical textbook in Middle Eastern and European universities for centuries.</li></ul></blockquote>",
+      "question": "The student wants to identify the year that <i>The Canon of Medicine</i> was published. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ibn Sina recorded the most advanced medical knowledge of his time in his book <i>The Canon of Medicine</i>."
+        },
+        {
+          "name": "B",
+          "content": "A Persian philosopher and physician wrote a medical textbook called <i>The Canon of Medicine</i>."
+        },
+        {
+          "name": "C",
+          "content": "<i>The Canon of Medicine</i> was a medical textbook used by Middle Eastern and European universities for centuries."
+        },
+        {
+          "name": "D",
+          "content": "Ibn Sina's book <i>The Canon of Medicine</i> was published in the year 1025 CE."
+        }
+      ],
+      "correct": "Ibn Sina's book <i>The Canon of Medicine</i> was published in the year 1025 CE.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>There are more than 500 National Wildlife Refuges (NWRS) across the United States.</li><li>The Crocodile Lake NWR is a 6,686-acre area in Florida, on the Atlantic coast.</li><li>It was established to protect the endangered American crocodile.</li><li>The Nestucca Bay NWR is a 457-acre area in Oregon, on the Pacific coast.</li><li>It was established to protect the endangered Aleutian Canada goose.</li></ul></blockquote>",
+      "question": "The student wants to provide an overview of the NWR program. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The US's more than 500 NWRS protect endangered species from coast to coast."
+        },
+        {
+          "name": "B",
+          "content": "Both the Crocodile Lake NWR and the Nestucca Bay NWR were established to protect endangered species."
+        },
+        {
+          "name": "C",
+          "content": "Oregon's Nestucca Bay NWR was established to protect the endangered Aleutian Canada goose."
+        },
+        {
+          "name": "D",
+          "content": "One of more than 500 NWRS in the US, the Crocodile Lake NWR encompasses 6,686 acres in Florida."
+        }
+      ],
+      "correct": "The US's more than 500 NWRS protect endangered species from coast to coast.",
+      "solution": ""
+    }
+  ]
+}

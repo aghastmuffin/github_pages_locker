@@ -1,0 +1,682 @@
+{
+  "uuid": "d8e8d6b1-ed34-4cab-8e27-631e82e53bba",
+  "chunk": "D1sdtBN3.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Cybersecurity experts often encourage users to create passwords that are fairly complicated and therefore difficult to guess. Nonetheless, research has shown that the more ______ approach to password selection seems to favor convenience over security: for example, the third most commonly used password in 2018 was the easily remembered \"123456789.\"</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "creative"
+        },
+        {
+          "name": "B",
+          "content": "useful"
+        },
+        {
+          "name": "C",
+          "content": "complex"
+        },
+        {
+          "name": "D",
+          "content": "popular"
+        }
+      ],
+      "correct": "popular",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Writer Lydia Davis observed that while traditional literary forms, such as the short story, are recognizable as such even as they evolve, there are more ______ forms that might, for example, borrow elements from both fiction and essays to make something unconventional. Anne Carson's collection <i>float</i> arguably fits in this category, since it straddles the line between prose and poetry.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "amorphous"
+        },
+        {
+          "name": "B",
+          "content": "neutral"
+        },
+        {
+          "name": "C",
+          "content": "customary"
+        },
+        {
+          "name": "D",
+          "content": "dispersed"
+        }
+      ],
+      "correct": "amorphous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The fact that publications by Brown University economist Christina Paxson, who studies economics and children, are so frequently cited in other scholars' work ______ the usefulness of her research for her peersâother economists clearly find her studies valuable for their own scholarship.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "overshadows"
+        },
+        {
+          "name": "B",
+          "content": "underscores"
+        },
+        {
+          "name": "C",
+          "content": "forestalls"
+        },
+        {
+          "name": "D",
+          "content": "belies"
+        }
+      ],
+      "correct": "underscores",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The sloping tile roofs and picturesque faÃ§ade of Mission San Luis Rey de Francia in Oceanside, California, exemplify the Spanish contribution to Californian architecture, an influence that is ______ throughout the stateâarchitectural tourists visiting the Santa Fe Depot in San Diego, for example, can easily recognize how its style draws inspiration from the Spanish missions.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "palpable"
+        },
+        {
+          "name": "B",
+          "content": "understated"
+        },
+        {
+          "name": "C",
+          "content": "corroborated"
+        },
+        {
+          "name": "D",
+          "content": "disputed"
+        }
+      ],
+      "correct": "palpable",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Matthew Arnold's 1869 nonfiction book <i>Culture and Anarchy</i>.</p><blockquote style=\"margin-left: 40px;\"><u>The Times [a British newspaper], replying to some foreign strictures on the dress, looks, and behavior of the English abroad, urges that the English ideal is that everyone should be free to do and to look just as he likes.</u> But culture indefatigably tries, not to make what each raw person may like the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.</blockquote>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It details an example that supports the author's primary claim."
+        },
+        {
+          "name": "B",
+          "content": "It asserts that the English are often subject to unfair critiques of their sense of taste."
+        },
+        {
+          "name": "C",
+          "content": "It indicates that opinions regarding culture shift over time."
+        },
+        {
+          "name": "D",
+          "content": "It presents an opinion with which the author disagrees."
+        }
+      ],
+      "correct": "It presents an opinion with which the author disagrees.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Virginia Woolf's <i>To the Lighthouse</i>, beyond the degree to which they actually influenced fiction in Britain and Ireland during the modernist period (roughly 1900-1945). Meanwhile, Elizabeth von Armin's <i>The Enchanted April</i>, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.</p><p><strong>Text 2</strong><br>Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.</p>",
+      "question": "Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on works from the modernist period in Britain and Ireland?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Without a major shift in focus, the vision that it presents of fiction written in the period will continue to be unnecessarily limited."
+        },
+        {
+          "name": "B",
+          "content": "Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works."
+        },
+        {
+          "name": "C",
+          "content": "Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances."
+        },
+        {
+          "name": "D",
+          "content": "It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry."
+        }
+      ],
+      "correct": "Without a major shift in focus, the vision that it presents of fiction written in the period will continue to be unnecessarily limited.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A student in a political science course is writing a paper on Aristotle's <i>The Politics</i>, in which Aristotle offers his opinion on political instability and gives advice on how constitutions can be preserved. Aristotle observes that different forms of government can fall in different waysâfor example, oligarchies might grant power to military leaders during wartime who refuse to relinquish that power during peacetimeâbut some methods of preserving order apply across all forms of government. The student claims that in particular Aristotle asserts that in a healthy state obedience to law must be as close to absolute as possible and that even minor infractions should not be ignored.</p>",
+      "question": "Which quotation from a philosopher's analysis of <i>The Politics</i> would best support the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "When contrasting different forms of government, Aristotle holds that \"oligarchies may last, not from any inherent stability in such forms of government, but because the rulers are on good terms both with the unenfranchised and with the governing classes.\" That is, oligarchic leaders who wish to hold on to power will introduce members of disenfranchised classes into government in a participatory role."
+        },
+        {
+          "name": "B",
+          "content": "\"When constructing his argument regarding the characteristics of a well-functioning government, Aristotle asserts that 'Transgression creeps in unperceived and at last ruins the state,' illustrating this idea with a comparison to frequent small expenditures slowly and almost imperceptibly chipping away at a fortune until it is ultimately depleted.\""
+        },
+        {
+          "name": "C",
+          "content": "\"When Aristotle considers the health of constitutions, he states that 'Constitutions are preserved when their destroyers are at a distance, and sometimes also because they are near, for the fear of them makes the government keep in hand the constitution.' He holds that rulers who wish to see constitutions preserved must continually remind the populace of the dangers that would result from a constitutional collapse.\""
+        },
+        {
+          "name": "D",
+          "content": "\"When Aristotle writes on the necessity of avoiding corruption in government, he proposes that 'every state should be so administered and so regulated by law that its magistrates cannot possibly make money, in particular, he thinks oligarchies are particularly susceptible to corruption through bribery.\""
+        }
+      ],
+      "correct": "\"When constructing his argument regarding the characteristics of a well-functioning government, Aristotle asserts that 'Transgression creeps in unperceived and at last ruins the state,' illustrating this idea with a comparison to frequent small expenditures slowly and almost imperceptibly chipping away at a fortune until it is ultimately depleted.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/b484c63a0397d24641742484f28beba3.png\" width=\"428\" height=\"201\"></div><p><em>Drosophila</em> (fruit flies) have generation times of 10-12 days, so seasonal changes in food availability and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as <em>D. robusta</em> and <em>D. mediopunctata</em>. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with reproductive fitness. Banu Sebnem Onder and Cansu Fidan Aksoy measured the wing sizes of members of a <em>D. melanogaster</em> population in YesilÃ³z, Turkey, that were collected monthly between May and October over three years. Their research suggests that <em>Drosophila</em> collected in relatively cooler months should tend to have lower reproductive fitness, as is illustrated by the finding that ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the average male wing centroid size was 1.98 mm in September but was 2.31 mm in July."
+        },
+        {
+          "name": "B",
+          "content": "the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table."
+        },
+        {
+          "name": "C",
+          "content": "the average monthly low temperature was lower in May than in September."
+        },
+        {
+          "name": "D",
+          "content": "the average female wing centroid size was smaller in September than in July"
+        }
+      ],
+      "correct": "the average female wing centroid size was smaller in September than in July",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Elaine Ostrander led an international collaboration with Greger Larson and other researchers to study the evolutionary history of size differences in modern dogs, including very small breeds such as Pomeranians. The researchers determined that among dogs as a whole, there are many different variations of the gene that regulates the production of IGF-1 (insulin growth factor 1), a hormone that promotes growth. After reviewing the study, a student concludes that these variations must account for the observed variance in body size among dog breeds.</p>",
+      "question": "Which quotation from a scientist not involved in the study would most directly undermine the student's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"The gene that regulates IGF-1 production is one of multiple genes known to affect the size of dogs.\""
+        },
+        {
+          "name": "B",
+          "content": "\"The researchers' conclusions regarding the IGF-1 gene may not apply to other species given that dogs vary in size more than any other group of land mammals does.\""
+        },
+        {
+          "name": "C",
+          "content": "\"Variations of the IGF-1 gene result in substantial body size variance among dog breeds and may influence additional characteristics as well.\""
+        },
+        {
+          "name": "D",
+          "content": "\"In fact, only one-third of the most prevalent dog breeds carry the same variant of the gene regulating IGF-1 production.\""
+        }
+      ],
+      "correct": "\"The gene that regulates IGF-1 production is one of multiple genes known to affect the size of dogs.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Neurobiologists Laura Cuaya, RaÃºl HernÃ¡ndez-PÃ©rez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Sander (a golden retriever), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of <i>The Little Prince</i> being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn't resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.</p>",
+      "question": "Which finding from the study, if true, would most directly support the team's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs."
+        },
+        {
+          "name": "B",
+          "content": "The similarity between the pattern of brain activity a dog showed in response for hearing the scrambled recording and the pattern of brain activity it showed in response to hearing the language it was not accustomed to was greatest among older dogs."
+        },
+        {
+          "name": "C",
+          "content": "Although the dogs' general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language."
+        },
+        {
+          "name": "D",
+          "content": "Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the scrambled recording, and the difference in brain activity increased with the age of the dog scanned."
+        }
+      ],
+      "correct": "The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In May of 1987, Malaysia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Malaysian companies. This was part of a wave of stock market liberalizations from the mid-1980s through the mid-1990s: Thailand in 1988, Mexico in 1989, and so on. In an analysis of economic data from 1976 to 1993, Ross Levine and Sara Zervos found that liberalization did not lead to enduring increases in investment in companies based in countries that liberalized. Peter Blair Henry, however, found that, on average, investment in companies in liberalized countries increased significantly in the three years following liberalization. Taken together, these results suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "investment growth is likely to be more consistent in countries that liberalize than in countries that do not."
+        },
+        {
+          "name": "B",
+          "content": "companies typically do not benefit from liberalization until at least three years after liberalization occurs."
+        },
+        {
+          "name": "C",
+          "content": "economists' expectations about the effect of liberalization on investment were largely correct."
+        },
+        {
+          "name": "D",
+          "content": "liberalization may provide a boost to investment that fades over time."
+        }
+      ],
+      "correct": "liberalization may provide a boost to investment that fades over time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Data collected by the Mars rover Curiosity at the Gale Crater's Murray Formation are suggestive of hydrological deposition of sediment in the distant past. To characterize the nature of the depositional environment, Frances Rivera-HernÃ¡ndez et al. analyzed the grain size of Murray Formation sediment, finding that although there are intervals of coarse grains, most of the sediment consists of fine grains that show signs of cracking due to episodic desiccation. Rivera-HernÃ¡ndez et al. concluded that the coarse grains are sandstone, which tends to be deposited by flowing water, whereas the fine grains are mudstone, which is slowly deposited by settling out of suspension in low-flow water, leading the researchers to posit that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a lake existed at the Murray Formation for a prolonged period, though the lake occasionally experienced drying and there were periods in which one or more streams were present."
+        },
+        {
+          "name": "B",
+          "content": "one or more streams existed at the Murray Formation for an extended period until being replaced by a lake that persisted for only a brief period before permanently drying."
+        },
+        {
+          "name": "C",
+          "content": "a stream-fed lake was present at the Murray formation for an extended period.and although the streams experienced occasional drying, the lake did not."
+        },
+        {
+          "name": "D",
+          "content": "although the area of the Murray Formation experienced a prolonged period of dryness that prevented a lake from forming, water flowing from a distant source was present."
+        }
+      ],
+      "correct": "a lake existed at the Murray Formation for a prolonged period, though the lake occasionally experienced drying and there were periods in which one or more streams were present.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE-400 BCE, hasn't been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes CopainalÃ¡ Zoque, and a Mixe branch, which includes CoatlÃ¡n Mixe. Many words in the Mayan languagesâlanguages spoken in the region but otherwise unrelated to the Mixe-Zoquean familyâare Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "CoatlÃ¡n Mixe and the other languages of the Mixe branch likely supplanted the languages of the Zoque branch sometime before 1500 BCE."
+        },
+        {
+          "name": "B",
+          "content": "the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches by the time the Olmecs became the prevailing power in the region."
+        },
+        {
+          "name": "C",
+          "content": "the language of the Olmec civilization contributed words not only to Mayan languages but also to other languages in the Mixe Zoquean family."
+        },
+        {
+          "name": "D",
+          "content": "the language of the Olmec civilization was likely the founding language of the family that includes Mayan languages."
+        }
+      ],
+      "correct": "the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches by the time the Olmecs became the prevailing power in the region.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Each year, the Nobel Prize in Literature is given to an author who has, in the words of its founder Alfred Nobel, \"produced the most outstanding work in an idealistic ______ in 2011, for instance, judges recognized Tomas Transformer \"[for], through his condensed, translucent images, [giving] us fresh access to reality.â</p>",
+      "question": "Which choice completes the text so that it conforms to the conversations of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "direction\";"
+        },
+        {
+          "name": "B",
+          "content": "direction\" and,"
+        },
+        {
+          "name": "C",
+          "content": "direction\""
+        },
+        {
+          "name": "D",
+          "content": "direction,"
+        }
+      ],
+      "correct": "direction\";",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mathematician Grigori Perelman, sometimes in conjunction with mathematicians Richard S. Hamilton and Shing-Tung Yau, ______ credited with proving the PoincarÃ© conjecture. Having built on Hamilton's previous work to solve the proof, Perelman has insisted that Hamilton receive credit. Yau later found and closed gaps in Perelman's proof, persuading some mathematicians that he deserves credit as well.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "are"
+        },
+        {
+          "name": "B",
+          "content": "are being"
+        },
+        {
+          "name": "C",
+          "content": "have been"
+        },
+        {
+          "name": "D",
+          "content": "is"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Objects orbiting in the outer solar system between Jupiter and Neptune, such as 49036 Pelion, a 46-kilometer-wide body first detected in 1998, ______ both asteroidal and comet-like characteristics, being closer in size and appearance to asteroids but traveling in an elliptical orbit more closely resembling that of comets.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is exhibiting"
+        },
+        {
+          "name": "B",
+          "content": "exhibits"
+        },
+        {
+          "name": "C",
+          "content": "has exhibited"
+        },
+        {
+          "name": "D",
+          "content": "exhibit"
+        }
+      ],
+      "correct": "exhibit",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Prishtina, the capital of Kosovo, has a population of 198,214, which accounts for 10.32 percent of the country's total population. Having proportionally large populations ______ common for national capitals.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "are"
+        },
+        {
+          "name": "B",
+          "content": "were"
+        },
+        {
+          "name": "C",
+          "content": "have been"
+        },
+        {
+          "name": "D",
+          "content": "is"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers studying how agricultural fertilizers impact grassland arthropod populations have employed several collection methods. A team led by researcher Mark E. Ritchie collected arthropods with ______ another research team, led by Alison G. Boyer, gathered them with bug vacuums.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "sweep nets; for instance,"
+        },
+        {
+          "name": "B",
+          "content": "sweep nets for instance"
+        },
+        {
+          "name": "C",
+          "content": "sweep nets, for instance,"
+        },
+        {
+          "name": "D",
+          "content": "sweep nets, for instance;"
+        }
+      ],
+      "correct": "sweep nets, for instance;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On most of the world's beaches, sand is a predictable cream or beige color. The sand at Kaihalulu Beach in Hawai'i is a strikingly different ______ sand gets its shade from deposits of gray-and tan-hued quartz and feldspar, deposits of iron oxide and other organic matter lend the sand at Kaihalulu Beach a colorful red tint.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "shade: though most"
+        },
+        {
+          "name": "B",
+          "content": "shade, though most"
+        },
+        {
+          "name": "C",
+          "content": "shade, though, most"
+        },
+        {
+          "name": "D",
+          "content": "shade, though. Most"
+        }
+      ],
+      "correct": "shade: though most",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The parks of Los Angeles, California, seem to be making people happier. In a 2022 study, researchers ______ for a relationship between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from Los Angeles. The team found that posts from the city's parks contained more words associated with happiness than other posts did.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "had looked"
+        },
+        {
+          "name": "B",
+          "content": "looking"
+        },
+        {
+          "name": "C",
+          "content": "were looking"
+        },
+        {
+          "name": "D",
+          "content": "looked"
+        }
+      ],
+      "correct": "looking",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Marcel Duchamp intended his 1917 so-called ready-made sculpture <i>Fountain</i> to challenge then-prevailing conceptions about the nature of art. ______ Duchamp's fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the objectâeven, as Duchamp's sculpture was, a urinalâinto a legitimate work of art.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "Similarly,"
+        },
+        {
+          "name": "C",
+          "content": "Instead."
+        },
+        {
+          "name": "D",
+          "content": "Indeed,"
+        }
+      ],
+      "correct": "Indeed,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral apatite has a Mohs scale number of 5.</li><li>The mineral quartz has a Mohs scale number of 7.</li><li>The mineral diamond has a Mohs scale number of 10.</li></ul></blockquote>",
+      "question": "The student wants to emphasize how hard quartz is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Diamond is hard enough to scratch both apatite and quartz."
+        },
+        {
+          "name": "B",
+          "content": "In the Mohs scale of mineral hardness, diamond (10) is ranked higher than apatite (5)."
+        },
+        {
+          "name": "C",
+          "content": "Diamond, apatite, and quartz can be ordered by hardness based on their ability to scratch other minerals."
+        },
+        {
+          "name": "D",
+          "content": "Quartz is hard enough to scratch apatite but not hard enough to scratch diamond."
+        }
+      ],
+      "correct": "Quartz is hard enough to scratch apatite but not hard enough to scratch diamond.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, ______ that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "however,"
+        },
+        {
+          "name": "B",
+          "content": "then,"
+        },
+        {
+          "name": "C",
+          "content": "moreover,"
+        },
+        {
+          "name": "D",
+          "content": "for example,"
+        }
+      ],
+      "correct": "then,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A copyright prevents a book's contents from being reproduced (published) without permission from the copyright holder.</li><li>When a book's copyright expires, the book enters the public domain and can be legally reproduced by anyone.</li><li><i>Cane</i> is a novel by Jean Toomer.</li><li>It entered the public domain in 2019.</li><li><i>Billy Budd</i>, <i>Sailor</i> is a novella by Herman Melville.</li><li>It entered the public domain in 2020.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between Cane and Billy Budd Sailor. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Cane</i>, a novel by Jean Toomer, entered the public domain in 2019, unlike Herman Melville's novella <i>Billy Budd</i>, Sailor, which would do so later."
+        },
+        {
+          "name": "B",
+          "content": "<i>Cane</i>, a novel by Jean Toomer, and <i>Billy Budd</i>, Sailor, a novella by Herman Melville, recently entered the public domain."
+        },
+        {
+          "name": "C",
+          "content": "The year was 2020, and the copyright to Herman Melville's <i>Billy Budd</i>, <i>Sailor</i> had finally expired."
+        },
+        {
+          "name": "D",
+          "content": "<i>Cane</i> is a novel, whereas <i>Billy Budd</i>, Sailor is a novella."
+        }
+      ],
+      "correct": "<i>Cane</i>, a novel by Jean Toomer, and <i>Billy Budd</i>, Sailor, a novella by Herman Melville, recently entered the public domain.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>The Love Is Approaching</i> is a 1974 black-and-white linocut print by Namibian artist John Muafangejo.</li><li>It depicts a tranquil, everyday scene (two seated figures reaching for each other).</li><li><i>La Protesta</i> (\"The Protest\") is a 1937 black-and-white linocut print by Mexican artist Leopoldo MÃ©ndez.</li><li>It features a scene with an explicitly political point of view (a laborer raising his fist in protest).</li><li>Relief printing is a technique in which an image is carved onto a printing block, covered in ink or paint, and stamped onto paper.</li><li>Lino cutting is a type of relief printing that uses linoleum tile as the printing block.</li></ul></blockquote>",
+      "question": "The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The print by MÃ©ndez is a black-and white linocut; by contrast, Muafangejo's is a relief print."
+        },
+        {
+          "name": "B",
+          "content": "The scenes depicted in both works were first carved onto a printing block, then stamped onto paper, however, one work is a linocut, while the other is a relief print."
+        },
+        {
+          "name": "C",
+          "content": "MÃ©ndez made <i>La Protesta</i> (\"The Protest\") in 1937, while Muafangejo made <i>The Love Is Approaching</i> later, in 1974."
+        },
+        {
+          "name": "D",
+          "content": "MÃ©ndez's print expresses an explicitly political point of view, while Muafangejo's depicts a tranquil, everyday scene."
+        }
+      ],
+      "correct": "MÃ©ndez's print expresses an explicitly political point of view, while Muafangejo's depicts a tranquil, everyday scene.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A sailing trip that goes in a complete circle around the world is called a circumnavigation.</li><li>Most circumnavigations include stops on land.</li><li>Clarisse Cremer is a French sailor.</li><li>Cremer sailed the boat <i>Banque Populaire X</i> on a nonstop, 87-day circumnavigation.</li><li>Asia Pajkowska is a Polish sailor.</li><li>Pajkowska sailed the boat <i>FanFan</i> on a nonstop, 216-day circumnavigation.</li></ul></blockquote>",
+      "question": "The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Pajkowska sailed <i>FanFan</i> around the world, while Cremer sailed <i>Banque Populaire X</i>."
+        },
+        {
+          "name": "B",
+          "content": "A circumnavigation is defined as a sailing trip that goes in a complete circle around the world."
+        },
+        {
+          "name": "C",
+          "content": "Pajkowska and Cremer have both embarked on sailing journeys around the world, also called circumnavigations."
+        },
+        {
+          "name": "D",
+          "content": "Most circumnavigations include stops on land, but some circumnavigations are nonstop."
+        }
+      ],
+      "correct": "Most circumnavigations include stops on land, but some circumnavigations are nonstop.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Malapportionment is the over- or under-representation (relative to population size) of electoral districts in a governing body.</li><li>It is a common feature of representative governments.</li><li>There are 169 seats in Norway's supreme legislature (the Storting).</li><li>Seats are distributed by a formula that awards 1 point per resident and 1.8 points per unit of land.</li><li>Less populated rural districts with large tracts of land receive a disproportionate number of seats compared to smaller but more populated urban districts.</li></ul></blockquote>",
+      "question": "The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Awarding more points per unit of land than points per resident, the formula for distributing Storting seats overrepresents less populated rural districts with large tracts of land."
+        },
+        {
+          "name": "B",
+          "content": "Less populated rural districts are disproportionally underrepresented in the Storting, creating an unfair advantage for smaller but more populated urban districts."
+        },
+        {
+          "name": "C",
+          "content": "It's untrue that malapportionment in the 169 seat Storting favors small urban districts; rather, the formula for distributing seats overrepresents more populated districts."
+        },
+        {
+          "name": "D",
+          "content": "A common feature of representative governments, malapportionment occurs when electoral districts are over-or underrepresented."
+        }
+      ],
+      "correct": "Awarding more points per unit of land than points per resident, the formula for distributing Storting seats overrepresents less populated rural districts with large tracts of land.",
+      "solution": ""
+    }
+  ]
+}

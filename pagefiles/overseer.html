@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Overseer Portal</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --ink: #10213a;
+      --muted: #5b6b82;
+      --line: #d7dfeb;
+      --brand: #0f5fe6;
+      --brand-dark: #0a48b6;
+      --ok: #0d8c54;
+      --warn: #ae7600;
+      --bad: #be3434;
+      --soft: #eef4ff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 12%, #dbe7ff 0, #dbe7ff 17%, transparent 17%),
+        radial-gradient(circle at 88% 86%, #e4f0ff 0, #e4f0ff 22%, transparent 22%),
+        var(--bg);
+      min-height: 100vh;
+      padding: 18px;
+    }
+
+    .wrap {
+      max-width: 1320px;
+      margin: 0 auto;
+      display: grid;
+      gap: 14px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 10px 28px rgba(10, 56, 143, 0.08);
+      padding: 14px;
+    }
+
+    h1, h2, h3 { margin: 0 0 8px; }
+
+    h1 { font-size: 26px; }
+
+    p {
+      margin: 0 0 10px;
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      gap: 10px;
+    }
+
+    .grid.two {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .grid.three {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .grid.four {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    label {
+      display: block;
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    input, select, textarea {
+      width: 100%;
+      border: 1px solid #bdcadf;
+      border-radius: 10px;
+      padding: 8px 10px;
+      font: inherit;
+      color: var(--ink);
+      background: #fff;
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 72px;
+    }
+
+    .row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    button {
+      border: 1px solid var(--brand-dark);
+      background: linear-gradient(180deg, var(--brand), var(--brand-dark));
+      color: #fff;
+      border-radius: 10px;
+      padding: 8px 12px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    button.secondary {
+      background: #fff;
+      color: var(--ink);
+      border-color: #adbdd7;
+    }
+
+    button.warn {
+      background: linear-gradient(180deg, #dfa112, #c07f00);
+      border-color: #a36d00;
+    }
+
+    button.bad {
+      background: linear-gradient(180deg, #d14747, #b72b2b);
+      border-color: #9f1f1f;
+    }
+
+    button:disabled {
+      opacity: 0.65;
+      cursor: not-allowed;
+    }
+
+    .status {
+      border-radius: 9px;
+      border: 1px solid transparent;
+      padding: 8px 10px;
+      font-size: 13px;
+      margin-top: 8px;
+      background: #f6f8fc;
+      color: var(--muted);
+    }
+
+    .status.ok { background: #ecfbf3; color: var(--ok); border-color: #c3ecd5; }
+    .status.warn { background: #fff8e7; color: var(--warn); border-color: #f1dfb0; }
+    .status.bad { background: #fff0f0; color: var(--bad); border-color: #f0c7c7; }
+
+    .dashboard {
+      display: grid;
+      grid-template-columns: minmax(620px, 1.3fr) minmax(360px, 0.7fr);
+      gap: 14px;
+      align-items: start;
+    }
+
+    .tiny {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .pill {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 999px;
+      border: 1px solid #c8d6ef;
+      background: var(--soft);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    th, td {
+      border-bottom: 1px solid #e1e8f3;
+      padding: 8px 6px;
+      text-align: left;
+      vertical-align: top;
+      font-size: 13px;
+      word-wrap: break-word;
+    }
+
+    th {
+      color: #20324f;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      background: #f7faff;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+
+    tr.active {
+      background: #f0f6ff;
+    }
+
+    .scroll {
+      max-height: 420px;
+      overflow: auto;
+      border: 1px solid #d9e3f2;
+      border-radius: 10px;
+    }
+
+    .events {
+      max-height: 270px;
+      overflow: auto;
+      border: 1px solid #d9e3f2;
+      border-radius: 10px;
+      background: #fbfdff;
+      padding: 8px;
+    }
+
+    .event {
+      border-bottom: 1px dashed #d8e2f2;
+      padding: 6px 2px;
+      font-size: 12px;
+      line-height: 1.35;
+    }
+
+    .event:last-child {
+      border-bottom: 0;
+    }
+
+    .event .at {
+      color: #425679;
+      font-weight: 700;
+    }
+
+    .mono {
+      font-family: Menlo, Monaco, Consolas, monospace;
+    }
+
+    .danger-note {
+      border: 1px solid #efc5c5;
+      background: #fff2f2;
+      color: #9d2424;
+      border-radius: 10px;
+      padding: 8px 10px;
+      font-size: 12px;
+    }
+
+    @media (max-width: 1050px) {
+      .dashboard {
+        grid-template-columns: 1fr;
+      }
+
+      .grid.four,
+      .grid.three,
+      .grid.two {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="panel">
+      <h1>Overseer Portal</h1>
+      <p>Standalone monitor and assignment console for student sessions connected through Appwrite.</p>
+      <div class="tiny">Assignments are written as commands (example: <span class="mono">e580c519-9667-4b3b-8a1e-a7bec6eba694#12</span>). Student clients must listen to assignment updates to jump instantly.</div>
+    </section>
+
+    <section class="panel">
+      <h2>Connection Settings</h2>
+      <div class="grid four">
+        <div>
+          <label for="endpoint">Endpoint</label>
+          <input id="endpoint" type="text" value="https://tor.cloud.appwrite.io/v1">
+        </div>
+        <div>
+          <label for="projectId">Project ID</label>
+          <input id="projectId" type="text" value="69d067fc001d50f2d6fa">
+        </div>
+        <div>
+          <label for="databaseId">Database ID</label>
+          <input id="databaseId" type="text" placeholder="main_db">
+        </div>
+        <div>
+          <label for="pollMs">Poll Interval (ms)</label>
+          <input id="pollMs" type="number" min="300" step="100" value="1200">
+        </div>
+      </div>
+
+      <div class="grid three" style="margin-top:10px;">
+        <div>
+          <label for="presenceCollectionId">Presence Collection ID</label>
+          <input id="presenceCollectionId" type="text" placeholder="student_presence">
+        </div>
+        <div>
+          <label for="eventsCollectionId">Events Collection ID (optional)</label>
+          <input id="eventsCollectionId" type="text" placeholder="student_events">
+        </div>
+        <div>
+          <label for="assignmentCollectionId">Assignment Collection ID</label>
+          <input id="assignmentCollectionId" type="text" placeholder="student_assignments">
+        </div>
+      </div>
+
+      <div class="row" style="margin-top:10px;">
+        <button id="saveConfigBtn" class="secondary" type="button">Save Settings</button>
+        <button id="refreshBtn" type="button">Refresh Now</button>
+        <button id="startBtn" type="button">Start Polling</button>
+        <button id="stopBtn" class="warn" type="button" disabled>Stop Polling</button>
+        <span id="pollState" class="pill">Polling: stopped</span>
+      </div>
+
+      <div id="configStatus" class="status"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Auth</h2>
+      <div class="grid two">
+        <div>
+          <label for="authMode">Auth Mode</label>
+          <select id="authMode">
+            <option value="session">Session (email/password)</option>
+            <option value="apiKey">API key (private admin use only)</option>
+          </select>
+        </div>
+        <div>
+          <label>&nbsp;</label>
+          <div class="pill" id="authSummary">Not authenticated</div>
+        </div>
+      </div>
+
+      <div id="sessionAuthPanel" class="grid three" style="margin-top:10px;">
+        <div>
+          <label for="authEmail">Email</label>
+          <input id="authEmail" type="email" placeholder="instructor@example.com" autocomplete="username">
+        </div>
+        <div>
+          <label for="authPassword">Password</label>
+          <input id="authPassword" type="password" autocomplete="current-password">
+        </div>
+        <div>
+          <label>&nbsp;</label>
+          <div class="row">
+            <button id="loginBtn" type="button">Sign In</button>
+            <button id="logoutBtn" class="secondary" type="button">Sign Out</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="apiKeyPanel" class="grid two" style="margin-top:10px; display:none;">
+        <div>
+          <label for="apiKey">API Key</label>
+          <input id="apiKey" type="password" placeholder="Paste key for temporary private use">
+        </div>
+        <div>
+          <label>&nbsp;</label>
+          <div class="row">
+            <button id="applyApiKeyBtn" type="button">Use Key</button>
+            <button id="clearApiKeyBtn" class="secondary" type="button">Clear Key</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="danger-note" style="margin-top:10px;">
+        API keys in browser pages are sensitive. Prefer session auth when possible.
+      </div>
+
+      <div id="authStatus" class="status"></div>
+    </section>
+
+    <section class="panel dashboard">
+      <div class="panel" style="margin:0; padding:10px;">
+        <div class="row" style="justify-content:space-between;">
+          <h3>Student Live View</h3>
+          <span id="studentCount" class="pill">0 students</span>
+        </div>
+        <div class="scroll">
+          <table>
+            <thead>
+              <tr>
+                <th style="width:40px;">Sel</th>
+                <th style="width:90px;">Code</th>
+                <th style="width:235px;">Test</th>
+                <th style="width:80px;">Q</th>
+                <th>Live Answer</th>
+                <th style="width:100px;">Elapsed</th>
+                <th style="width:120px;">Last Seen</th>
+              </tr>
+            </thead>
+            <tbody id="studentsBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="grid" style="gap:12px;">
+        <section class="panel" style="margin:0; padding:10px;">
+          <h3>Assign Command</h3>
+          <p class="tiny">Format: <span class="mono">testid#questionnumber</span>. Question number is optional.</p>
+
+          <div class="grid two">
+            <div>
+              <label for="assignMode">Target Mode</label>
+              <select id="assignMode">
+                <option value="selected">Selected students</option>
+                <option value="single">Single code</option>
+                <option value="all">All connected students</option>
+              </select>
+            </div>
+            <div>
+              <label for="singleCode">Single Code (for single mode)</label>
+              <input id="singleCode" type="text" maxlength="12" placeholder="e.g. 417">
+            </div>
+          </div>
+
+          <div style="margin-top:10px;">
+            <label for="assignmentInput">Assignment Command</label>
+            <input id="assignmentInput" type="text" placeholder="test-uuid#12">
+          </div>
+
+          <div class="row" style="margin-top:10px;">
+            <button id="assignBtn" type="button">Assign Now</button>
+            <button id="copySelectedBtn" class="secondary" type="button">Copy Selected Code</button>
+            <span id="selectedCount" class="pill">Selected: 0</span>
+          </div>
+
+          <div id="assignStatus" class="status"></div>
+        </section>
+
+        <section class="panel" style="margin:0; padding:10px;">
+          <h3>Event Feed</h3>
+          <p class="tiny">Optional collection-driven feed for answer/input/submit events.</p>
+          <div id="eventsWrap" class="events"></div>
+        </section>
+
+        <section class="panel" style="margin:0; padding:10px;">
+          <h3>Recent Assignments</h3>
+          <div id="assignmentLog" class="events"></div>
+        </section>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const CFG_KEY = "OVERSEER_CFG_V1";
+    const AUTH_MODE_KEY = "OVERSEER_AUTH_MODE_V1";
+
+    const state = {
+      cfg: {
+        endpoint: "https://tor.cloud.appwrite.io/v1",
+        projectId: "69d067fc001d50f2d6fa",
+        databaseId: "",
+        presenceCollectionId: "",
+        eventsCollectionId: "",
+        assignmentCollectionId: "",
+        pollMs: 1200,
+      },
+      authMode: "session",
+      apiKey: "",
+      user: null,
+      pollTimer: null,
+      students: [],
+      assignments: [],
+      selectedCodes: new Set(),
+      activeCode: "",
+    };
+
+    const el = {
+      endpoint: document.getElementById("endpoint"),
+      projectId: document.getElementById("projectId"),
+      databaseId: document.getElementById("databaseId"),
+      pollMs: document.getElementById("pollMs"),
+      presenceCollectionId: document.getElementById("presenceCollectionId"),
+      eventsCollectionId: document.getElementById("eventsCollectionId"),
+      assignmentCollectionId: document.getElementById("assignmentCollectionId"),
+      saveConfigBtn: document.getElementById("saveConfigBtn"),
+      refreshBtn: document.getElementById("refreshBtn"),
+      startBtn: document.getElementById("startBtn"),
+      stopBtn: document.getElementById("stopBtn"),
+      pollState: document.getElementById("pollState"),
+      configStatus: document.getElementById("configStatus"),
+      authMode: document.getElementById("authMode"),
+      sessionAuthPanel: document.getElementById("sessionAuthPanel"),
+      apiKeyPanel: document.getElementById("apiKeyPanel"),
+      authEmail: document.getElementById("authEmail"),
+      authPassword: document.getElementById("authPassword"),
+      loginBtn: document.getElementById("loginBtn"),
+      logoutBtn: document.getElementById("logoutBtn"),
+      apiKey: document.getElementById("apiKey"),
+      applyApiKeyBtn: document.getElementById("applyApiKeyBtn"),
+      clearApiKeyBtn: document.getElementById("clearApiKeyBtn"),
+      authStatus: document.getElementById("authStatus"),
+      authSummary: document.getElementById("authSummary"),
+      studentsBody: document.getElementById("studentsBody"),
+      studentCount: document.getElementById("studentCount"),
+      assignMode: document.getElementById("assignMode"),
+      singleCode: document.getElementById("singleCode"),
+      assignmentInput: document.getElementById("assignmentInput"),
+      assignBtn: document.getElementById("assignBtn"),
+      assignStatus: document.getElementById("assignStatus"),
+      selectedCount: document.getElementById("selectedCount"),
+      copySelectedBtn: document.getElementById("copySelectedBtn"),
+      eventsWrap: document.getElementById("eventsWrap"),
+      assignmentLog: document.getElementById("assignmentLog"),
+    };
+
+    function toStr(value) {
+      return value === null || value === undefined ? "" : String(value);
+    }
+
+    function toNum(value, fallback = 0) {
+      const n = Number(value);
+      return Number.isFinite(n) ? n : fallback;
+    }
+
+    function setStatus(node, message, kind = "") {
+      node.textContent = message || "";
+      node.className = `status${kind ? ` ${kind}` : ""}`;
+    }
+
+    function saveConfig() {
+      const cfg = {
+        endpoint: el.endpoint.value.trim(),
+        projectId: el.projectId.value.trim(),
+        databaseId: el.databaseId.value.trim(),
+        presenceCollectionId: el.presenceCollectionId.value.trim(),
+        eventsCollectionId: el.eventsCollectionId.value.trim(),
+        assignmentCollectionId: el.assignmentCollectionId.value.trim(),
+        pollMs: Math.max(300, toNum(el.pollMs.value, 1200)),
+      };
+
+      state.cfg = cfg;
+      localStorage.setItem(CFG_KEY, JSON.stringify(cfg));
+      setStatus(el.configStatus, "Settings saved.", "ok");
+    }
+
+    function loadConfig() {
+      const raw = localStorage.getItem(CFG_KEY);
+      if (!raw) return;
+      try {
+        const parsed = JSON.parse(raw);
+        state.cfg = { ...state.cfg, ...parsed };
+      } catch (_err) {
+        // ignore malformed storage
+      }
+    }
+
+    function syncConfigUI() {
+      el.endpoint.value = state.cfg.endpoint;
+      el.projectId.value = state.cfg.projectId;
+      el.databaseId.value = state.cfg.databaseId;
+      el.presenceCollectionId.value = state.cfg.presenceCollectionId;
+      el.eventsCollectionId.value = state.cfg.eventsCollectionId;
+      el.assignmentCollectionId.value = state.cfg.assignmentCollectionId;
+      el.pollMs.value = String(state.cfg.pollMs);
+    }
+
+    function syncAuthModeUI() {
+      el.authMode.value = state.authMode;
+      el.sessionAuthPanel.style.display = state.authMode === "session" ? "grid" : "none";
+      el.apiKeyPanel.style.display = state.authMode === "apiKey" ? "grid" : "none";
+      localStorage.setItem(AUTH_MODE_KEY, state.authMode);
+    }
+
+    async function apiFetch(path, options = {}) {
+      const endpoint = state.cfg.endpoint.replace(/\/$/, "");
+      const headers = {
+        "X-Appwrite-Project": state.cfg.projectId,
+        ...(options.headers || {}),
+      };
+
+      if (state.authMode === "apiKey" && state.apiKey) {
+        headers["X-Appwrite-Key"] = state.apiKey;
+      }
+
+      const method = options.method || "GET";
+      const body = options.body;
+      if (body && !(body instanceof FormData)) {
+        headers["Content-Type"] = "application/json";
+      }
+
+      const res = await fetch(endpoint + path, {
+        method,
+        headers,
+        body: body && !(body instanceof FormData) ? JSON.stringify(body) : body,
+        credentials: state.authMode === "session" ? "include" : "omit",
+      });
+
+      let data = null;
+      const text = await res.text();
+      if (text) {
+        try {
+          data = JSON.parse(text);
+        } catch (_err) {
+          data = { message: text };
+        }
+      }
+
+      if (!res.ok) {
+        const message = (data && (data.message || data.type)) || `HTTP ${res.status}`;
+        throw new Error(message);
+      }
+
+      return data;
+    }
+
+    function updateAuthSummary() {
+      if (state.authMode === "apiKey" && state.apiKey) {
+        el.authSummary.textContent = "API key active";
+        return;
+      }
+
+      if (state.user) {
+        el.authSummary.textContent = `Signed in: ${state.user.email || state.user.$id}`;
+      } else {
+        el.authSummary.textContent = "Not authenticated";
+      }
+    }
+
+    async function checkSession() {
+      if (state.authMode !== "session") return;
+      try {
+        const account = await apiFetch("/account");
+        state.user = account || null;
+        setStatus(el.authStatus, "Session is active.", "ok");
+      } catch (_err) {
+        state.user = null;
+      }
+      updateAuthSummary();
+    }
+
+    async function loginSession() {
+      const email = el.authEmail.value.trim();
+      const password = el.authPassword.value;
+      if (!email || !password) {
+        setStatus(el.authStatus, "Email and password are required.", "bad");
+        return;
+      }
+
+      try {
+        await apiFetch("/account/sessions/email", {
+          method: "POST",
+          body: { email, password },
+        });
+        const account = await apiFetch("/account");
+        state.user = account || null;
+        updateAuthSummary();
+        setStatus(el.authStatus, "Signed in.", "ok");
+      } catch (error) {
+        setStatus(el.authStatus, error.message || "Sign-in failed.", "bad");
+      }
+    }
+
+    async function logoutSession() {
+      try {
+        await apiFetch("/account/sessions/current", { method: "DELETE" });
+      } catch (_err) {
+        // ignore
+      }
+      state.user = null;
+      updateAuthSummary();
+      setStatus(el.authStatus, "Signed out.", "warn");
+    }
+
+    function useApiKey() {
+      const key = el.apiKey.value.trim();
+      if (!key) {
+        setStatus(el.authStatus, "Paste an API key first.", "bad");
+        return;
+      }
+      state.apiKey = key;
+      state.user = null;
+      updateAuthSummary();
+      setStatus(el.authStatus, "API key applied for this browser tab.", "ok");
+    }
+
+    function clearApiKey() {
+      state.apiKey = "";
+      el.apiKey.value = "";
+      updateAuthSummary();
+      setStatus(el.authStatus, "API key cleared.", "warn");
+    }
+
+    function buildQueryParams(queryList) {
+      const params = new URLSearchParams();
+      queryList.forEach((q) => params.append("queries[]", q));
+      const text = params.toString();
+      return text ? `?${text}` : "";
+    }
+
+    async function listDocuments(collectionId, queryList = []) {
+      if (!state.cfg.databaseId || !collectionId) {
+        return [];
+      }
+
+      const path = `/databases/${encodeURIComponent(state.cfg.databaseId)}/collections/${encodeURIComponent(collectionId)}/documents${buildQueryParams(queryList)}`;
+      const data = await apiFetch(path, { method: "GET" });
+      return Array.isArray(data && data.documents) ? data.documents : [];
+    }
+
+    async function createDocument(collectionId, docData) {
+      const path = `/databases/${encodeURIComponent(state.cfg.databaseId)}/collections/${encodeURIComponent(collectionId)}/documents`;
+      return apiFetch(path, {
+        method: "POST",
+        body: {
+          documentId: "unique()",
+          data: docData,
+        },
+      });
+    }
+
+    function normalizePresenceDoc(doc) {
+      const d = doc || {};
+      const code = toStr(
+        d.studentCode ?? d.student_code ?? d.code ?? d.studentId ?? d.student_id ?? d.sid
+      ).trim();
+      if (!code) return null;
+
+      const questionIndex = toNum(
+        d.questionIndex ?? d.question_index ?? d.qIndex ?? d.currentQuestionIndex,
+        -1
+      );
+      const questionNumberRaw = d.questionNumber ?? d.question_number;
+      const questionNumber = questionNumberRaw === undefined || questionNumberRaw === null
+        ? (questionIndex >= 0 ? questionIndex + 1 : null)
+        : toNum(questionNumberRaw, null);
+
+      return {
+        code,
+        testId: toStr(d.testId ?? d.test_id ?? d.testUUID ?? d.testUuid ?? d.uuid ?? d.currentTestId),
+        questionNumber,
+        answer: toStr(
+          d.answerDraft ?? d.answer_draft ?? d.selectedAnswer ?? d.selected_answer ?? d.answer ?? d.value
+        ),
+        elapsedMs: toNum(d.elapsedMs ?? d.timeSpentMs ?? d.totalElapsedMs ?? d.timerMs ?? 0, 0),
+        lastEvent: toStr(d.lastEvent ?? d.eventType ?? d.status ?? ""),
+        updatedAt: toStr(d.$updatedAt ?? d.updatedAt ?? d.timestamp ?? d.createdAt),
+        raw: d,
+      };
+    }
+
+    function formatMs(ms) {
+      const total = Math.max(0, Math.floor(toNum(ms, 0) / 1000));
+      const m = Math.floor(total / 60);
+      const s = total % 60;
+      return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+    }
+
+    function relativeTime(iso) {
+      const ts = Date.parse(iso || "");
+      if (!Number.isFinite(ts)) return "-";
+      const delta = Math.max(0, Math.floor((Date.now() - ts) / 1000));
+      if (delta < 2) return "now";
+      if (delta < 60) return `${delta}s`;
+      if (delta < 3600) return `${Math.floor(delta / 60)}m`;
+      return `${Math.floor(delta / 3600)}h`;
+    }
+
+    function escapeHtml(value) {
+      return toStr(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    function renderStudents() {
+      const rows = state.students;
+      el.studentCount.textContent = `${rows.length} students`;
+
+      if (!rows.length) {
+        el.studentsBody.innerHTML = "<tr><td colspan='7' class='tiny'>No student presence records found.</td></tr>";
+        el.selectedCount.textContent = "Selected: 0";
+        return;
+      }
+
+      const html = rows.map((s) => {
+        const checked = state.selectedCodes.has(s.code) ? "checked" : "";
+        const active = state.activeCode === s.code ? "active" : "";
+        return `
+          <tr class="${active}" data-code="${escapeHtml(s.code)}">
+            <td><input type="checkbox" class="sel-box" data-code="${escapeHtml(s.code)}" ${checked}></td>
+            <td class="mono">${escapeHtml(s.code)}</td>
+            <td class="mono">${escapeHtml(s.testId || "-")}</td>
+            <td>${s.questionNumber ? escapeHtml(String(s.questionNumber)) : "-"}</td>
+            <td>${escapeHtml((s.answer || "").slice(0, 120) || "-")}</td>
+            <td>${escapeHtml(formatMs(s.elapsedMs))}</td>
+            <td>${escapeHtml(relativeTime(s.updatedAt))}</td>
+          </tr>
+        `;
+      }).join("");
+
+      el.studentsBody.innerHTML = html;
+      el.selectedCount.textContent = `Selected: ${state.selectedCodes.size}`;
+
+      [...el.studentsBody.querySelectorAll(".sel-box")].forEach((box) => {
+        box.addEventListener("change", (event) => {
+          const code = event.target.getAttribute("data-code") || "";
+          if (!code) return;
+          if (event.target.checked) state.selectedCodes.add(code);
+          else state.selectedCodes.delete(code);
+          el.selectedCount.textContent = `Selected: ${state.selectedCodes.size}`;
+        });
+      });
+
+      [...el.studentsBody.querySelectorAll("tr[data-code]")].forEach((tr) => {
+        tr.addEventListener("click", (event) => {
+          if (event.target && event.target.classList && event.target.classList.contains("sel-box")) {
+            return;
+          }
+          const code = tr.getAttribute("data-code") || "";
+          state.activeCode = code;
+          if (code) state.selectedCodes.add(code);
+          renderStudents();
+          refreshEvents();
+        });
+      });
+    }
+
+    function latestByStudent(docs) {
+      const byCode = new Map();
+      docs.forEach((doc) => {
+        const item = normalizePresenceDoc(doc);
+        if (!item) return;
+        const cur = byCode.get(item.code);
+        const curTs = Date.parse((cur && cur.updatedAt) || "") || 0;
+        const newTs = Date.parse(item.updatedAt || "") || 0;
+        if (!cur || newTs >= curTs) byCode.set(item.code, item);
+      });
+      return [...byCode.values()].sort((a, b) => a.code.localeCompare(b.code, undefined, { numeric: true }));
+    }
+
+    async function refreshPresence() {
+      if (!state.cfg.presenceCollectionId) {
+        state.students = [];
+        renderStudents();
+        return;
+      }
+
+      const docs = await listDocuments(state.cfg.presenceCollectionId, [
+        "orderDesc(\"$updatedAt\")",
+        "limit(300)",
+      ]);
+      state.students = latestByStudent(docs);
+      renderStudents();
+    }
+
+    function normalizeEvent(doc) {
+      const d = doc || {};
+      return {
+        code: toStr(d.studentCode ?? d.student_code ?? d.code ?? "-"),
+        type: toStr(d.type ?? d.eventType ?? d.event ?? d.lastEvent ?? "event"),
+        testId: toStr(d.testId ?? d.testUUID ?? d.uuid ?? ""),
+        question: toNum(d.questionNumber ?? d.questionIndex ?? d.q ?? 0, 0),
+        answer: toStr(d.answer ?? d.value ?? d.answerDraft ?? d.selectedAnswer ?? ""),
+        at: toStr(d.$createdAt ?? d.$updatedAt ?? d.timestamp ?? ""),
+      };
+    }
+
+    async function refreshEvents() {
+      const id = state.cfg.eventsCollectionId;
+      if (!id) {
+        el.eventsWrap.innerHTML = "<div class='tiny'>No events collection configured.</div>";
+        return;
+      }
+
+      const queries = ["orderDesc(\"$updatedAt\")", "limit(120)"];
+      if (state.activeCode) {
+        queries.push(`equal(\"studentCode\",[\"${state.activeCode}\"])`);
+      }
+
+      const docs = await listDocuments(id, queries);
+      if (!docs.length) {
+        el.eventsWrap.innerHTML = "<div class='tiny'>No events found.</div>";
+        return;
+      }
+
+      el.eventsWrap.innerHTML = docs.map((doc) => {
+        const e = normalizeEvent(doc);
+        const q = e.question > 0 ? `Q${e.question}` : "Q-";
+        return `<div class="event">
+          <div><span class="at">${escapeHtml(relativeTime(e.at))}</span> · <span class="mono">${escapeHtml(e.code)}</span> · ${escapeHtml(e.type)}</div>
+          <div class="tiny mono">${escapeHtml(e.testId)} ${escapeHtml(q)}</div>
+          <div class="tiny">${escapeHtml(e.answer.slice(0, 200)) || "-"}</div>
+        </div>`;
+      }).join("");
+    }
+
+    async function refreshAssignmentLog() {
+      const id = state.cfg.assignmentCollectionId;
+      if (!id) {
+        el.assignmentLog.innerHTML = "<div class='tiny'>No assignment collection configured.</div>";
+        return;
+      }
+
+      const docs = await listDocuments(id, ["orderDesc(\"$updatedAt\")", "limit(80)"]);
+      if (!docs.length) {
+        el.assignmentLog.innerHTML = "<div class='tiny'>No assignment commands written yet.</div>";
+        return;
+      }
+
+      el.assignmentLog.innerHTML = docs.map((d) => {
+        const code = toStr(d.studentCode ?? d.student_code ?? d.code ?? "*");
+        const command = toStr(d.command ?? `${toStr(d.testId || "")}#${toStr(d.questionNumber || "")}`);
+        const at = toStr(d.$createdAt ?? d.$updatedAt ?? "");
+        return `<div class="event">
+          <div><span class="at">${escapeHtml(relativeTime(at))}</span> · <span class="mono">${escapeHtml(code)}</span></div>
+          <div class="tiny mono">${escapeHtml(command)}</div>
+        </div>`;
+      }).join("");
+    }
+
+    async function refreshAll() {
+      if (!state.cfg.databaseId || !state.cfg.projectId || !state.cfg.endpoint) {
+        setStatus(el.configStatus, "Set endpoint, project ID, and database ID first.", "bad");
+        return;
+      }
+
+      try {
+        await refreshPresence();
+        await Promise.all([refreshEvents(), refreshAssignmentLog()]);
+        setStatus(el.configStatus, "Live data refreshed.", "ok");
+      } catch (error) {
+        setStatus(el.configStatus, error.message || "Failed to refresh live data.", "bad");
+      }
+    }
+
+    function startPolling() {
+      if (state.pollTimer) return;
+      const ms = Math.max(300, toNum(state.cfg.pollMs, 1200));
+      state.pollTimer = window.setInterval(() => {
+        refreshAll();
+      }, ms);
+      el.startBtn.disabled = true;
+      el.stopBtn.disabled = false;
+      el.pollState.textContent = `Polling: ${ms}ms`;
+      refreshAll();
+    }
+
+    function stopPolling() {
+      if (state.pollTimer) {
+        clearInterval(state.pollTimer);
+        state.pollTimer = null;
+      }
+      el.startBtn.disabled = false;
+      el.stopBtn.disabled = true;
+      el.pollState.textContent = "Polling: stopped";
+    }
+
+    function parseAssignmentCommand(text) {
+      const trimmed = toStr(text).trim();
+      if (!trimmed) {
+        throw new Error("Assignment command is required.");
+      }
+
+      const [testRaw, qRaw] = trimmed.split("#");
+      const testId = toStr(testRaw).trim();
+      if (!testId) {
+        throw new Error("Missing test ID in assignment command.");
+      }
+
+      let questionNumber = null;
+      if (qRaw !== undefined && toStr(qRaw).trim() !== "") {
+        const n = Number(toStr(qRaw).trim());
+        if (!Number.isInteger(n) || n < 1) {
+          throw new Error("Question number must be a positive integer.");
+        }
+        questionNumber = n;
+      }
+
+      return {
+        command: questionNumber ? `${testId}#${questionNumber}` : testId,
+        testId,
+        questionNumber,
+      };
+    }
+
+    function resolveTargetCodes() {
+      const mode = el.assignMode.value;
+      if (mode === "single") {
+        const code = el.singleCode.value.trim();
+        if (!code) throw new Error("Enter a student code for single target mode.");
+        return [code];
+      }
+
+      if (mode === "selected") {
+        const codes = [...state.selectedCodes];
+        if (!codes.length) throw new Error("Select at least one student.");
+        return codes;
+      }
+
+      if (mode === "all") {
+        const codes = state.students.map((s) => s.code);
+        if (!codes.length) throw new Error("No connected students found for broadcast.");
+        return codes;
+      }
+
+      return [];
+    }
+
+    async function assignNow() {
+      if (!state.cfg.assignmentCollectionId) {
+        setStatus(el.assignStatus, "Assignment collection ID is required.", "bad");
+        return;
+      }
+
+      try {
+        const payload = parseAssignmentCommand(el.assignmentInput.value);
+        const targets = resolveTargetCodes();
+        const issuedAt = new Date().toISOString();
+        const issuer = (state.user && (state.user.email || state.user.$id)) || "overseer";
+
+        el.assignBtn.disabled = true;
+        let done = 0;
+        for (const code of targets) {
+          await createDocument(state.cfg.assignmentCollectionId, {
+            studentCode: code,
+            command: payload.command,
+            testId: payload.testId,
+            questionNumber: payload.questionNumber,
+            issuedAt,
+            issuer,
+            status: "assigned",
+            nonce: `${Date.now()}_${Math.random().toString(36).slice(2, 8)}`,
+          });
+          done += 1;
+        }
+
+        setStatus(el.assignStatus, `Assignment pushed to ${done} student(s).`, "ok");
+        await refreshAssignmentLog();
+      } catch (error) {
+        setStatus(el.assignStatus, error.message || "Assignment failed.", "bad");
+      } finally {
+        el.assignBtn.disabled = false;
+      }
+    }
+
+    function copySelectedCode() {
+      const first = [...state.selectedCodes][0] || state.activeCode || "";
+      if (!first) {
+        setStatus(el.assignStatus, "No selected code to copy.", "warn");
+        return;
+      }
+      el.singleCode.value = first;
+      setStatus(el.assignStatus, `Copied ${first} into single-code field.`, "ok");
+    }
+
+    function wireEvents() {
+      el.saveConfigBtn.addEventListener("click", () => {
+        saveConfig();
+      });
+
+      el.refreshBtn.addEventListener("click", () => {
+        saveConfig();
+        refreshAll();
+      });
+
+      el.startBtn.addEventListener("click", () => {
+        saveConfig();
+        startPolling();
+      });
+
+      el.stopBtn.addEventListener("click", () => {
+        stopPolling();
+      });
+
+      el.authMode.addEventListener("change", () => {
+        state.authMode = el.authMode.value;
+        syncAuthModeUI();
+        updateAuthSummary();
+        setStatus(el.authStatus, `Auth mode: ${state.authMode}`, "warn");
+      });
+
+      el.loginBtn.addEventListener("click", () => {
+        loginSession();
+      });
+
+      el.logoutBtn.addEventListener("click", () => {
+        logoutSession();
+      });
+
+      el.applyApiKeyBtn.addEventListener("click", () => {
+        useApiKey();
+      });
+
+      el.clearApiKeyBtn.addEventListener("click", () => {
+        clearApiKey();
+      });
+
+      el.assignBtn.addEventListener("click", () => {
+        assignNow();
+      });
+
+      el.copySelectedBtn.addEventListener("click", () => {
+        copySelectedCode();
+      });
+    }
+
+    async function init() {
+      loadConfig();
+      const storedMode = localStorage.getItem(AUTH_MODE_KEY);
+      if (storedMode === "session" || storedMode === "apiKey") {
+        state.authMode = storedMode;
+      }
+
+      syncConfigUI();
+      syncAuthModeUI();
+      updateAuthSummary();
+      wireEvents();
+
+      if (state.authMode === "session") {
+        await checkSession();
+      }
+
+      setStatus(el.configStatus, "Configure collection IDs, authenticate, then start polling.", "warn");
+      setStatus(el.assignStatus, "Ready.", "warn");
+      setStatus(el.authStatus, "Choose auth mode and sign in.", "warn");
+      refreshEvents();
+      refreshAssignmentLog();
+    }
+
+    init();
+  </script>
+</body>
+</html>

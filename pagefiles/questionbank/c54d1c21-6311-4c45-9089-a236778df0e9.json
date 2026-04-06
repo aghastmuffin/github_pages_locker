@@ -1,0 +1,682 @@
+{
+  "uuid": "c54d1c21-6311-4c45-9089-a236778df0e9",
+  "chunk": "DO0GA-cD.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p><i>Dragon against Tiger</i> is an important work of Nihonga, or classical Japanese painting. Unlike Wada Eisaku, who adopted traditional European methods such as painting with oil on canvas, Hashimoto Gaho ______ traditional Japanese approaches. For instance, Hashimoto produced <i>Dragon against Tiger</i> by applying color pigments to a silk surface.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "overlooked"
+        },
+        {
+          "name": "B",
+          "content": "distrusted"
+        },
+        {
+          "name": "C",
+          "content": "embraced"
+        },
+        {
+          "name": "D",
+          "content": "released"
+        }
+      ],
+      "correct": "embraced",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Domesticated thousands of years ago in South America, the tomatillo deviates structurally from the wild plant it is descended from. Summer squash, another domesticated crop from the Americas, doesn't closely resemble any wild plant, and genetic research only recently ______ its ancestor to be the wild johnny gourd.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "revealed"
+        },
+        {
+          "name": "B",
+          "content": "expanded"
+        },
+        {
+          "name": "C",
+          "content": "encouraged"
+        },
+        {
+          "name": "D",
+          "content": "petitioned"
+        }
+      ],
+      "correct": "revealed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Anton Chekhov's 1904 play <i>The Cherry Orchard</i> (translated by Julius West in 1916).</p><blockquote style=\"margin-left: 40px;\"><p>TROFIMOV: Believe me, Anya, believe me! I'm not thirty yet, I'm young, I'm still a student, but I have <u>undergone</u> a great deal! I'm as hungry as the winter, I'm ill, I'm shaken... and where haven't I beenâfate has tossed me everywhere!</p></blockquote>",
+      "question": "As used in the text, what does the word \"undergone\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Uncovered"
+        },
+        {
+          "name": "B",
+          "content": "Ignored"
+        },
+        {
+          "name": "C",
+          "content": "Experienced"
+        },
+        {
+          "name": "D",
+          "content": "Conveyed"
+        }
+      ],
+      "correct": "Experienced",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Text corpora such as the British National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If one has a ______ that the word âownâ has a high incidence in English, for example, an analysis of a corpus can support that hypothesis by showing that \"own\" is the eighth most commonly used adjective.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "synopsis"
+        },
+        {
+          "name": "B",
+          "content": "scheme"
+        },
+        {
+          "name": "C",
+          "content": "recognition"
+        },
+        {
+          "name": "D",
+          "content": "supposition"
+        }
+      ],
+      "correct": "supposition",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers have long hypothesized that woolly mammoths were hunted to extinction in North America by humans using spears with grooved tips known as Clovis points. One anthropologist set out to test this hypothesis. Using a mechanical spear thrower, he launched spears with Clovis points into mounds of clayâsubstitutes for the animals' large bodies. The projectiles generally penetrated only a few inches into the clay, an amount insufficient to have harmed most woolly mammoths. This led the anthropologist to conclude that hunters using spears with Clovis points likely weren't the principal drivers of the extinction.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To argue for the significance of new findings amid an ongoing debate among researchers."
+        },
+        {
+          "name": "B",
+          "content": "To discuss the advantages and disadvantages of the method used in an experiment."
+        },
+        {
+          "name": "C",
+          "content": "To summarize two competing hypotheses and a major finding associated with each one."
+        },
+        {
+          "name": "D",
+          "content": "To describe an experiment whose results cast doubt on an established hypothesis."
+        }
+      ],
+      "correct": "To describe an experiment whose results cast doubt on an established hypothesis.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In what is now Washington State, the Tulalip Tribes operate the Hibulb Cultural Center. Relying on traditional knowledge to guide the design of exhibits, this institution presents Tulalip history and culture to the tribes' citizens. The Turtle Mountain Band of Chippewa, a tribe in North Dakota, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren't Indigenous-led; when displaying Indigenous artifacts, such museums tend to anticipate mainly non-Indigenous audiences and rely on Eurocentric strategies for designing exhibits.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes how tribal cultural centers designed exhibits of a particular set of artifacts, then analyzes how non-Indigenous institutions designed exhibits of the same artifacts."
+        },
+        {
+          "name": "B",
+          "content": "It examines how tribal citizens respond to exhibits at tribal cultural centers, then speculates how non-Indigenous audiences would respond to the same exhibits."
+        },
+        {
+          "name": "C",
+          "content": "It discusses two cultural centers operated by tribes, then compares them with non-Indigenous institutions that present Indigenous exhibits."
+        },
+        {
+          "name": "D",
+          "content": "It outlines an early strategy for exhibit design used by one tribal cultural center, then explains a newer strategy used by a different tribal cultural center."
+        }
+      ],
+      "correct": "It discusses two cultural centers operated by tribes, then compares them with non-Indigenous institutions that present Indigenous exhibits.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>The University of Wisconsin and the online class provider Coursera are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of aspiring entrepreneurs in the United States, researcher James Chrisman and colleagues addressed this question and reported that participants who received entrepreneurial training showed high performance at their jobs.</p><p><strong>Text 2</strong><br>While studies of entrepreneurial training typically report positive results, a close look reveals widespread methodological shortcomings that could explain those findings. These studies are plagued by insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.</p>",
+      "question": "Based on the texts, the author of Text 2 would most likely want to know if Chrisman and colleagues took steps to preclude which potential objection to the finding described in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The participants would have shown greater responsiveness to the training if the training sessions had lasted longer."
+        },
+        {
+          "name": "B",
+          "content": "The participants would have been less likely to show high performance at their jobs if the study sample size had been smaller."
+        },
+        {
+          "name": "C",
+          "content": "The participants would have shown high performance at their jobs regardless of whether they received the training."
+        },
+        {
+          "name": "D",
+          "content": "The participants would have responded to the training differently if they had not known that they were participating in a study."
+        }
+      ],
+      "correct": "The participants would have shown high performance at their jobs regardless of whether they received the training.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>\"Cocoa\" is an example of a loanwordâthat is, a word that originated in one language and was later adopted by another. The word came to English indirectly from <i>cacao</i>, the Spanish word for the plant that chocolate is made from. Spanish had borrowed it from Nahuatl, an Indigenous language of Central Mexico, in which the word's original form is <i>cacahuatl</i>. \"Puma\" is also Indigenous in origin and entered English through Spanish. But in this case, the original source was Quechua, a language of South America, in which the word for the mountain lion is also <i>puma</i>.</p>",
+      "question": "The author makes which point about the Spanish language?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It has served as a medium through which Indigenous languages have influenced English."
+        },
+        {
+          "name": "B",
+          "content": "Its contribution to English vocabulary roughly equals the collective contribution by Indigenous languages."
+        },
+        {
+          "name": "C",
+          "content": "It adopted Nahuatl and Quechua words in approximately equal numbers."
+        },
+        {
+          "name": "D",
+          "content": "It has borrowed words from Indigenous languages and contributed words to them."
+        }
+      ],
+      "correct": "It has served as a medium through which Indigenous languages have influenced English.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Bolivia, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than half between 2000 and 2015; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Richard Hosier and Jeffrey Dowd's study of fuel use in Zimbabwe shows how reductive this model is, however: although income of course constrained fuel choice, several factors, including the difficulty of acquiring fuel sources, influenced decisions.</p>",
+      "question": "Based on the text, the author would most likely agree with which statement about household income?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It can explain some but not all of the differences in fuel choice across households."
+        },
+        {
+          "name": "B",
+          "content": "It is often said to influence household fuel choice but actually does not."
+        },
+        {
+          "name": "C",
+          "content": "It affects household fuel choice but not for the reasons assumed by the energy ladder model."
+        },
+        {
+          "name": "D",
+          "content": "It constrains the amount of fuel households use but not the type of fuel they use."
+        }
+      ],
+      "correct": "It can explain some but not all of the differences in fuel choice across households.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Daniel Defoe's 1704 nonfiction book <i>The Storm</i>.</p><br><p style=\"margin-left: 40px;\">The sermon is a sound of words spoken to the ear, and prepared only for present meditation, and extends no farther than the strength of memory can convey it; a book printed is a record; remaining in every man's possession, always ready to renew its acquaintance with his memory, and always ready to be produced as an authority or voucher to any reports he makes out of it, and conveys its contents for ages to come, to the eternity of mortal time, when the author is forgotten in his grave.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Words committed to print have a greater permanence than messages that are merely spoken aloud."
+        },
+        {
+          "name": "B",
+          "content": "People are less likely to forget a message when they hear it spoken aloud than they are when they read it in print."
+        },
+        {
+          "name": "C",
+          "content": "Unless a spoken message is delivered by an expert, it can be safely ignored."
+        },
+        {
+          "name": "D",
+          "content": "Most authors have little hope of being remembered well past their lifetimes."
+        }
+      ],
+      "correct": "Words committed to print have a greater permanence than messages that are merely spoken aloud.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/2136ee4f09f8e8fe2d3536cfca339e85.png\" width=\"325\" height=\"421\"></div><p style=\"margin-top:16px; margin-bottom:16px; text-align:justify;\">A student is researching the trends in the topics submitted to a national science fair for high school students. The graph shows the number of submissions by topic that were made each year. Based on the data in the graph, the student claims <u>that there were more medicine and health research topics submitted in 2019 than in any other year.</u></p>",
+      "question": "Which choice most effectively uses data from the graph to support the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 2016, the number of cellular and molecular biology topic submissions was the same as the number of animal science topic submissions."
+        },
+        {
+          "name": "B",
+          "content": "In 2019, there were more physics and space science topic submissions than there were medicine and health topic submissions."
+        },
+        {
+          "name": "C",
+          "content": "The lowest number of animal science topic submissions in a year was approximately 95 in 2016."
+        },
+        {
+          "name": "D",
+          "content": "The highest number of medicine and health topic submissions during the period shown is approximately 285 in 2019."
+        }
+      ],
+      "correct": "The highest number of medicine and health topic submissions during the period shown is approximately 285 in 2019.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Claudine at School</i> is a 1900 novel by Colette, originally written in French. The narrator is a fifteen-year-old girl living in a small, rural town. She presents herself as having a strong emotional attachment to the surrounding forests:</p>",
+      "question": "Which quotation from a translation of Claudine at School most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âIf I had a Mamma, I know very well that she would not have let me stay [in Montigny] twenty-four hours But Papa-he doesn't notice anything and doesn't bother about me.â"
+        },
+        {
+          "name": "B",
+          "content": "âAnd then there are my favourites, the great woods that are sixteen and twenty years old. It makes my heart bleed to see one of those cut down.â"
+        },
+        {
+          "name": "C",
+          "content": "âGreen meadows make rifts in [the woods] here and there, so do little patches of cultivation. But these do not amount to much, for the magnificent woods devour everything. As a result, this lovely region is atrociously poor and its few scattered farms provide just the requisite number of red roofs to set off the velvety green of the woods.â"
+        },
+        {
+          "name": "D",
+          "content": "âUnder the firs, you light a fire, even in summer, because it's forbidden; you cook any old thing, an apple, a pear, a potato stolen from a field, some wholemeal bread if you've nothing better.â"
+        }
+      ],
+      "correct": "âAnd then there are my favourites, the great woods that are sixteen and twenty years old. It makes my heart bleed to see one of those cut down.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/05b229eb345fbdbdb8461e1414d2cc39.png\" width=\"339\" height=\"435\" style=\"display: inline-block;\"></div><p>To understand the extent of deforestation in the Chorotega Region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used aerial photography and remote sensing data to track changes in the forest cover area across different land use capability class (categories that indicate possible uses of forest land.) Due to the Chorotega regionâs accessibility, various types of forest areas were converted to cattle practices as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By the mid 1980s, however, increased public awareness and environmental reforms, along with a decline in meat prices, engendered a natural forest regrowth, as evident by the ___________</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Difference between the forest patch in Class I-IV and in Class VI in 2000."
+        },
+        {
+          "name": "B",
+          "content": "Increase in the forest cover area for all classes from 1979 to 2000."
+        },
+        {
+          "name": "C",
+          "content": "Decrease in the forest cover area for all classes from 1960 to1979."
+        },
+        {
+          "name": "D",
+          "content": "Similarity in forest cover area in Class I-IV and Class VII in 1986."
+        }
+      ],
+      "correct": "Increase in the forest cover area for all classes from 1979 to 2000.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on isolated caterpillars, 33% of the tested species produced sound, which ranged from clicks in <i>Actias luna</i> to whistles in <i>Rhodinia fugax</i>. Although some insects use sound to communicate with members of the same species, the researchers claim that the caterpillar sounds recorded in their study are directed primarily at predators.</p>",
+      "question": "Which finding, if true, would most directly support Bura and colleagues' claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In most cases, the sound that a caterpillar species produced during simulated attacks was not produced by other caterpillar species during simulated attacks."
+        },
+        {
+          "name": "B",
+          "content": "Chickens and yellow warblers, two predators of caterpillars, have been observed to stop their attacks in response to caterpillar sounds."
+        },
+        {
+          "name": "C",
+          "content": "Each caterpillar species tended to produce one sound during simulated attacks, although individuals occasionally made a variety of other sounds during simulated attacks as well."
+        },
+        {
+          "name": "D",
+          "content": "Caterpillar clicks were emitted in a frequency detectable by birds that prey on caterpillars, but caterpillar whistles were not."
+        }
+      ],
+      "correct": "Chickens and yellow warblers, two predators of caterpillars, have been observed to stop their attacks in response to caterpillar sounds.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In dialects of English spoken in Scotland, the ârâ sound is strongly emphasized when it appears at the end of syllables (as in âcarâ) or before other consonant sounds (as in âbirdâ). English dialects of the Upland South, a region stretching from Oklahoma to western Virginia, place similar emphasis on ârâ at the ends of syllables and before other consonant sounds. Historical records show that the Upland South was colonized largely by people whose ancestors came from Scotland. Thus, linguists have concluded that </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the English dialects spoken in the Upland South acquired their emphasis on the ârâ sound from dialects spoken in Scotland."
+        },
+        {
+          "name": "B",
+          "content": "emphasis on the ârâ sound will eventually spread from English dialects spoken in the Upland South to dialects spoken elsewhere."
+        },
+        {
+          "name": "C",
+          "content": "the English dialects spoken in Scotland were influenced by dialects spoken in the Upland South."
+        },
+        {
+          "name": "D",
+          "content": "people from Scotland abandoned their emphasis on the ârâ sound after relocating to the Upland South."
+        }
+      ],
+      "correct": "the English dialects spoken in the Upland South acquired their emphasis on the ârâ sound from dialects spoken in Scotland.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>What makes the theremin a unique musical instrument? You play it without touching it. When you place your ______ the pitch will shift as your hands move through the air.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hand's between the two antenna's,"
+        },
+        {
+          "name": "B",
+          "content": "hands between the two antennas,"
+        },
+        {
+          "name": "C",
+          "content": "hands' between the two antennas',"
+        },
+        {
+          "name": "D",
+          "content": "hands' between the two antennas,"
+        }
+      ],
+      "correct": "hands between the two antennas,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Round Rock Chapter is one of the 110 chapters of the Navajo Nation (<i>Naabeeho Binahasdzo</i>). The chapter, known as <i>Tse Nikani</i> in the Navajo language (<i>Dine bizaad</i>), was the subject of a profile ______ in the <i>Navajo Times</i> on February 13, 2014.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " appeared"
+        },
+        {
+          "name": "B",
+          "content": " appearing"
+        },
+        {
+          "name": "C",
+          "content": " appears"
+        },
+        {
+          "name": "D",
+          "content": " has appeared"
+        }
+      ],
+      "correct": " appearing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>San Juan High School and Grand County High School are two of several Utah ______ enormous geoglyph of the letters SJ overlooks San Juan High, while a geoglyph of the letter G overlooks Grand County High.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " schools that have their own hillside geoglyphs. An"
+        },
+        {
+          "name": "B",
+          "content": " schools, that have their own hillside geoglyphs and an"
+        },
+        {
+          "name": "C",
+          "content": " schools that have their own hillside geoglyphs, an"
+        },
+        {
+          "name": "D",
+          "content": " schools, that have their own hillside geoglyphs, and an"
+        }
+      ],
+      "correct": " schools that have their own hillside geoglyphs. An",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Deposits of crushed orange limestone and other organic matter lend the sand at Porto Ferro Beach in Italy an unusual orange tint that dazzles ______ they take a bit of sand home, though, it disturbs the beach's ecosystem by contributing to erosion.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " visitors, when"
+        },
+        {
+          "name": "B",
+          "content": " visitors and when"
+        },
+        {
+          "name": "C",
+          "content": " visitors when"
+        },
+        {
+          "name": "D",
+          "content": " visitors. When"
+        }
+      ],
+      "correct": " visitors. When",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Consider the mechanics of the pinhole camera: light passes through a small hole, resulting in a focused projected image. A ray diagram reveals how this ______ the hole's small size restricts light to a single ray, all light passing through the hole can only arrive at a single destination, eliminating diffraction and ensuring a clear image.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " works because"
+        },
+        {
+          "name": "B",
+          "content": " works. Because"
+        },
+        {
+          "name": "C",
+          "content": " works, it's because"
+        },
+        {
+          "name": "D",
+          "content": " works: it's because"
+        }
+      ],
+      "correct": " works. Because",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While the greater adjutant can be found in places like the Central Tanintharyi Coast in Myanmar and the Prek Toal Bird Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr Purnima Devi Barman is on the front lines of conservation efforts that, through community involvement and scientific ______ aim to bring adjutants back from near extinction.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "study"
+        },
+        {
+          "name": "B",
+          "content": "study,"
+        },
+        {
+          "name": "C",
+          "content": "study:"
+        },
+        {
+          "name": "D",
+          "content": "studyâ"
+        }
+      ],
+      "correct": "study,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni's machine moved along the rink's surface, it first scraped off the top layer of ice. ______ it sprayed water into the deep grooves left behind by customers' skates. Lastly, it smoothed over the newly formed ice.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Next,"
+        },
+        {
+          "name": "C",
+          "content": "Similarly,"
+        },
+        {
+          "name": "D",
+          "content": "In contrast,"
+        }
+      ],
+      "correct": "Next,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A lever is a simple machine consisting of a rigid beam and a fulcrum.</li><li>The fulcrum is the point about which the beam pivots.</li><li>The input force (effort) is the force applied to the lever.</li><li>The output force (load) is the force that the lever exerts on another object.</li><li>In first-class levers, the fulcrum is located between the effort and the load.</li><li>In second-class levers, the load is located between the effort and the fulcrum.</li></ul></blockquote>",
+      "question": "The student wants to contrast first-class levers and second-class levers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In levers, the effort is the force applied to the lever; the load, in contrast, is the force that the lever exerts on another object."
+        },
+        {
+          "name": "B",
+          "content": "In first-class and second-class levers, the fulcrum and the load are in different locations."
+        },
+        {
+          "name": "C",
+          "content": "First-class levers are simple machines consisting of a rigid beam and a fulcrum, but then again, the same is true of second-class levers."
+        },
+        {
+          "name": "D",
+          "content": "In first-class levers, the fulcrum is located between the effort and the load, but in second-class levers, the load is located between the effort and the fulcrum."
+        }
+      ],
+      "correct": "In first-class levers, the fulcrum is located between the effort and the load, but in second-class levers, the load is located between the effort and the fulcrum.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Richard Serra is an American artist.</li><li>He is known for his large metal sculptures.</li><li>His large sculpture <i>Open Ended</i> is made of weathering steel.</li><li>His large sculpture Strike: <i>To Roberta and Rudy</i> is made of hot-rolled steel.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize a difference between the two sculptures?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Open Ended and Strike: To Roberta and Rudy are both large metal sculptures by artist Richard Serra."
+        },
+        {
+          "name": "B",
+          "content": "Strike: To Roberta and Rudy is one of artist Richard Serra's large metal sculptures."
+        },
+        {
+          "name": "C",
+          "content": "Artist Richard Serra is the creator of the weathering steel sculpture Open Ended."
+        },
+        {
+          "name": "D",
+          "content": "Open Ended is made from a different kind of steel than Strike: To Roberta and Rudy."
+        }
+      ],
+      "correct": "Open Ended is made from a different kind of steel than Strike: To Roberta and Rudy.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Maya Lin is an American artist known for her memorials and large-scale installation artworks.</li><li>She became famous in 1982 when she completed the Vietnam Veterans Memorial, which consists of two 246-foot granite walls.</li><li>She completed <i>Water Line</i> in 2006.</li><li>It is an installation composed of aluminum tubing that fills an entire gallery room.</li><li>She completed <i>Seven Earth Mountain</i> in 2015.</li><li>It is an installation composed of soil that fills an entire gallery room.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize a difference between Water Line and Seven Earth Mountain?",
+      "options": [
+        {
+          "name": "A",
+          "content": "After completing the Vietnam Veterans Memorial, Maya Lin completed <i>Water Line</i>, another large-scale work."
+        },
+        {
+          "name": "B",
+          "content": "The sprawling size of Maya Lin's Vietnam Veterans Memorial is echoed in <i>Water Line</i>, a work made of aluminum tubing that fills an entire gallery room."
+        },
+        {
+          "name": "C",
+          "content": "Maya Lin's <i>Water Line</i> is composed of aluminum tubing; <i>Seven Earth Mountain</i>, by contrast, is composed of soil."
+        },
+        {
+          "name": "D",
+          "content": "Maya Lin is known for her memorials and installation art, such as <i>Water Line</i> and <i>Seven Earth Mountain</i>."
+        }
+      ],
+      "correct": "Maya Lin's <i>Water Line</i> is composed of aluminum tubing; <i>Seven Earth Mountain</i>, by contrast, is composed of soil.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A supercontinent is a single landmass made up of most or all of Earth's continents.</li><li>Over time, continents merge together to form supercontinents, which then break apart.</li><li>This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.</li><li>Euramerica and Kenorland were supercontinents.</li><li>Euramerica formed about 300 million years ago.</li><li>Kenorland formed about 2.6 billion years ago.</li></ul></blockquote>",
+      "question": "The student wants to specify when Euramerica formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The supercontinent Euramerica formed about 300 million years ago."
+        },
+        {
+          "name": "B",
+          "content": "Over hundreds of millions of years, the supercontinent cycle results in supercontinents forming and breaking apart."
+        },
+        {
+          "name": "C",
+          "content": "Euramerica was a supercontinent, a single landmass made up of most or all of Earth's continents."
+        },
+        {
+          "name": "D",
+          "content": "Long ago, the Earth was home to supercontinents like Euramerica and Kenorland."
+        }
+      ],
+      "correct": "The supercontinent Euramerica formed about 300 million years ago.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Haystack Mountain School of Crafts (1961) is a building complex designed by American architect Edward Larrabee Barnes.</li><li>It is located in Deer Isle, Maine.</li><li>It features a cluster of cedar-shingled buildings.</li><li>It is considered an impressive example of critical regionalist architecture.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize the location of the Haystack Mountain School of Crafts?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Those wishing to see the Haystack Mountain School of Crafts in person will have to travel to Deer Isle, Maine."
+        },
+        {
+          "name": "B",
+          "content": "A stunning example of critical regionalist architecture, Edward Larrabee Barnes's Haystack Mountain School of Crafts features a cluster of cedar-shingled buildings."
+        },
+        {
+          "name": "C",
+          "content": "The architect responsible for designing the Haystack Mountain School of Crafts in Deer Isle, Maine, was Edward Larrabee Barnes."
+        },
+        {
+          "name": "D",
+          "content": "Edward Larrabee Barnes is known for designing a building complex that features a cluster of cedar-shingled buildings."
+        }
+      ],
+      "correct": "Those wishing to see the Haystack Mountain School of Crafts in person will have to travel to Deer Isle, Maine.",
+      "solution": ""
+    }
+  ]
+}

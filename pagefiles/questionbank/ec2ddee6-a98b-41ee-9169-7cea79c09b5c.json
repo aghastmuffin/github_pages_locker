@@ -1,0 +1,682 @@
+{
+  "uuid": "ec2ddee6-a98b-41ee-9169-7cea79c09b5c",
+  "chunk": "BdslL5kg.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Anton Chekhov's 1904 play <i>The Cherry Orchard</i> (translated by Julius West in 1916).</p><blockquote style=\"margin-left: 40px;\"><p>TROFIMOV: Believe me, Anya, believe me! I'm not thirty yet, I'm young. I'm still a student, but I have <u>undergone</u> a great deal! I'm as hungry as the winter, I'm ill, I'm shaken... and where haven't I beenâfate has tossed me everywhere!</p></blockquote>",
+      "question": "As used in the text, what does the word \"undergone\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Neglected"
+        },
+        {
+          "name": "B",
+          "content": "Enjoyed"
+        },
+        {
+          "name": "C",
+          "content": "Conveyed"
+        },
+        {
+          "name": "D",
+          "content": "Endured"
+        }
+      ],
+      "correct": "Endured",
+      "solution": "è¿æ®µæå­æ¹ç¼èªå®ä¸Â·å¥è¯å¤«ï¼Anton Chekhovï¼1904å¹´çæå§ãæ¨±æ¡å­ãï¼The Cherry Orchardï¼ç±æ±å©å¶æ¯Â·é¦æ¯ç¹äº1916å¹´ç¿»è¯ï¼ãæä¸­ç¹ç½è²è«å¤«ï¼TROFIMOVï¼è¯´ï¼âç¸ä¿¡æï¼å®éï¼ç¸ä¿¡æï¼æè¿ä¸å°ä¸åå²ï¼æè¿å¹´è½»ãæè¿æ¯ä¸ªå­¦çï¼ä½æç»åï¼undergoneï¼äºå¾å¤ï¼æåå¬å¤©ä¸æ ·é¥¥é¥¿ï¼æççäºï¼æé¢¤æâ¦â¦å½è¿æææå°äºåå¤ï¼â é¢ç®æ¯é®æä¸­âundergoneâè¿ä¸ªè¯ææ¥è¿çææã<br>éé¡¹AâNeglectedâï¼å¿½è§ãçå¿½ï¼ï¼ä¸æä¸­è¡¨è¾¾çç»åå¾å¤äºæçææä¸ç¬¦ï¼Aéé¡¹éè¯¯ã<br>éé¡¹BâEnjoyedâï¼äº«åï¼ï¼ä»æä¸­âæåå¬å¤©ä¸æ ·é¥¥é¥¿ï¼æççäºï¼æé¢¤æâç­åå®¹å¯ç¥ï¼ä¸æ¯äº«åçææï¼Béé¡¹ä¸æ­£ç¡®ã<br>éé¡¹CâConveyedâï¼ä¼ è¾¾ãä¼ éï¼ï¼ä¸è½åç¡®è¡¨è¾¾åºç»åçå«ä¹ï¼Céé¡¹ä¸åéã<br>éé¡¹DâEnduredâï¼å¿åãå¿èï¼ï¼ä¸æä¸­ç¹ç½è²è«å¤«æè¯´çç»åäºå¾å¤è°é¾å°è¦ç¸å¼åºï¼Déé¡¹æ­£ç¡®ã<br>æä»¥æ­£ç¡®ç­æ¡æ¯Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Indigenous Photograph is an organization whose mission is to ensure that images of indigenous peoples in the media are presented from indigenous perspectives. The organization ______ this commitment by promoting the works of artist Geremew Tigabu (Ethiopian, Amhara, and Tigre) and other prominent indigenous photographers who document and reflect Indigenous lives and experiences.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "concludes"
+        },
+        {
+          "name": "B",
+          "content": "explains"
+        },
+        {
+          "name": "C",
+          "content": "precedes"
+        },
+        {
+          "name": "D",
+          "content": "shows"
+        }
+      ],
+      "correct": "shows",
+      "solution": "è¿æ®µæå­ä»ç»äºâåèæå½±âï¼Indigenous Photographï¼æ¯ä¸ä¸ªç»ç»ï¼å¶ä½¿å½æ¯ç¡®ä¿åªä½ä¸­åèæ°æçå½¢è±¡ä»åèè§è§åç°ãè¯¥ç»ç»éè¿æ¨å¹¿èºæ¯å®¶æ°éæ¢Â·æå å¸ï¼Geremew Tigabuï¼åå¡ä¿æ¯äºäººï¼é¿å§åææåææ ¼é·æï¼ä»¥åå¶ä»è®°å½ååæ åèçæ´»åç»åçèååèæå½±å¸çä½åæ¥å±ç¤ºï¼showsï¼è¿ä¸æ¿è¯ºã<br>é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã<br>éé¡¹Aâconcludesâï¼å¾åºç»è®ºãç»æï¼ï¼ç»ç»æ¨å¹¿æå½±å¸ä½åä¸æ¯å¾åºç»è®ºæç»æï¼Aéé¡¹ä¸ç¬¦åè¯­å¢ã<br>éé¡¹Bâexplainsâï¼è§£éï¼ï¼æä¸­å¼ºè°çæ¯éè¿å®éè¡å¨æ¥ä½ç°æ¿è¯ºï¼èä¸æ¯è§£éæ¿è¯ºï¼Béé¡¹ä¸å¤ªæ°å½ã<br>éé¡¹Câprecedesâï¼åäºãå¨â¦â¦ä¹åï¼ï¼ä¸ææä¸ç¬¦ï¼ä¸æ¯è¯´ç»ç»å¨æ¿è¯ºä¹ååæäºï¼Céé¡¹éè¯¯ã<br>éé¡¹Dâshowsâï¼å±ç¤ºãæ¾ç¤ºï¼ï¼åç¡®å°è¡¨è¾¾äºç»ç»éè¿æ¨å¹¿æå½±å¸ä½åæ¥å±ç¤ºå¶å¯¹ä½¿å½çæ¿è¯ºï¼Déé¡¹æ­£ç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Dã"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although fewer companies trade their stocks on the Cambodia Securities Exchange in Phnom Penh, Cambodia, than on the stock exchanges in London, Mumbai, or Tokyo, the Cambodia Securities Exchange has the advantage of being able to ______ relatively small companies in Cambodia: by connecting those companies to investors with expertise about the country's economic conditions, the Cambodia Securities Exchange can help those companies thrive.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "designate"
+        },
+        {
+          "name": "B",
+          "content": "nurture"
+        },
+        {
+          "name": "C",
+          "content": "preclude"
+        },
+        {
+          "name": "D",
+          "content": "assess"
+        }
+      ],
+      "correct": "nurture",
+      "solution": "è¿æ®µæå­æå°ï¼è½ç¶å¨æ¬åå¯¨éè¾¹çæ¬åå¯¨è¯å¸äº¤ææï¼Cambodia Securities Exchangeï¼äº¤æè¡ç¥¨çå¬å¸æ¯å¨ä¼¦æ¦ãå­ä¹°æä¸äº¬çè¯å¸äº¤ææå°ï¼ä½æ¬åå¯¨è¯å¸äº¤æææè½å¤<span style=\"color:#c0392b;\">å¹è²ï¼nurtureï¼</span>æ¬åå¯¨ç¸å¯¹è¾å°çå¬å¸çä¼å¿ï¼éè¿å°è¿äºå¬å¸ä¸å¯¹è¯¥å½ç»æµç¶åµæä¸ä¸ç¥è¯çæèµèèç³»èµ·æ¥ï¼æ¬åå¯¨è¯å¸äº¤ææå¯ä»¥å¸®å©è¿äºå¬å¸è¬ååå±ã<br>é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã<br>éé¡¹Aâdesignateâï¼æå®ãææ´¾ï¼ï¼ä¸å¸®å©å°å¬å¸åå±çè¯­å¢ä¸ç¬¦ï¼Aéé¡¹éè¯¯ã<br>éé¡¹Bânurtureâï¼å¹è²ãå¹å»ï¼ï¼åç¡®å°è¡¨è¾¾äºè¯å¸äº¤ææå¯¹å°å¬å¸çæ¶æåå¸®å©å¶æé¿çææï¼Béé¡¹æ­£ç¡®ã<br>éé¡¹Câprecludeâï¼æé¤ãé»æ­¢ï¼ï¼ä¸ææç¸æï¼ä¸æ¯é»æ­¢å°å¬å¸åå±ï¼Céé¡¹ä¸åéã<br>éé¡¹Dâassessâï¼è¯ä¼°ãè¯å®ï¼ï¼åªæ¯è¯ä¼°ä¸è½ä½ç°åºå¸®å©å¬å¸åå±çææï¼Déé¡¹ä¸åç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Bã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The emphasis on accurately representing the experiences of average working people that is characteristic of the realist style can be seen in <i>The Gleaners</i>, painted by Jean-Francois Millet, which depicts peasants picking stray wheat from a field after the harvest. This style can thus be seen as an effort to ______ what were regarded as the excesses of the romantic style evident in many paintings by Horace Vernet, which instead exaggerated their subjects' beauty or heroism while hiding all imperfection.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "understand"
+        },
+        {
+          "name": "B",
+          "content": "advance"
+        },
+        {
+          "name": "C",
+          "content": "counteract"
+        },
+        {
+          "name": "D",
+          "content": "accentuate"
+        }
+      ],
+      "correct": "counteract",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>è®©ã»å¼æç´¢ç¦ã»ç±³åæç»çãæ¾ç©èãä½ç°äºç°å®ä¸»ä¹é£æ ¼æ³¨éåç¡®åç°æ®éå³å¨èç»åçç¹ç¹ï¼è¯¥ä½åæç»äºåæ°å¨æ¶è·åä»ç°é´æ¡æ¾æ£è½éº¦ç©çåºæ¯ãå æ­¤ï¼è¿ç§é£æ ¼å¯è¢«è§ä¸ºæ¯å¯¹è´ºææ¯é¦å°åä¼å¤ç»ä½ä¸­ææ¾çæµªæ¼«ä¸»ä¹é£æ ¼è¿åº¦ä¹å¤çä¸ç§____ï¼åèå¾å¾å¤¸å¤§æç»å¯¹è±¡çç¾è²æè±éæ°æ¦ï¼åæ¶æ©çææç¼ºé·ã<br><ul><li><strong>A éé¡¹ âunderstandâ</strong>&nbsp;ï¼æææ¯ âçè§£â ãç°å®ä¸»ä¹é£æ ¼å¹¶éæ¯å»çè§£æµªæ¼«ä¸»ä¹é£æ ¼çè¿åº¦ä¹å¤ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>B éé¡¹ âadvanceâ</strong>&nbsp;ï¼æä¸º âæ¨è¿ï¼ä¿è¿â ãç°å®ä¸»ä¹é£æ ¼ä¸æ¯ä¸ºäºæ¨è¿æµªæ¼«ä¸»ä¹é£æ ¼çè¿åº¦ä¹å¤ï¼è¯¥éé¡¹ä¸åéã</li><li><strong>C éé¡¹ âcounteractâ</strong>&nbsp;ï¼<span style=\"color:#c0392b;\">è¡¨ç¤º âå¯¹æï¼æµæ¶â </span>ãç°å®ä¸»ä¹é£æ ¼å¼ºè°çå®åç°ï¼ä¸æµªæ¼«ä¸»ä¹é£æ ¼å¤¸å¤§åæ©çç¼ºé·å½¢æå¯¹æ¯ï¼æ¯å¯¹æµªæ¼«ä¸»ä¹é£æ ¼è¿åº¦ä¹å¤çä¸ç§å¯¹æï¼è¯¥éé¡¹ç¬¦åææã</li><li><strong>D éé¡¹ âaccentuateâ</strong>&nbsp;ï¼æææ¯ âå¼ºè°ï¼çªåºâ ãç°å®ä¸»ä¹é£æ ¼ä¸æ¯ä¸ºäºçªåºæµªæ¼«ä¸»ä¹é£æ ¼çè¿åº¦ä¹å¤ï¼ä¸ç¬¦åé»è¾ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ C<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The swordfish can swim very fastâup to 97 kilometers per hour (km/hr)âbut it is significantly slower than the frigatebird, which can fly at speeds up to 153 km/hr. The difference between these speeds is largely ______ of the fact that the features that make flight possible do less to limit top speeds than the features suitable for swimming through water.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a consequence"
+        },
+        {
+          "name": "B",
+          "content": "an explanation"
+        },
+        {
+          "name": "C",
+          "content": "a repudiation"
+        },
+        {
+          "name": "D",
+          "content": "an objective"
+        }
+      ],
+      "correct": "a consequence",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><u>President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as security operative Jack Caulfield and Attorney General John Mitchell.</u> But Nixon's legacy is complex: he has been praised for his role in affirming the sovereignty of tribal nations, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It presents an accomplishment of a historical figure whose significance is detailed later in the text."
+        },
+        {
+          "name": "B",
+          "content": "It describes a common perception of a historical figure that is challenged by information presented later in the text."
+        },
+        {
+          "name": "C",
+          "content": "It states a claim about a historical figure that is supported by evidence later in the text."
+        },
+        {
+          "name": "D",
+          "content": "It compares the achievements of three historical figures to a fourth that is mentioned later in the text."
+        }
+      ],
+      "correct": "It describes a common perception of a historical figure that is challenged by information presented later in the text.",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br><u>çæ¥å¾·ã»å°¼åæ¾æ»ç»æä¸ºäººçç¥çæ¯ä»å¨ 20 ä¸çºª 70 å¹´ä»£æ°´é¨æ¿æ²»ä¸é»ä¸­ççµæ¶ï¼è¿æ¯ä¸ä¸ªåæ¥çç¯ç½ªè¡ä¸ºåéå¾·è´¥åçå¤æäºä»¶ï¼æ¶åå®ä¿äººåæ°åã»èè²å°å¾·åå¸æ³é¨é¿çº¦ç¿°ã»ç±³åå°ç­ä¸ä¼ç¸å³äººåã</u>ä½å°¼åæ¾çåå²éäº§æ¯å¤æçï¼ä»å å¨ç¡®è®¤é¨è½æ°æä¸»ææ¹é¢çä½ç¨èåå°èµæ¬ï¼å¹¶ä¸ä»æ¾å°è¯æ¹é©ç¾å½å»çä¿å¥æ¿ç­ï¼è¿å¯ä»¥è¯´æ¯å·´æåã»å¥¥å·´é©¬æ¿åºæé´éè¿çãå¹³ä»·å»çæ³æ¡ãçåèº«ã<br><strong>è§£æ</strong>ï¼<br><ul><li>åçº¿å¥æåºå°¼åæ¾å åä¸æ°´é¨ä¸é»èå¹¿ä¸ºäººç¥ï¼è¿æ¯å¤§ä¼å¯¹ä»çæ®éçæ³ãä½åææå°ä»å¨ç¡®è®¤é¨è½æ°æä¸»æåå»çä¿å¥æ¿ç­æ¹é©æ¹é¢çè´¡ç®ï¼è¯´æä»å¹¶éåªæè´é¢å½¢è±¡ï¼å¯¹åæå¤§ä¼çæ®éçæ³å½¢æäºææã</li><li><strong>A éé¡¹</strong>ï¼åçº¿å¥è¯´çæ¯å°¼åæ¾çè´é¢äºä»¶ï¼å¹¶éæå°±ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>B éé¡¹</strong>ï¼åç¡®æåºåçº¿å¥æè¿°äºå¯¹å°¼åæ¾çæ®éçæ³ï¼ä¸è¢«åæä¿¡æ¯æææï¼ç¬¦åææã</li><li><strong>C éé¡¹</strong>ï¼åæä¸æ¯æ¯æåçº¿å¥ä¸­å³äºå°¼åæ¾å ä¸é»åºåè¿ä¸è¯´æ³ï¼èæ¯åç°äºä»çå¶ä»æ¹é¢ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>D éé¡¹</strong>ï¼æä¸­æªå¯¹ä¸ä¸ªåå²äººç©çæå°±ä¸ç¬¬åä¸ªè¿è¡æ¯è¾ï¼è¯¥éé¡¹éè¯¯ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ B<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>In what is now Washington state, the Tulalip Tribes operate the Hibulb Cultural Center. <u>Relying on traditional knowledge to guide the design of exhibits, this institution presents Tulalip history and culture to the tribes' citizens.</u> The Comanche Nation, a tribe in Oklahoma, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren't Indigenous-led; when displaying Indigenous artifacts, such museums tend to anticipate mainly non-Indigenous audiences and rely on Euro-centric strategies for designing exhibits.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests improvements to a particular tribal cultural center."
+        },
+        {
+          "name": "B",
+          "content": "It encourages tribal citizens to attend their local cultural center."
+        },
+        {
+          "name": "C",
+          "content": "It explains how one tribal cultural center differs from other tribal cultural centers."
+        },
+        {
+          "name": "D",
+          "content": "It provides a basic description of a particular tribal cultural center."
+        }
+      ],
+      "correct": "It provides a basic description of a particular tribal cultural center.",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>å¨å¦ä»çåçé¡¿å·ï¼å¡æå©æ³¢é¨è½è¿è¥çå¸å¸å°æåä¸­å¿ãè¯¥æºæä¾é ä¼ ç»ç¥è¯æ¥æå¯¼å±è§è®¾è®¡ï¼åé¨è½å¬æ°å±ç¤ºå¡æå©æ³¢çåå²åæåãä¿åæè·é©¬å·çç§æ¼å¥é¨è½ä¹å¨å¶æåä¸­å¿éç¨äºç±»ä¼¼ç­ç¥ãè¿ä¸¤ä¸ªæåä¸­å¿ä¸éåä½æ°ä¸»å¯¼çåç©é¦å½¢æé²æå¯¹æ¯ï¼å¨å±ç¤ºåä½æ°æç©æ¶ï¼è¿ç±»åç©é¦ä¸»è¦é¢åéåä½æ°è§ä¼ï¼å¹¶éç¨ä»¥æ¬§æ´²ä¸ºä¸­å¿çå±è§è®¾è®¡ç­ç¥ã<br><strong>è§£æ</strong>ï¼<br><ul><li>åçº¿å¥ä»ç»äºå¸å¸å°æåä¸­å¿ä¾é ä¼ ç»ç¥è¯æå¯¼å±è§è®¾è®¡ï¼åé¨è½å¬æ°å±ç¤ºå¡æå©æ³¢åå²æåï¼æ¯å¯¹è¿ä¸ªç¹å®é¨è½æåä¸­å¿åºæ¬æåµçæè¿°ã</li><li><strong>A éé¡¹</strong>ï¼æä¸­æªæåå¯¹ç¹å®é¨è½æåä¸­å¿çæ¹è¿å»ºè®®ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>B éé¡¹</strong>ï¼åçº¿å¥æ²¡æé¼å±é¨è½å¬æ°åå¾å½å°æåä¸­å¿çææï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>C éé¡¹</strong>ï¼æä¸­è¯´ç§æ¼å¥é¨è½æåä¸­å¿éç¨ç±»ä¼¼ç­ç¥ï¼éç¹ä¸æ¯è¯´è¯¥ä¸­å¿ä¸å¶ä»é¨è½æåä¸­å¿çå·®å¼ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>D éé¡¹</strong>ï¼åç¡®æåºåçº¿å¥æ¯å¯¹ç¹å®é¨è½æåä¸­å¿çåºæ¬æè¿°ï¼ç¬¦åææã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ D<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Museum of Modern Art (MOMA) in New York City has an exhibition of video games that includes <i>Pac-Man</i> from 1980, which museum visitors can play on site, and <i>SimCity 2000</i> from 1994, which visitors can see only in a video presentation. MOMA claims the video presentations are only for games that would be impractical to display in a playable form, but <u>video games are an inherently interactive medium,</u> a feature that is grossly absent in a video-only presentation.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It identifies a feature of many video games that is not shared by some of the games included in MOMA's exhibition."
+        },
+        {
+          "name": "B",
+          "content": "It provides a claim about video games as art that both MOMA and the author accept as true."
+        },
+        {
+          "name": "C",
+          "content": "It describes a misconception about video games that the author believes is evident in MOMA's choice about which video games to exhibit."
+        },
+        {
+          "name": "D",
+          "content": "It presents a consideration that the author thinks partly undermines MOMA's approach to exhibiting video games."
+        }
+      ],
+      "correct": "It presents a consideration that the author thinks partly undermines MOMA's approach to exhibiting video games.",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>çº½çº¦ç°ä»£èºæ¯åç©é¦ï¼MOMAï¼ä¸¾åäºä¸åºçµå­æ¸¸æå±è§ï¼å¶ä¸­åæ¬ 1980 å¹´çãåè±äººãï¼åè§èå¯ä»¥å¨ç°åºæ¸¸ç©ï¼è¿æ 1994 å¹´çãæ¨¡æåå¸ 2000ãï¼åè§èåªè½éè¿è§é¢å±ç¤ºè§çã<u>MOMA ç§°è§é¢å±ç¤ºä»ç¨äºé£äºé¾ä»¥ä»¥å¯ç©å½¢å¼å±åºçæ¸¸æ</u>ï¼ä½çµå­æ¸¸ææ¬è´¨ä¸æ¯ä¸ç§äºå¨åªä»ï¼èä»éè¿è§é¢å±ç¤ºçæ¹å¼å®å¨ç¼ºä¹è¿ä¸ç¹æ§ã<br><strong>è§£æ</strong>ï¼<br><ul><li><u>åçº¿å¥æåºçµå­æ¸¸ææ¬è´¨æ¯äºå¨åªä»</u>ï¼è MOMA é¨åæ¸¸æä»ä»¥è§é¢å±ç¤ºï¼ç¼ºä¹äºå¨æ§ã<u>è¿ä½ç°åºä½èè®¤ä¸º MOMA è¿ç§å±è§æ¹å¼å­å¨é®é¢ï¼åçº¿å¥åå®¹åå¼±äº MOMA å±è§æäºçµå­æ¸¸æçæ¹å¼ã</u></li><li><strong>A éé¡¹</strong>ï¼éç¹å¹¶éå¨è¯´é¨åæ¸¸æä¸å·å¤äºå¨æ§è¿ä¸ç¹å¾ï¼èæ¯å¨æåº MOMA å±è§æ¹å¼çä¸è¶³ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>B éé¡¹</strong>ï¼æä¸­æªæåå³äºçµå­æ¸¸æä½ä¸ºèºæ¯çä¸»å¼ ï¼ä¸ MOMA åä½èå¹¶éé½è®¤åæ­¤åå®¹ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>C éé¡¹</strong>ï¼æä¸­æ²¡æè¯´ MOMA å¯¹çµå­æ¸¸æå­å¨è¯¯è§£ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>D éé¡¹</strong>ï¼åç¡®è¡¨æåçº¿å¥åç°äºä½èè®¤ä¸ºä¼é¨åå°åå¼± MOMA å±è§çµå­æ¸¸ææ¹å¼çå ç´ ï¼ç¬¦åææã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ D<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>In O'odham, an Indigenous language from the Southwest region of what is now the United States, <i>gogs</i> means \"a dog\", whereas <i>gogogs</i> is used to refer to several dogs. This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element \"go\" in <i>gogs</i> gets repeated in <i>gogogs</i>. There are many examples of this type of reduplication in O'odham.</p>",
+      "question": "The text makes which point about the O'odham word <i>gogogs</i>?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It contains a repetition of the element \"go\" in <i>gogs</i>."
+        },
+        {
+          "name": "B",
+          "content": "It doesn't have a clear equivalent in English."
+        },
+        {
+          "name": "C",
+          "content": "It is the only word in O'odham that uses reduplication."
+        },
+        {
+          "name": "D",
+          "content": "It is identical in meaning to several other words in O'odham."
+        }
+      ],
+      "correct": "It contains a repetition of the element \"go\" in <i>gogs</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Master and Commander</i>, first published in 1969, is a novel in Patrick O'Brian's Aubrey Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of <i>Master and Commander</i> and other books in the series, saying that they do not finish conclusively but arbitrarily stop. Other critics, however, argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's <i>The Forsyte Saga</i>.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The unusual structure that O'Brian uses for <i>Master and Commander</i> makes it one of his most intricate books."
+        },
+        {
+          "name": "B",
+          "content": "Critics have differing views regarding the efficacy of the structures of the novels in the Aubrey Maturin series."
+        },
+        {
+          "name": "C",
+          "content": "Some critics think the Aubrey/Maturin series should have the literary renown of <i>The Forsyte Saga</i>, while others disagree."
+        },
+        {
+          "name": "D",
+          "content": "Many critics judge the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels' structures."
+        }
+      ],
+      "correct": "Critics have differing views regarding the efficacy of the structures of the novels in the Aubrey Maturin series.",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>ãææµ·äºéãäº 1969 å¹´é¦æ¬¡åºçï¼æ¯å¸ç¹éåã»å¥¥å¸è±æ©æèçå¥¥ä¼¯é - é©¬å¾æç³»åå°è¯´ä¸­çä¸é¨ï¼è¯¥ç³»åå±æäºåé¨å·²å®æçä½åã<span style=\"color:#c0392b;\">ä¸äºè¯è®ºå®¶</span>å¯¹ãææµ·äºéãåè¯¥ç³»åå¶ä»ä¹¦ç±ççªåç»å±è¡¨ç¤ºä¸æ»¡ï¼ç§°è¿äºç»å±å¹¶éæç»è®ºæ§çæ¶å°¾ï¼èæ¯éæä¸­æ­ãç¶èï¼<span style=\"color:#c0392b;\">å¦ä¸äºè¯è®ºå®¶</span>åè®¤ä¸ºï¼è¿äºä¹¦ç±ä¸åºè¢«è§ä¸ºå·æä¼ ç»å¼å¤´åç»å°¾çç¬ç«ææ¬ï¼èåºè¢«çä½æ¯ä¸é¨ç¯å¹æé¿çä½åï¼ç±»ä¼¼äºå¶ä»å¤å·æ¬æäºï¼å¦çº¦ç¿°ã»é«å°æ¯åç»¥çãç¦å°èµä¸å®¶ãã<br><strong>è§£æ</strong>ï¼<br><ul><li>ææ¬ä¸»è¦éè¿°äºå¯¹äºå¥¥ä¼¯é - é©¬å¾æç³»åå°è¯´ç»æï¼è¯è®ºå®¶ä»¬å­å¨ä¸åè§ç¹ï¼ä¸é¨åæ¹è¯ç»å±çªåï¼å¦ä¸é¨åè®¤ä¸ºåºå°ç³»åçä½æ´ä½ã</li><li><strong>A éé¡¹</strong>ï¼ææ¬éç¹ä¸æ¯è¯´ãææµ·äºéãç»æä½¿å¶æä¸ºæå¤æçä¹¦ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>B éé¡¹</strong>ï¼åç¡®æåºè¯è®ºå®¶å¯¹å¥¥ä¼¯é - é©¬å¾æç³»åå°è¯´ç»æçæææ§å­å¨ä¸åçæ³ï¼ç¬¦åææã</li><li><strong>C éé¡¹</strong>ï¼æä¸­æªæåè¯è®ºå®¶å¯¹è¯¥ç³»åå°è¯´æ¯å¦åºä¸ãç¦å°èµä¸å®¶ãäº«æåç­æå­¦å£°èªçäºè®®ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>D éé¡¹</strong>ï¼æä¸­æ²¡ææå°è¯è®ºå®¶è®¤ä¸ºè¯¥ç³»åå°è¯´å°½ç®¡ç»ææç¼ºé·ä½æå·å¨±ä¹æ§ï¼è¯¥éé¡¹éè¯¯ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ B<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>\"The Monster\" is an 1898 story by Stephen Crane. In the story, the character of Jim, a young boy, accidentally damages a peony (a flower) in the yard while his father is tending to the lawn. Crane depicts the dedication and care with which his father typically cares for his lawn, writing, ______</p>",
+      "question": "Which quotation from \"The Monster\" most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"After some trouble [Jim's father] found the subject of the incident, the broken flower. Turning then, he saw the child lurking at the rear and scanning his countenance.\""
+        },
+        {
+          "name": "B",
+          "content": "\"[Jim's father] was shaving this lawn as if it were a priest's chin. All during the season he had worked at it in the coolness and peace of the evenings after supper. Even in the shadow of the cherry trees the grass was strong and healthy.\""
+        },
+        {
+          "name": "C",
+          "content": "\"[Jim's father] paused, and with the howl of the machine no longer occupying the sense, one could hear the robins in the cherry trees arranging their affairs.\""
+        },
+        {
+          "name": "D",
+          "content": "\"[Jim] went on to the lawn, very slowly, and kicking wretchedly at the turf. Presently his father came along with the whirring machine, while the sweet, new grass blades spun from the knives.\""
+        }
+      ],
+      "correct": "\"[Jim's father] was shaving this lawn as if it were a priest's chin. All during the season he had worked at it in the coolness and peace of the evenings after supper. Even in the shadow of the cherry trees the grass was strong and healthy.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/fad91ba9763b37e3c0c5a5e96f5a459e.png\" width=\"342\" height=\"396\"></p><p>In a college course on urban affairs, a student asserts that increased traffic congestion in the 1990s in the United States was present both in very large cities such as New York City, New York, and smaller areas such as Allentown-Bethlehem, Pennsylvania, and Beaumont, Texas; though those smaller areas may have been less affected by traffic congestion than very large cities, this congestion also worsened in them over time.</p>",
+      "question": "Which choice best describes data from the graph that support the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While the number of hours of traffic delay per commuter per year was always lower in the Allentown-Bethlehem, Pennsylvania area than in the New York City, New York area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period."
+        },
+        {
+          "name": "B",
+          "content": "In at least one of the three urban areas shown, the amount of traffic delay was less than 20 hours per person per year at one point between 1990 and 2000."
+        },
+        {
+          "name": "C",
+          "content": "In 1992, the amount of traffic delay in the New York City, New York area was less than 20 hours per commuter per year."
+        },
+        {
+          "name": "D",
+          "content": "Throughout the period between 1990 and 2000, the annual amount of traffic delay per commuter was greater in the Allentown-Bethlehem, Pennsylvania area than in the New York City, New York area."
+        }
+      ],
+      "correct": "While the number of hours of traffic delay per commuter per year was always lower in the Allentown-Bethlehem, Pennsylvania area than in the New York City, New York area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Biologist Rosanna Alegado believes that we might learn how multicellular organisms developed from single-celled ones if we understand why the single-celled organism <i>Salpingoeca rosetta</i>, the oldest living relative of animals, sometimes forms colonies of cells. Alegado and colleagues reviewed data from many studies of how <i>S. rosetta</i> responds when exposed to another type of single-celled organism, bacteria, including John P. Bowman's work with <i>Algoriphagus ratkowskyi</i> bacteria and Iftikhar Ahmed's work with <i>Algoriphagus boritolerans</i> bacteria. Alegado and colleagues concluded that both <i>A. ratkowskyi</i> and <i>A. boritolerans</i> might have played a role in the development of multicellular organisms.</p>",
+      "question": "Which finding, if true, would most directly support Alegado and colleagues' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Bowman and Ahmed found that <i>S. rosetta</i> tended to form colonies after bacterial exposure."
+        },
+        {
+          "name": "B",
+          "content": "Bowman found that <i>S. rosetta</i> tended to form colonies after bacterial exposure, but Ahmed did not."
+        },
+        {
+          "name": "C",
+          "content": "Ahmed found that <i>S. rosetta</i> tended to form colonies after bacterial exposure, but Bowman did not."
+        },
+        {
+          "name": "D",
+          "content": "Neither Bowman nor Ahmed found that <i>S. rosetta</i> tended to form colonies after bacterial exposure."
+        }
+      ],
+      "correct": "Bowman and Ahmed found that <i>S. rosetta</i> tended to form colonies after bacterial exposure.",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>çç©å­¦å®¶ç½æ¡å¨ã»é¿è±å å¤è®¤ä¸ºï¼å¦ææä»¬è½çè§£åç»èçç© ââ å¨ç©ç°å­æå¤èçè¿äº²é¿é¢æ°´èï¼Salpingoeca rosettaï¼ä¸ºä½ææ¶ä¼å½¢æç»èç¾¤ä½ï¼æè®¸å°±è½äºè§£å¤ç»èçç©æ¯å¦ä½ä»åç»èçç©è¿åèæ¥çãé¿è±å å¤åå¶åäºåé¡¾äºè®¸å¤å³äºé¿é¢æ°´èå¨æ¥è§¦å¦ä¸ç§åç»èçç© ââ ç»èæ¶å¦ä½ååºçç ç©¶æ°æ®ï¼è¿äºç ç©¶åæ¬çº¦ç¿°ã»Pã»é²æ¼å¯¹ææ°é£è»èï¼Algoriphagus ratkowskyiï¼çç ç©¶ï¼ä»¥åä¼å¤«èåå°ã»è¾åè¿å¾·å¯¹èçé£è»èï¼Algoriphagus boritoleransï¼çç ç©¶ãé¿è±å å¤åå¶åäºå¾åºç»è®ºï¼<span style=\"color:#c0392b;\">ææ°é£è»èåèçé£è»èå¯è½é½å¨å¤ç»èçç©çè¿åè¿ç¨ä¸­åæ¥äºä½ç¨</span>ã<br><strong>ç¿»è¯</strong>ï¼<br>13. ä»¥ä¸åªé¡¹åç°å¦æä¸ºçï¼è½æç´æ¥æ¯æé¿è±å å¤åå¶åäºçç»è®ºï¼<br><strong>è§£æ</strong>ï¼<br>é¿è±å å¤åå¶åäºçç»è®ºæ¯ææ°é£è»èåèçé£è»èå¯è½å¨å¤ç»èçç©è¿åä¸­åæ¥ä½ç¨ï¼å¶ä¾æ®æ¯é¿é¢æ°´èæ¥è§¦ç»èåçååºãå¦æ<span style=\"color:#c0392b;\">é¿é¢æ°´èæ¥è§¦ç»èåå¾åäºå½¢æç»èç¾¤ä½ï¼å°±æ´è½æ¯æç»èå¨å¤ç»èçç©è¿åä¸­åæ¥ä½ç¨è¿ä¸ç»è®º</span>ã<br><ul><li><strong>A éé¡¹</strong>ï¼é²æ¼åè¾åè¿å¾·é½åç°<span style=\"color:#c0392b;\">é¿é¢æ°´èå¨æ¥è§¦ç»èåå¾åäºå½¢æç»èç¾¤ä½</span>ï¼è¿ä¸ºç»èå¨å¤ç»èçç©è¿åä¸­åæ¥ä½ç¨æä¾äºæåæ¯æï¼è½ç´æ¥æ¯æç»è®ºã</li><li><strong>B éé¡¹</strong>ï¼é²æ¼åç°é¿é¢æ°´èæ¥è§¦ç»èåå½¢æç»èç¾¤ä½ï¼èè¾åè¿å¾·æªåç°ï¼ç»æä¸ä¸è´ï¼ä¸è½æåæ¯æç»è®ºã</li><li><strong>C éé¡¹</strong>ï¼è¾åè¿å¾·åç°é¿é¢æ°´èæ¥è§¦ç»èåå½¢æç»èç¾¤ä½ï¼èé²æ¼æªåç°ï¼ç»æä¸ä¸è´ï¼ä¸è½æåæ¯æç»è®ºã</li><li><strong>D éé¡¹</strong>ï¼é²æ¼åè¾åè¿å¾·é½æªåç°é¿é¢æ°´èæ¥è§¦ç»èåå½¢æç»èç¾¤ä½ï¼è¿ä¼åå¼±ç»è®ºï¼èä¸æ¯æ¯æã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ A<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Biologist Rosanna Alegado believes that we might learn how multicellular organisms developed from single-celled ones if we understand why the single-celled organism <em>Salpingoeca rosetta</em>, the oldest living relative of animals, sometimes forms colonies of cells. Alegado and colleagues reviewed data from many studies about how <em>S. rosetta</em> responds when exposed to another type of single-celled organism, bacteria, including Edward G. Ruby's work with <em>Vibrio fischeri</em> bacteria and Ana M. CerdeÃ±o-TÃ¡rraga's work with <em>Bacteroides fragilis</em> bacteria. Alegado and colleagues concluded that neither <em>V. fischeri</em> nor <em>B. fragilis</em> are likely to have played a significant role in the development of multicellular organisms.</p>",
+      "question": "Which finding, if true, would most directly support Alegado and colleagues' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>S. rosetta</em> tended to form colonies when exposed to <em>V. fischeri</em> and when exposed to <em>B. fragilis</em>."
+        },
+        {
+          "name": "B",
+          "content": "<em>S. rosetta</em> tended to form colonies when exposed to <em>V. fischeri</em>, but not when exposed to <em>B. fragilis</em>."
+        },
+        {
+          "name": "C",
+          "content": "<em>S. rosetta</em> tended to form colonies when exposed to <em>B. fragilis</em>, but not when exposed to <em>V. fischeri</em>."
+        },
+        {
+          "name": "D",
+          "content": "<em>S. rosetta</em> did not tend to form colonies when exposed to either <em>V. fischeri</em> or <em>B. fragilis</em>."
+        }
+      ],
+      "correct": "<em>S. rosetta</em> did not tend to form colonies when exposed to either <em>V. fischeri</em> or <em>B. fragilis</em>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Previous research has shown that plant species with a narrow geographical range tend to be more genetically homogeneous than plant species with extensive ranges are. Based on these findings, researchers recently ran simulations to predict how the genetic variation of several species of <i>Mammillaria</i>, a genus of cactus found throughout the Americas, might change in different distribution conditions. One of these species, <i>M. anniana</i>, is found only in the state of Tamaulipas. The researchers simulated what would happen if <i>M. anniana</i> spread to new habitats outside Tamaulipas, and, consistent with previous findings, the results showed that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "there was a gradual increase in the genetic homogeneity of <i>Mammillaria</i> species in states neighboring Tamaulipas."
+        },
+        {
+          "name": "B",
+          "content": "<i>Mammillaria</i> species other than <i>M. anniana</i> would become more common in Tamaulipas."
+        },
+        {
+          "name": "C",
+          "content": "several other <i>Mammillaria</i> species could survive in Tamaulipas in the future."
+        },
+        {
+          "name": "D",
+          "content": "the genetic homogeneity of <i>M. anniana</i> decreased over time."
+        }
+      ],
+      "correct": "the genetic homogeneity of <i>M. anniana</i> decreased over time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the periodic table, an element's atomic number indicates the number of protons in an atom of that element. For example, there are 25 protons in a manganese atom. Raymond Chang's textbook <i>General Chemistry: The Essential Concepts</i> ______ this concept in detail.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "discussing"
+        },
+        {
+          "name": "B",
+          "content": "discusses"
+        },
+        {
+          "name": "C",
+          "content": "to discuss"
+        },
+        {
+          "name": "D",
+          "content": "having discussed"
+        }
+      ],
+      "correct": "discusses",
+      "solution": "èç¹ï¼è°è¯­å¨è¯åéè°è¯­å¨è¯<br>ä¸»è¯­æ¯the textbookï¼è¿ä¸ªå¥å­éè¦è°è¯­å¨è¯ï¼å æ­¤æ­£ç¡®ç­æ¡æ¯Bã<br><strong>ç¿»è¯</strong>ï¼<br>å¨åç´ å¨æè¡¨ä¸­ï¼ä¸ç§åç´ çåå­åºæ°è¡¨ç¤ºè¯¥åç´ åå­ä¸­çè´¨å­æ°ãä¾å¦ï¼ä¸ä¸ªé°åå­ä¸­æ 25 ä¸ªè´¨å­ãå¼ ç¥å¾·ï¼Raymond Changï¼çæç§ä¹¦ãæ®éåå­¦ï¼åºæ¬æ¦å¿µã____è¿ä¸ªæ¦å¿µçè¯¦ç»åå®¹ã<br>16. ä»¥ä¸åªä¸ªéé¡¹è½ä½¿ææ¬ç¬¦åæ åè±è¯­çè§èï¼<br><strong>è§£æ</strong>ï¼<br><ul><li>æ­¤å¥ç¼ºå°è°è¯­å¨è¯ã</li><li><strong>A éé¡¹ âdiscussingâ</strong>&nbsp;æ¯ç°å¨åè¯å½¢å¼ï¼ä¸è½åç¬ä½è°è¯­ï¼ä¸ç¬¦åè¦æ±ã</li><li><strong>B éé¡¹ âdiscussesâ</strong>&nbsp;æ¯å¨è¯ç¬¬ä¸äººç§°åæ°å½¢å¼ï¼å¯ä½è°è¯­ï¼âRaymond Chang's textbookâ æ¯åæ°ä¸»è¯­ï¼ç¨ âdiscussesâ ç¬¦åä¸»è°ä¸è´ååï¼è½ä½¿å¥å­è¯­æ³æ­£ç¡®ã</li><li><strong>C éé¡¹ âto discussâ</strong>&nbsp;æ¯å¨è¯ä¸å®å¼ï¼ä¸è½ä½è°è¯­ï¼ä¸ç¬¦åè¦æ±ã</li><li><strong>D éé¡¹ âhaving discussedâ</strong>&nbsp;æ¯ç°å¨åè¯çå®æå¼ï¼ä¹ä¸è½åç¬ä½è°è¯­ï¼ä¸ç¬¦åè¦æ±ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ B<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>An emulsifier is a type of compound that ______ to stabilize an emulsionâa mixture of two or more liquids that otherwise would not easily blend together. In the cosmetics industry, emulsifiers like cetostearyl alcohol are commonly used to blend oil and water into homogeneous formulations, like lotions and perfumes.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "served"
+        },
+        {
+          "name": "B",
+          "content": "had served"
+        },
+        {
+          "name": "C",
+          "content": "serves"
+        },
+        {
+          "name": "D",
+          "content": "was serving"
+        }
+      ],
+      "correct": "serves",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Over the years, dozens of architectural and archaeological sites important to Hawaiian history and cultureâsuch as Grove Farm, Kilauea School, and the Hana Belt Roadâhave been added to an important ______ Hawai'i Register of Historic Places. New sites are added each year, as decided by a review board of experts including sociologist Alton Okinaka, architect Katle Stephens, and historian Bill Souza.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "list: the"
+        },
+        {
+          "name": "B",
+          "content": "list. The"
+        },
+        {
+          "name": "C",
+          "content": "list; the"
+        },
+        {
+          "name": "D",
+          "content": "list the"
+        }
+      ],
+      "correct": "list: the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1990, it was little more than a marketing gimmick. Brothers Andre and Edouard Michelin sought to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide's recommended hotels and ______ as it grew in scope and influence, the guide had its modest French eateries replaced with the best restaurants from around the world, including <i>The Eight</i> in Macau and <i>Sushi Ueda</i> in Nagoya.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "restaurants"
+        },
+        {
+          "name": "B",
+          "content": "restaurants;"
+        },
+        {
+          "name": "C",
+          "content": "restaurants and"
+        },
+        {
+          "name": "D",
+          "content": "restaurants,"
+        }
+      ],
+      "correct": "restaurants;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In their research, behavioral ______ integrate methods from psychology and economics to analyze how and why people make particular choices and to examine the broader implications of those choices for the economy.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "economists Laura Gee and Muriel Niederle,"
+        },
+        {
+          "name": "B",
+          "content": "economists Laura Gee and Muriel Niederle"
+        },
+        {
+          "name": "C",
+          "content": "economists Laura Gee, and Muriel Niederle,"
+        },
+        {
+          "name": "D",
+          "content": "economists, Laura Gee and Muriel Niederle,"
+        }
+      ],
+      "correct": "economists Laura Gee and Muriel Niederle",
+      "solution": "titleånameä¹é´æ²¡æéå·ï¼çæä¸ä¸ªæ´ä½è¯ç»ï¼æä»¥æ­£ç¡®ç­æ¡æ¯Bã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The city of Jinan, China, expanded its rapid transit system, the Jinan Metro, as recently as 2020. ______ the system will likely need to undergo further expansions as the size and needs of the city's population shift.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Still,"
+        },
+        {
+          "name": "B",
+          "content": "By contrast,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "Still,",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>ä¸­å½æµåå¸å¨ 2020 å¹´æååæ©å»ºäºå¶å¿«éäº¤éç³»ç» ---- æµåå°éã____éçåå¸äººå£è§æ¨¡åéæ±çååï¼è¯¥ç³»ç»å¯è½ä»éè¿ä¸æ­¥æ©å»ºã<br><strong>è§£æ</strong>ï¼<br><ul><li>åææå°æµåå°éå¨ 2020 å¹´åæ©å»ºï¼åæè¯´éçäººå£ååä»éè¿ä¸æ­¥æ©å»ºï¼<span style=\"color:#c0392b;\">å­å¨è½¬æå³ç³»</span>ã</li><li><strong>A éé¡¹ âStillâ</strong>&nbsp;æ âå°½ç®¡å¦æ­¤ï¼ä»ç¶â çææï¼å¯ç¨äºè¡¨ç¤ºè½¬æï¼ç¬¦åååæé»è¾å³ç³»ã</li><li><strong>B éé¡¹ âBy contrastâ</strong>&nbsp;æä¸º âç¸æ¯ä¹ä¸â ï¼ç¨äºå¯¹æ¯ä¸åäºç©ï¼æ­¤å¤å¹¶éå¯¹æ¯å³ç³»ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>C éé¡¹ âFor exampleâ</strong>&nbsp;æ¯ âä¾å¦â çææï¼ç¨äºä¸¾ä¾è¯´æï¼è¿éä¸éè¦ä¸¾ä¾ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>D éé¡¹ âInsteadâ</strong>&nbsp;è¡¨ç¤º âåèï¼ä»£æ¿â ï¼ä¸ç¬¦åæ­¤å¤é»è¾å³ç³»ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ A<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Theater industry veteran Robert Tang admits that his ambitions weren't very lofty when he created the <i>Asian American Theater Revue</i>, a website that documents information about Asian American theaters like Second Generation Productions in New York City, New York: \"Everyone had a site, so I had to have one, too.\" ______ his site has become an essential resource for industry professionals looking to learn more about Asian American plays, playwrights, theater festivals, and more.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "B",
+          "content": "Therefore,"
+        },
+        {
+          "name": "C",
+          "content": "Furthermore,"
+        },
+        {
+          "name": "D",
+          "content": "Next,"
+        }
+      ],
+      "correct": "Nevertheless,",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>æå§çèµæ·±äººå£«ç½ä¼¯ç¹ã»åæ¿è®¤ï¼ä»åå»ºãäºè£ç¾å½äººæå§è¯è®ºãç½ç«æ¶ï¼å¿åå¹¶ä¸é«è¿ãè¯¥ç½ç«è®°å½äºåçº½çº¦å¸ç¬¬äºä»£å¶ä½å¬å¸ç­äºè£ç¾å½äººå§é¢çç¸å³ä¿¡æ¯ï¼ä»è¯´ï¼âå¤§å®¶é½æç½ç«ï¼æä»¥æä¹å¾æä¸ä¸ªãâ____ ä»çç½ç«å·²æä¸ºè¡ä¸ä¸ä¸äººå£«æ·±å¥äºè§£äºè£ç¾å½äººæå§ãå§ä½å®¶ãæå§èç­åå®¹çéè¦èµæºã<br><strong>è§£æ</strong>ï¼<br>åææå°ç½ä¼¯ç¹åå»ºç½ç«æ¶å¿åä¸é«ï¼åæè¯´ç½ç«æä¸ºéè¦èµæºï¼<span style=\"color:#c0392b;\">å­å¨è½¬æå³ç³»ã</span><br><ul><li><strong>A éé¡¹ âNeverthelessâ</strong>&nbsp;æä¸º âç¶èï¼å°½ç®¡å¦æ­¤â ï¼ç¨äºè¡¨ç¤ºè½¬æï¼ç¬¦åååæé»è¾ã</li><li><strong>B éé¡¹ âThereforeâ</strong>&nbsp;è¡¨ç¤º âå æ­¤â ï¼ç¨äºå æå³ç³»ï¼æ­¤å¤ä¸æ¯å æå³ç³»ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>C éé¡¹ âFurthermoreâ</strong>&nbsp;æææ¯ âæ­¤å¤ï¼èä¸â ï¼ç¨äºè¡¥åè¯´æï¼ä¸ç¬¦åè½¬æè¯­å¢ã</li><li><strong>D éé¡¹ âNextâ</strong>&nbsp;è¡¨ç¤º âæ¥ä¸æ¥â ï¼ç¨äºæ¶é´æé¡ºåºä¸çæ¿æ¥ï¼ä¸ç¬¦åæ­¤å¤é»è¾ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ A<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The first documented use of the English word \"session\" is attributed to poet Geoffrey Chaucer's 1386 work <i>Canterbury Prologue</i>. However, Chaucer didn't write in Modern English; ______ he wrote in what we now call Middle English, which was commonly used during the period.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rather,"
+        },
+        {
+          "name": "B",
+          "content": "as a result,"
+        },
+        {
+          "name": "C",
+          "content": "similarly,"
+        },
+        {
+          "name": "D",
+          "content": "finally,"
+        }
+      ],
+      "correct": "rather,",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>è±è¯­åè¯ âsessionâ æè®°è½½çé¦æ¬¡ä½¿ç¨å¯è¿½æº¯å°è¯äººæ°å¼éã»ä¹å 1386 å¹´çä½åãåç¹ä¼¯é·æäºéã»åºè¨ããç¶èï¼ä¹åå¹¶éç¨ç°ä»£è±è¯­åä½ï¼____ä»ç¨çæ¯æä»¬ç°å¨æè¯´çä¸­ä¸çºªè±è¯­ï¼è¿å¨å½æ¶å¾å¸¸ç¨ã<br><strong>è§£æ</strong>ï¼<br>åæå¦å®äºä¹åç¨ç°ä»£è±è¯­åä½ï¼åææåºä»ç¨ä¸­ä¸çºªè±è¯­åä½ï¼å­å¨è¿ä¸æ­¥è¯´æçå³ç³»ãåé¢åºç°å¦å®ï¼åé¢ä½¿ç¨ratherãè¡¨è¾¾âä¸æ¯â¦â¦èæ¯âçé»è¾ã<br><ul><li><strong>A éé¡¹ âratherâ</strong>&nbsp;æ âèæ¯ï¼ç¸åâ çææï¼ç¨äºçº æ­£æè¿ä¸æ­¥è¯´æï¼ç¬¦åæ­¤å¤é»è¾ã</li><li><strong>B éé¡¹ âas a resultâ</strong>&nbsp;æä¸º âç»æâ ï¼ç¨äºå æå³ç³»ï¼è¿éä¸æ¯å æå³ç³»ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>C éé¡¹ âsimilarlyâ</strong>&nbsp;è¡¨ç¤º âåæ ·å°â ï¼ç¨äºç±»æ¯ï¼ä¸ç¬¦åæ­¤å¤é»è¾ã</li><li><strong>D éé¡¹ âfinallyâ</strong>&nbsp;æææ¯ âæåâ ï¼ç¨äºè¡¨ç¤ºé¡ºåºææ»ç»ï¼ä¸ç¬¦åè¯­å¢ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ A<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Kale is a vegetable that contains ascorbic acid, an essential nutrient for humans.</li><li>Blueberries are fruits that contain ascorbic acid.</li><li>There is 120 milligrams (mg) of ascorbic acid per every 100 grams (g) of kale.</li><li>There is 10 mg of ascorbic acid per every 100 g of blueberries.</li><li>Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.</li><li>Ascorbic acid is also known as vitamin C.</li></ul></blockquote>",
+      "question": "The student wants to make and support a claim that kale is a better source of vitamin C than blueberries are. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Kale contains ascorbic acid (which humans cannot make in their bodies), and blueberries do too."
+        },
+        {
+          "name": "B",
+          "content": "Blueberries contain 10 mg of vitamin C per 100 g, but kale is a better source of vitamin C; in fact, kale contains 120 mg per 100 g."
+        },
+        {
+          "name": "C",
+          "content": "Kale is a better source of vitamin C, also known as ascorbic acid, than blueberries are."
+        },
+        {
+          "name": "D",
+          "content": "Humans must get vitamin C from foods like kale and blueberries because they cannot make it in their bodies."
+        }
+      ],
+      "correct": "Blueberries contain 10 mg of vitamin C per 100 g, but kale is a better source of vitamin C; in fact, kale contains 120 mg per 100 g.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral calcite has a Mohs scale number of 3.</li><li>The mineral apatite has a Mohs scale number of 5.</li><li>The mineral topaz has a Mohs scale number of 8.</li></ul></blockquote>",
+      "question": "The student wants to explain how hard apatite is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In the Mohs scale of mineral hardness, topaz (8) is ranked higher than calcite (3)."
+        },
+        {
+          "name": "B",
+          "content": "Calcite, topaz, and apatite can be ordered by their ability to leave visible scratches on other minerals."
+        },
+        {
+          "name": "C",
+          "content": "Topaz has a Mohs scale number of 8, which means that it can scratch not only calcite but also apatite."
+        },
+        {
+          "name": "D",
+          "content": "Apatite has a Mohs scale number of 5, which means that it is harder than calcite (3) but softer than topaz (8)."
+        }
+      ],
+      "correct": "Apatite has a Mohs scale number of 5, which means that it is harder than calcite (3) but softer than topaz (8).",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Epistolary novels are novels written primarily as a series of fictional documents, typically letters.</li><li>Sometimes, the documents are journal entries, newspaper clippings, and more.</li><li><i>Julie, or The New Heloise</i> (1761) is an epistolary novel by French author Jean-Jacques Rousseau.</li><li>It consists primarily of letters sent between a man and a woman in a small French town.</li><li><i>Absolutely Normal Chaos</i> (1990) is an epistolary novel by American author Sharon Creech.</li><li>It consists primarily of journal entries written by a student during her summer vacation.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two novels. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The French author Jean-Jacques Rousseau and the American author Sharon Creech have written epistolary novels."
+        },
+        {
+          "name": "B",
+          "content": "While <i>Julie, or The New Heloise</i> and <i>Absolutely Normal Chaos</i> are both epistolary novels, the former is composed primarily of letters and the latter of journal entries."
+        },
+        {
+          "name": "C",
+          "content": "Some epistolary novels consist primarily or journal entries, but most, like Jean-Jacques Rousseau's <i>Julie, or The New Heloise</i>, consist primarily of letters."
+        },
+        {
+          "name": "D",
+          "content": "Jean-Jacques Rousseau's <i>Julie, or The New Heloise</i> and Sharon Creech's <i>Absolutely Normal Chaos</i> demonstrate the variety of documents that can be used in epistolary novels."
+        }
+      ],
+      "correct": "While <i>Julie, or The New Heloise</i> and <i>Absolutely Normal Chaos</i> are both epistolary novels, the former is composed primarily of letters and the latter of journal entries.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Most of the plant and bird species in Oahu, Hawaii, are non-native.</li><li>In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.</li><li>Researchers catalogued plant seeds found in fecal samples from nonnative birds.</li><li><i>Leptecophylla tameiameiae</i>, a flowering shrub, was one of fifteen native species catalogued.</li><li><i>Passiflora suberosa</i>, an herbaceous vine, was one of twenty-nine non-native species catalogued.</li><li>Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.</li></ul></blockquote>",
+      "question": "The student wants to compare the number of native and non-native species catalogued. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Seeds from <i>Leptecophylla tameiameiae</i> and <i>Passiflora suberosa</i> can be found in Oahu, Hawaii, but only the former plant is native."
+        },
+        {
+          "name": "B",
+          "content": "In 2019, researchers catalogued native and non-native plant seeds found in fecal samples from non-native birds."
+        },
+        {
+          "name": "C",
+          "content": "Most of the birds in Oahu, Hawaii, are non-native, and researchers have concluded that they play a vital role in seed dispersal."
+        },
+        {
+          "name": "D",
+          "content": "When cataloguing plant seeds found in bird fecal samples, researchers found more non-native seed species than native species."
+        }
+      ],
+      "correct": "When cataloguing plant seeds found in bird fecal samples, researchers found more non-native seed species than native species.",
+      "solution": ""
+    }
+  ]
+}

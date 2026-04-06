@@ -1,0 +1,682 @@
+{
+  "uuid": "74a095c1-f8cd-49b3-98b6-a91a664fe7fb",
+  "chunk": "Dv4WvnzD.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Mark Twain's 1876 novel <i>The Adventures of Tom Sawyer</i>. Tom, a child, has been told by his aunt to paint their house's fence.</p><blockquote style=\"margin-left: 40px;\">Tom appeared on the sidewalk with a bucket of whitewash and a long-handled brush. He <u>surveyed</u> the fence, and all gladness left him and a deep melancholy settled down upon his spirit. Thirty yards of board fence nine feet high.</blockquote>",
+      "question": "As used in the text, what does the word \"surveyed\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Transformed"
+        },
+        {
+          "name": "B",
+          "content": "Organized"
+        },
+        {
+          "name": "C",
+          "content": "Examined"
+        },
+        {
+          "name": "D",
+          "content": "Guaranteed"
+        }
+      ],
+      "correct": "Examined",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The influence of William Shakespeare's writings is clear in a vast range of subsequent literary works and is similarly ______ in many works in other media, from fine art (such as Edward Alcock's painting <i>Portia and Shylock</i>) to popular music (such as the musician Elvis Costello's song âMiss Macbethâ).</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "subtle"
+        },
+        {
+          "name": "B",
+          "content": "apparent"
+        },
+        {
+          "name": "C",
+          "content": "unusual"
+        },
+        {
+          "name": "D",
+          "content": "excessive"
+        }
+      ],
+      "correct": "apparent",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Apollo Moon landings (1969â1972) brought atmospheric sensors and soil sensors to the Moon and produced large amounts of data, much of which was stored on technologies that are now obsolete. A data-transfer project is working to ______ these data so that the information is available to researcher Noah Petro, who is investigating the geology of the Moon.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "salvage"
+        },
+        {
+          "name": "B",
+          "content": "improve"
+        },
+        {
+          "name": "C",
+          "content": "amend"
+        },
+        {
+          "name": "D",
+          "content": "simplify"
+        }
+      ],
+      "correct": "salvage",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from the 1895 poem <i>Ojistoh</i> by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake.</p><blockquote style=\"margin-left: 40px;\">I am Ojistoh, I am she, the wife<br>Of him whose name <u>breathes</u> bravery and life<br>And courage to the tribe who calls him chief.<br>I am Ojistoh, his white star, and he<br>Is land, and lake, and skyâand soul to me.</blockquote>",
+      "question": "As used in the text, what does the word âbreathesâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rejects"
+        },
+        {
+          "name": "B",
+          "content": "imparts"
+        },
+        {
+          "name": "C",
+          "content": "absorbs"
+        },
+        {
+          "name": "D",
+          "content": "acquiesces"
+        }
+      ],
+      "correct": "imparts",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mastering 'ajami, a Syrian art of creating intricately painted wood panels, demands a skill set that ______ innate talent: crafting the panels requires not just the ability to draw but also an understanding of traditional techniques, materials, and design elements, necessitating expertise gained through dedicated guidance from experienced artisans.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "restrains"
+        },
+        {
+          "name": "B",
+          "content": "replicates"
+        },
+        {
+          "name": "C",
+          "content": "characterizes"
+        },
+        {
+          "name": "D",
+          "content": "transcends"
+        }
+      ],
+      "correct": "transcends",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In factories, humans and robots often work together. A research team ran an experiment to find out how working with robots affects relationships between human coworkers. The experiment included teams working together to make electric motor parts. <u>One type of team included only humans and the other type included both humans and robots.</u> Participants were paid for their work and were asked about their willingness to share their earnings with their human teammates. Participants from teams with robots were more likely to share with each other than participants from teams with only humans were.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It states the results of the experiment discussed in the text."
+        },
+        {
+          "name": "B",
+          "content": "It indicates the question that the study discussed in the text was meant to answer."
+        },
+        {
+          "name": "C",
+          "content": "It explains an important part of the design of the experiment discussed in the text."
+        },
+        {
+          "name": "D",
+          "content": "It illustrates a problem that inspired the study discussed in the text."
+        }
+      ],
+      "correct": "It explains an important part of the design of the experiment discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Steve Carter's award-winning play <i>Eden</i> was produced in 1976 by the groundbreaking Negro Ensemble Company (NEC). NEC cofounder Douglas Turner Ward, who worked as an actor, director, and playwright, had met actor and producer Robert Hooks while they were performing in a 1960 touring production of Lorraine Hansberry's play <i>A Raisin in the Sun</i>. Together, they envisioned a theater company that would nurture and showcase the work of Black theater professionals. <u>Since NEC's founding in 1967, its workshops and performances have given Black playwrights, including Carter, a forum for their compelling stories.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It illustrates the widespread influence of a play discussed earlier in the text."
+        },
+        {
+          "name": "B",
+          "content": "It provides additional information about a person mentioned in the text."
+        },
+        {
+          "name": "C",
+          "content": "It emphasizes the ongoing significance of the theater company discussed in the text."
+        },
+        {
+          "name": "D",
+          "content": "It explains the circumstances that led to the formation of the theater company discussed in the text."
+        }
+      ],
+      "correct": "It emphasizes the ongoing significance of the theater company discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Despite potential independent confirmation, the apparent detection in 2020 of phosphine (PH<sub>3</sub>)âa gas that on Earth almost exclusively derives from biological sourcesâin Venus's cloud deck remains controversial, in part because Venus is thought to be uninhabitable. To evaluate such a finding's plausibility, William Bains et al. modeled multiple abiotic PH<sub>3</sub> pathways, including geochemical, atmospheric, and photochemical reactions, but none adequately explain the observed levels of PH<sub>3</sub>. If Venusian PH<sub>3</sub> does exist, it would indicate insufficiencies in the current consensus on Venus's chemistry.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It introduces an unexpected observation of a particular gas in Venus's atmosphere, presents an effort to investigate possible mechanisms that could explain that observation, and then notes an implication of that investigation's findings."
+        },
+        {
+          "name": "B",
+          "content": "It explains why the consensus view of a particular gas in Venus's atmosphere has recently become controversial, expands on a scientific team's reasons for questioning that consensus, and then suggests that future observations of Venus's atmosphere will likely be needed to settle the controversy."
+        },
+        {
+          "name": "C",
+          "content": "It compares the levels of a particular gas on Venus and Earth, sketches the chemical processes that account for differences in these levels, and then addresses some of the practical challenges of studying the presence of this gas on Venus more closely."
+        },
+        {
+          "name": "D",
+          "content": "It outlines recent efforts to confirm the presence of a particular gas in Venus's atmosphere, summarizes a research team's evaluations of those efforts' methodological shortcomings, and then explains why that team remains skeptical of the gas's future detection."
+        }
+      ],
+      "correct": "It introduces an unexpected observation of a particular gas in Venus's atmosphere, presents an effort to investigate possible mechanisms that could explain that observation, and then notes an implication of that investigation's findings.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Given the immense scope of space, the search for extraterrestrial life is almost necessarily concentrated on the exoplanets deemed to have the most plausible chance of successâtypically, atmosphere-bearing terrestrial planets orbiting within a certain range of their stars (termed the habitable zone). Claiming that Earth experienced a long transition from single-lid to plate tectonics that accelerated the emergence and evolution of complex organisms, researchers Robert J. Stern and Taras V. Gerya hold that consideration of tectonics, an often overlooked factor, could help further narrow the search for advanced extraterrestrial species.</p>",
+      "question": "Based on the text, what do Stern and Gerya most likely believe about the development of complex life on exoplanets?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is more likely to occur on habitable zone planets with atmospheres and plate tectonics than on otherwise similar planets that lack plate tectonics."
+        },
+        {
+          "name": "B",
+          "content": "It is more likely to occur if habitable zone planets with atmospheres transition from single-lid to plate tectonics late in their history than if they transition early in their history."
+        },
+        {
+          "name": "C",
+          "content": "It is probably more dependent on the presence of plate tectonics than on orbital distance from a host star or the presence of an atmosphere."
+        },
+        {
+          "name": "D",
+          "content": "It is unlikely unless the transition from single-lid to plate tectonics occurs before the acquisition of a lasting atmosphere."
+        }
+      ],
+      "correct": "It is more likely to occur on habitable zone planets with atmospheres and plate tectonics than on otherwise similar planets that lack plate tectonics.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In what is now Washington state, the Tulalip Tribes operate the Hibulb Cultural Center. Relying on traditional knowledge to guide the design of exhibits, this institution presents Tulalip history and culture to the tribesâ citizens. The Turtle Mountain Band of Chippewa, a tribe in North Dakota, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren't Indigenous led; when displaying Indigenous artifacts, such museums tend to anticipate mainly non-indigenous audiences and rely on Euro-centric strategies for designing exhibits.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "When staging Indigenous exhibits, non-Indigenous institutions should follow the example of the cultural centers operated by the Tulalip Tribes and the Turtle Mountain Band of Chippewa."
+        },
+        {
+          "name": "B",
+          "content": "The cultural centers operated by the Tulalip Tribes and the Turtle Mountain Band of Chippewa differ in strategy from non-Indigenous museums that stage Indigenous exhibits."
+        },
+        {
+          "name": "C",
+          "content": "Whereas non-Indigenous institutions stage exhibits on a wide array of subjects, the cultural centers operated by the Tulalip Tribes and the Turtle Mountain Band of Chippewa serve primarily to present Indigenous history and cultures."
+        },
+        {
+          "name": "D",
+          "content": "The strategy used by the Tulalip Tribes to present history and culture to tribal citizens differs only slightly from the strategy used by the Turtle Mountain Band of Chippewa."
+        }
+      ],
+      "correct": "The cultural centers operated by the Tulalip Tribes and the Turtle Mountain Band of Chippewa differ in strategy from non-Indigenous museums that stage Indigenous exhibits.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Wonderful Wizard of Oz</i> is a 1900 novel by L. Frank Baum. In the novel, Dorothy, who is from Kansas, finds herself in an unfamiliar place called Oz. Kansas is presented as being less appealing than Oz, as is clear when ______</p>",
+      "question": "Which quotation from <i>The Wonderful Wizard of Oz</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the narrator states, âOnce more they could see fences built beside the road; but these were painted green, and when they came to a small house, in which a farmer evidently lived, that also was painted green.â"
+        },
+        {
+          "name": "B",
+          "content": "a character says to others, âBut it will take, more than imagination to carry Dorothy back to Kansas, and Iâm sure l don't know how it can be done.â"
+        },
+        {
+          "name": "C",
+          "content": "the narrator states, âwhen Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side.â"
+        },
+        {
+          "name": "D",
+          "content": "a character says to Dorothy, âI cannot understand why you should wish to leave this beautiful country and go back to the dry, gray place you call Kansas.â"
+        }
+      ],
+      "correct": "a character says to Dorothy, âI cannot understand why you should wish to leave this beautiful country and go back to the dry, gray place you call Kansas.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img height=\"257\" src=\"/images/dab8b93c83f3bc513c91988032b08cb5.png\" width=\"588\"></div><p>Calculations may be inexact due to rounding. A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The first task in this investigation is to determine how the decline in Portugal compares to that in other countries. The student finds that ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the percent decrease in hours worked was greater in Portugal than it was in France, Argentina, or Israel."
+        },
+        {
+          "name": "B",
+          "content": "while the number of hours worked rose in Portugal between 1950 and 2017, it declined in France, Argentina, and Israel."
+        },
+        {
+          "name": "C",
+          "content": "though the decline in number of hours worked in Portugal was less than that in France and Israel, it was greater than that in Argentina."
+        },
+        {
+          "name": "D",
+          "content": "though the decline in number of hours worked in Portugal was not as great as that in France, it was greater than that in Argentina and Israel."
+        }
+      ],
+      "correct": "though the decline in number of hours worked in Portugal was not as great as that in France, it was greater than that in Argentina and Israel.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img height=\"299\" src=\"/images/ea448fbe85d9f24e911a267418716df3.png\" width=\"554\"></div><p>Ratified in 2017 by two-thirds of World Trade Organization member nations, the Trade Facilitation Agreement (TFA) is a trade-reform measure that aims to reduce redundant customs procedures and other costly aspects of international trade. In a 2021 report, economist Jayson Beckman modeled global market prices of several agricultural commodities under both the TFA and an alternative trade-reform scenario: removal of agricultural tariffs (taxes on imports that generally increase prices on imported goods). After reviewing data from the report, a student concludes that overall, consumers of the commodities listed in the table would likely benefit more from the TFA than they would from tariff removal.</p>",
+      "question": "Which choice most effectively uses data from the table to support the studentâs claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Under the tariff-removal scenario, the average prices of processed foods, wheat, and fruits and vegetables would decrease by more than 1%, while the average price of rice would decrease by less than 1%."
+        },
+        {
+          "name": "B",
+          "content": "Under the tariff-removal scenario, the average price of processed foods would increase, but the average prices of wheat and rice would decrease."
+        },
+        {
+          "name": "C",
+          "content": "Under the TFA scenario, the average prices of all four commodities would decrease, whereas under the tariff-removal scenario, only the average price of processed foods would decrease."
+        },
+        {
+          "name": "D",
+          "content": "Under the TFA scenario, the average price of rice would decrease by a smaller amount than any of the other three commoditiesâ prices would, whereas its average price would increase under the tariff-removal scenario."
+        }
+      ],
+      "correct": "Under the TFA scenario, the average prices of all four commodities would decrease, whereas under the tariff-removal scenario, only the average price of processed foods would decrease.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Man-Made World: Or, Our Androcentric Culture</i> is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ______ </p>",
+      "question": "Which quotation from <i>The Man-Made World: Or, Our Androcentric Culture</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âThat every child on earth shall have right conditions to make the best growth possible to it; that every citizen, from birth to death, shall have a chance to learn all he or she can [absorb], to develop every power that is in them.â"
+        },
+        {
+          "name": "B",
+          "content": "âWe do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbageânor incite the cabbage to [imitate] the corn. We nourish both, to its best growthâand are the richer.â"
+        },
+        {
+          "name": "C",
+          "content": "âWe have but to learn the real elements in humanity; its true powers and natural characteristics.â"
+        },
+        {
+          "name": "D",
+          "content": "âWe are now to consider the growth of the family in humanity.â"
+        }
+      ],
+      "correct": "âWe do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbageânor incite the cabbage to [imitate] the corn. We nourish both, to its best growthâand are the richer.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Zooarchaeologist OphÃ©lie Lebrasseur and her team examined a fox skeleton discovered in 1991 at an archaeological site alongside artifacts of human habitation (like spear points) in central Argentina. Lebrasseur et al. determined that the fox was <i>Dusicyon avus</i>, an extinct species resembling a jackal, and radiocarbon dating placed the fox at the site at the same time as human inhabitants. (Indeed, the inhabitants may have deliberately buried the fox.) In addition, while wild foxes have a diet entirely made of meat, isotopic signatures of the skeleton's teeth indicated that the fox's diet, like that of the humans, was partly composed of plant material. Lebrasseur et al. therefore concluded that ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the humans who were alive at the same time as the fox most likely ate more meat than the fox did."
+        },
+        {
+          "name": "B",
+          "content": "the humans who were alive at the same time as the fox hunted using the spears whose points were also found at the site."
+        },
+        {
+          "name": "C",
+          "content": "the fox may have been a companion animal of the humans who inhabited the site at the same time."
+        },
+        {
+          "name": "D",
+          "content": "the fox had a diet more similar to that of jackals than to that of wild foxes."
+        }
+      ],
+      "correct": "the fox may have been a companion animal of the humans who inhabited the site at the same time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the nineteenth century, Elizabeth Cady Stanton and Susan B. Anthony ______ for women's right to vote in the United States.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "having campaigned"
+        },
+        {
+          "name": "B",
+          "content": "campaigned"
+        },
+        {
+          "name": "C",
+          "content": "campaigning"
+        },
+        {
+          "name": "D",
+          "content": "to campaign"
+        }
+      ],
+      "correct": "campaigned",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While conducting an interview for her book <i>Latina Authors and Their Muses</i>, editor Mayra Calvani asked Sarah Cortez, author of the memoir <i>Walking Home</i>, what ______ Cortez's response was <i>Bury Me Deep</i> by Megan Abbott.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "her favorite book was."
+        },
+        {
+          "name": "B",
+          "content": "was her favorite book?"
+        },
+        {
+          "name": "C",
+          "content": "her favorite book was?"
+        },
+        {
+          "name": "D",
+          "content": "was her favorite book!"
+        }
+      ],
+      "correct": "her favorite book was.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Choreographers George Balanchine and Martha Graham both contributed sections to the dance piece <i>Episodes</i>, which premiered at New York's City Center of Music and Drama in 1959. This cross-genre collaboration brought together the distinct features of Balanchine's neoclassical ballet and Graham's modern ______ the stylistic diversity and creative innovation within the dance world.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dance, it showcased"
+        },
+        {
+          "name": "B",
+          "content": "dance. Which showcased"
+        },
+        {
+          "name": "C",
+          "content": "dance, showcasing"
+        },
+        {
+          "name": "D",
+          "content": "dance. Showcasing"
+        }
+      ],
+      "correct": "dance, showcasing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the book <i>A Theory of Harmony</i> (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the vi chord for the blll chord while ______ chord is a given chord's opposite can be determined using a music visualization tool called the circle of fifths.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "improvising which"
+        },
+        {
+          "name": "B",
+          "content": "improvising and which"
+        },
+        {
+          "name": "C",
+          "content": "improvising. Which"
+        },
+        {
+          "name": "D",
+          "content": "improvising, which"
+        }
+      ],
+      "correct": "improvising. Which",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In her <i>Silueta</i> sculpture series, the Cuban American artist Ana ______ to access what she called an âomnipresent female force,â utilized a variety of natural materials to create outlinesâor silhouettesâof her own body.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Mendieta was hoping"
+        },
+        {
+          "name": "B",
+          "content": "Mendieta hoped"
+        },
+        {
+          "name": "C",
+          "content": "Mendieta had hoped"
+        },
+        {
+          "name": "D",
+          "content": "Mendieta, hoping"
+        }
+      ],
+      "correct": "Mendieta, hoping",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the same. TendÃ¼rek in Turkey, for example, is a shield volcano, a type of volcano named for its low profile, resembling a warrior's shield lying on the ground. Opala in Russia, ______ is a caldera, a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in any case,"
+        },
+        {
+          "name": "B",
+          "content": "in contrast,"
+        },
+        {
+          "name": "C",
+          "content": "in conclusion,"
+        },
+        {
+          "name": "D",
+          "content": "in fact,"
+        }
+      ],
+      "correct": "in contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The United Nationsâ Trade and Development organization divides exports into five key categories: food items, agricultural materials, fuels, ores and raw metals, and manufactured goods (i.e., most nonfood goods made by machinery or by hand). In 2022, the majority (62 percent) of Belgium's exports were manufactured goods. ______ vaccines, medicines, and cars were its top exports.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In a broader sense,"
+        },
+        {
+          "name": "B",
+          "content": "Within this category,"
+        },
+        {
+          "name": "C",
+          "content": "In the future,"
+        },
+        {
+          "name": "D",
+          "content": "Despite this majority,"
+        }
+      ],
+      "correct": "Within this category,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A research team led by Gal Badihi has discovered that chimpanzees communicate through exchanges of gestures occurring at a pace similar to that of human conversations. ______ Chimpanzee gesture exchanges have short pauses of about 120 milliseconds between communications, comparable to the 200-millisecond average pause between turns in human speech.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "As a result,"
+        },
+        {
+          "name": "C",
+          "content": "By contrast,"
+        },
+        {
+          "name": "D",
+          "content": "Nevertheless,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Great Salt Lake in Utah is one of the world's saltiest bodies of water.</li><li>The northern portion of the lake has a higher concentration of salt than the southern portion.</li><li>Crustaceans called <i>Artemia franciscana</i> live in the southern portion.</li><li>Bacteria called <i>Nodularia</i> live in the southern portion.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between <i>Artemia franciscana</i> and <i>Nodularia</i>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Artemia franciscana</i> are crustaceans that live in the southern portion of the Great Salt Lake."
+        },
+        {
+          "name": "B",
+          "content": "<i>Artemia franciscana</i> and <i>Nodularia</i> both live in the Great Salt Lake's southern portion."
+        },
+        {
+          "name": "C",
+          "content": "The northern portion of the Great Salt Lake has a higher concentration of salt than does the southern portion."
+        },
+        {
+          "name": "D",
+          "content": "<i>Artemia franciscana</i> and <i>Nodularia</i> are different types of organisms: <i>Artemia franciscana</i> are crustaceans, whereas <i>Nodularia</i> are bacteria."
+        }
+      ],
+      "correct": "<i>Artemia franciscana</i> and <i>Nodularia</i> are different types of organisms: <i>Artemia franciscana</i> are crustaceans, whereas <i>Nodularia</i> are bacteria.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Extravehicular activities (EVAs) are activities performed outside a spacecraft by astronauts in outer space.</li><li>EVAs are also known as spacewalks.</li><li>Richard Mastracchio is a former US astronaut who has performed 9 spacewalks.</li><li>The total time of Mastracchio's spacewalks was 53 hours and 4 minutes.</li><li>Garrett Reisman is a former US astronaut who has performed 3 spacewalks.</li><li>The total time of Reisman's spacewalks was 21 hours and 21 minutes.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the astronauts Mastracchio and Reisman. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Reisman has spent less time performing spacewalks than Mastracchio has."
+        },
+        {
+          "name": "B",
+          "content": "EVAs, also known as spacewalks, are activities done by astronauts outside a spacecraft."
+        },
+        {
+          "name": "C",
+          "content": "Mastracchio and Reisman have each performed multiple spacewalks."
+        },
+        {
+          "name": "D",
+          "content": "Mastracchio has performed spacewalks, but Reisman has performed EVAs."
+        }
+      ],
+      "correct": "Mastracchio and Reisman have each performed multiple spacewalks.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Tijuana Slough National Wildlife Refuge (NWR) is a protected natural area in California.</li><li>It encompasses 1,023 acres.</li><li>The Tijuana Slough NWR was established to safeguard the habitat of the light-footed clapper rail, an endangered species.</li><li>The Tijuana Slough NWR is managed by the US Fish &amp; Wildlife Service.</li><li>The US Fish &amp; Wildlife Service limits human activities in the area.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the role the US Fish & Wildlife Service plays in safeguarding the habitat of the light-footed clapper rail. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By limiting human activities in the Tijuana Slough NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the light-footed clapper rail."
+        },
+        {
+          "name": "B",
+          "content": "Human activities are limited in the Tijuana Slough NWR, a protected natural area in California."
+        },
+        {
+          "name": "C",
+          "content": "Home to the light-footed clapper rail, the Tijuana Slough NWR is located in California, where it encompasses 1,023 acres."
+        },
+        {
+          "name": "D",
+          "content": "The 1,023-acre Tijuana Slough NWR was established to safeguard the habitat of the light-footed clapper rail, an endangered species."
+        }
+      ],
+      "correct": "By limiting human activities in the Tijuana Slough NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the light-footed clapper rail.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The cuneiform script is the earliest known set of symbols used for writing.</li><li>Sumerian was one of the first languages to be written using the cuneiform script.</li><li>Sumerian was a language in ancient Mesopotamia (present-day Iraq).</li><li>Clay tablets with Sumerian writing have been found there.</li><li>Some of these tablets are almost 5,000 years old.</li></ul></blockquote>",
+      "question": "The student wants to identify a language that was written using the cuneiform script. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Examples of Mesopotamian writing that are nearly 5,000 years old have been found."
+        },
+        {
+          "name": "B",
+          "content": "A language in ancient Mesopotamia used the cuneiform script for writing."
+        },
+        {
+          "name": "C",
+          "content": "Clay tablets with cuneiform script have been found in present-day Iraq."
+        },
+        {
+          "name": "D",
+          "content": "Sumerian, an ancient Mesopotamian language, was written using the cuneiform script."
+        }
+      ],
+      "correct": "Sumerian, an ancient Mesopotamian language, was written using the cuneiform script.",
+      "solution": ""
+    }
+  ]
+}

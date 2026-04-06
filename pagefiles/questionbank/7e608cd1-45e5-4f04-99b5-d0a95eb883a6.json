@@ -1,0 +1,682 @@
+{
+  "uuid": "7e608cd1-45e5-4f04-99b5-d0a95eb883a6",
+  "chunk": "CF9SoWBO.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Alice Wong's 2022 memoir <i>Year of the Tiger: An Activist's Life</i>. Wong has just described her tendency to procrastinate when she has a writing deadline.</p><p>In the middle of these distractions, a vibe will emerge, a point I want to make, a phrase, a hook, a title for a story, an image. A connection or epiphany can happen while watching or reading something brilliant. By doing \"nothing\" and daydreaming, I am actually <u>composing</u>, even if words don't immediately materialize.</p><p style=\"text-align: right;\">Â©2022 by Alice Wong</p>",
+      "question": "Based on the text, what does Wong most likely mean when she states that she is \"composing\"?",
+      "options": [
+        {
+          "name": "A",
+          "content": "She is deceiving herself about her true feelings about a subject."
+        },
+        {
+          "name": "B",
+          "content": "She is engaging in an important part of her writing process."
+        },
+        {
+          "name": "C",
+          "content": "She is gathering sources of information to use in her writing."
+        },
+        {
+          "name": "D",
+          "content": "She is being soothed by immersing herself in creative works by other people."
+        }
+      ],
+      "correct": "She is engaging in an important part of her writing process.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary Japanese architecture: the ______ of sleek, contemporary elements and traditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "designation"
+        },
+        {
+          "name": "B",
+          "content": "analysis"
+        },
+        {
+          "name": "C",
+          "content": "diffusion"
+        },
+        {
+          "name": "D",
+          "content": "synthesis"
+        }
+      ],
+      "correct": "synthesis",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Studying advertisements for defunct amusement parks, menus from nineteenth-century restaurants, and handbills promoting long-forgotten political candidates may seem like a frivolous pursuit, but ephemeral objects like these are useful as ______ cultural change, revealing shifts in norms, values, and concerns that traditional objects of historical inquiry may not.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "alternatives to"
+        },
+        {
+          "name": "B",
+          "content": "conjectures about"
+        },
+        {
+          "name": "C",
+          "content": "indices of"
+        },
+        {
+          "name": "D",
+          "content": "pretexts for"
+        }
+      ],
+      "correct": "indices of",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from a 1955 translation of Samuel Beckett's 1951 novel <i>Molloy</i> (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.</p><blockquote style=\"margin-left: 40px;\"><p>And having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was ravelling, discovering here and there a pale and dying sky, and the sun, already down, was <u>manifest</u> in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.</p><div style=\"text-align: right;\">Â©1955 by Grove Press, Inc.</div></blockquote>",
+      "question": "As used in the text, what does the word âmanifestâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Dwindling"
+        },
+        {
+          "name": "B",
+          "content": "Realized"
+        },
+        {
+          "name": "C",
+          "content": "Situated"
+        },
+        {
+          "name": "D",
+          "content": "Perceptible"
+        }
+      ],
+      "correct": "Perceptible",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Historians point to the rule of the Piast dynasty as crucial to the formation of the Polish state. But some differentiate between members of the dynasty like Otto BolesÅawowic, who ruled as duke in 1032 CE, and less well-documented figures like Siemowit, who is said to have ruled in the 9th century but whose historical actuality is disputed. Siemowit appears in the <em>Gesta principum Polonorum</em>, an authentic chronicle of medieval Polish history written in the 12th century. But the chronicleâs documentation of Siemowit relies on oral tradition, unlike its records of later rulers.</p>",
+      "question": "Which choice best describes the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It favorably compares the reign of Siemowit with the reign of Otto BolesÅawowic."
+        },
+        {
+          "name": "B",
+          "content": "It describes a process that was used to authenticate a particular Polish medieval text."
+        },
+        {
+          "name": "C",
+          "content": "It presents evidence in support of a particular claim about Otto BolesÅawowic."
+        },
+        {
+          "name": "D",
+          "content": "It explains why historians differ in their treatment of an aspect of Polish history."
+        }
+      ],
+      "correct": "It explains why historians differ in their treatment of an aspect of Polish history.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><em>The Silence of Dean Maitland</em> is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authorsâ given female names (crediting Mary Tuttiett rather than Maxwell Gray, in this case). Olivia Rutigliano and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A literary project is briefly described, the stance taken by Rutigliano and others in response to that project is introduced, and then support for that stance is expressed."
+        },
+        {
+          "name": "B",
+          "content": "Details about a reissue of <em>The Silence of Dean Maitland</em> are given, a question about the authorship of that work is raised, and then the circumstances of the workâs original publication are considered."
+        },
+        {
+          "name": "C",
+          "content": "<em>The Silence of Dean Maitland</em> is cited as a prominent work from a literary movement, a study of the movementâs defining features is mentioned, and then one of the studyâs insights is presented."
+        },
+        {
+          "name": "D",
+          "content": "An assertion about a literary project is reported, the team of scholars that advanced the assertion is identified, and then the reasoning behind the assertion is summarized."
+        }
+      ],
+      "correct": "A literary project is briefly described, the stance taken by Rutigliano and others in response to that project is introduced, and then support for that stance is expressed.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>For decades, ornithologists assumed that if they saw a singing Cassinâs finchâa bird species found in temperate North Americaâthey must be observing a male trying to attract a mate or claim territory. As Peter J.B. Slater and Nigel I. Mann have emphasized, however, a similar assumption canât be made about birds in the tropics, where females sing as often as males do. Slater and Mann call for more research on this discrepancy between tropical and temperate female birdsong.</p><br><p><strong>Text 2</strong></p><p>Recent evidence shows that a female Cassinâs finch is as capable of song as a male is. In fact, female birdsong is more common among temperate species than currently assumed, claim Evangeline Rose and colleagues. These female songbirds sing less frequently than males do, and in duller tones, making it âeasy for researchers to miss the quiet and hidden females and focus on the loud and colorful males,â says Rose.</p>",
+      "question": "Which choice best describes a difference in what the author of Text 1 and the author of Text 2 believe about female birdsong?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The author of Text 2 thinks that among tropical species, females sing less frequently than males do, whereas the author of Text 1 thinks that females sing as frequently as males do."
+        },
+        {
+          "name": "B",
+          "content": "The author of Text 2 would likely disagree with the author of Text 1 about whether it can be assumed that females of temperate species donât sing."
+        },
+        {
+          "name": "C",
+          "content": "The author of Text 2 believes that female birdsong is much more common among tropical species than the author of Text 1 believes."
+        },
+        {
+          "name": "D",
+          "content": "The author of Text 2 would likely reject the claim by the author of Text 1 that among tropical birds, females sing as frequently as males do."
+        }
+      ],
+      "correct": "The author of Text 2 would likely disagree with the author of Text 1 about whether it can be assumed that females of temperate species donât sing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Nathaniel Hawthorneâs 1830 short story âSir William Phips.â</p><blockquote style=\"margin-left: 40px;\"><p>The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the map, âminute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting. These defects are partly remediable, and even without an absolute violation of literal truth, although by methods rightfully interdicted to professors of biographical exactness.</p></blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Writers of fiction possess storytelling skills that historians do not."
+        },
+        {
+          "name": "B",
+          "content": "The more famous a person is, the more likely that person is to attract the attention of a historian."
+        },
+        {
+          "name": "C",
+          "content": "Maps are more practical to own than paintings."
+        },
+        {
+          "name": "D",
+          "content": "Historiansâ fidelity to the truth often results in work that is less engaging than it could be."
+        }
+      ],
+      "correct": "Historiansâ fidelity to the truth often results in work that is less engaging than it could be.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although notorious for its strict formal requirements, the sonnet is nevertheless represented by such wide-ranging examples as Maggie Andersonâs âSonnet for Her Laborâ and Tyehimba Jessâs âMillie and Christine McCoyââpoems that differ remarkably in subject, rhythm, and structure. It may seem counterintuitive that the sonnetâostensibly rigid and timewornâcould accommodate such variety, but poet Carl Phillips contends that the form invites experimentation: when a genreâs conventions are as recognizable as those of the sonnet, the opportunity to subvert them is especially irresistible.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although Andersonâs and Jessâs sonnets are both widely celebrated for their striking originality, most modern examples of the form are generally regarded as conventional."
+        },
+        {
+          "name": "B",
+          "content": "As a form, the sonnet encourages a surprising amount of variety, even though certain characteristics associated with it suggest this would be unlikely."
+        },
+        {
+          "name": "C",
+          "content": "That the sonnet remains as popular as it is today is unexpected, given that many of the features associated with the form have long since seemed antiquated to readers."
+        },
+        {
+          "name": "D",
+          "content": "Although the sonnet is now recognized for the way it facilitates experimentation, there was a long period in its history in which very little innovation occurred."
+        }
+      ],
+      "correct": "As a form, the sonnet encourages a surprising amount of variety, even though certain characteristics associated with it suggest this would be unlikely.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Postcranial skeletal pneumaticity (PSP), a system of skeletal air sacs, occurred in three Cretaceous clades, including pterosaurs (e.g., <i>Pteranodon</i>); past studies have hypothesized that the trait was homologous (originating from a shared ancestor). With this in mind, Tito Aureliano et al. examined fossils of common ancestors of the clades using microtomography, finding openings in bonesâa possible indicator of PSPâbut of sizes inconsistent with PSP. The team reported other findings contradicting the homology hypothesis as well, concluding that PSP likely evolved independently in each clade.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Aureliano et al. found openings in bones in fossils of common ancestors of pterosaurs and two other Cretaceous clades, but the team determined that the sizes of the openings were too varied to be indicative of PSP, thereby weakening the homology hypothesis."
+        },
+        {
+          "name": "B",
+          "content": "Although past studies by paleontologists concluded that PSP in pterosaurs and two other Cretaceous clades was likely attributable to a common ancestor, those paleontologists lacked access to technology that led Aureliano et al. to reach a different conclusion."
+        },
+        {
+          "name": "C",
+          "content": "Previous studies hypothesized that PSP originated in a shared ancestor of pterosaurs and two other clades, but the findings of Aureliano et al. suggest that PSP evolved independently in pterosaurs and was subsequently inherited by the other two clades."
+        },
+        {
+          "name": "D",
+          "content": "Aureliano et al. found that pterosaurs and two other Cretaceous clades with PSP likely lacked a common ancestor with the trait, leading the team to posit a different evolutionary origin for PSP than that posited in earlier studies."
+        }
+      ],
+      "correct": "Aureliano et al. found that pterosaurs and two other Cretaceous clades with PSP likely lacked a common ancestor with the trait, leading the team to posit a different evolutionary origin for PSP than that posited in earlier studies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/a563e7e0c083c0d8a677a2f7f7cd33ae.png\" width=\"970\" height=\"346\"></div><p>Deposits of valuable objects, called hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Technological advancements in the twenty-first century have made it easier to locate hoards, but plenty of hoards were found earlier. For example, ______.</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the Balline Hoard was found in 1868."
+        },
+        {
+          "name": "B",
+          "content": "the Ardagh Hoard, Balline Hoard, and Carrick-on-Suir Hoard have all been found since 1868."
+        },
+        {
+          "name": "C",
+          "content": "the Ardagh Hoard and Balline Hoard were both found before 2000."
+        },
+        {
+          "name": "D",
+          "content": "Balline Hoard and Carrick-on-Suir Hoard were both discovered in the 1900s."
+        }
+      ],
+      "correct": "the Ardagh Hoard and Balline Hoard were both found before 2000.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/19fbee16f05a749528ee5debf521a13f.png\" width=\"560\" height=\"468\"></div><p>Political scientists have asserted that by providing succinct and clear information about candidates and issues, campaign advertisements should reduce the differences in political knowledge observed between groups of voters. Cognitive scientists have noted, however, that existing domain knowledge facilitates the acquisition of new information in that domain. Valentino et al. shed light on this issue by presenting control ads or ads for George W. Bush or Al Gore (candidates in the 2000 US presidential election) to participants with low or high existing political knowledge, then quizzing participants on their understanding of both candidatesâ positions.</p>",
+      "question": "Taken together, information in the text and graph best support which conclusion about the campaign ads used in the study by Valentino et al.?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They appear to have benefited high-knowledge participants more than they benefited low-knowledge participants, which lends more support to the view advanced by political scientists than to the view advanced by cognitive scientists."
+        },
+        {
+          "name": "B",
+          "content": "They appear to have had an effect contrary to the effect that political scientists expect campaign ads to have, possibly due to the phenomenon that cognitive scientists have identified."
+        },
+        {
+          "name": "C",
+          "content": "They appear to have worsened the problem that political scientists claim that campaign ads should alleviate, possibly because the phenomenon identified by cognitive scientists appears not to have occurred."
+        },
+        {
+          "name": "D",
+          "content": "They appear to have had the result that political scientists predict that campaign ads will have, but only for high-knowledge participants, which is what cognitive scientists would expect."
+        }
+      ],
+      "correct": "They appear to have had an effect contrary to the effect that political scientists expect campaign ads to have, possibly due to the phenomenon that cognitive scientists have identified.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p></p><div style=\"text-align:center;\"><img src=\"/images/d26794a16cdd2e6406c2dab12167db09.png\" width=\"539\" height=\"177\"></div>Domestic sheepâs wild ancestor, the mouflon, has a coarse outer coat and an inner coat of wool fiber that is finer in diameter and therefore much softer. In some domestic breeds, such as the Spanish Merino, the outer fiber is only marginally coarser than the inner, and the wool is soft overall. Thus, Merino wool is ideal for delicate garments worn against the skin. Meanwhile, the Navajo-Churro has been selected to retain the marked distinction between outer and inner fiber that the Merino has lost. Being coarser than Merino wool overall, Navajo-Churro wool yields a more durable yarn, which DinÃ© (Navajo) weavers use in their celebrated rugs. Yet a comparison of the fiber characteristics of all three sheep reveals that ______ .<p></p>",
+      "question": "Which choice most effectively uses data from the table to complete the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the Navajo-Churro more closely resembles its ancestor, the mouflon, in the uniform softness of its inner fiber, while the Merino more closely resembles the mouflon in the variable diameter of its outer fiber"
+        },
+        {
+          "name": "B",
+          "content": "domestication resulted in a counterintuitive increase in the inner fiberâs minimum diameter, making the inner fiber of the Merino and the Navajo-Churro less suitable for delicate garments than the mouflonâs inner fiber is"
+        },
+        {
+          "name": "C",
+          "content": "the domestication of the mouflon and the subsequent selection process that produced the Merino and the Navajo-Churro resulted in greater softness of outer and inner fiber alike"
+        },
+        {
+          "name": "D",
+          "content": "the selection process that enabled the Navajo-Churro to retain its somewhat coarse outer fiber also resulted in inner fiber that, at its softest, is softer than either the mouflonâs or the Merinoâs inner fiber"
+        }
+      ],
+      "correct": "the selection process that enabled the Navajo-Churro to retain its somewhat coarse outer fiber also resulted in inner fiber that, at its softest, is softer than either the mouflonâs or the Merinoâs inner fiber",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Belonging to neither the minimalist nor the abstract art movements but heavily influencing both, Constantin BrÃ¢ncuÈi spent his sculpting career returning to the same few themesâa kiss, a sleeping head, and a bird in flightâeach rendered in pristine, simple, almost abstract forms. Perhaps the most famous example is <em>Bird in Space</em> (1941), a tall, slender bronze sculpture that arcs upward in a manner suggestive of a bird. Despite the seeming simplicity of his works, the exacting standards to which BrÃ¢ncuÈi held his work meant that he produced relatively few pieces over his career. There is thus something of a disparity between ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the themes BrÃ¢ncuÈi explored and the themes favored by artists he inspired."
+        },
+        {
+          "name": "B",
+          "content": "BrÃ¢ncuÈiâs importance to the history of art and his total artistic output."
+        },
+        {
+          "name": "C",
+          "content": "the nature of much of BrÃ¢ncuÈiâs work and the abstraction of <em>Bird in Space</em>."
+        },
+        {
+          "name": "D",
+          "content": "BrÃ¢ncuÈiâs relatively limited productivity and the diversity of his sculptures."
+        }
+      ],
+      "correct": "BrÃ¢ncuÈiâs importance to the history of art and his total artistic output.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Subsequent to simulating an attack to elicit defense responses in three caterpillar species, ecologists placed a treatment group of those individuals in an enclosure where they were exposed to slight, harmless ambient electric field shifts like those created by common predatory wasps in flight. When exposed to the treatment, cinnabar moth caterpillars and scarce vapourer moth caterpillars remained coiled in a defensive position for an average of 71 seconds and 87 seconds, respectively, whereas European peacock butterfly caterpillars continued to flail defensively for 20 seconds. Meanwhile, in a control group, all individuals (from all three species) resumed neutral behavior in less than one-tenth of a second after the simulated attack. These results suggest that ______ .</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "some species of caterpillars are able to detect potential threats via changes in ambient electric fields."
+        },
+        {
+          "name": "B",
+          "content": "in some caterpillar species, the type and duration of defensive responses to electric field shifts varies based on the size of the shifts."
+        },
+        {
+          "name": "C",
+          "content": "European peacock butterfly caterpillars are more sensitive to changes in ambient electric fields than are cinnabar moth caterpillars or scarce vapourer caterpillars."
+        },
+        {
+          "name": "D",
+          "content": "caterpillar species with the sensory acuity to detect small changes in ambient electric fields may also be able to cause shifts in those fields."
+        }
+      ],
+      "correct": "some species of caterpillars are able to detect potential threats via changes in ambient electric fields.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services YouTube Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium versionâs usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the implementation of the restriction reduced the overall number of users of the streaming service"
+        },
+        {
+          "name": "B",
+          "content": "restrictions on the amount of music that can be streamed may actually suppress usersâ interest in owning music"
+        },
+        {
+          "name": "C",
+          "content": "most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited, ad-free listening"
+        },
+        {
+          "name": "D",
+          "content": "consumers are unlikely to purchase physical copies of music that is readily available through streaming"
+        }
+      ],
+      "correct": "restrictions on the amount of music that can be streamed may actually suppress usersâ interest in owning music",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Occurring in the constellation Coma Berenices, 38 million light-years from Earth, SN 1940B was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into spaceâthat was first detected by American astronomer Josef Johnson.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "supernova, the"
+        },
+        {
+          "name": "B",
+          "content": "supernova. The"
+        },
+        {
+          "name": "C",
+          "content": "supernovaâthe"
+        },
+        {
+          "name": "D",
+          "content": "supernova: the"
+        }
+      ],
+      "correct": "supernovaâthe",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Taking a deconstructionist approach to analyzing Ji-li Jiangâs novel <em>Red Scarf Girl</em> would lead a critic to focus on the linguistic structures inherent in the novel. On the other hand, a cultural studies analysis ______ on the intersection of literature and popular culture might yield a radically different interpretation of Jiangâs novel.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "would focus"
+        },
+        {
+          "name": "B",
+          "content": "would be focusing"
+        },
+        {
+          "name": "C",
+          "content": "focusing"
+        },
+        {
+          "name": "D",
+          "content": "focuses"
+        }
+      ],
+      "correct": "focusing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The vertical position of the Sun in the sky at a particular time of day varies throughout the year: due to Earthâs axial tilt, it appears higher in the summer and lower in the winter. Axial tilt is not the only factor that affects the Sunâs ______ as the eccentricity of Earthâs orbit causes its position to vary horizontally as well, resulting in a figure-eight shape called an analemma (if the Sunâs position is recorded at the same time of day throughout the year).</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "position, though,"
+        },
+        {
+          "name": "B",
+          "content": "position; though,"
+        },
+        {
+          "name": "C",
+          "content": "position, though"
+        },
+        {
+          "name": "D",
+          "content": "position, though;"
+        }
+      ],
+      "correct": "position, though,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While the ancient CeltsâIron Age peoples who inhabited parts of western and central Europeâwerenât a single unified group, their art often featured common elements. These included intricate patterns of interlocking spiral lines, which often held symbolic ______ of birds, horses, and other animals; and inlaid enamel accents.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "significance. Depictions"
+        },
+        {
+          "name": "B",
+          "content": "significance: depictions"
+        },
+        {
+          "name": "C",
+          "content": "significance; depictions"
+        },
+        {
+          "name": "D",
+          "content": "significance, depictions"
+        }
+      ],
+      "correct": "significance; depictions",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scientists have long known that cyclones can contribute to the formation of polynyas, large patches of unfrozen water that sporadically form amid vast sheets of sea ice. A recent study found evidence that these polynyas may be ______ but also by vapor streams, which travel through the atmosphere from the tropics toward the North and South Poles.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "caused not only by cyclonesâ"
+        },
+        {
+          "name": "B",
+          "content": "causedânot only by cyclonesâ"
+        },
+        {
+          "name": "C",
+          "content": "caused, not only by cyclones,"
+        },
+        {
+          "name": "D",
+          "content": "caused not only by cyclones"
+        }
+      ],
+      "correct": "caused not only by cyclones",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At the Marie Hitchcock Puppet Theater in San Diego, California, audiences sit down to enjoy a live puppet show. ______ they will experience puppetry in its highest form. The theaterâs professional puppeteers are experts in any number of the dozens of puppetry styles, from bunraku puppetry to marionette puppetry.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To that end,"
+        },
+        {
+          "name": "B",
+          "content": "However,"
+        },
+        {
+          "name": "C",
+          "content": "Conversely,"
+        },
+        {
+          "name": "D",
+          "content": "There,"
+        }
+      ],
+      "correct": "There,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Every US state has an associated state soil, which is typically selected by a group of experts, then passed through the state legislature to receive its official designation. For example, Oklahomaâs Port Silt Loam soil was formally designated in 1987, and Maineâs Chesuncook soil in 1999. ______ years pass between a soilâs selection and official designation, as the legislative process can be notoriously slow.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In many cases,"
+        },
+        {
+          "name": "B",
+          "content": "Similarly,"
+        },
+        {
+          "name": "C",
+          "content": "Indeed,"
+        },
+        {
+          "name": "D",
+          "content": "Therefore,"
+        }
+      ],
+      "correct": "In many cases,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the stateâs USGS-determined centerâa point 10 miles northwest of the municipality of Broken Bowâwas inaccurate.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Next,"
+        },
+        {
+          "name": "B",
+          "content": "That being said,"
+        },
+        {
+          "name": "C",
+          "content": "Hence,"
+        },
+        {
+          "name": "D",
+          "content": "However,"
+        }
+      ],
+      "correct": "Hence,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At the Museum of Natural History in Washington, DC, a single specimen of the planktonic marine organism <em>B. pumilio</em> is preserved as the reference organism for the species. This specimen is a holotype, meaning it was the basis of the first formal scientific description of <em>B. pumilio</em>. ______ the reference organism for the planktonic <em>G. inflata</em>, preserved at the Natural History Museum in London, is a neotype, meaning it acts as a reference organism but is not the exact specimen originally described.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By contrast,"
+        },
+        {
+          "name": "B",
+          "content": "Moreover,"
+        },
+        {
+          "name": "C",
+          "content": "Admittedly,"
+        },
+        {
+          "name": "D",
+          "content": "For instance,"
+        }
+      ],
+      "correct": "By contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Vexillology is the study of flags.</li><li>The flags of many countries include symbols like animals, plants, or landforms.</li><li>These symbols often represent an aspect of the regionâs history, culture, or landscape.</li><li>The flag of El Salvador includes a palm branch.</li><li>The flag of Zambia includes an eagle.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize a difference between the two flags?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Vexillologists study flags, like those of El Salvador and Zambia."
+        },
+        {
+          "name": "B",
+          "content": "Many countries feature symbols on their flags, such as animals, plants, or landforms, and the study of these designs is known as vexillology."
+        },
+        {
+          "name": "C",
+          "content": "Countries like El Salvador and Zambia use symbols on their flags; examples include plants and animals."
+        },
+        {
+          "name": "D",
+          "content": "El Salvador includes a plant on its flag, whereas Zambiaâs flag includes an animal."
+        }
+      ],
+      "correct": "El Salvador includes a plant on its flag, whereas Zambiaâs flag includes an animal.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Leidenfrost effect occurs when liquid touches a solid surface significantly hotter than the liquidâs boiling point, forming a vapor layer that insulates the liquid before eventually collapsing.</li><li>Scientists long hypothesized that the temperatures at which Leidenfrost vapor forms and collapses vary depending on molecular variations in surfaces and liquids.</li><li>A 2023 study confirmed that the vaporâs formation temperature varies depending on molecular variations in surfaces and liquids.</li><li>The study also found that the vaporâs collapse temperature was \"nearly independent of material and fluid properties, contrary to previous theories.\"</li><li>The vaporâs collapse temperature remained consistent (around 140Â°C).</li></ul></blockquote>",
+      "question": "The student wants to refute a scientific assumption about the Leidenfrost effect. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Contrary to the hypothesis that vapor layer formation temperature is dictated by molecular variation, a 2023 study confirmed that the temperature at which the vapor layer forms depends on the surface and liquid used."
+        },
+        {
+          "name": "B",
+          "content": "Though the vapor layer created by the Leidenfrost effect can be formed at a range of temperatures, the temperature at which the layer collapses varies depending on material and fluid properties."
+        },
+        {
+          "name": "C",
+          "content": "Countering previous hypotheses, a recent study found that Leidenfrost vaporâs collapse temperature does not vary depending on material and fluid properties."
+        },
+        {
+          "name": "D",
+          "content": "Scientists had hypothesized that the formation temperature of Leidenfrost vapor depends on variations in surfaces and liquids used, but a 2023 study confirmed that the collapse temperature remains consistent."
+        }
+      ],
+      "correct": "Countering previous hypotheses, a recent study found that Leidenfrost vaporâs collapse temperature does not vary depending on material and fluid properties.",
+      "solution": ""
+    }
+  ]
+}

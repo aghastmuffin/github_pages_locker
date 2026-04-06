@@ -1,0 +1,682 @@
+{
+  "uuid": "1b5dbecd-2a08-4015-83f5-8ad883233476",
+  "chunk": "DVHEg27v.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Web developers often encourage users to create passwords that are fairly complicated and therefore difficult to guess. Nonetheless, research has shown that the more ______ approach to password selection seems to favor convenience over security: for example, the seventh most commonly used password in 2012 was the easily remembered âletmein.â</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "popular"
+        },
+        {
+          "name": "B",
+          "content": "creative"
+        },
+        {
+          "name": "C",
+          "content": "useful"
+        },
+        {
+          "name": "D",
+          "content": "complex"
+        }
+      ],
+      "correct": "popular",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The fossil remains of the individual known as LD 350-1, discovered in Ethiopia in 2013, can help paleoanthropologists not only ______ steps in the evolution of hominids but also illuminate the Pliocene epoch generally, revealing important details about the time in which LD 350-1 lived.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "yield"
+        },
+        {
+          "name": "B",
+          "content": "exploit"
+        },
+        {
+          "name": "C",
+          "content": "discern"
+        },
+        {
+          "name": "D",
+          "content": "prioritize"
+        }
+      ],
+      "correct": "discern",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>1</p>",
+      "question": "1",
+      "options": [
+        {
+          "name": "A",
+          "content": "1"
+        },
+        {
+          "name": "B",
+          "content": "1"
+        },
+        {
+          "name": "C",
+          "content": "1"
+        },
+        {
+          "name": "D",
+          "content": "1"
+        }
+      ],
+      "correct": "1",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The springbok can run very fast, up to 88 kilometers per hour (km/hr), but it is significantly slower than the peregrine falcon, which can fly at speeds up to 389 km/hr. The difference between these speeds is largely ______ of the fact that the features that make flight possible do less to limit top speeds than the features suitable for running on land.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a consequence"
+        },
+        {
+          "name": "B",
+          "content": "a repudiation"
+        },
+        {
+          "name": "C",
+          "content": "an objective"
+        },
+        {
+          "name": "D",
+          "content": "an explanation"
+        }
+      ],
+      "correct": "a consequence",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some social scientists say that while a government with effective checks and balances is key to democracy, public understanding of history is also central to public comprehension of state politics, and if a citizenry is to function, historical issues cannot remain the province only of specialists. In short, knowledge of history is not ______ and must not be left to historians alone.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "superfluous"
+        },
+        {
+          "name": "B",
+          "content": "equitable"
+        },
+        {
+          "name": "C",
+          "content": "commonplace"
+        },
+        {
+          "name": "D",
+          "content": "unattainable"
+        }
+      ],
+      "correct": "superfluous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although oil shocks such as the 16% rise in oil prices from April to September of 1973 can strongly affect individual consumers, Gbadebo Oladosu and colleagues have shown that at the level of national economies, their effects are often quite ______. The effect of recent oil shocks on the gross domestic product of China, for example, was only slightly greater than zero.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "subdued"
+        },
+        {
+          "name": "B",
+          "content": "variable"
+        },
+        {
+          "name": "C",
+          "content": "beneficial"
+        },
+        {
+          "name": "D",
+          "content": "persistent"
+        }
+      ],
+      "correct": "subdued",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Copenhagen has high pedestrian traffic, but simply replicating a feature of Copenhagen associated with walkabilityâe.g., its human-scaled architectureâmay be insufficient to induce increased walking in other cities. As urbanist Mariela Alfonzo argues, our understanding of individualsâ decision-making about whether to walk is insufficiently robust: some studies emphasize the role of <u>population density</u>, others the role of <u>average commuting distance</u>, and so on, but walking decisions are made in complex contexts in which multiple conditions and needs inform individuals' choices.</p>",
+      "question": "Which choice best describes the function of the references to âpopulation density\" and \"average commuting distance\" in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They identify factors that Alfonzo argues have been overemphasized in studies of decision-making about walking but that the text asserts are relevant to most people's walking decisions."
+        },
+        {
+          "name": "B",
+          "content": "They illustrate factors that researchers believe people consider when making walking decisions in most contexts but that the text argues are unique to walking decisions made by people in Copenhagen."
+        },
+        {
+          "name": "C",
+          "content": "They are examples of factors that studies suggest are important in people's decision-making about walking but that the text claims most people rarely consider when making walking decisions."
+        },
+        {
+          "name": "D",
+          "content": "They represent factors that have been identified as important influences on walking decisions but that the text suggests are merely some of the many factors that may contribute to people's decision-making about walking."
+        }
+      ],
+      "correct": "They represent factors that have been identified as important influences on walking decisions but that the text suggests are merely some of the many factors that may contribute to people's decision-making about walking.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>In parts of Yukon, Canada, the lynx is a major predator of the arctic ground squirrel. Researcher Andrea E. Byrom and colleagues found that when this predation pressure on arctic ground squirrels was temporarily reduced, their numbers significantly increased. This finding illustrates a foundational ecological principle: predators control prey population numbers.</p><p><strong>Text 2</strong></p><p>Mark A. Hurley and colleagues found that excluding coyotes from a site in the state of Idaho where they typically prey on mule deer had no significant effect on mule deer abundance. Many other predation relief studies show an increase in prey abundance, but those studies often focus on small, rapidly reproducing prey, like birds, squirrels, and rabbits, rather than large, slowly reproducing prey, like mule deer, which could account for the difference between those results and Hurley and colleaguesâ results.</p>",
+      "question": "Based on the texts, the author of Text 2 would most likely agree with which statement about Byrom and colleaguesâ findings (Text 1)?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They may be partially explained by the fact that lynxes are smaller and reproduce more rapidly than coyotes."
+        },
+        {
+          "name": "B",
+          "content": "They may have been different if the ratio of the body size of lynxes to that of arctic ground squirrels was greater than it is."
+        },
+        {
+          "name": "C",
+          "content": "They may reflect a response that does not tend to be observed in prey species other than arctic ground squirrels."
+        },
+        {
+          "name": "D",
+          "content": "They may be partially attributable to physical characteristics of arctic ground squirrels that are not shared by mule deer."
+        }
+      ],
+      "correct": "They may be partially attributable to physical characteristics of arctic ground squirrels that are not shared by mule deer.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>1</p>",
+      "question": "1",
+      "options": [
+        {
+          "name": "A",
+          "content": "1"
+        },
+        {
+          "name": "B",
+          "content": "1"
+        },
+        {
+          "name": "C",
+          "content": "11"
+        },
+        {
+          "name": "D",
+          "content": "1"
+        }
+      ],
+      "correct": "1",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ke Bi and colleagues relied on historical DNA (hDNA) genomic data incidentally preserved in specimens housed in natural history collections to investigate the evolutionary trajectory of the alpine chipmunk (<i>Tamias alpinus</i>). Although this approach offers unique benefits, such as the ability to contrast historical genomic data with present-day data, it remains relatively underutilized because archival specimens are sometimes stored in ways that compromise DNA quality, a situation not easily remediable undercurrent methodological paradigms and with extant DNA extraction and analysis technologies.</p>",
+      "question": "What does the text most strongly suggest about specimens from natural history collections?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While they may contain valuable genomic data, not all of them can yield usable hDNA."
+        },
+        {
+          "name": "B",
+          "content": "They are primarily used as sources of genomic data by scientists studying organisms that have undergone major evolutionary change."
+        },
+        {
+          "name": "C",
+          "content": "Because of their often-deteriorated condition, they tend to yield genomic data that are time consuming to extract and interpret."
+        },
+        {
+          "name": "D",
+          "content": "While they were used in a study that made an important scientific discovery."
+        }
+      ],
+      "correct": "While they may contain valuable genomic data, not all of them can yield usable hDNA.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The utilization of deceptive antipredator displays is well documented in the crowned lapwing (<i>Vanellus coronatus</i>) and other species of the avian order <i>Charadriiformes</i>. An extensive literature review conducted by LÃ©na de Framond et al. revealed that this trait has evolved across a surprisingly large phylogeny distribution of 13 <i>Aves</i> orders, including <i>Caprimulgiformes</i> and <i>Strigiformes</i>. Subsequent investigation of potential selection mechanisms prompted the researchers to conclude that independent of avian order, the prevalence of the trait is mediated by environmental variations associated with the absolute latitude of brooding sites.</p>",
+      "question": "Which finding, if true, would most strongly support the researchers' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The use of deceptive antipredator displays is widespread among <i>Charadriiformes</i> species independent of the absolute latitude of their breeding sites, but its prevalence in other avian orders is limited to species with brooding sites located in absolute latitudes of 0Â°-30Â°."
+        },
+        {
+          "name": "B",
+          "content": "Across the orders in the study, deceptive antipredator displays are observed in approximately 34% of species with brooding ranges of 0Â°-30Â° absolute latitude and approximately 60% of species with brooding ranges of 50Â°-80Â° absolute latitude."
+        },
+        {
+          "name": "C",
+          "content": "Deceptive antipredator displays are documented in <i>Charadriiformes</i> species across the entire range of absolute latitudes of brooding sites; antipredator displays are documented only when brooding sites are at absolute latitudes 10Â°-20Â° higher than what is typical for those species."
+        },
+        {
+          "name": "D",
+          "content": "Across the orders in the study, approximately 54% of the bird species brood in ranges from 50Â° to 80Â° absolute latitude, but most of the birds that are known to use deceptive antipredator displays brood between 0Â° and 30Â° absolute latitude."
+        }
+      ],
+      "correct": "Across the orders in the study, deceptive antipredator displays are observed in approximately 34% of species with brooding ranges of 0Â°-30Â° absolute latitude and approximately 60% of species with brooding ranges of 50Â°-80Â° absolute latitude.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Microsoft's introduction of the Xbox console in 2001 is an instance of brand extensionâthe company leveraged its brand recognition as a software producer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumersâ likelihood of purchasing brand extensions, Alicia Grasby <i>et al</i>. identified 30 extended brand pairs (e.g. the same brand of mobile phone and headphones) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby <i>et al</i>. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.</p>",
+      "question": "Which finding, if true, would provide evidence that the possibility Grasby <i>et al</i>. investigated does occur?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Consumersâ ratings varied substantially by category pair, whereas the changes in probability calculated by the researchers were broadly similar for each pair."
+        },
+        {
+          "name": "B",
+          "content": "Consumers tended to purchase more products in categories in which extended-brand pairs are found than in categories in which extendedâbrand pairs are not found."
+        },
+        {
+          "name": "C",
+          "content": "There was a strong positive correlation between consumersâ ratings and the changes in probability calculated by the researchers."
+        },
+        {
+          "name": "D",
+          "content": "Consumersâ ratings and the changes in probability calculated by the"
+        }
+      ],
+      "correct": "There was a strong positive correlation between consumersâ ratings and the changes in probability calculated by the researchers.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/001075968b933dcf82e4341656ad33aa.png\" width=\"323\" height=\"390\"></p><p>Neuroscientist Kiyohito Iigaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P3 gave equal ratings to the impressionist and color-field paintings, the data in the graph suggest that the model predicted that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "P3's ratings for impressionist and color-field paintings would differ from one another."
+        },
+        {
+          "name": "B",
+          "content": "P3's ratings for impressionist and color-field paintings would equal one another."
+        },
+        {
+          "name": "C",
+          "content": "P3 would derive less aesthetic pleasure from impressionist paintings than from color-field paintings."
+        },
+        {
+          "name": "D",
+          "content": "P3 would derive more aesthetic pleasure from impressionist paintings than from color-field paintings."
+        }
+      ],
+      "correct": "P3's ratings for impressionist and color-field paintings would differ from one another.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scholars cite <i>Men of Maize</i>, the 1949 novel by Guatemalan author Miguel Angel Asturias, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices often borrowed from the folkloric traditions of indigenous and colonial societies in the Americas are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including Orhan Pamuk, <u>whose 2001 novel <i>My Name Is Red</i> resembles classic magical realist novels in its juxtaposition of literary realism with folkloreânamely, that of Turkey.</u></p>",
+      "question": "Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âLike many works in the Latin American magical realist tradition, <i>My Name Is Red</i> is indebted to antirealistic elements in the folkloric tradition of Turkey.â"
+        },
+        {
+          "name": "B",
+          "content": "âAlthough Turkish folklore clearly informs the style and occasionally antirealistic plot of <i>My Name Is Red</i>, the novel also shows the inarguable influence of the magical realist tradition of Latin America.â"
+        },
+        {
+          "name": "C",
+          "content": "âWhile <i>My Name Is Red</i> alternates between realistic and antirealistic modes of representation, details suggesting the influence of Turkish folklore nevertheless occur throughout the novel.â"
+        },
+        {
+          "name": "D",
+          "content": "âThe logic of the realistic plot of <i>My Name Is Red</i> is repeatedly and productively disrupted by the presence of imagery and situations drawn from Turkish folklore.â"
+        }
+      ],
+      "correct": "âThe logic of the realistic plot of <i>My Name Is Red</i> is repeatedly and productively disrupted by the presence of imagery and situations drawn from Turkish folklore.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As exemplified by Yi songs about the natural environment and Tlingit songs about wildlife encounters, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla Wathl'thla, a song keeper for the Kwakwaka'wakw people in Canada, collaborated with ethnobiologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressureâa finding that demonstrates that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples."
+        },
+        {
+          "name": "B",
+          "content": "the Kwakwaka'wakw people likely would not have detailed their creation of clam gardens in songs if their efforts had not produced significantly larger clams."
+        },
+        {
+          "name": "C",
+          "content": "the clams harvested from intertidal terraces by Kwakwaka'wakw people in the past likely were a different species than the clams found in those areas today."
+        },
+        {
+          "name": "D",
+          "content": "effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs."
+        }
+      ],
+      "correct": "effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ignatius Mabasa is a novelist from Mount Darwin, Zimbabwe, who has earned international acclaim in recent years. Writers of other literary forms, such as poetry and drama, are less likely to be recognized beyond their nationsâ borders, but many are still well ______ Malika Ouattara, for example, is a celebrated slam poet from Burkina Faso.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "known,"
+        },
+        {
+          "name": "B",
+          "content": "known:"
+        },
+        {
+          "name": "C",
+          "content": "known and"
+        },
+        {
+          "name": "D",
+          "content": "known"
+        }
+      ],
+      "correct": "known:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When Malaysia joined Interpolâthe International Criminal Police ______ in 1961, the Royal Malaysian Police gained access to the combined resources of law enforcement agencies from around the globe.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Organizationâ"
+        },
+        {
+          "name": "B",
+          "content": "Organization:"
+        },
+        {
+          "name": "C",
+          "content": "Organization,"
+        },
+        {
+          "name": "D",
+          "content": "Organization"
+        }
+      ],
+      "correct": "Organizationâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The length of bird eggs varies widely across species, and an ecological ______ compared the lengths of eggs produced by different bird species found <i>Calidris alpina</i> eggs to be longer, on average, than <i>Oriolus xanthonotus</i> eggs.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "study that"
+        },
+        {
+          "name": "B",
+          "content": "study"
+        },
+        {
+          "name": "C",
+          "content": "study, which"
+        },
+        {
+          "name": "D",
+          "content": "study, that"
+        }
+      ],
+      "correct": "study that",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many works of the Roman historian Sallust (1st century BCE), including his history of the Roman Republic, <i>Histories</i>, have been lost to time. Antiquarians ______ to read one of Sallust's extant worksânot one known only through references to it by other authors, that isâmight instead procure a copy of his <i>Bellum Catilinae</i>, a chronicle of a coup attempt.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hoped"
+        },
+        {
+          "name": "B",
+          "content": "hoping"
+        },
+        {
+          "name": "C",
+          "content": "have hoped"
+        },
+        {
+          "name": "D",
+          "content": "hope"
+        }
+      ],
+      "correct": "hoping",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Suzuki method is an approach to music instruction ______ to teach music in the same natural way children learn language, emphasizes immersion in a musical community. In Suzuki violin instruction, students begin their musical education with simple classical pieces like Johann Sebastian Bachâs <i>Minuet No. 2.</i></p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "that, is aiming"
+        },
+        {
+          "name": "B",
+          "content": "that, aiming"
+        },
+        {
+          "name": "C",
+          "content": "that aims"
+        },
+        {
+          "name": "D",
+          "content": "that has aimed"
+        }
+      ],
+      "correct": "that, aiming",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a \"basket\" of goods and services priced at 100 US dollars (USD) in the United States would have cost 113 USD in fellow OECD member ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "nation Australia."
+        },
+        {
+          "name": "B",
+          "content": "nation: Australia."
+        },
+        {
+          "name": "C",
+          "content": "nation-Australia."
+        },
+        {
+          "name": "D",
+          "content": "nation, Australia."
+        }
+      ],
+      "correct": "nation Australia.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2015, geologist Peter Rogerson calculated that the geographic center of North Dakota was a point 2.7 miles southwest of the municipality of McClusky. Rogersonâs calculation was more accurate than the one from 1920 by the US Geological Survey. ______ this earlier calculation was made using far more rudimentary equipment-only cardboard and string.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Likewise,"
+        },
+        {
+          "name": "B",
+          "content": "To that end,"
+        },
+        {
+          "name": "C",
+          "content": "Of course,"
+        },
+        {
+          "name": "D",
+          "content": "Ultimately,"
+        }
+      ],
+      "correct": "Of course,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>During the 1924 New York ticker-tape parade for US Olympic champions, the ribbonlike swirls descending on the scene were paper spools from âtickers,\" telegraph machines used to transmit stock prices. Of course, the original ticker tape had long since been retired by the 2019 parade for the US women's national soccer team. ______ shredded standard paper enriched the celebration.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "With this in mind,"
+        },
+        {
+          "name": "B",
+          "content": "In addition,"
+        },
+        {
+          "name": "C",
+          "content": "Then,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "Then,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Grimanesa Amoros is a Peruvian American artist well known for her LED light sculptures.</li><li>Her sculpture <i>Uros House</i> is made of smooth multicolored LED domes.</li><li>It occupies 250 cubic feet of space.</li><li>Her sculpture <i>The Mirror Connection</i> is made of entangled blue and white LED tubes.</li><li>It occupies 252,000 cubic feet of space.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between <i>Uros House</i> and <i>The Mirror Connection</i>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Grimanesa Amoros is the artist behind <i>Uros House</i>, a sculpture made of smooth multicolored LED domes."
+        },
+        {
+          "name": "B",
+          "content": "At 252,000 cubic feet in size, Grimanesa Amorosâs <i>The Mirror Connection</i> cuts a larger figure than the 250-cubic-foot <i>Uros House</i>."
+        },
+        {
+          "name": "C",
+          "content": "<i>Uros House</i> is an LED light sculpture made by Grimanesa Amoros, as is <i>The Mirror Connection</i>."
+        },
+        {
+          "name": "D",
+          "content": "The smooth LED domes of Grimanesa Amorosâs <i>Uros House</i> stand in contrast to the tangled LED tubes of <i>The Mirror Connection</i>."
+        }
+      ],
+      "correct": "<i>Uros House</i> is an LED light sculpture made by Grimanesa Amoros, as is <i>The Mirror Connection</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Generally, an object will heat up when twisted.</li><li>The twisting of an object is known as torsion.</li><li>A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.</li><li>When a 0.2-millimeter-thick sample of three-ply spandex rubber fiber was twisted, its average surface temperature increased by 14.6Â°C.</li><li>When a 0.7-millimeter-thick sample of four-ply nickel-titanium (NiTi) wire was twisted, its average surface temperature increased by 30.4Â°C.</li></ul></blockquote>",
+      "question": "The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "When the fibers were twisted as part of the 2019 study, the surface temperature of both samples increased."
+        },
+        {
+          "name": "B",
+          "content": "Twisting an object will generally cause its temperature to increase, a process known as torsional heating."
+        },
+        {
+          "name": "C",
+          "content": "In 2019, researchers studied the effect of torsional heating on various fibers, including samples of four-ply NiTi wire and three-ply spandex rubber."
+        },
+        {
+          "name": "D",
+          "content": "The four-ply NiTi wire sample used in the 2019 study was thicker than the three-ply spandex rubber sample."
+        }
+      ],
+      "correct": "The four-ply NiTi wire sample used in the 2019 study was thicker than the three-ply spandex rubber sample.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Merle Oberon (1911-1979) was an actress born in Mumbai (then known as Bombay), India.</li><li>She was of Indian, Maori, and Irish heritage.</li><li>She was the first Indian-born actress to be nominated for an Academy Award.</li><li>Early in her career, she played many nameless, uncredited roles, such as her role in <i>Alfâs Button</i> (1930).</li><li>Later, she played many named, credited roles, such as Marjorie Ismay in <i>Forever and a Day</i> (1943).</li></ul></blockquote>",
+      "question": "The student wants to emphasize the order in which the two films were released. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Alfâs Button</i> (1930) was released early in Merle Oberon's career, whereas <i>Forever and a Day</i> (1943) came out years later."
+        },
+        {
+          "name": "B",
+          "content": "Early in her career, Merle Oberon wasn't listed in some film credits, such as the credits for the film <i>Alfâs Button</i>, where she played a nameless, uncredited role."
+        },
+        {
+          "name": "C",
+          "content": "Merle Oberon was famous for her roles in films like <i>Alfâs Button</i> (1930) and <i>Forever and a Day</i> (1943)."
+        },
+        {
+          "name": "D",
+          "content": "In <i>Alfâs Button</i> (1930), actress Merle Oberon played a nameless, uncredited role; however, in <i>Forever and a Day</i> (1943), she played a credited roleâthat of Marjorie Ismay."
+        }
+      ],
+      "correct": "<i>Alfâs Button</i> (1930) was released early in Merle Oberon's career, whereas <i>Forever and a Day</i> (1943) came out years later.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A river's stream length is the length of a line that follows along the river path.</li><li>A river's valley length is the length of a straight line drawn from the beginning of the river to the end.</li><li>The river's curviness, or sinuosity, is the ratio of the river's stream length to its valley length.</li><li>Low-sinuosity rivers have a stream length 1-1.5 times longer than their valley length, and high-sinuosity rivers have a stream length 1.5 or more times longer than their valley length.</li><li>The Willapa River in the United States has high sinuosity.</li><li>The Neales River in Australia has low sinuosity.</li></ul></blockquote>",
+      "question": "The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Willapa River's ratio of stream length to valley length, also known as sinuosity, is greater than that of the Neales River."
+        },
+        {
+          "name": "B",
+          "content": "In both the Willapa and the Neales rivers, curviness is determined by comparing stream length to valley length."
+        },
+        {
+          "name": "C",
+          "content": "The high-sinuosity Neales River in Australia is curvier than the low-sinuosity Willapa River in the United States."
+        },
+        {
+          "name": "D",
+          "content": "By comparing the stream lengths of the Willapa and Neales rivers to their valley lengths, one can calculate their curviness, or sinuosity."
+        }
+      ],
+      "correct": "The Willapa River's ratio of stream length to valley length, also known as sinuosity, is greater than that of the Neales River.",
+      "solution": ""
+    }
+  ]
+}

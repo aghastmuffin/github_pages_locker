@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz Reader</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mathquill@0.10.1/build/mathquill.css">
+</head>
+<body>
+  <main class="app">
+    <section id="resume-screen" class="card hidden">
+      <h1>Unfinished Test Found</h1>
+      <p id="resume-summary">We found saved answers from a previous session.</p>
+      <div class="row">
+        <button id="resume-load-btn">Load Saved Test</button>
+        <button id="resume-discard-btn" class="secondary">Discard Saved Test</button>
+      </div>
+      <p class="hint">Saved answers can be resumed, but the timer always starts fresh. You cannot access this saved copy of the test again if you click discard.</p>
+    </section>
+
+    <section id="loader-screen" class="card">
+      <h1>Questionbank Reader</h1>
+      <p>Enter a quiz UUID to load from the local questionbank JSON.</p>
+      <label for="uuid-input">Quiz UUID</label>
+      <input id="uuid-input" type="text" placeholder="e580c519-9667-4b3b-8a1e-a7bec6eba694" autocomplete="off">
+      <div class="row">
+        <button id="load-btn">Load Quiz</button>
+        <button id="sample-btn" class="secondary">Use Current File UUID</button>
+        <button id="load-saved-btn" class="secondary hidden">Load Saved Progress</button>
+      </div>
+      <p id="loader-error" class="error hidden"></p>
+      <p class="hint">Expected path: ./questionbank/&lt;uuid&gt;.json</p>
+      <p class="hint">For any issues reach out to <a href="mailto:levi@taeson.co">levi@taeson.co</a> version: {ADMINASSIGN_version_number}</p>
+      <p id="user-session-code" class="hint">Your user code: ---</p>
+      <div class="row row-spread loader-tools">
+        <div class="row loader-controls">
+          <label for="save-toggle" class="toggle-inline">
+            <input id="save-toggle" type="checkbox" checked>
+            <span>Enable Test Saving</span>
+          </label>
+          <label for="instructor-overview-toggle" class="toggle-inline">
+            <input id="instructor-overview-toggle" type="checkbox" checked>
+            <span>Instructor Oversight?</span>
+          </label>
+        </div>
+        <a id="instructor-overview-link" href="satsuite.html" class="link-btn secondary">Open Instructor Questions Viewer</a>
+      </div>
+
+      <hr class="divider">
+      <h2 class="subhead">Or Use the Collegeboard Names:</h2>
+      <p class="hint">Click a test button or pick a module directly.</p>
+      <div id="picker-status" class="hint">Loading manifest...</div>
+      <div id="test-picker" class="test-picker"></div>
+    </section>
+
+    <section id="quiz-screen" class="card hidden">
+      <header class="quiz-header">
+        <h2 id="quiz-title">Quiz</h2>
+        <div class="quiz-meta">
+          <span id="timer-pill" class="pill timer-pill">Time 00:00</span>
+          <span id="progress-pill" class="pill">0 / 0</span>
+          <button
+            type="button"
+            class="secondary icon-home-btn"
+            data-go-home
+            aria-label="Return to test home screen"
+            title="Return to test home screen"
+          >&#8962;</button>
+        </div>
+      </header>
+
+      <div id="question-tracker" class="question-tracker"></div>
+
+      <article id="article" class="article"></article>
+      <h3 id="question" class="question"></h3>
+
+      <div id="choice-wrap" class="choices"></div>
+
+      <div id="write-wrap" class="write-wrap hidden">
+        <label for="write-input">Your answer</label>
+        <input id="write-input" type="text" autocomplete="off">
+      </div>
+
+      <div class="row row-spread">
+        <button id="prev-btn" class="secondary">Previous</button>
+        <button id="save-draft-btn" class="secondary">Save Progress</button>
+        <button id="next-btn">Next</button>
+      </div>
+      <p id="save-status" class="hint save-status"></p>
+    </section>
+
+    <section id="result-screen" class="card hidden">
+      <div class="section-head">
+        <h2>Results</h2>
+        <button
+          type="button"
+          class="secondary icon-home-btn"
+          data-go-home
+          aria-label="Return to test home screen"
+          title="Return to test home screen"
+        >&#8962;</button>
+      </div>
+      <p id="result-uuid"></p>
+      <div class="result-grid">
+        <div class="result-box right">
+          <div class="result-label">Right</div>
+          <div id="right-count" class="result-value">0</div>
+        </div>
+        <div class="result-box wrong">
+          <div class="result-label">Wrong</div>
+          <div id="wrong-count" class="result-value">0</div>
+        </div>
+      </div>
+      <p id="percent-line"></p>
+      <p id="result-time"></p>
+      <details>
+        <summary>Question Review</summary>
+        <ol id="review-list" class="review-list"></ol>
+      </details>
+      <div class="row">
+        <button id="continue-btn" class="hidden">Continue Test</button>
+        <button id="restart-btn">Try Another UUID</button>
+        <button id="pdf-btn" class="secondary">Save Results PDF</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathquill@0.10.1/build/mathquill.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

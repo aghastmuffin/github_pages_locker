@@ -1,0 +1,682 @@
+{
+  "uuid": "872f5c64-d384-4d98-b5b2-8f9c1b11bbd1",
+  "chunk": "shDDX92S.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Lilliam Rivera's 2020 novel <i>Never Look Back</i>. The text describes the narrator arriving at his father's apartment.</p><blockquote style=\"margin-left: 40px;\"><p>\"Pops, I'm here!\" I <u>drop</u> my bag and set my guitar case against a wall. I place my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.</p></blockquote><p style=\"text-align: right;\">Â©2020 by Lilliam Rivera</p>",
+      "question": "As used in the text, what does the word \"drop\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Forget about"
+        },
+        {
+          "name": "B",
+          "content": "Put down"
+        },
+        {
+          "name": "C",
+          "content": "Unbolt"
+        },
+        {
+          "name": "D",
+          "content": "Empty"
+        }
+      ],
+      "correct": "Put down",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The invertebrates <i>Haywardozoon pacificum</i> and <i>Trophomera mangani</i> have recently been discovered inhabiting the Clarion Clipperton Zone (CCZ), an area of abyssal plain between Hawai'i and Mexico where mining is permitted. The number of other invertebrates that may inhabit the CCZ is currently ______ , as the area's biota is poorly sampled and the few samples that have been taken cannot be presumed to be representative.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "infinitesimal"
+        },
+        {
+          "name": "B",
+          "content": "verifiable"
+        },
+        {
+          "name": "C",
+          "content": "tenuous"
+        },
+        {
+          "name": "D",
+          "content": "inestimable"
+        }
+      ],
+      "correct": "inestimable",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Given that healthy genetic diversity supports honey bee population robustnessâa matter of public interest given the bees' crucial role as pollinators of many crops, such as watermelonâa study revealing a ______ of diversity among US honey bees raised concern, though it also noted the potential to enhance the number of bees carrying several newly discovered genetic variants (e.g., A2-829-4-USA).</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "paucity"
+        },
+        {
+          "name": "B",
+          "content": "redundancy"
+        },
+        {
+          "name": "C",
+          "content": "disparity"
+        },
+        {
+          "name": "D",
+          "content": "repository"
+        }
+      ],
+      "correct": "paucity",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Maryam Hosseini and her team used aerial images of well-mapped areas of Boston to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it ______ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or brick. Hosseini believes the program will improve on this already-strong performance as it gets used more.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "clumsily"
+        },
+        {
+          "name": "B",
+          "content": "reliably"
+        },
+        {
+          "name": "C",
+          "content": "rarely"
+        },
+        {
+          "name": "D",
+          "content": "slowly"
+        }
+      ],
+      "correct": "reliably",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Polynesian languages, a group of related languages originating on islands in the Pacific, typically have ______ array of consonant sounds. For example, the Tokelauan language of the South Pacific has eleven consonants, and <i>'Ålelo Hawai'i</i>, the language of the Native Hawaiian people, has eight. Globally, however, the median number of consonants per language is over twenty-two.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a musical"
+        },
+        {
+          "name": "B",
+          "content": "an unvarying"
+        },
+        {
+          "name": "C",
+          "content": "an exclusive"
+        },
+        {
+          "name": "D",
+          "content": "a modest"
+        }
+      ],
+      "correct": "a modest",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Movies that are part of larger franchises are often criticized for being predictable. Take, for instance, <i>Spider-Man: Far From Home</i> (2019), which is part of the Marvel Cinematic Universe franchise. It's true that this movie resembles earlier Marvel movies. But just because a movie has familiar elements doesn't mean it can't also be worth watching. Critics generally agree that <i>Spider-Man: Far From Home</i> isn't the most exciting franchise movie, but franchise movies are rarely as stale as some people claim. And some franchise movies, like <i>Logan</i> (2017), are wonderfully original.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The text summarizes the plot of a franchise movie, then explains how the plot is continued in a later movie in that franchise."
+        },
+        {
+          "name": "B",
+          "content": "The text explains why some people enjoyed a particular franchise movie, then considers why other people disliked it."
+        },
+        {
+          "name": "C",
+          "content": "The text describes audiences' reactions to a movie that is part of a larger franchise, then presents some critics' reactions to that movie."
+        },
+        {
+          "name": "D",
+          "content": "The text discusses a common criticism of franchise movies, then argues that the criticism is mostly undeserved."
+        }
+      ],
+      "correct": "The text discusses a common criticism of franchise movies, then argues that the criticism is mostly undeserved.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Julia Alvarez's 2000 novel <i>In the Name of SalomÃ©</i>. SalomÃ©, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.</p><blockquote style=\"margin-left: 40px;\">It was evening when the two men got up to leave. TÃ­a Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into SalomÃ©'s salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.</blockquote><p style=\"text-align: right;\">Â©2000 by Julia Alvarez</p>",
+      "question": "Which choice best describes the function of the reference to the parlor as Tia Ana's \"special province\"?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It reveals that Tia Ana feels as if SalomÃ© has betrayed her trust by allowing guests into a space she considers her own."
+        },
+        {
+          "name": "B",
+          "content": "It indicates the joy that Tia Ana feels when she uses her classroom for varying purposes."
+        },
+        {
+          "name": "C",
+          "content": "It characterizes the room as a place where Tia Ana can go to escape social pressures."
+        },
+        {
+          "name": "D",
+          "content": "It introduces an idea that helps explain Tia Ana's apparent eagerness for SalomÃ©'s guests to leave the space."
+        }
+      ],
+      "correct": "It introduces an idea that helps explain Tia Ana's apparent eagerness for SalomÃ©'s guests to leave the space.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>Despite how the Indian dish madras differs from Mauritius's gato pima, both dishes are described as a \"curry.\" The word's history, however, is fraught. It's a term created by British and Portuguese colonizers to refer to the myriad spiced sauces with ties to the Indian subcontinent. In 1973, chef Madhur Jaffrey dismissed the term \"curry\" as inaccurate, and in 2021 blogger Nisha Vedi Pawar suggested that people abandon the term both for its colonial origin and for its failure to grasp the intricacies of India's cuisines.</p><p><strong>Text 2</strong></p><p>Growing up in India, chef Chintan Pandya didn't encounter the term \"curry\" often: his family didn't cook curries, but some of his neighbors did. Although the blanket use of the term is rooted in colonialism, Pandya calls some of his dishes curries. Having traveled throughout India as part of his training, he came to appreciate the country's diverse cuisines and the diverse uses of the term \"curry.\"</p>",
+      "question": "Text 1 and Text 2 present points of view about which topic?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The history about the peoples on the Indian subcontinent."
+        },
+        {
+          "name": "B",
+          "content": "The use of the term \"curry.\""
+        },
+        {
+          "name": "C",
+          "content": "The difference between madras and gato pima."
+        },
+        {
+          "name": "D",
+          "content": "The best method for studying a region's cuisine."
+        }
+      ],
+      "correct": "The use of the term \"curry.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Sandra Cisneros's English-language short story \"Eyes of Zapata\" occasionally includes words and phrases from the Mexican dialect of Spanish. While the story doesn't translate the Spanish text into English, the meaning can be inferred from the surrounding English text. Ana Castillo adopts a comparable approach to Spanish in her English-language novel <i>So Far from God</i>. Both works thus remain accessible to all readers of English, not just those who can also read Spanish.</p>",
+      "question": "What is the main topic of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The difficulty of translating Sandra Cisneros's works into languages other than English."
+        },
+        {
+          "name": "B",
+          "content": "The commercial success of English-language literature around the world."
+        },
+        {
+          "name": "C",
+          "content": "The enduring popularity of Ana Castillo's works in Mexico."
+        },
+        {
+          "name": "D",
+          "content": "The use of non-English vocabulary in two English-language literary works."
+        }
+      ],
+      "correct": "The use of non-English vocabulary in two English-language literary works.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a large community science effort, biologist Grace Herzel and colleagues collaborated with hundreds of students and other amateur science enthusiasts for more than three years to study how butterfly color and weather conditions relate to butterfly behavior. They found that butterfly color might influence behavior more than butterfly size does, and that butterflies tended to prefer orange and red flowers on cloudy days and multicolor flowers on partly cloudy days.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Collaboration between professional scientists and members of the public is especially useful when studying the behavior of butterflies and other flying insects."
+        },
+        {
+          "name": "B",
+          "content": "A recent study suggested that butterflies' coloring seems to be less relevant to their behavior than weather conditions."
+        },
+        {
+          "name": "C",
+          "content": "Weather conditions and butterfly color seem to have less influence on butterfly behavior than the location where the butterflies are studied does."
+        },
+        {
+          "name": "D",
+          "content": "A large study suggested that butterfly color and weather conditions might influence the behavior of certain butterflies."
+        }
+      ],
+      "correct": "A large study suggested that butterfly color and weather conditions might influence the behavior of certain butterflies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Uncle Boonmee Who Can Recall His Past Lives</i> (2010) and other films by Thai director Apichatpong Weerasethakul are contributions to slow cinema, an art house genre whose contemplative pacing and deprivileging of narrative are further exemplified by films such as Andrei Tarkovsky's <i>Solaris</i> (1972). Apichatpong describes his films as sleep inducing, which might suggest that they bore their audiences, but boredom does not necessarily cause sleep: in the absence of a goal to which one attaches attention and interest, the tension of boredom can be anxiety inducing rather than soporific. Thus, Apichatpong's description of his films is not self-deprecation; rather, his work invites sleep and thereby strips the description of its negative connotation.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Audiences will fail to enjoy both <i>Solaris</i> and <i>Uncle Boonmee Who Can Recall His Past Lives</i> if they confuse sleepiness with boredom."
+        },
+        {
+          "name": "B",
+          "content": "Slow-cinema films can relieve anxiety for those who embrace their languid pace, but the films increase anxiety for those experiencing boredom as a result of the lack of a cohesive narrative."
+        },
+        {
+          "name": "C",
+          "content": "<i>Solaris</i> and many other slow cinema films often induce anxiety in their audiences due to their measured pace, but films by Apichatpong do not, despite possessing other traits characteristic of the genre."
+        },
+        {
+          "name": "D",
+          "content": "It would be a misunderstanding to interpret Apichatpong's reflection on his work as a confession of its failure, because the effects his films produce on audiences are intentional."
+        }
+      ],
+      "correct": "It would be a misunderstanding to interpret Apichatpong's reflection on his work as a confession of its failure, because the effects his films produce on audiences are intentional.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/842fab7cd2c141096f14a8572f138bea.png\" style=\"width: 400px; height: 454px;\"></div><p>The Pueblo of Laguna is the largest of the nineteen Pueblo tribal nations in New Mexico, covering nearly 800 square miles. Most Pueblo tribal nations are much smaller. For example, the total area of Pueblo of Sandia is 38.9 square miles, and the total area of Pueblo de Cochiti is ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "156.2 square miles."
+        },
+        {
+          "name": "B",
+          "content": "595.7 square miles."
+        },
+        {
+          "name": "C",
+          "content": "82.1 square miles."
+        },
+        {
+          "name": "D",
+          "content": "21.4 square miles."
+        }
+      ],
+      "correct": "82.1 square miles.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/d3eb8135782a69903c16ab868b825851.png\" style=\"width: 400px; height: 258px;\"></div><p>A student who is researching volcanoes in Ecuador notes that the country is home to different types of volcanoes. For example, ______</p>",
+      "question": "Which choice most effectively uses information from the table to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Chacana is a caldera volcano, and Fernandina is a stratovolcano."
+        },
+        {
+          "name": "B",
+          "content": "Chimborazo is a caldera volcano, and Imbabura is a stratovolcano."
+        },
+        {
+          "name": "C",
+          "content": "Imbabura is a compound volcano, and Chacana is a shield volcano."
+        },
+        {
+          "name": "D",
+          "content": "Fernandina is a shield volcano, and Chimborazo is a stratovolcano."
+        }
+      ],
+      "correct": "Fernandina is a shield volcano, and Chimborazo is a stratovolcano.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mariana Lopes Barata and Pedro Simoes Coelho collected data from 324 music-streaming service users to identify factors that influence users to opt for paid (premium) versions of music streaming services, like Spotify. They hypothesized that effort expectancy (the perceived ease with which a service can be used by a consumer) would be positively correlated with users' intentions to adopt premium versions. The researchers asked participants to rate statements such as \"I find paid music streaming services easy to use.\" They found that, indeed, effort expectancy positively influences the intention to adopt premium streaming service versions, which suggests that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "it may be advantageous for music streaming companies to try to influence the extent to which potential users perceive the use of the premium version as effortless."
+        },
+        {
+          "name": "B",
+          "content": "participants who strongly agreed with the statement \"I find paid music streaming services easy to use\" were more likely to express loyalty to Spotify than to other streaming services."
+        },
+        {
+          "name": "C",
+          "content": "users' intentions to pay for premium streaming services are probably unaffected by factors other than effort expectancy."
+        },
+        {
+          "name": "D",
+          "content": "the statement \"I find paid music streaming services easy to use\" is not a reliable measure of effort expectancy."
+        }
+      ],
+      "correct": "it may be advantageous for music streaming companies to try to influence the extent to which potential users perceive the use of the premium version as effortless.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>British professional soccer team Manchester United Football Club, whose home uniform color is mainly red, won more than half its home matches between 1947 and 2003. This is a higher proportion of home matches than Hull City Association Football Club, whose home uniform color is not red, won during the same period. According to a study by Martin J. Attrill and colleagues, the color red can cause people to respond with fear and hesitation, which the researchers think helps explain Manchester United's success. Nadav Goldschmied and colleagues reanalyzed the published data from this study, however, and found no evidence that red uniformed teams are more likely than other teams to win, suggesting that Manchester United's performance at its home stadium ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "would probably have remained roughly the same if its players had not been wearing red uniforms."
+        },
+        {
+          "name": "B",
+          "content": "was likely influenced by its opponents' associations with the color red."
+        },
+        {
+          "name": "C",
+          "content": "was directly tied to its players' general satisfaction with their uniform color."
+        },
+        {
+          "name": "D",
+          "content": "may have influenced other teams to change their uniform colors."
+        }
+      ],
+      "correct": "would probably have remained roughly the same if its players had not been wearing red uniforms.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>London-based Nigerian sculptor Sokari Douglas Camp creates art by cutting, bending, and welding recycled metal materials into new and thought-provoking shapes. Her workâwhich has been featured in galleries around the world, such as the Potters Field Commission for Southwark Council in London and Skidmore College's Tang Teaching Museum and Art Gallery in New Yorkâoften references at least one of several ______ the environment, and Kalabari culture.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "themes; movement,"
+        },
+        {
+          "name": "B",
+          "content": "themes. Movement,"
+        },
+        {
+          "name": "C",
+          "content": "themes movement,"
+        },
+        {
+          "name": "D",
+          "content": "themes: movement,"
+        }
+      ],
+      "correct": "themes: movement,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Drummer Dennis Chambers's distinguished career includes many memorable achievements, such as working on the Brecker Brothers' album <i>Return of the Brecker Brothers</i>. However, as house drummer at Sugar Hill Records, a record label that was a pioneer of early hip hop ______ Chambers joined too late to play drums on the label's classic song \"Rapper's Delight.\"</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "music,"
+        },
+        {
+          "name": "B",
+          "content": "music;"
+        },
+        {
+          "name": "C",
+          "content": "music, which"
+        },
+        {
+          "name": "D",
+          "content": "music"
+        }
+      ],
+      "correct": "music,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Blaise Pascal's Pascaline deviceâconceived, like William Oughtred's earlier Circular Slide Rule, amid the seventeenth century push to replace manual calculations with faster and more accurate machine based methodsâ ______ among the first reproducible calculating machines.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "being"
+        },
+        {
+          "name": "B",
+          "content": "were"
+        },
+        {
+          "name": "C",
+          "content": "was"
+        },
+        {
+          "name": "D",
+          "content": "are"
+        }
+      ],
+      "correct": "was",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When a soil is classified using the International Union of Soil Sciences' system, its similarity to each of the 32 soil reference groupsâdefined by several criteriaâ ______ evaluated, one group at a time, until a match is found. The comparisons are made in a specific order: thus, the criteria for lixisols (soils with clay rich subsoil) are only applied if the soil doesn't match the criteria for ferralsols.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have been"
+        },
+        {
+          "name": "B",
+          "content": "are"
+        },
+        {
+          "name": "C",
+          "content": "is"
+        },
+        {
+          "name": "D",
+          "content": "was"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Enacted in 1944, Iceland's constitution, according to legal ______ contains one of the six constitutional features that enhance judicial independence. Explicit provisions for judicial independence, Melton and Ginsburg's research explains, are more likely to be found in constitutions enacted after 1985.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "researchers James Melton and Tom Ginsburg"
+        },
+        {
+          "name": "B",
+          "content": "researchers, James Melton and Tom Ginsburg"
+        },
+        {
+          "name": "C",
+          "content": "researchers James Melton and Tom Ginsburg,"
+        },
+        {
+          "name": "D",
+          "content": "researchers, James Melton and Tom Ginsburg."
+        }
+      ],
+      "correct": "researchers James Melton and Tom Ginsburg,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many works of the Roman scholar Varro (1st century BCE), including his history of Rome, <i>De gente populi Romani</i>, have been lost to time. Scholars wishing to read a work written by the Roman scholar needn't ______ they can still procure a copy of Varro's <i>Rerum rusticarum libra tres</i>, a treatise on agriculture.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "despair, though"
+        },
+        {
+          "name": "B",
+          "content": "despair, though,"
+        },
+        {
+          "name": "C",
+          "content": "despair, though;"
+        },
+        {
+          "name": "D",
+          "content": "despairâthough"
+        }
+      ],
+      "correct": "despair, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Amruta Yelamanchili has worked at NASA's famed Jet Propulsion Laboratory (JPL), one of the world's leading facilities for robotic space exploration. ______ Yelamanchili worked as a data scientist on the JPL's Mars 2020 Perseverance rover team, which improved upon the 2011 Curiosity rover design by adding a coring drill to the robot that could collect rock samples for later analysis.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "Conversely,"
+        },
+        {
+          "name": "C",
+          "content": "Finally,"
+        },
+        {
+          "name": "D",
+          "content": "Nevertheless,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Two siblings from the same biological parents can inherit different physical traits. For instance, one sibling might inherit thin lips; the other sibling, ______ might inherit full lips.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "by contrast,"
+        },
+        {
+          "name": "B",
+          "content": "for example,"
+        },
+        {
+          "name": "C",
+          "content": "with this in mind,"
+        },
+        {
+          "name": "D",
+          "content": "lastly,"
+        }
+      ],
+      "correct": "by contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>One proposed boundary between Earth's atmosphere and outer space is the KÃ¡rmÃ¡n line, 100 km above sea level. Based on the work of physicist Theodore von KÃ¡rmÃ¡n, this line marks the theoretical height at which an aircraft no longer remains aloft using the force of lift. ______ an aircraft sustains flight past this altitude primarily by its velocity, reaching a speed sufficient to maintain an orbit but not to generate enough lift from the thin air.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Regardless,"
+        },
+        {
+          "name": "B",
+          "content": "For instance,"
+        },
+        {
+          "name": "C",
+          "content": "Granted,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "Instead,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>E.M. Forster was an acclaimed writer.</li><li>He is best known for his novels.</li><li>Forster's most famous novels include <i>A Room with a View</i> (1908) and <i>Howards End</i> (1910).</li><li>His first published work of fiction was a short story called \"Albergo Empedocle.\"</li><li>It was published in <i>Temple Bar</i> in 1903.</li></ul></blockquote>",
+      "question": "The student wants to provide a specific example of one of E.M. Forster's most famous works. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "E.M. Forster was an acclaimed writer known for his novels."
+        },
+        {
+          "name": "B",
+          "content": "\"Albergo Empedocle\" was published before some of E.M. Forster's most famous novels."
+        },
+        {
+          "name": "C",
+          "content": "The 1908 novel <i>A Room with a View</i> is one of E.M. Forster's most famous works."
+        },
+        {
+          "name": "D",
+          "content": "E.M. Forster's first published work of fiction was a 1903 short story called \"Albergo Empedocle.\""
+        }
+      ],
+      "correct": "The 1908 novel <i>A Room with a View</i> is one of E.M. Forster's most famous works.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Carnegie Prize is an international art competition administered by the Carnegie Museum of Art in Pittsburgh, Pennsylvania.</li><li>Painter Anselm Kiefer of Germany won a Carnegie Prize gold medal in 1985.</li><li>Kiefer's winning artwork was a painting entitled <i>Midgard</i>.</li><li>Sculptor Jean Arp of Germany won a Carnegie Prize gold medal in 1964.</li><li>Arp's winning artwork was a sculpture entitled <i>Sculpture Classique</i>.</li></ul></blockquote>",
+      "question": "The student wants to contrast the two artworks. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Kiefer's <i>Midgard</i> is a painting, while Arp's <i>Sculpture Classique</i> is a sculpture."
+        },
+        {
+          "name": "B",
+          "content": "Kiefer won a Carnegie Prize gold medal in 1985 for the painting <i>Midgard</i>."
+        },
+        {
+          "name": "C",
+          "content": "Carnegie Prize gold medals have been awarded to both painters and sculptors."
+        },
+        {
+          "name": "D",
+          "content": "Both <i>Midgard</i> and <i>Sculpture Classique</i> are Carnegie Prize gold medal-winning artworks."
+        }
+      ],
+      "correct": "Kiefer's <i>Midgard</i> is a painting, while Arp's <i>Sculpture Classique</i> is a sculpture.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Producing the nutrient-rich cyanobacterium <i>L. maxima</i> at industrial scale requires high-quality samples of <i>L. maxima</i> DNA.</li><li>Yirlis Yadeth Pineda-Rodriguez and a team of researchers at the University of CÃ³rdoba, Colombia, evaluated the quantity and purity of <i>L. maxima</i> DNA extracted using three different DNA extraction kits.</li><li>CTAB 2X (kit 1) had a DNA yield of 2,134 nanograms per microliter (ng/Î¼L) and a purity ratio of 2.2.</li><li>Pbact (kit 2) had a DNA yield of 157 ng/Î¼L and a purity ratio of 1.6.</li><li>Pplant (kit 3) had a DNA yield of 12.5 ng/Î¼L and a purity ratio of 1.5.</li><li>According to the researchers, Pbact was the most effective because it was the only one with both a sufficiently high yield and a purity rate close to the ideal of 1.8.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the significance of a similarity between two of the kits. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "CTAB 2X and Pplant both had a DNA yield above 10 and a purity ratio above 1.4."
+        },
+        {
+          "name": "B",
+          "content": "Due to their insufficient yield or purity, CTAB 2X and Pplant were deemed by the researchers to be less effective than Pbact."
+        },
+        {
+          "name": "C",
+          "content": "With the ideal purity ratio being 1.8, CTAB 2X and Pbact were equal in purity, according to the researchers."
+        },
+        {
+          "name": "D",
+          "content": "Compared to CTAB 2X, which had a DNA yield of 2,134 ng/Î¼L, both Pbact and Pplant had insufficient yields; Pplant, in particular, was ineffective due to its low yield."
+        }
+      ],
+      "correct": "Due to their insufficient yield or purity, CTAB 2X and Pplant were deemed by the researchers to be less effective than Pbact.",
+      "solution": ""
+    }
+  ]
+}

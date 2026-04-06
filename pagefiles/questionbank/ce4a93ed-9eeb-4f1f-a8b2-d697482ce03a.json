@@ -1,0 +1,682 @@
+{
+  "uuid": "ce4a93ed-9eeb-4f1f-a8b2-d697482ce03a",
+  "chunk": "DhGmRqGe.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Domesticated thousands of years ago in South America, the papaya deviates structurally from the wild plant it is descended from. Maize (corn), another domesticated crop from the Americas, doesnât closely resemble any wild plant, and genetic research only recently ______ its ancestor to be teosinte grass.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "revealed"
+        },
+        {
+          "name": "B",
+          "content": "expanded"
+        },
+        {
+          "name": "C",
+          "content": "encouraged"
+        },
+        {
+          "name": "D",
+          "content": "petitioned"
+        }
+      ],
+      "correct": "revealed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ronyoung Kim creatively captures the Korean American immigrant experience in her novel <i>Clay Walls</i> by writing about a family from three ______ perspectives. The first section of the novel is from the mother Haesu's perspective, the second is from the father Chun's perspective, and the last is from the daughter Faye's perspective.</p>",
+      "question": "Which choice completes the text with the most logical and precise word?",
+      "options": [
+        {
+          "name": "A",
+          "content": "unknown"
+        },
+        {
+          "name": "B",
+          "content": "unintended"
+        },
+        {
+          "name": "C",
+          "content": "required"
+        },
+        {
+          "name": "D",
+          "content": "distinct"
+        }
+      ],
+      "correct": "distinct",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ancient Greek and Roman sculpture is sometimes characterized as idealizing human subjects, but in fact there are many Greco-Roman sculptures that depict people in decidedly ______ ways.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "implausible"
+        },
+        {
+          "name": "B",
+          "content": "unflattering"
+        },
+        {
+          "name": "C",
+          "content": "superficial"
+        },
+        {
+          "name": "D",
+          "content": "imprecise"
+        }
+      ],
+      "correct": "unflattering",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Barn owls and horses see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises' faces with two different color filters, one covering each eye,<u> much like the filters in 3D glasses once worn at movies.</u> By observing the mantises' reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it's unlike that of other animals.</p>",
+      "question": "Which choice best states the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It emphasizes a difference between the research on praying mantis vision and research on other animalsâ vision."
+        },
+        {
+          "name": "B",
+          "content": "It identifies a potential problem that the researchers faced while studying the praying mantises."
+        },
+        {
+          "name": "C",
+          "content": "It offers a comparison meant to aid understanding of the praying mantis study."
+        },
+        {
+          "name": "D",
+          "content": "It describes an earlier use of a tool the researchers used in the praying mantis study."
+        }
+      ],
+      "correct": "It offers a comparison meant to aid understanding of the praying mantis study.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A study by Dr. Paul Hanel and colleagues concluded that people are more likely to behave politely when listening to ideas they disagree with if they think about values before they engage in a discussion. Study participants were assigned to one of two groups. The experimental group spent a few minutes writing about one of their personal values before they had a group discussion on a controversial topic. And the control group spent a few minutes writing about a drink (tea, milk, etc.) before their group discussion on that topic. Hanel and colleagues found that the experimental groupâs discussion was more civil than the control groupâs discussion was.</p>",
+      "question": "Which choice best describes the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To suggest ways to improve a certain studyâs experimental design"
+        },
+        {
+          "name": "B",
+          "content": "To explain a studyâs conclusion and how a research team arrived at that conclusion"
+        },
+        {
+          "name": "C",
+          "content": "To argue that researchers were surprised by the results of a certain study"
+        },
+        {
+          "name": "D",
+          "content": "To describe a widely held belief and how a studyâs results support that belief"
+        }
+      ],
+      "correct": "To explain a studyâs conclusion and how a research team arrived at that conclusion",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Jerome K. Jeromeâs 1889 novel <em>Three Men in a Boat (To Say Nothing of the Dog)</em>. The narrator and two friends are taking a boat down the River Thames in England.</p><blockquote style=\"margin-left: 40px;\">In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. <u>Harrisâs notion was, that it was he alone who had been working, and that both George and I had been imposing upon him.</u> George, on the other hand, ridiculed the idea of Harrisâs having done anything more than eat and sleep, and had a cast-iron opinion that it was heâGeorge himselfâwho had done all the labour worth speaking of.</blockquote>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It offers Harrisâs belief as a specific example of a trend the narrator has observed while boating."
+        },
+        {
+          "name": "B",
+          "content": "It indicates that Harris is surprised by his experiences on the boat."
+        },
+        {
+          "name": "C",
+          "content": "It implies that Harris wants to help clear up a misunderstanding within the group."
+        },
+        {
+          "name": "D",
+          "content": "It establishes Harrisâs feelings about the narratorâs idea of how boat trips usually proceed."
+        }
+      ],
+      "correct": "It offers Harrisâs belief as a specific example of a trend the narrator has observed while boating.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Armando Palacio ValdÃ©sâs short story <i>The Love of Clotilde</i>, originally published in Spanish in 1884.</p><blockquote style=\"margin-left: 40px;\"><p>It was said that in [Don JerÃ³nimoâs] youth he once wrote a play which won him nothing but hisses and free entry for life behind the scenes of the theaters. Whether resigned or not to the verdict of the public, he ceased to write plays and assumed instead the nobler rÃ´le of patron to unrecognized authors and artists and to ruined managers.</p><p>Any youth from the provinces who arrived in Madrid with a drama in his pocket could take no surer road to seeing it produced than that which led to the home of Don JerÃ³nimo. One and all, he received them with open arms, the good and the bad alike.</p></blockquote>",
+      "question": "According to the text, what change coincided with Don JerÃ³nimo becoming a patron of the theater?",
+      "options": [
+        {
+          "name": "A",
+          "content": "He moved to a town outside of Madrid."
+        },
+        {
+          "name": "B",
+          "content": "He stopped writing plays."
+        },
+        {
+          "name": "C",
+          "content": "He achieved public recognition for a short story he had written earlier."
+        },
+        {
+          "name": "D",
+          "content": "He accepted a new job as a journalist."
+        }
+      ],
+      "correct": "He stopped writing plays.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like all species of baleen whales, the sei whale feeds on tiny creatures known as krill by filtering water through bristlelike keratin structures called baleen plates. In this way, baleen whales can eat up to 30 percent of their total mass per day. And while no one would call the sei whale smallâit can have a mass as high as 25,000 kgâit is one of the smaller baleen whales and is much smaller than the bowhead whale, which can weigh a whopping 66,000 kg and consume as much as 19,800 kg of krill per day.</p>",
+      "question": "Based on the text, what can most reasonably be concluded about krill consumption among sei and bowhead whales?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Most baleen whales include krill in their diets, but the sei whale is less likely than the bowhead whale to do so."
+        },
+        {
+          "name": "B",
+          "content": "Both the sei whale and the bowhead whale can eat as much as 19,800 kg of krill per day."
+        },
+        {
+          "name": "C",
+          "content": "The bowhead whale is able to eat more krill per day than the sei whale is."
+        },
+        {
+          "name": "D",
+          "content": "The quantities of krill consumed by bowhead whales has made it difficult for sei whales to find sufficient food."
+        }
+      ],
+      "correct": "The bowhead whale is able to eat more krill per day than the sei whale is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/f3fc8911596edd6dfe540a67f097d6a5.png\" width=\"427\" height=\"590\"></p><p>To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the forest cover area across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega regionâs accessibility, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By the mid-1980s, however, increased public awareness and environmental reforms, along with a decline in meat prices, triggered a natural regrowth process, as evident by the ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "similarity in forest cover area in Class I-IV and Class VIII in 1986."
+        },
+        {
+          "name": "B",
+          "content": "decrease in the forest cover area for all classes from 1960 to 1979."
+        },
+        {
+          "name": "C",
+          "content": "difference between the forest cover area in Class I-IV and in Class VI in 2000."
+        },
+        {
+          "name": "D",
+          "content": "increase in the forest cover area for all classes from 1979 to 2000."
+        }
+      ],
+      "correct": "increase in the forest cover area for all classes from 1979 to 2000.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/d5e6dc62277e9567ea4ec0d2ea63d71f.png\" width=\"395\" height=\"402\"></p><p>A team of scientists wants to improve the recycling of two of the most common types of lithium-ion batteries used in electronic devices. The team tested two new processes that involve grinding battery materials and aluminum foil together. The highest percentage of lithium recovered in the tests was closest to ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "45%."
+        },
+        {
+          "name": "B",
+          "content": "75%."
+        },
+        {
+          "name": "C",
+          "content": "20%."
+        },
+        {
+          "name": "D",
+          "content": "10%."
+        }
+      ],
+      "correct": "75%.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/92e51c91150bca31b9a5f701c63a23d1.png\" width=\"400\" height=\"550\"></p><p>Lin-Tai Ho and colleagues monitored fish populations in a tide pool in Taiwan. They found that some species were entirely absent from the tide pool at particular times of the year; for example, they did not observe even one ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "barred flagtail in January of 2001."
+        },
+        {
+          "name": "B",
+          "content": "barred flagtail in October of 2001."
+        },
+        {
+          "name": "C",
+          "content": "three-lined rainbowfish in January, April, and July of 2001."
+        },
+        {
+          "name": "D",
+          "content": "combtooth blenny in January of 2001."
+        }
+      ],
+      "correct": "three-lined rainbowfish in January, April, and July of 2001.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Age of Innocence</i> is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera. Newland compares his intellect favorably to that of other men of New York City society who are in the audience: ______</p>",
+      "question": "Which quotation from <i>The Age of Innocence</i> best illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âNewland Archer felt himself distinctly the superior of these chosen specimens of old New York gentility; he had probably read more, thought more, and even seen a good deal more of the world, than any other man of the number.â"
+        },
+        {
+          "name": "B",
+          "content": "âThinking over a pleasure to come often gave [Newland] a subtler satisfaction than its realisation. This was especially the case when the pleasure was a delicate one, as his pleasures mostly were.â"
+        },
+        {
+          "name": "C",
+          "content": "âNo expense had been spared on the setting, which was acknowledged to be very beautiful even by people who shared [Newlandâs] acquaintance with the Opera houses of Paris and Vienna.â"
+        },
+        {
+          "name": "D",
+          "content": "âSingly [the men around Newland] betrayed their inferiority; but grouped together they represented âNew York,â and the habit of masculine solidarity made him accept their doctrine on all the issues called moral.â"
+        }
+      ],
+      "correct": "âNewland Archer felt himself distinctly the superior of these chosen specimens of old New York gentility; he had probably read more, thought more, and even seen a good deal more of the world, than any other man of the number.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/6dceb08e0c8af7ea4bbe17b9c9216c88.png\" width=\"445\" height=\"498\"></div><p>In a college course on urban affairs, a student asserts that increased traffic congestion in the United States in the 1990s was present both in very large cities such as Miami, Florida, and smaller areas such as Allentown-Bethlehem, Pennsylvania, and Boise, Idaho; though those smaller areas may have been less affected by traffic congestion than very large cities, this congestion also worsened in them over time.</p>",
+      "question": "Which choice best describes data from the graph that support the studentâs claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While the annual number of hours of traffic delay per commuter was always higher in the Miami, Florida, area than in the Boise, Idaho, area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period."
+        },
+        {
+          "name": "B",
+          "content": "In 1992, the amount of traffic delay in the Miami, Florida, area was less than 30 hours per commuter per year."
+        },
+        {
+          "name": "C",
+          "content": "Even though the amount of traffic delay per commuter per year was greater in the Allentown-Bethlehem, Pennsylvania, area than in the Miami, Florida, area throughout the period from 1990 to 2000, the amounts were nearly identical in 1996."
+        },
+        {
+          "name": "D",
+          "content": "In at least one of the four urban areas shown, the amount of traffic delay was less than 20 hours per commuter per year at one point between 1990 and 2000."
+        }
+      ],
+      "correct": "While the annual number of hours of traffic delay per commuter was always higher in the Miami, Florida, area than in the Boise, Idaho, area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Conventional theories of rhetoric hold that presenting information as coming from credentialed experts increases that informationâs credibility. When communications researcher Sungkyoung Lee and her colleagues tested messages seeking volunteers for clinical trials, however, they found that participants in their study judged recruitment messages from former trial volunteers as significantly more credible than messages from doctors (i.e., credentialed experts). One reason for this may be that the doctorsâ status as credentialed experts wasnât ignored but rather was outweighed by participantsâ views of the experiential relevance of the two types of messengers; that is, participants may have reacted the way they did because ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "participants did not have enough experience to evaluate the credibility of the doctorsâ messages but did have enough experience to evaluate the credibility of former trial volunteersâ messages."
+        },
+        {
+          "name": "B",
+          "content": "messages from former trial volunteers depicted clinical trials as being more positive experiences than did messages from doctors."
+        },
+        {
+          "name": "C",
+          "content": "participants regarded the experiences of both the doctors and former trial volunteers as relevant to the subject of clinical trials but were skeptical of the doctorsâ status as credentialed experts."
+        },
+        {
+          "name": "D",
+          "content": "the fact that former trial volunteers went through the same experience that participants were contemplating while doctors did not was more important to participants than the doctorsâ status as credentialed experts was."
+        }
+      ],
+      "correct": "the fact that former trial volunteers went through the same experience that participants were contemplating while doctors did not was more important to participants than the doctorsâ status as credentialed experts was.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Chicken fat reaches its smoke point at around 375 degrees Fahrenheit. At this temperature, the substance cannot absorb any more heat energy. As a result, ______ will begin to combust, emitting smoke.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "those"
+        },
+        {
+          "name": "B",
+          "content": "they"
+        },
+        {
+          "name": "C",
+          "content": "that"
+        },
+        {
+          "name": "D",
+          "content": "it"
+        }
+      ],
+      "correct": "it",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Over several years, anthropologist LÃ­via Barbosa surveyed individuals in Brazil about their eating habits, collecting data, for example, on what days of the week respondents were more likely ______ common Brazilian foods, such as moqueca capixaba (a seafood stew) and carne-de-sol (a cured meat dish).</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ate"
+        },
+        {
+          "name": "B",
+          "content": "will be eating"
+        },
+        {
+          "name": "C",
+          "content": "to eat"
+        },
+        {
+          "name": "D",
+          "content": "eaten"
+        }
+      ],
+      "correct": "to eat",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Among the worldâs largest deserts are the Syrian Desert, ranked ______ and the Ferlo Desert, ranked thirty-second.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ninth in size the Kyzylkum Desert, ranked sixteenth"
+        },
+        {
+          "name": "B",
+          "content": "ninth in size; the Kyzylkum Desert, ranked sixteenth;"
+        },
+        {
+          "name": "C",
+          "content": "ninth in size; the Kyzylkum Desert; ranked sixteenth;"
+        },
+        {
+          "name": "D",
+          "content": "ninth in size, the Kyzylkum Desert; ranked sixteenth,"
+        }
+      ],
+      "correct": "ninth in size; the Kyzylkum Desert, ranked sixteenth;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The constitution of Poland, enacted in 1997, enshrines 60 total rights across 19,602 words of text. According to constitutional scholar Giovanni Sartori, who examines the implications of constitutional length on civil rights, ______ 112th in a global ranking of the shortest constitutions.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "its"
+        },
+        {
+          "name": "B",
+          "content": "theyâre"
+        },
+        {
+          "name": "C",
+          "content": "itâs"
+        },
+        {
+          "name": "D",
+          "content": "their"
+        }
+      ],
+      "correct": "itâs",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Most sand is beige because of deposits of gray- and tan-hued minerals, such as quartz and feldspar. The sand at Balos Beach in Greece is a more unusual ______ deposits of crushed coral and other organic matter lend the sand a unique pink hue.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "shade, though;"
+        },
+        {
+          "name": "B",
+          "content": "shade, though"
+        },
+        {
+          "name": "C",
+          "content": "shade, though,"
+        },
+        {
+          "name": "D",
+          "content": "shade; though"
+        }
+      ],
+      "correct": "shade, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Each year, the Nobel Prize in Literature is given to an author who has, in the words of its founder Alfred Nobel, âproduced the most outstanding work in an idealistic ______ in 2004, for instance, judges recognized Elfriede Jelinek âfor her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of societyâs clichÃ©s and their subjugating power.â</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "directionâ"
+        },
+        {
+          "name": "B",
+          "content": "directionâ and,"
+        },
+        {
+          "name": "C",
+          "content": "direction,â"
+        },
+        {
+          "name": "D",
+          "content": "directionâ;"
+        }
+      ],
+      "correct": "directionâ;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On March 3, 2005, American astronomers detected an extremely bright light, which they identified as a supernova (the explosion of a massive star) occurring 4.7 billion light-years from Earth. It began to dim over the next few ______ although they are extremely powerful, supernovas are short-lived phenomena.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "weeks; however,"
+        },
+        {
+          "name": "B",
+          "content": "weeks. However,"
+        },
+        {
+          "name": "C",
+          "content": "weeks, however,"
+        },
+        {
+          "name": "D",
+          "content": "weeks, however;"
+        }
+      ],
+      "correct": "weeks, however;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>William Shakespeare likely arrived in London as early as 1585, at the age of 21, to pursue a career in the theater. Little is known of his early years there, but by 1591 he was becoming known for plays such as <i>The Taming of the Shrew</i>. ______ in 1596, he would delight audiences with <i>King John</i>, considered by some to be one of his greatest works.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "Conversely,"
+        },
+        {
+          "name": "C",
+          "content": "Thus,"
+        },
+        {
+          "name": "D",
+          "content": "Later,"
+        }
+      ],
+      "correct": "Later,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><ul style=\"margin-left: 40px;\"><li>Dinosaur fossil specimens can be found at science museums all over the world.</li><li>Many dinosaur fossil specimens are given nicknames.</li><li>The Houston Museum of Natural Science in Houston, Texas, houses a dinosaur fossil specimen nicknamed Wyrex.</li><li>Wyrex lived in the Late Cretaceous period, which ended more than 65 million years ago.</li><li>It is a member of the genus <i>Tyrannosaurus</i>.</li></ul>",
+      "question": "The student wants to provide an example of a dinosaur fossil specimenâs nickname. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Nicknames are given to many dinosaur fossil specimens, including one housed at a museum in Houston, Texas."
+        },
+        {
+          "name": "B",
+          "content": "Dinosaur fossil specimens can be found at museums all over the world, and many of these specimens are given nicknames."
+        },
+        {
+          "name": "C",
+          "content": "Wyrex is the nickname of a <i>Tyrannosaurus</i> fossil specimen housed at the Houston Museum of Natural Science in Houston, Texas."
+        },
+        {
+          "name": "D",
+          "content": "A <i>Tyrannosaurus</i> fossil specimen from the Late Cretaceous period, which ended more than 65 million years ago, is housed at the Houston Museum of Natural Science."
+        }
+      ],
+      "correct": "Wyrex is the nickname of a <i>Tyrannosaurus</i> fossil specimen housed at the Houston Museum of Natural Science in Houston, Texas.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Historian Isabel Wilkersonâs book <i>The Warmth of Other Suns</i> is about the Great Migration.</li><li>The Great Migration was a period in twentieth-century US history when over six million African Americans moved from the rural South to cities such as Denver, Colorado.</li><li>To document this period, Wilkerson narrates the personal journeys of Ida Mae Gladney and Robert Pershing Foster, among others.</li><li>The book won the Mark Lynton History Prize in 2011.</li><li>It also won the Heartland Prize in 2011.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize how Wilkerson documents the Great Migration?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 2011, Isabel Wilkersonâs book <i>The Warmth of Other Suns</i> won not only the Mark Lynton History Prize but also the Heartland Prize."
+        },
+        {
+          "name": "B",
+          "content": "Isabel Wilkerson chronicles the complex history of the Great Migration in such riveting, personal detail by narrating the journeys of individuals, such as Ida Mae Gladney and Robert Pershing Foster."
+        },
+        {
+          "name": "C",
+          "content": "The personal journey of Ida Mae Gladney is featured in the award-winning book <i>The Warmth of Other Suns</i>."
+        },
+        {
+          "name": "D",
+          "content": "Denver, Colorado, is one of the cities whose African American populations grew during the Great Migration."
+        }
+      ],
+      "correct": "Isabel Wilkerson chronicles the complex history of the Great Migration in such riveting, personal detail by narrating the journeys of individuals, such as Ida Mae Gladney and Robert Pershing Foster.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><ul style=\"margin-left: 40px;\"><li>The human tongue contains taste receptors for a rich, savory flavor called umami.</li><li>Umami is triggered by the compounds in a variety of foods, including ham and mushrooms.</li><li>Participants in a study tasted a sample of winged kelp, a type of brown seaweed.</li><li>They rated its umami intensity as moderate.</li><li>The participants tasted a sample of arame, another type of brown seaweed.</li><li>They rated its umami intensity as high.</li></ul>",
+      "question": "The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Some types of brown seaweed, like winged kelp and arame, trigger umami flavor in human taste buds."
+        },
+        {
+          "name": "B",
+          "content": "Although winged kelp and arame are types of brown seaweed, the latterâs umami flavor is more intense."
+        },
+        {
+          "name": "C",
+          "content": "Winged kelp is a type of brown seaweed, but so is arame."
+        },
+        {
+          "name": "D",
+          "content": "While winged kelp and arame contain umami flavor, umami can also be found in ham and mushrooms."
+        }
+      ],
+      "correct": "Although winged kelp and arame are types of brown seaweed, the latterâs umami flavor is more intense.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><ul style=\"margin-left: 40px;\"><li>The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).</li><li>The ACM gives the award for âmajor contributions of lasting importance to computing.â</li><li>Marvin Minsky won the award in 1969 for playing a central role in developing the field of artificial intelligence.</li></ul>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize when Marvin Minsky won the A.M. Turing Award?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For playing a central role in developing the field of artificial intelligence, Marvin Minsky won the A.M. Turing Award."
+        },
+        {
+          "name": "B",
+          "content": "It was in 1969 that Marvin Minsky won the A.M. Turing Award."
+        },
+        {
+          "name": "C",
+          "content": "The prestigious A.M. Turing Award is given for âmajor contributions of lasting importance to computing.â"
+        },
+        {
+          "name": "D",
+          "content": "Marvin Minsky is one winner of the A.M. Turing Award."
+        }
+      ],
+      "correct": "It was in 1969 that Marvin Minsky won the A.M. Turing Award.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Calida Garcia Rawles is an African American painter.</li><li>She is known for her large-scale, hyperrealistic paintings depicting African American figures in water.</li><li>The painting <i>Little Swimmer</i> (48 Ã 60 in) depicts a young girl with her arms at her sides swimming at the top of the canvas.</li><li><i>A Promise</i> (48 Ã 72 in) depicts two men in white shirts floating on the left side of the canvas.</li><li>She paints the water with vivid blue colors, including light blue and cobalt.</li><li>The mood in the paintings is tranquil.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize the location of the figures in <i>A Promise</i>?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In Rawlesâs painting <i>A Promise</i>, two men are depicted on the left side of the canvas."
+        },
+        {
+          "name": "B",
+          "content": "At 48 by 72 inches, Rawlesâs <i>A Promise</i> is even larger than the sizable 48-by-60-inch painting <i>Little Swimmer</i>."
+        },
+        {
+          "name": "C",
+          "content": "While the number of figures may differ, constant among Rawlesâs hyperrealistic works is the tranquil mood that the paintings evoke."
+        },
+        {
+          "name": "D",
+          "content": "Rawles captures the water in paintings such as <i>Little Swimmer</i> and <i>A Promise</i> in vivid hues of light blue and cobalt."
+        }
+      ],
+      "correct": "In Rawlesâs painting <i>A Promise</i>, two men are depicted on the left side of the canvas.",
+      "solution": ""
+    }
+  ]
+}

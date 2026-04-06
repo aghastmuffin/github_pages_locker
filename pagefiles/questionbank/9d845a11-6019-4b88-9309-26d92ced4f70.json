@@ -1,0 +1,472 @@
+{
+  "uuid": "9d845a11-6019-4b88-9309-26d92ced4f70",
+  "chunk": "CUyRiA4O.js",
+  "question_count": 22,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p style=\"margin-top:12px; margin-left:7px; text-indent:0.0000pt; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">What&nbsp;is&nbsp;50%&nbsp;of&nbsp;<span style=\"letter-spacing:-0.2000pt\">640?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "64<br>"
+        },
+        {
+          "name": "B",
+          "content": "320<br>"
+        },
+        {
+          "name": "C",
+          "content": "640<br>"
+        },
+        {
+          "name": "D",
+          "content": "960<br>"
+        }
+      ],
+      "correct": "320<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<p class=\"MsoBodyText\" style=\"margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A&nbsp;customer&nbsp;spent&nbsp;$18&nbsp;to&nbsp;purchase&nbsp;apples&nbsp;at&nbsp;$3&nbsp;per&nbsp;pound.&nbsp;How&nbsp;many&nbsp;pounds&nbsp;of&nbsp;apples&nbsp;did&nbsp;the&nbsp;customer <span style=\"letter-spacing:-0.1000pt\">purchase?</span></span></span><br></p>",
+      "question": "",
+      "options": [],
+      "correct": "6",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p align=\"center\" style=\"margin-top:1px; margin-right:159px; margin-left:158px; text-indent:0.0000pt; text-align:center\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">11<em>x</em>&nbsp;+&nbsp;50&nbsp;=&nbsp;<span style=\"letter-spacing:-0.2500pt\">160</span></span></span><br></p><p class=\"MsoBodyText\" style=\"margin-top:12px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which equation has the same solution as the given <span style=\"letter-spacing:-0.1000pt\">equation?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">11<em>x</em>&nbsp;=&nbsp;50</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">11<em>x</em>&nbsp;=&nbsp;60</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">11<em>x</em>&nbsp;=&nbsp;110</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">11<em>x</em>&nbsp;= 160</span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">11<em>x</em>&nbsp;=&nbsp;110</span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br data-cke-eol=\"1\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/736bee38567e38a0ac25cc9c4f4629f8.png\" width=\"697\" height=\"655\"></span></span><br><p class=\"MsoBodyText\" style=\"margin-top:12px; margin-left:7px; text-align:left\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The&nbsp;graph&nbsp;of&nbsp;the&nbsp;linear&nbsp;function&nbsp;<em>f&nbsp;</em>is&nbsp;shown,&nbsp;where&nbsp;<em>y</em>&nbsp;=&nbsp;<em>f</em>(<em>x</em>).&nbsp;What&nbsp;is&nbsp;the&nbsp;<i>y</i>-intercept&nbsp;of&nbsp;the&nbsp;graph&nbsp;of <em>f</em></span></span><span style=\"font-size:12.0000pt\"><span style=\"font-family:'Times New Roman'\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"letter-spacing:-0.3500pt\">?</span></span></span></span></span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "(0,4)<br>"
+        },
+        {
+          "name": "B",
+          "content": "(0,0)<br>"
+        },
+        {
+          "name": "C",
+          "content": "(0,-2)<br>"
+        },
+        {
+          "name": "D",
+          "content": "(0,-4)<br>"
+        }
+      ],
+      "correct": "(0,-4)<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/a709b29c0cc3b2970a10d310f9d30083.png\" width=\"1339\" height=\"510\"><br><p class=\"MsoBodyText\" style=\"margin-top:11px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">How&nbsp;many&nbsp;of&nbsp;the&nbsp;65&nbsp;employees&nbsp;have&nbsp;worked&nbsp;at&nbsp;the&nbsp;company&nbsp;for&nbsp;16&nbsp;or&nbsp;more&nbsp;complete&nbsp;<span style=\"letter-spacing:-0.1000pt\">years?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "10<br>"
+        },
+        {
+          "name": "B",
+          "content": "13<br>"
+        },
+        {
+          "name": "C",
+          "content": "52<br>"
+        },
+        {
+          "name": "D",
+          "content": "65<br>"
+        }
+      ],
+      "correct": "13<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p align=\"center\" style=\"margin-top:1px; margin-right:322px; margin-left:321px; text-indent:0.0000pt; text-align:center\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"line-height:136%\"><em><span style=\"letter-spacing:-0.4000pt\">x </span></em><span style=\"line-height:136%\"><span style=\"letter-spacing:-0.4000pt\">+</span></span>&nbsp;<span style=\"line-height:136%\"><span style=\"letter-spacing:-0.4000pt\">5</span></span><span style=\"letter-spacing:-0.4000pt\"><em>y</em> </span><span style=\"line-height:136%\"><span style=\"letter-spacing:-0.4000pt\">=</span></span>&nbsp;<span style=\"line-height:136%\"><span style=\"letter-spacing:-0.4000pt\">5 </span></span></span></span></span><br></p><p align=\"center\" style=\"margin-top:1px; margin-right:322px; margin-left:321px; text-indent:0.0000pt; text-align:center\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"line-height:136%\"><em>x</em>&nbsp;<span style=\"line-height:136%\">â</span>&nbsp;<span style=\"line-height:136%\">5</span><em>y</em>&nbsp;<span style=\"line-height:136%\">=</span>&nbsp;<span style=\"line-height:136%\"><span style=\"letter-spacing:-1.0000pt\">7</span></span></span></span></span><br></p><p class=\"MsoBodyText\" style=\"margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"line-height:19.1000pt\">The&nbsp;solution&nbsp;to&nbsp;the&nbsp;given&nbsp;system&nbsp;of&nbsp;equations&nbsp;is&nbsp;(<em>x,&nbsp;y</em>).&nbsp;What&nbsp;is&nbsp;the&nbsp;value&nbsp;of&nbsp;<em><span style=\"letter-spacing:-0.2500pt\">x</span></em><span style=\"letter-spacing:-0.2500pt\">?</span></span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "1.2<br>"
+        },
+        {
+          "name": "B",
+          "content": "5<br>"
+        },
+        {
+          "name": "C",
+          "content": "6<br>"
+        },
+        {
+          "name": "D",
+          "content": "12<br>"
+        }
+      ],
+      "correct": "6<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/6fdb60096276cd640adecbcd3143a93c.png\" width=\"705\" height=\"610\"><br><p class=\"MsoBodyText\" style=\"margin-top:12px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The&nbsp;graph&nbsp;of&nbsp;the&nbsp;function&nbsp;f is&nbsp;shown,&nbsp;where<em>&nbsp;y</em>&nbsp;=&nbsp;<em>f(x</em>).&nbsp;What&nbsp;is&nbsp;the&nbsp;value&nbsp;of&nbsp;<em><span style=\"letter-spacing:0.4500pt\">f&nbsp;</span></em><span style=\"letter-spacing:-0.2500pt\">(6)?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0<br>"
+        },
+        {
+          "name": "B",
+          "content": "2<br>"
+        },
+        {
+          "name": "C",
+          "content": "6<br>"
+        },
+        {
+          "name": "D",
+          "content": "8<br>"
+        }
+      ],
+      "correct": "2<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p class=\"MsoBodyText\" style=\"margin-top:12px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which&nbsp;expression&nbsp;is&nbsp;equivalent&nbsp;to&nbsp;30<em>x</em>&nbsp;+&nbsp;<span style=\"letter-spacing:-0.2500pt\">42?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "30(24x + 1)<br>"
+        },
+        {
+          "name": "B",
+          "content": "42(30x + 1)<br>"
+        },
+        {
+          "name": "C",
+          "content": "6(24x + 36)<br>"
+        },
+        {
+          "name": "D",
+          "content": "6(5x + 7)<br>"
+        }
+      ],
+      "correct": "6(5x + 7)<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/471b71cfe62f20ac209d7ffde16f0a09.png\" width=\"1301\" height=\"289\"></span></span><br><p class=\"MsoBodyText\" align=\"justify\" style=\"margin-top:15px; margin-right:14px; margin-left:7px; text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The&nbsp;table&nbsp;summarizes&nbsp;members&nbsp;of&nbsp;a&nbsp;local&nbsp;organization&nbsp;by&nbsp;age&nbsp;and&nbsp;whether&nbsp;they&nbsp;live&nbsp;north&nbsp;or&nbsp;south&nbsp;of&nbsp;Center St. If a member of the organization is selected at random, what is the probability that the selected member is at least 45 years old?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{32}{135}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"10\">3</span><span mathquill-command-id=\"11\">2</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">1</span><span mathquill-command-id=\"8\">3</span><span mathquill-command-id=\"9\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{35}{135}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"7\">3</span><span mathquill-command-id=\"8\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"9\">1</span><span mathquill-command-id=\"10\">3</span><span mathquill-command-id=\"11\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{100}{135}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"10\">1</span><span mathquill-command-id=\"11\">0</span><span mathquill-command-id=\"12\">0</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">1</span><span mathquill-command-id=\"8\">3</span><span mathquill-command-id=\"9\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{103}{135}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"10\">1</span><span mathquill-command-id=\"11\">0</span><span mathquill-command-id=\"12\">3</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">1</span><span mathquill-command-id=\"8\">3</span><span mathquill-command-id=\"9\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        }
+      ],
+      "correct": "<span class=\"mq-math-mode\" latex-data=\"\\frac{103}{135}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"10\">1</span><span mathquill-command-id=\"11\">0</span><span mathquill-command-id=\"12\">3</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">1</span><span mathquill-command-id=\"8\">3</span><span mathquill-command-id=\"9\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<p style=\"margin-top:15px; margin-left:7px; text-indent:0.0000pt; text-align:left\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Times New Roman&quot;\"><span style=\"position:absolute; margin-left:435px; margin-top:46px; width:6.0000px\"><span style=\"z-index:-1\"><span style=\"height:12.0000px\"><img src=\"/images/4b6a2eba1d1588c1d6aea0521cf57c8d.png\" style=\"width:6px; height:12px\"></span></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The&nbsp;function&nbsp;g&nbsp;is&nbsp;defined&nbsp;by&nbsp;<em>g(x</em>)=</span></span></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span class=\"mq-math-mode\" latex-data=\"\\frac{5x-1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"13\">5</span><var mathquill-command-id=\"10\">x</var><span mathquill-command-id=\"11\" class=\"mq-binary-operator\">â</span><span mathquill-command-id=\"12\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>&nbsp;&nbsp;.&nbsp;What&nbsp;is&nbsp;the&nbsp;value&nbsp;of&nbsp;<em><span style=\"letter-spacing:-0.1000pt\">g</span></em><span style=\"letter-spacing:-0.1000pt\">(5)?</span></span></span><br></p>",
+      "question": "",
+      "options": [],
+      "correct": "6",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p class=\"MsoBodyText\" style=\"text-align:left\"><br></p><p align=\"center\" style=\"margin-top:1px; margin-right:159px; margin-left:158px; text-indent:0.0000pt; text-align:center\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em><span style=\"letter-spacing:-0.5000pt\">y</span></em>&nbsp;<span style=\"letter-spacing:-0.5000pt\">=</span>&nbsp;<span style=\"letter-spacing:-0.5000pt\">50</span><em><span style=\"letter-spacing:-0.5000pt\">x</span></em>&nbsp;<span style=\"letter-spacing:-0.5000pt\">+</span>&nbsp;<span style=\"letter-spacing:-0.5000pt\">7</span></span></span><br></p><p class=\"MsoBodyText\" style=\"margin-top:13px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which&nbsp;table&nbsp;gives&nbsp;three&nbsp;values&nbsp;of&nbsp;<em>x </em>and&nbsp;their&nbsp;corresponding&nbsp;values&nbsp;of&nbsp;<em>y&nbsp;</em>for&nbsp;the&nbsp;given&nbsp;<span style=\"letter-spacing:-0.1000pt\">equation?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<img src=\"/images/834aa9c9d6296b6481fc2205c3a5c907.png\" width=\"268\" height=\"208\"><br>"
+        },
+        {
+          "name": "B",
+          "content": "<img src=\"/images/597c3d460024dedb1d9a817e6e7d84d4.png\" width=\"250\" height=\"235\"><br>"
+        },
+        {
+          "name": "C",
+          "content": "<img src=\"/images/f427465d443dcf1ddfe7872eeb1e7606.png\" width=\"241\" height=\"219\"><br>"
+        },
+        {
+          "name": "D",
+          "content": "<img src=\"/images/f4d2b82affac73a38b93efd3be80d4dd.png\" width=\"232\" height=\"208\"><br>"
+        }
+      ],
+      "correct": "<img src=\"/images/597c3d460024dedb1d9a817e6e7d84d4.png\" width=\"250\" height=\"235\"><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p class=\"MsoBodyText\" style=\"margin-right:15px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The&nbsp;perimeter&nbsp;of&nbsp;an&nbsp;isosceles&nbsp;triangle&nbsp;is&nbsp;66&nbsp;feet.&nbsp;Each&nbsp;of&nbsp;the&nbsp;two&nbsp;congruent&nbsp;sides&nbsp;of&nbsp;the&nbsp;triangle&nbsp;has&nbsp;a&nbsp;length of 19&nbsp;feet. What is the length, in feet, of the third side?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "19<br>"
+        },
+        {
+          "name": "B",
+          "content": "22<br>"
+        },
+        {
+          "name": "C",
+          "content": "28<br>"
+        },
+        {
+          "name": "D",
+          "content": "33<br>"
+        }
+      ],
+      "correct": "28<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p align=\"center\" style=\"margin-top:11px; margin-right:159px; margin-left:158px; text-indent:0.0000pt; text-align:center\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em><span style=\"letter-spacing:-0.5000pt\">y</span></em>&nbsp;<span style=\"letter-spacing:-0.5000pt\">=</span>&nbsp;<span style=\"letter-spacing:-0.5000pt\">2<em>x</em><sup><span style=\"position:relative\"><span style=\"top:-4.5000pt\">2</span></span></sup></span>&nbsp;<span style=\"letter-spacing:-0.5000pt\">â</span>&nbsp;<span style=\"letter-spacing:-0.5000pt\">13<em>x</em></span><em>&nbsp;</em><span style=\"letter-spacing:-0.5000pt\">+</span>&nbsp;<span style=\"letter-spacing:-0.5000pt\">24</span></span></span><br></p><p class=\"MsoBodyText\" style=\"margin-top:1px; text-align:left\"><br></p><p align=\"center\" style=\"margin-top:1px; margin-right:159px; margin-left:158px; text-indent:0.0000pt; text-align:center\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>y</em>&nbsp;=&nbsp;3<em>x</em>&nbsp;+&nbsp;<span style=\"letter-spacing:-0.6000pt\">a</span></span></span><br></p><p align=\"center\" style=\"margin-top:1px; margin-right:159px; margin-left:158px; text-indent:0.0000pt; text-align:center\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In&nbsp;the&nbsp;given&nbsp;system&nbsp;of&nbsp;equations,&nbsp;a&nbsp;is&nbsp;a&nbsp;constant.&nbsp;The&nbsp;graphs&nbsp;of&nbsp;the&nbsp;equations&nbsp;in&nbsp;the&nbsp;given&nbsp;system&nbsp;intersect&nbsp;at exactly one point, (<em>x,&nbsp;y</em>), in the <i>xy</i>-plane. What is the value of <em>x</em>?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-8<br>"
+        },
+        {
+          "name": "B",
+          "content": "-4<br>"
+        },
+        {
+          "name": "C",
+          "content": "4<br>"
+        },
+        {
+          "name": "D",
+          "content": "8<br>"
+        }
+      ],
+      "correct": "4<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p class=\"MsoBodyText\" align=\"justify\" style=\"margin-top:16px; margin-right:32px; margin-left:7px; text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The force<em> F,</em> in newtons, acting upon an object is the product of the mass of the object, in kilograms (kg), and the acceleration a, in meters per second squared (m/s<sup>2</sup>), of the object. Which equation represents the force <em>F</em>, in newtons, acting on an object with a mass of 33 kg and an acceleration of a m/s<sup>2</sup>?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>F</em>=33<em>a</em></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>F</em>=33+<em>a</em></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>F</em>=33-<em>a</em></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>F</em>=<em>a-</em>33</span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>F</em>=33<em>a</em></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p class=\"MsoBodyText\" align=\"justify\" style=\"margin-top:5px; margin-right:8px; margin-left:7px; text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The number of bacteria in a population doubles every hour. The function <em>f(t</em>)= 34,000(2)<em>t</em> gives the number of bacteria in the population, where<em> t </em>represents the time, in hours, after the initial measurement. Which is the best interpretation of 34,000 in this context?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "The number of bacteria in the population at the initial measurement<br>"
+        },
+        {
+          "name": "B",
+          "content": "The number of hours it takes for the number of bacteria in the population to double&nbsp;<br>"
+        },
+        {
+          "name": "C",
+          "content": "The number of bacteria in the population 1 hour after the initial measurement<br>"
+        },
+        {
+          "name": "D",
+          "content": "The number of times the number of bacteria in the population doubles in 1 hour<br>"
+        }
+      ],
+      "correct": "The number of bacteria in the population at the initial measurement<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A certain blue whale calf weighed 5,900 pounds when it was born, and its weight increased at an average rate of 250 pounds per day for the first n days after birth, where <em>n</em> is an integer. If the calf's weight was greater than 8,650 pounds but less than 9,650 pounds <em>n</em> days after birth, what is one possible value of <em>n</em>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "12 or 13 or 14",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/8060e95ec38f20c2c26dc4d75192b5c5.png\" width=\"565\" height=\"528\"><br><p class=\"MsoBodyText\" style=\"margin-top:6px; margin-right:36px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In&nbsp;the&nbsp;figure&nbsp;shown,&nbsp;lines&nbsp;l&nbsp;and&nbsp;k&nbsp;are&nbsp;parallel&nbsp;and&nbsp;line&nbsp;t&nbsp;intersects&nbsp;both&nbsp;lines.&nbsp;If&nbsp;<em>x</em>&nbsp;&gt;&nbsp;100,&nbsp;which&nbsp;of&nbsp;the following must be true?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "y &lt; 80<br>"
+        },
+        {
+          "name": "B",
+          "content": "y &gt; 80<br>"
+        },
+        {
+          "name": "C",
+          "content": "x + y &lt; 180&nbsp;<br>"
+        },
+        {
+          "name": "D",
+          "content": "x + y &gt; 180<br>"
+        }
+      ],
+      "correct": "y &lt; 80<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<p style=\"margin-top:12px; margin-left:7px; text-indent:0.0000pt; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The&nbsp;expression&nbsp;5x<sup><span style=\"position:relative\"><span style=\"top:-4.0000pt\">4 </span></span></sup>+&nbsp;7x<sup><span style=\"position:relative\"><span style=\"top:-4.0000pt\">4</span></span></sup>&nbsp;â&nbsp;2x<sup><span style=\"position:relative\"><span style=\"top:-4.0000pt\">4</span></span></sup>&nbsp;is&nbsp;equivalent&nbsp;to&nbsp;bx<span style=\"position:relative\"><span style=\"top:-4.0000pt\">4</span></span>,&nbsp;where<em>&nbsp;b</em>&nbsp;is&nbsp;a&nbsp;constant.&nbsp;What&nbsp;is&nbsp;the&nbsp;value&nbsp;of&nbsp;<em><span style=\"letter-spacing:-0.2500pt\">b</span></em><span style=\"letter-spacing:-0.2500pt\">?</span></span></span><br></p>",
+      "question": "",
+      "options": [],
+      "correct": "10",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"margin-top:12px; margin-left:7px; text-indent:0.0000pt; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">At&nbsp;how&nbsp;many&nbsp;points&nbsp;do&nbsp;the&nbsp;graphs&nbsp;of&nbsp;the&nbsp;equations&nbsp;y&nbsp;=&nbsp;<em>x</em>&nbsp;+&nbsp;21&nbsp;and<em>&nbsp;y</em>&nbsp;=&nbsp;12<em>x</em>&nbsp;intersect&nbsp;in&nbsp;the&nbsp;<i>xy</i>-<span style=\"letter-spacing:-0.1000pt\">plane?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0<br>"
+        },
+        {
+          "name": "B",
+          "content": "1<br>"
+        },
+        {
+          "name": "C",
+          "content": "2<br>"
+        },
+        {
+          "name": "D",
+          "content": "12<br>"
+        }
+      ],
+      "correct": "1<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<p class=\"MsoBodyText\" style=\"margin-top:15px; margin-right:10px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A circle in the <em>xy</em>-plane has its center at (7, 2) and a radius with a length of 6. The equation for this circle can be written in the form (<em>x </em>â<em> h</em>)<sup>2</sup> + (<em>y â k</em>)<sup>2</sup> = <em>b</em>, where h, k, and b are constants. What is the value of<em> h</em>?</span></span><br></p>",
+      "question": "",
+      "options": [],
+      "correct": "7",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/2d49ed2c475b5fbe9e35c710b84e6509.png\" width=\"696\" height=\"475\"><br><p class=\"MsoBodyText\" style=\"text-align:left\"><br></p><p class=\"MsoBodyText\" style=\"margin-top:13px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">What&nbsp;is&nbsp;the&nbsp;value&nbsp;of&nbsp;<em>tan&nbsp;X</em>&nbsp;in&nbsp;the&nbsp;triangle&nbsp;<span style=\"letter-spacing:-0.1000pt\">shown?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{4}{3}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">4</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">3</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{4}{5}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">4</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{3}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">3</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{3}{5}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">3</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        }
+      ],
+      "correct": "<span class=\"mq-math-mode\" latex-data=\"\\frac{3}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">3</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p class=\"MsoBodyText\" style=\"margin-right:22px; margin-left:7px; text-align:left\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Square&nbsp;A&nbsp;has&nbsp;side&nbsp;lengths&nbsp;that&nbsp;are&nbsp;98&nbsp;times&nbsp;the&nbsp;side&nbsp;lengths&nbsp;of&nbsp;square&nbsp;<em>B</em>.&nbsp;The&nbsp;area&nbsp;of&nbsp;square<em>&nbsp;A</em>&nbsp;is&nbsp;<em>k&nbsp;</em>times&nbsp;the area of square <em>B</em>. What is the value of <em>k</em>?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "49<br>"
+        },
+        {
+          "name": "B",
+          "content": "98<br>"
+        },
+        {
+          "name": "C",
+          "content": "196<br>"
+        },
+        {
+          "name": "D",
+          "content": "9,604<br>"
+        }
+      ],
+      "correct": "9,604<br>",
+      "solution": ""
+    }
+  ]
+}

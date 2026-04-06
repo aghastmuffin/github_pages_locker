@@ -1,0 +1,682 @@
+{
+  "uuid": "a333c1fd-7b95-4086-a9bf-1d7c8b137d23",
+  "chunk": "C_Wm4UWF.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The Al-Fattah Al-Aleem Mosque in the New Administrative Capital, Egypt, is a massive mosque that can accommodate approximately 17,000 people at once, making it an ______ sight to behold.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "idealized"
+        },
+        {
+          "name": "B",
+          "content": "intricate"
+        },
+        {
+          "name": "C",
+          "content": "illusory"
+        },
+        {
+          "name": "D",
+          "content": "imposing"
+        }
+      ],
+      "correct": "imposing",
+      "solution": "è¿æ®µæå­ä»ç»äºååæ°è¡æ¿é¦é½çæ³å¡èµ«Â·é¿åå§æ¸çå¯ºï¼The Al-Fattah Al-Aleem Mosqueï¼ï¼è¿æ¯ä¸åº§å¤§åæ¸çå¯ºï¼å¯åæ¶å®¹çº³çº¦17000äººï¼ä½¿å¶æä¸ºä¸ä¸ªå£®è§çæ¯è±¡ã é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã éé¡¹Aâidealizedâï¼çæ³åçï¼ï¼éå¸¸æå¯¹äºç©çä¸ç§çæ³åæ³è±¡ï¼ä¸æ¸çå¯ºçå®éæ¯è±¡ä¸ç¸å³ï¼ä¸è½å½¢å®¹å¶å¤è§ç»äººçæåï¼ä¸ç¬¦åè¯­å¢ã éé¡¹Bâintricateâï¼å¤æçãç²¾ç»çï¼ï¼ä¸è¬ç¨äºæè¿°äºç©çç»èæç»æå¤æï¼èä¸æ¯å½¢å®¹æ´ä½æ¯è±¡ï¼ä¸å¤ªæ°å½ã éé¡¹Câillusoryâï¼èå¹»çãå¹»è§çï¼ï¼ä¸ææ¬æè¿°çå®éå­å¨ä¸è§æ¨¡å®å¤§çæ¸çå¯ºä¸ç¬¦ï¼é»è¾ä¸éã éé¡¹Dâimposingâï¼å£®è§çãä»¤äººå°è±¡æ·±å»çï¼ï¼è½å¤åç¡®å°è¡¨è¾¾åºè¿åº§å¯å®¹çº³å¤§éäººçæ¸çå¯ºç»äººå¸¦æ¥çè§è§å²å»åå£®è§ä¹æï¼æ¯æ­£ç¡®çã æä»¥æ­£ç¡®ç­æ¡æ¯Dãæä¸­çå®ä½ä¿¡æ¯æï¼ååæ°è¡æ¿é¦é½çæ³å¡èµ«Â·é¿åå§æ¸çå¯ºã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Lascaux Cave paintingsâdetailed paintings of animals found in what is now France and dating from around 17,000 years agoâare sometimes said to be emotionally powerful despite their age, but in fact the paintings are ______ precisely because of their age. It is the link of shared humanity with the artists across so many centuries that gives the Lascaux Cave paintings such resonance.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ingenious"
+        },
+        {
+          "name": "B",
+          "content": "meticulous"
+        },
+        {
+          "name": "C",
+          "content": "pristine"
+        },
+        {
+          "name": "D",
+          "content": "affecting"
+        }
+      ],
+      "correct": "affecting",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some robots such as Surena (developed in 2008) and COMAN (developed in 2012) feature humanoid characteristics like bipedal locomotion so that people will find it easier to interact with them. While these features can help to ______ feelings of comfort in people, a robot that looks too like human can fall into the âuncanny valley,â meaning that its appearance unintentionally unsettles those who encounter it.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "engender"
+        },
+        {
+          "name": "B",
+          "content": "constrict"
+        },
+        {
+          "name": "C",
+          "content": "counterbalance"
+        },
+        {
+          "name": "D",
+          "content": "repudiate"
+        }
+      ],
+      "correct": "engender",
+      "solution": "è¿æ®µæå­æå°ä¸äºæºå¨äººï¼å¦2008å¹´å¼åçSurenaå2012å¹´å¼åçCOMANï¼å·æç±»äººç¹å¾ï¼å¦åè¶³è¡èµ°ï¼ä»¥ä¾¿äººä»¬æ´å®¹æä¸å®ä»¬äºå¨ãè½ç¶è¿äºç¹å¾æå©äºå¨äººä»¬å¿ä¸­äº§çèéæï¼ä½ä¸ä¸ªçèµ·æ¥å¤ªåäººç±»çæºå¨äººå¯è½ä¼é·å¥âææè°·âï¼å³å¶å¤è§ä¼æ æä¸­è®©éå°å®çäººæå°ä¸å®ã é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã éé¡¹Aâengenderâï¼äº§çãå¼èµ·ï¼ï¼ç¬¦åææï¼å³è¿äºç¹å¾è½å¨äººä»¬ä¸­äº§çèéçæè§ï¼Aéé¡¹æ­£ç¡®ã éé¡¹Bâconstrictâï¼éå¶ãçº¦æï¼ï¼ä¸ææç¸æï¼è¿éä¸æ¯è¯´éå¶èéæï¼Béé¡¹éè¯¯ã éé¡¹Câcounterbalanceâï¼å¹³è¡¡ãæµæ¶ï¼ï¼æä¸­æ²¡ææå°è¦å¹³è¡¡ä»ä¹ï¼Céé¡¹ä¸ç¬¦åè¯­å¢ã éé¡¹Dârepudiateâï¼æç»ãå¦å®ï¼ï¼ä¸äº§çèéæçææç¸åï¼Déé¡¹ä¸æ­£ç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Aãæä¸­çå®ä½ä¿¡æ¯æï¼æºå¨äººSurenaãCOMANã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Text corpora such as the <i>International Corpus of English</i> are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how ______ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word âfirst,â but only an analysis of a corpus can prove that âfirstâ is the third most commonly used adjective.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "pervasive"
+        },
+        {
+          "name": "B",
+          "content": "credible"
+        },
+        {
+          "name": "C",
+          "content": "assertive"
+        },
+        {
+          "name": "D",
+          "content": "profound"
+        }
+      ],
+      "correct": "pervasive",
+      "solution": "è¿æ®µæå­ä»ç»äºè¯­æåºï¼å¦å½éè±è¯­è¯­æåºï¼æ¯å¤§éçµå­å­å¨ææ¬çéåï¼å¯ç¨äºå¯¹ä¸ä¸ªåè¯å¨è±è¯­å£è¯­åä¹¦é¢è¯­ä¸­çæ®åç¨åº¦ç­ç¸å³åè®¾è¿è¡å®è¯æµè¯ãä¾å¦ï¼äººä»¬å¯è½å¯¹âfirstâè¿ä¸ªè¯çåºç°é¢çæçæµï¼ä½åªæå¯¹è¯­æåºçåææè½è¯æâfirstâæ¯ç¬¬ä¸å¸¸ç¨çå½¢å®¹è¯ã é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã éé¡¹Aâpervasiveâï¼æ®éçãéå¸çï¼ï¼å¯ä»¥ç¨æ¥å½¢å®¹ä¸ä¸ªåè¯å¨è¯­è¨ä¸­çæ®åç¨åº¦ï¼ç¬¦åè¯­æåºç¨äºæµè¯åè¯å¨è¯­è¨ä¸­æ®éç¨åº¦çè¯­å¢ï¼Aéé¡¹æ­£ç¡®ã éé¡¹Bâcredibleâï¼å¯ä¿¡çãå¯é çï¼ï¼ä¸»è¦å¼ºè°å¯ä¿¡åº¦ï¼ä¸åè¯å¨è¯­è¨ä¸­çä½¿ç¨æåµæ å³ï¼Béé¡¹ä¸åéã éé¡¹Câassertiveâï¼æ­è¨çãè¯å®çï¼ï¼ä¸è½åç¡®è¡¨è¾¾åè¯å¨è¯­è¨ä¸­çç¶æï¼Céé¡¹ä¸ç¬¦åææã éé¡¹Dâprofoundâï¼æ·±å»çãæ·±è¿çï¼ï¼éå¸¸ç¨äºå½¢å®¹å½±åãæä¹ç­ï¼ä¸åè¯çä½¿ç¨é¢çç­åå®¹ä¸ç¸å³ï¼Déé¡¹éè¯¯ã æä»¥æ­£ç¡®ç­æ¡æ¯Aãæä¸­çå®ä½ä¿¡æ¯æï¼å½éè±è¯­è¯­æåºï¼International Corpus of Englishï¼ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some features, such as the mihrab (or niche), are present in nearly every mosque. But mosques often reflect multiple architectural styles, resulting in a unique ______ of those influences, as in the case of the Sheikh Zayed Mosque, which combines elements from the Persian, Mughal, and Moorish styles.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "fusion"
+        },
+        {
+          "name": "B",
+          "content": "dismissal"
+        },
+        {
+          "name": "C",
+          "content": "critique"
+        },
+        {
+          "name": "D",
+          "content": "simplification"
+        }
+      ],
+      "correct": "fusion",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from E. Pauline Johnson's 2002 poem â<em>Shadow Lake</em>.â</p><blockquote style=\"margin-left: 40px;\">The little fern-leaf, bending<br>Upon the brink, its green reflection greets<br>And kisses soft the shadow that it meets<br>With touch so fine,<br>The border line<br>The keenest vision can't <u>define</u>;<br>So perfect is the blending.</blockquote>",
+      "question": "As used in the text, what does the word âdefineâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "explain"
+        },
+        {
+          "name": "B",
+          "content": "state"
+        },
+        {
+          "name": "C",
+          "content": "detect"
+        },
+        {
+          "name": "D",
+          "content": "reduce"
+        }
+      ],
+      "correct": "detect",
+      "solution": "è¿æ®µæå­æ¯E. Pauline Johnson 2002å¹´çè¯æ­ãShadow Lakeãçåå®¹ï¼è¯ä¸­æè¿°äºå°è¨å¶å¨æ¹è¾¹çæ¯è±¡ï¼å¶ç»¿è²åå½±ä¸æéé´å½±çèåå¦æ­¤å®ç¾ï¼ä»¥è³äºææéçè§è§ä¹æ æ³å¯è§ï¼defineï¼é£æ¡è¾¹ççº¿ã é¢ç®æ¯é®æä¸­âdefineâè¿ä¸ªè¯ææ¥è¿çææã éé¡¹Aâexplainâï¼è§£éï¼ï¼å¨è¯ä¸­è¯­å¢ä¸ï¼ä¸æ¯è¯´è§è§æ æ³è§£éè¾¹ççº¿ï¼èæ¯æ æ³å¯è§ãåè¾¨ï¼Aéé¡¹ä¸ç¬¦åã éé¡¹Bâstateâï¼éè¿°ãè¯´æï¼ï¼ä¸è¯ä¸­è¡¨è¾¾çè§è§å¯¹è¾¹ççº¿çæç¥ä¸ç¬¦ï¼Béé¡¹éè¯¯ã éé¡¹Câdetectâï¼å¯è§ãåç°ï¼ï¼æè½ä½ç°åºè¯ä¸­å ä¸ºèåå¾å¤ªå®ç¾ï¼ææéçè§è§é½æ æ³å¯è§å°è¾¹ççº¿çææï¼Céé¡¹æ­£ç¡®ã éé¡¹Dâreduceâï¼åå°ãéä½ï¼ï¼ä¸åæè¯­å¢æ¯«æ å³ç³»ï¼Déé¡¹ä¸æ­£ç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Cãæä¸­çå®ä½ä¿¡æ¯æï¼E. Pauline Johnsonç2002å¹´è¯æ­ãShadow Lakeãã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Matthew Arnold's 1869 nonfiction book <i>Culture and Anarchy</i>.</p><blockquote style=\"margin-left: 40px;\"><p><u>The Times [a British newspaper], replying to some foreign structures on the dress, looks, and behavior of the English abroad, urges that the English ideal is that everyone should be free to do and to look just as he likes.</u> But culture indefatigably tries, not to make what each raw person may like the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.</p></blockquote>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests that opinions regarding culture change over time."
+        },
+        {
+          "name": "B",
+          "content": "It asserts that the English are not as well known for their sense of taste as they ought to be."
+        },
+        {
+          "name": "C",
+          "content": "It details an example that supports the authors primary claim."
+        },
+        {
+          "name": "D",
+          "content": "It presents an opinion with which the author disagrees."
+        }
+      ],
+      "correct": "It presents an opinion with which the author disagrees.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The bird species <i>Myiobius barbatus</i> (the bearded flycatcher), which forages in relatively dense vegetation, and <i>Platyrinchus saturatus</i> (the cinnamon-crested spadebill), which forages in open areas or low-density vegetation, share territory in French Guiana with <i>Thainnomanes caesius</i> (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues, who studied the ecological community the species share, hypothesized that there is an inverse relationship between birds' field of vision while foraging and their sensitivity to alarm calls from neighboring species.</p>",
+      "question": "Which finding, if true, would most directly support Martinez and colleagues' hypothesis?",
+      "options": [
+        {
+          "name": "A",
+          "content": "When Martinez and colleagues played <i>T. caesius</i> alarm calls, <i>M. barbatus</i> and <i>P. saturatus</i> displayed no reaction, whereas <i>T. caesius</i> displayed predator-avoidance behavior."
+        },
+        {
+          "name": "B",
+          "content": "Many local bird species with similar foraging habits to those of <i>M. barbatus</i> displayed no reaction when Martinez and colleagues played <i>T. caesius</i> alarm calls, whereas <i>M. barbatus</i> displayed predator-avoidance behavior."
+        },
+        {
+          "name": "C",
+          "content": "Some individuals of <i>P. saturatus</i> displayed predator-avoidance behavior when Martinez and colleagues played <i>T. caesius</i> alarm calls, whereas nearly all did when <i>M. barbatus</i> alarm calls were played."
+        },
+        {
+          "name": "D",
+          "content": "<i>P. saturatus</i> displayed no reaction when Martinez and colleagues played <i>T. caesius</i> alarm calls, whereas <i>M. barbatus</i> displayed predator avoidance behavior in response to the calls."
+        }
+      ],
+      "correct": "<i>P. saturatus</i> displayed no reaction when Martinez and colleagues played <i>T. caesius</i> alarm calls, whereas <i>M. barbatus</i> displayed predator avoidance behavior in response to the calls.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center\"><img src=\"/images/cc087fbbfd4200faf5f9e5dfd812e79a.png\" width=\"315\" height=\"294\"></p><p>A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations' highest courts, such as the Supreme Court in Finland and the Supreme Court in the Dominican Republic. From 2009 to 2013, the number of women serving as justices or magistrates on highest courts in most countries increased. However, there are also countries where the number decreased or remained unchanged; for example, ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Slovenia was greater in 2013 than in 2009, whereas the number in the Dominican Republic was lower in 2013 than in 2009."
+        },
+        {
+          "name": "B",
+          "content": "Slovenia was greater in 2013 than in 2009, whereas the number in Finland was the same in 2013 as in 2009."
+        },
+        {
+          "name": "C",
+          "content": "Finland was the same in 2013 as in 2009, but it had more women on its high courts than either Slovenia or the Dominican Republic did in 2013."
+        },
+        {
+          "name": "D",
+          "content": "the Dominican Republic was lower in 2013 than in 2009, whereas the number in Finland was the same in 2013 as in 2009."
+        }
+      ],
+      "correct": "the Dominican Republic was lower in 2013 than in 2009, whereas the number in Finland was the same in 2013 as in 2009.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\"><img src=\"/images/a8ce8e11b910967b32f71788098c519d.png\" width=\"583\" height=\"239\"></p><p>Danijel Jug and colleagues found that tillingâthe practice of turning soil with hoes, plows, or other machines before planting cropsâwas associated with an increased yield of winter wheat. But some studies of other crops have found the opposite effect, for example ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Min Huang and colleagues reported an even larger positive effect of no tilling on the yield of rice."
+        },
+        {
+          "name": "B",
+          "content": "Bharat Sharma Acharya and colleagues found a similar association in a study using soybeans."
+        },
+        {
+          "name": "C",
+          "content": "crop yields with tilling have ranged from 2,420 kilograms per hectare for maize to 4,860 kilograms per hectare for winter wheat."
+        },
+        {
+          "name": "D",
+          "content": "a study using winter wheat yielded 4,860 kilograms per hectare with tilling and only 3,910 kilograms per hectare without tilling."
+        }
+      ],
+      "correct": "Min Huang and colleagues reported an even larger positive effect of no tilling on the yield of rice.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\"><img src=\"/images/479b3560386b8a5c0115540fde52fe45.png\" width=\"585\" height=\"201\"></p><p>Population figures for a city can vary significantly depending on what areas are included in the count. Often, governments will report a value for the city proper (including only residents within the city limits) and another for the larger metropolitan area (including residents from nearby places beyond the city limits). Citing the data in the table, a journalist claims the population estimates from the United Nations (UN) most likely included people outside the cities proper.</p>",
+      "question": "Which choice best describes data in the table that support the journalist's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The UN estimated Bogota's population to be 10,574,000, which is significantly larger than the reported population for the city proper."
+        },
+        {
+          "name": "B",
+          "content": "The metropolitan area of Bangkok is significantly larger than 1,569 square kilometers."
+        },
+        {
+          "name": "C",
+          "content": "The reported city proper population of Bogota is significantly larger than the reported city proper population of Houston."
+        },
+        {
+          "name": "D",
+          "content": "All the city proper areas are below 3,000 square kilometers."
+        }
+      ],
+      "correct": "The UN estimated Bogota's population to be 10,574,000, which is significantly larger than the reported population for the city proper.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Study on Global Ageing and Adult Health (SAGE) seeks to discover long-term trends related to aging by compiling and analyzing evidence from approximately 66,000 participants in multiple countries. As with most longitudinal studies, extensive funding support is needed for SAGE to collect the relevant data over timescales and at intervals that will support robust conclusions. But the quality of a more constrained investigation, such as a sociology study seeking only to yield the average age at which people in a given city first become parents, is much less dependent on high levels of funding because ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "such studies are likely to be a lower priority for funding than SAGE."
+        },
+        {
+          "name": "B",
+          "content": "the sociology study is unlikely to be able to recruit 66,000 participants."
+        },
+        {
+          "name": "C",
+          "content": "expanding the scope of such studies is unlikely to be feasible."
+        },
+        {
+          "name": "D",
+          "content": "such studies are not trying to identify trends over time."
+        }
+      ],
+      "correct": "such studies are not trying to identify trends over time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Anne Bronte's 1847 novel <i>Agnes Grey</i> contains elements drawn from Bronte's own life: there are many parallels between the experiences of the novel's title character and those of Bronte, and as a result <i>Agnes Grey</i> is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, as it may lead readers to believe that Bronte merely fictionalized true events, which, in an artistic field where creativity and inventiveness are prized, can suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Agnes Grey</i> is less of an imaginative achievement than it actually is."
+        },
+        {
+          "name": "B",
+          "content": "the real-world counterparts of other characters in <i>Agnes Grey</i> are hard to identify."
+        },
+        {
+          "name": "C",
+          "content": "Bronte should not have claimed that <i>Agnes Grey</i> is based on real events."
+        },
+        {
+          "name": "D",
+          "content": "critics disagree about whether <i>Agnes Grey</i> shows greater originality than works without autobiographical elements."
+        }
+      ],
+      "correct": "<i>Agnes Grey</i> is less of an imaginative achievement than it actually is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Previous research has shown that plant species with a narrow geographical range tend to be more genetically homogeneous than plant species with extensive ranges are. Based on these findings, researchers recently ran simulations to predict how the genetic variation of several species of <i>Mammillaria</i>, a genus of cactus found throughout the Americas, might change in different distribution conditions. One of these species, <i>M. klissingiana</i>, is found only in the state of Tamaulipas. The researchers simulated what would happen if <i>M. klissingiana</i> spread to new habitats outside Tamaulipas, and, consistent with previous findings, the results showed that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "several other <i>Mammillaria</i> species could survive in Tamaulipas in the future."
+        },
+        {
+          "name": "B",
+          "content": "the genetic homogeneity of <i>M. klissingiana</i> decreased over time."
+        },
+        {
+          "name": "C",
+          "content": "there was a gradual increase in the genetic homogeneity of <i>Mammillaria</i> species in states neighboring Tamaulipas."
+        },
+        {
+          "name": "D",
+          "content": "<i>Mammillaria</i> species other than <i>M. klissingiana</i> would become more common in Tamaulipas."
+        }
+      ],
+      "correct": "the genetic homogeneity of <i>M. klissingiana</i> decreased over time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Arthurian legends (tales related to the character of King Arthur) derive from many sources, such as <i>Annales Cambriae</i>, composed around 970, and the <i>Mabinogion</i> from the 12th and 13th centuries. One of the most significant sources, Geoffrey of Monmouth's <i>History of the Kings of Britain</i>, was written in Latin in the 1130s; some material from it was later adapted by the Norman poet Wace into the <i>Roman de Brut</i> in 1155. But while no source before 1155 includes references to the famous Round Table at which Arthur's knights assembled, both the <i>Roman de Brut</i> and Sir Thomas Malory's 15th-century compilation of Arthurian legends, <i>Le Morte dâArthur</i>, do. It can therefore be inferred that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Malory did not use <i>Annales Cambriae</i> as a source for information when he presented about the Round Table."
+        },
+        {
+          "name": "B",
+          "content": "Geoffrey of Monmouth's accounts of Arthurian legends in his <i>History</i> are more similar overall in content to the accounts in the <i>Mabinogion</i> than they are to the accounts in <i>Roman de Brut</i>."
+        },
+        {
+          "name": "C",
+          "content": "Geoffrey of Monmouth was unaware of stories of the Round Table when composing his <i>History</i>, though historians know that works containing such stories were available to him."
+        },
+        {
+          "name": "D",
+          "content": "<i>Le Morte dâArthur</i> is more historically accurate than <i>History</i>, because the <i>Mabinogion</i> had not been written when Geoffrey of Monmouth was writing his work."
+        }
+      ],
+      "correct": "Malory did not use <i>Annales Cambriae</i> as a source for information when he presented about the Round Table.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The writer Maya Angelou, along with others such as Lorenzo Thomas and Gwendolyn Brooks, ______ commonly associated with the Black Arts movement, a loose-knit group of writers and artists active in the 1960s and the 1970s who were interested in exploring the Black American experience through their work.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have been"
+        },
+        {
+          "name": "B",
+          "content": "is"
+        },
+        {
+          "name": "C",
+          "content": "are"
+        },
+        {
+          "name": "D",
+          "content": "were"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1889, it was little more than a marketing gimmick; brothers Andre and Edouard Michelin sought to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide's recommended hotels and restaurants along the way. Nevertheless, the guide soon grew in scope and ______ its modest French eateries were replaced with some of the most esteemed restaurants from around the world, including Ishikawa in Tokyo and Jade Dragon in Macau.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "influence"
+        },
+        {
+          "name": "B",
+          "content": "influence,"
+        },
+        {
+          "name": "C",
+          "content": "influence, and"
+        },
+        {
+          "name": "D",
+          "content": "influence and"
+        }
+      ],
+      "correct": "influence, and",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Writer Silvia Moreno-Garcia's love of short fiction began when she read a collection of Edgar Allan Poe's stories as a child, and she would develop into a prolific short story writer herself, publishing pieces like âAhuizotlâ (2015) and âWaterâ (2007). Yet she's best known as novelist, in part due to her ______ Gothic (2020) earning a spot on the <i>New York Times</i> Best Sellers list.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " novel (Mexican"
+        },
+        {
+          "name": "B",
+          "content": " novel Mexican"
+        },
+        {
+          "name": "C",
+          "content": " novel: Mexican"
+        },
+        {
+          "name": "D",
+          "content": " novel, Mexican"
+        }
+      ],
+      "correct": " novel Mexican",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Within Earth's biomes, there are four main types of deserts: arid, semiarid, coastal, and cold. The Great Salt Desert in western Asia is an arid ______ it is one of the largest deserts in the world, with a total area of about 77,000 kmÂ².</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "desert, for example;"
+        },
+        {
+          "name": "B",
+          "content": "desert, for example,"
+        },
+        {
+          "name": "C",
+          "content": "desert; for example,"
+        },
+        {
+          "name": "D",
+          "content": "desert, for example"
+        }
+      ],
+      "correct": "desert, for example;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Sociologist Alton Okinaka sits on the review board tasked with adding new sites to the Hawaii Register of Historic Places, which includes the Pufu'opae Bridge, built in 1915, and the Maâalaea General Store, built in 1910. Okinaka doesn't make such decisions single-handedly, ______ historical designations must be approved by a group of nine other experts.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "however, all"
+        },
+        {
+          "name": "B",
+          "content": "however and all"
+        },
+        {
+          "name": "C",
+          "content": "however all"
+        },
+        {
+          "name": "D",
+          "content": "however. All"
+        }
+      ],
+      "correct": "however. All",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>After finding information about Harold Eugene Ford, who represented Tennessee in the United States House of Representatives, the student discovered biographical sketches of two other Black Americans who served in ______ Harold Washington of Illinois and Augustus (Gus) Freeman Hawkins of California.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Congress."
+        },
+        {
+          "name": "B",
+          "content": "Congress;"
+        },
+        {
+          "name": "C",
+          "content": "Congress"
+        },
+        {
+          "name": "D",
+          "content": "Congress:"
+        }
+      ],
+      "correct": "Congress:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a \"basket\" of goods and services priced at 100 US dollars (USD) in the United States would have cost 62 USD in fellow OECD member ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "nation Chile."
+        },
+        {
+          "name": "B",
+          "content": "nation: Chile."
+        },
+        {
+          "name": "C",
+          "content": "nation, Chile."
+        },
+        {
+          "name": "D",
+          "content": "nationâChile."
+        }
+      ],
+      "correct": "nation Chile.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>âOf Names,â an essay by French philosopher Michel de Montaigne, explores a relatively light subject, while his essay âOf the Punishment of Cowardiceâ takes on heavier fare. No matter the essay topic, Montaigne challenges his own ideas, beliefs, and values. ______ he questions his own perspective, regardless of subject matter.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "At that time,"
+        },
+        {
+          "name": "C",
+          "content": "Indeed,"
+        },
+        {
+          "name": "D",
+          "content": "However,"
+        }
+      ],
+      "correct": "Indeed,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though Middle English was widely spoken in fourteenth-century England, the language was rarely employed in literature until poet Geoffrey Chaucer helped pioneer its literary use. ______ his manuscripts contain the first documented uses of over 2,000 English wordsâlike the word \"exaltation\" in his 1386 poem âThe Squireâs Taleââwhich led a contemporary to dub him âthe first finder of our fair language.â</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "That being said,"
+        },
+        {
+          "name": "C",
+          "content": "Besides,"
+        },
+        {
+          "name": "D",
+          "content": "Indeed,"
+        }
+      ],
+      "correct": "Indeed,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Built at a scale of 1:110, the Eiffel Tower in Baku, Azerbaijan, is one of many replicas of the famous Eiffel Tower in Paris, France. ______ towers like the Metallic Tower of Fourviere in Lyon, France, though not exact replicas, pay homage to the Eiffel's iconic spire-like design.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On the contrary,"
+        },
+        {
+          "name": "B",
+          "content": "Consequently,"
+        },
+        {
+          "name": "C",
+          "content": "Invariably,"
+        },
+        {
+          "name": "D",
+          "content": "Moreover,"
+        }
+      ],
+      "correct": "Moreover,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Cheruku rasamu mango variety is from the South Asian country of India. ______ in 2018, 18.8 million metric tons of mangoes were produced.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Hence,"
+        },
+        {
+          "name": "B",
+          "content": "There,"
+        },
+        {
+          "name": "C",
+          "content": "In fact,"
+        },
+        {
+          "name": "D",
+          "content": "Specifically,"
+        }
+      ],
+      "correct": "There,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Merle Oberon (1911â1979) was an actress born in Mumbai (then known as Bombay), India.</li><li>She was of Indian, Maori, and Irish heritage.</li><li>She was the first Indian-born actress to be nominated for an Academy Award.</li><li>Early in her career, she played many nameless, uncredited roles, such as her role in <i>Arenât We All?</i> (1932).</li><li>Later, she played many named, credited roles, such as Sue Mayberry in <i>Affectionately Yours</i> (1941).</li></ul></blockquote>",
+      "question": "The student wants to begin a narrative about Merle Oberon's life. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Merle Oberon's story begins in Mumbai (then known as Bombay), India, in 1911."
+        },
+        {
+          "name": "B",
+          "content": "Merle Oberon appeared in many films, including <i>Aren't We All?</i> (1932) and <i>Affectionately Yours</i> (1941), and was the first Indian-born actress to be nominated for an Academy Award."
+        },
+        {
+          "name": "C",
+          "content": "In 1941, Merle Oberon played the role of Sue Mayberry in the film <i>Affectionately Yours</i>."
+        },
+        {
+          "name": "D",
+          "content": "Though she would go on to receive many films, Merle Oberon also played nameless, uncredited roles in many films such as the movie <i>Aren't We All?</i> (1932)."
+        }
+      ],
+      "correct": "Merle Oberon's story begins in Mumbai (then known as Bombay), India, in 1911.",
+      "solution": ""
+    }
+  ]
+}

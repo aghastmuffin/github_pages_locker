@@ -1,0 +1,682 @@
+{
+  "uuid": "8c90f26b-77aa-4ba4-80ae-bd4881600582",
+  "chunk": "BPI0na0K.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly accomplished much, but to ______ a lasting historical legacy for oneself, almost nothing is more effective than being the first to do something. For example, people will always remember that Anesia Pinheiro Machado was the first female pilot in Brazil to carry passengers and the first to make stunt flights.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "recognize"
+        },
+        {
+          "name": "B",
+          "content": "undermine"
+        },
+        {
+          "name": "C",
+          "content": "constrain"
+        },
+        {
+          "name": "D",
+          "content": "establish"
+        }
+      ],
+      "correct": "establish",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>èæã»é©¬å¥æ¯å¾æ­¥ç©¿è¶äºæ´²ãè¥¿ä¼¯å©äºåæ¾³å¤§å©äºï¼è¡ç¨è¾¾ 16000 å¬éï¼æ çæå°±æç¶ï¼ä½è¦ä¸ºèªå·±____ä¸ä»½ä¸æ½çåå²åç»©ï¼å ä¹æ²¡æä»ä¹æ¯æä¸ºé¦ä¸ªåæäºçäººæ´ææäºãä¾å¦ï¼äººä»¬ä¼æ°¸è¿è®°å¾é¿åè¥¿äºã»ç®æ¶ç½ã»é©¬æ¥å¤æ¯å·´è¥¿é¦ä½æ­è½½ä¹å®¢çå¥³é£è¡åï¼ä¹æ¯é¦ä½è¿è¡ç¹æé£è¡çå¥³é£è¡åã<br><ol><li>ä»¥ä¸åªä¸ªéé¡¹è½ä»¥æç¬¦åé»è¾ä¸ç²¾ç¡®çåè¯æç­è¯­è¡¥å¨ææ¬ï¼</li></ol><strong>è§£æ</strong>ï¼<ul><li><strong>A éé¡¹ ârecognizeâ</strong>&nbsp;ï¼æä¸º âè®¤åºï¼è¯å«ï¼è®¤å¯â ï¼ârecognize a lasting historical legacyâ æææ¯è®¤å¯ä¸ä»½åå²åç»©ï¼èåæå¼ºè°çæ¯å»åé ãæé ä¸ä»½åå²åç»©ï¼å¹¶éè®¤å¯ï¼è¯¥éé¡¹ä¸ç¬¦åè¯­å¢ã</li><li><strong>B éé¡¹ âundermineâ</strong>&nbsp;ï¼è¡¨ç¤º âç ´åï¼åå¼±â ï¼âundermine a lasting historical legacyâ æ¯ç ´åä¸ä»½åå²åç»©ï¼ä¸åææ³è¦è¡¨è¾¾çåé åå²åç»©çææç¸æï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>C éé¡¹ âconstrainâ</strong>&nbsp;ï¼æææ¯ âéå¶ï¼çº¦æâ ï¼âconstrain a lasting historical legacyâ è¿ç§æ­éä¸ç¬¦ååæè¯­å¢ï¼åæä¸æ¯è¯´éå¶åå²åç»©ã</li><li><strong>D éé¡¹ âestablishâ</strong>&nbsp;ï¼æ âå»ºç«ï¼ç¡®ç«â çææï¼âestablish a lasting historical legacyâ å³ç¡®ç«ä¸ä»½ä¸æ½çåå²åç»©ï¼ç¬¦ååæè¯­å¢ï¼æ¯ä¸ºèªå·±æé ãå»ºç«åå²åç»©çææã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The swordfish can swim very fastâup to 97 kilometers per hour (km/hr)âbut it is significantly slower than the frigate bird, which can fly at speeds up to 153 km/hr. The difference between these speeds is largely ______ of the fact that the features that make flight possible do less to limit top speeds than the features suitable for swimming through water.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a consequence"
+        },
+        {
+          "name": "B",
+          "content": "an explanation"
+        },
+        {
+          "name": "C",
+          "content": "a repudiation"
+        },
+        {
+          "name": "D",
+          "content": "an objective"
+        }
+      ],
+      "correct": "a consequence",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>åé±¼æ¸¸æ³³éåº¦éå¸¸å¿«ï¼å¯è¾¾æ¯å°æ¶ 97 å¬éï¼ä½å®æ¯åè°é¸çéåº¦æ¢å¾å¤ï¼åè°é¸é£è¡éåº¦å¯è¾¾æ¯å°æ¶ 153 å¬éãè¿ä¸¤ç§éåº¦çå·®å¼å¨å¾å¤§ç¨åº¦ä¸æ¯____è¿æ ·ä¸ä¸ªäºå®ï¼ä½¿é£è¡æä¸ºå¯è½çèº«ä½ç¹å¾å¯¹æé«éåº¦çéå¶ï¼è¦æ¯éåå¨æ°´ä¸­æ¸¸æ³³çèº«ä½ç¹å¾å°ã<br><strong>è§£æ</strong>ï¼<br><ul><li><strong>A éé¡¹ âa consequenceâ</strong>&nbsp;ï¼æä¸º âç»æï¼åæâ ãæä¸­æå°ç<u>éåº¦å·®å¼æ¯ç±äºé£è¡åæ¸¸æ³³çèº«ä½ç¹å¾å¯¹éåº¦éå¶ä¸åå¯¼è´</u>çï¼éåº¦å·®å¼æ¯ç»æï¼æä»¥âa consequence ofâï¼â¦â¦ çç»æï¼ç¬¦åè¿ç§å æå³ç³»çè¡¨è¾¾ï¼å³éåº¦å·®å¼æ¯èº«ä½ç¹å¾å¯¹éåº¦éå¶ä¸åçç»æ ã</li><li><strong>B éé¡¹ âan explanationâ</strong>&nbsp;ï¼æ¯ âè§£éâ çææãå¦ææ¯ âan explanation ofâ ï¼æ¯ç¨åé¢åå®¹è§£éåé¢çäºç©ï¼èè¿éæ¯åé¢çéåº¦å·®å¼æ¯åé¢äºå®å¯¼è´<span style=\"color:#c0392b;\"><u>çç»æ</u></span>ï¼é»è¾ä¸ç¬¦ã</li><li><strong>C éé¡¹ âa repudiationâ</strong>&nbsp;ï¼è¡¨ç¤º âæç»ï¼å¦è®¤â ï¼æ¾å¥æä¸­ âa repudiation of the factâï¼å¯¹äºå®çå¦è®¤ï¼ï¼ä¸åææ³è¦è¡¨è¾¾çå æå³ç³»æ¯«æ å³èï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>D éé¡¹ âan objectiveâ</strong>&nbsp;ï¼æææ¯ âç®æ ï¼ç®çâ ï¼âan objective of the factâï¼äºå®çç®æ ï¼è¿ç§è¡¨è¾¾å¨æä¸­è¯´ä¸éï¼ä¸ç¬¦åé»è¾ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ Aã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Whether the reign of a French monarch such as Louis VII or Henry V was historically consequential or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the characteristics without which the monarch would have been forced to ______ the throne.</p>",
+      "question": "Which choice completes the text with the precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "reciprocate"
+        },
+        {
+          "name": "B",
+          "content": "annotate"
+        },
+        {
+          "name": "C",
+          "content": "abandon"
+        },
+        {
+          "name": "D",
+          "content": "equalize"
+        }
+      ],
+      "correct": "abandon",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>æ è®ºæ¯è·¯æä¸ä¸è¿æ¯äº¨å©äºä¸è¿æ ·çæ³å½åä¸»çç»æ²»ï¼å¨åå²ä¸æ¯æä¹éå¤§è¿æ¯ç¸å¯¹å¹³æ·¡ï¼å¶ç»æ²»è½¨è¿¹é½åå°åæ³æ§é®é¢çå½±åãå æ­¤ï¼å¦æä¸ç¸åºå°çè§£ä»ç»æ²»çæäºç¹æ§ï¼æ²¡æè¿äºç¹æ§åä¸»å°è¢«è¿«____çä½ï¼ï¼å°±æ æ³çè§£å¶ç»æ²»ã<br><strong>è§£æ</strong>ï¼<br><ul><li><strong>A éé¡¹ âreciprocateâ</strong>&nbsp;ï¼æææ¯ âåæ¥ï¼ reciprocateâ ï¼âreciprocate the throneâ è¿ç§è¡¨è¾¾å¨æä¸­è¯­ä¹ä¸éï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>B éé¡¹ âannotateâ</strong>&nbsp;ï¼æä¸º âæ³¨éï¼ä½æ³¨è§£â ï¼âannotate the throneâ æ æ³ä¸åæé»è¾å¹éï¼ä¸è½è¡¨è¾¾åä¸»åçä½ä¹é´çåçå³ç³»ã</li><li><strong>C éé¡¹ âabandonâ</strong>&nbsp;ï¼è¡¨ç¤º âæ¾å¼ï¼éå¼â ï¼âabandon the throneâ å³ âæ¾å¼çä½â ï¼ç¬¦åæä¸­æå°çæ²¡ææäºç¹æ§åä¸»å°±ä¼è¢«è¿«æ¾å¼çä½çé»è¾ã</li><li><strong>D éé¡¹ âequalizeâ</strong>&nbsp;ï¼æææ¯ âä½¿ç¸ç­ï¼ä½¿å¹³è¡¡â ï¼âequalize the throneâ å¨æä¸­æ²¡æåççè¯­ä¹ï¼ä¸ç¬¦åè¦æ±ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ C<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Caves of Gargas paintingsâstencils of human hands found in what is now France and dating from around 27,000 years agoâare thought of as art today, but the question of whether the people of the time understood the paintings as something akin to art in modern sense or in some other way entirely is ______: we will never be able to answer it.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "irresolvable"
+        },
+        {
+          "name": "B",
+          "content": "self-contradictory"
+        },
+        {
+          "name": "C",
+          "content": "imperative"
+        },
+        {
+          "name": "D",
+          "content": "unavoidable"
+        }
+      ],
+      "correct": "irresolvable",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>å å°å æ¯æ´ç©´å£ç» ââ å¨ç°ä»æ³å½å¢ååç°çãè·ä»çº¦ 27000 å¹´çäººææ¨¡æ¿ç» ââ å¦ä»è¢«è§ä¸ºèºæ¯ï¼ä½å½æ¶çäººä»¬æ¯å¦å°è¿äºç»ä½çè§£ä¸ºç±»ä¼¼äºç°ä»£æä¹ä¸çèºæ¯ï¼è¿æ¯å®å¨ä»å¶ä»è§åº¦çè§£ï¼è¿ä¸ªé®é¢æ¯____ï¼æä»¬æ°¸è¿æ æ³è§£ç­ã<br><strong>è§£æ</strong>ï¼<br><ul><li><strong>A éé¡¹ âirresolvableâ</strong>&nbsp;ï¼æææ¯ âæ æ³è§£å³çï¼ä¸è½è§£ç­çâ ãæä¸­æç¡®æå° âwe will never be able to answer itï¼æä»¬æ°¸è¿æ æ³è§£ç­ï¼â ï¼è¯´æè¿ä¸ªé®é¢æ¯æ æ³è§£å³çï¼âirresolvableâ ç¬¦åè¯­å¢ã</li><li><strong>B éé¡¹ âself-contradictoryâ</strong>&nbsp;ï¼æä¸º âèªç¸çç¾çâ ãåæå¹¶æ²¡æä½ç°åºé®é¢å­å¨èªç¸çç¾çç¹ç¹ï¼æä»¥è¯¥éé¡¹ä¸ç¬¦åã</li><li><strong>C éé¡¹ âimperativeâ</strong>&nbsp;ï¼è¡¨ç¤º âè³å³éè¦çï¼è¿«åçâ ãä½æä¸­å¼ºè°çæ¯é®é¢æ æ³åç­ï¼èéé®é¢çéè¦æ§æè¿«åæ§ï¼è¯¥éé¡¹ä¸åéã</li><li><strong>D éé¡¹ âunavoidableâ</strong>&nbsp;ï¼æææ¯ âä¸å¯é¿åçâ ãè¿éè¯´çæ¯é®é¢æ æ³è§£ç­ï¼åä¸å¯é¿åæ²¡æå³ç³»ï¼è¯¥éé¡¹ä¹ä¸æ­£ç¡®ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ A<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from William Wordsworth's 1798 poem \"<i>Lines Written a Few Miles above Tintern Abbey</i>.â</p><blockquote style=\"margin-left: 40px;\">Once again<br>Do I behold these steep and lofty cliffs,<br>Which on a wild secluded scene impress<br>Thoughts of more <u>deep</u> seclusion; and connect<br>The landscape with the quiet of the sky.</blockquote>",
+      "question": "As used in the text, what does the word \"deep\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Tough"
+        },
+        {
+          "name": "B",
+          "content": "Hideous"
+        },
+        {
+          "name": "C",
+          "content": "Complicated"
+        },
+        {
+          "name": "D",
+          "content": "Intense"
+        }
+      ],
+      "correct": "Intense",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>ä»¥ä¸æå­æ¹ç¼èªå¨å»ã»åå¹åæ¯ 1798 å¹´çè¯ä½ãä¸ç»å¯ºææåãã<br>æåæ¬¡<br>åæè¿äºé¡å³­é«è¸çæ¬å´ï¼<br>å®ä»¬å¨ä¸çèå»å¹½éçæ¯è²ä¸­<br>å¤èµ·æ´ä¸ºå¹½å»çæç»ªï¼å¹¶å°<br>è¿é£æ¯ä¸å¤©ç©ºçå®éç¸è¿ã<br>5. å¨æä¸­ï¼âdeepâ ä¸è¯ææ¥è¿ä»¥ä¸åªä¸ªææï¼<br><strong>è§£æ</strong>ï¼<br>å¨è¯ä¸­ âdeep seclusionâ æè¿°çæ¯ä¸ç§ç¨åº¦å¾æ·±çå¹½å»ç¶æã<br><ul><li><strong>A éé¡¹ âToughâ</strong>&nbsp;ï¼æä¸º âè°é¾çï¼åé§çâ ï¼ä¸ âå¹½å»â çè¯­ä¹æ¯«æ å³èï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>B éé¡¹ âHideousâ</strong>&nbsp;ï¼è¡¨ç¤º âå¯æçï¼ä¸æ¶çâ ï¼åè¯ä¸­è¡¨è¾¾çå¹½å»ä¹æä¸ç¸å³ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>C éé¡¹ âComplicatedâ</strong>&nbsp;ï¼æææ¯ âå¤æçâ ï¼è¯ä¸­å¹¶éå¼ºè°å¹½å»æ¯å¤æçï¼ä¸ç¬¦åè¯­ä¹ã</li><li><strong>D éé¡¹ âIntenseâ</strong>&nbsp;ï¼æ âå¼ºççï¼æåº¦çâ ææï¼âintense seclusionâ è½ä½ç°åºç¨åº¦å¾æ·±çå¹½å»ï¼ä¸è¯ä¸­ âdeep seclusionâ æ³è¦è¡¨è¾¾çç¨åº¦æ·±çå¹½å»è¯­ä¹ç¸ç¬¦ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ D<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though many ______ studies of the effect of altitude on blood chemistry focus on people who live above sea level, researchers Suleiman Al-Sweedan and Moath Alhaj recently chose the novel path of focusing on people who live below sea level, in locations such as the California towns of Salton City and Coachella.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "eccentric"
+        },
+        {
+          "name": "B",
+          "content": "meager"
+        },
+        {
+          "name": "C",
+          "content": "conventional"
+        },
+        {
+          "name": "D",
+          "content": "random"
+        }
+      ],
+      "correct": "conventional",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>å°½ç®¡è®¸å¤å³äºæµ·æå¯¹è¡æ¶²åå­¦æåå½±åç____ç ç©¶é½èç¦äºçæ´»å¨æµ·å¹³é¢ä»¥ä¸çäººç¾¤ï¼ä½ç ç©¶äººåèè±æ¼ã»é¿å° - æ¯å¨ä¸¹åè«é¿æ¯ã»é¿å°åæ°æè¿éæ©äºä¸æ¡<span style=\"color:#c0392b;\">æ°é¢</span>çè·¯å¾ï¼èç¦äºçæ´»å¨æµ·å¹³é¢ä»¥ä¸çäººç¾¤ï¼æ¯å¦å å©ç¦å°¼äºå·çç´¢å°é¡¿ååç§åæéã<br>6. ä»¥ä¸åªä¸ªéé¡¹è½ä»¥æç¬¦åé»è¾ä¸ç²¾ç¡®çåè¯æç­è¯­è¡¥å¨ææ¬ï¼<br><strong>è§£æ</strong>ï¼<br><ul><li><strong>A éé¡¹ âeccentricâ</strong>&nbsp;ï¼æææ¯ âå¤æªçï¼å¼å¸¸çâ ãå¦æè¯´è®¸å¤å¤æªçç ç©¶èç¦äºæµ·å¹³é¢ä»¥ä¸äººç¾¤ï¼ä¸åæ ânovel pathï¼æ°é¢è·¯å¾ï¼â å¯¹æ¯ä¸æ°å½ï¼å ä¸º âå¤æªâ å¹¶éæ¯ä¸ âæ°é¢â ç¸å¯¹çå¸¸è§æ¦å¿µ ã</li><li><strong>B éé¡¹ âmeagerâ</strong>&nbsp;ï¼æä¸º âè´«ä¹çï¼ä¸è¶³çâ ãæä¸­æªæåç ç©¶çä¸°å¯ç¨åº¦ç¸å³åå®¹ï¼ç¨ âè´«ä¹çâ æ¥å½¢å®¹ç ç©¶ä¸å¥åè¯­å¢ã</li><li><strong>C éé¡¹ âconventionalâ</strong>&nbsp;ï¼è¡¨ç¤º âä¼ ç»çï¼å¸¸è§çâ ãä¸åæç ç©¶äººåéæ©ç âæ°é¢è·¯å¾â å½¢æé²æå¯¹æ¯ï¼è¯´æä»¥å¾å¾å¤ä¼ ç»ç ç©¶å³æ³¨æµ·å¹³é¢ä»¥ä¸äººç¾¤ï¼èè¿æ¬¡ç ç©¶å¦è¾è¹å¾ï¼ç¬¦åé»è¾ã</li><li><strong>D éé¡¹ ârandomâ</strong>&nbsp;ï¼æææ¯ âéæºçâ ãæä¸­æ²¡æä¿¡æ¯è¡¨æä¹åçç ç©¶æ¯éæºè¿è¡çï¼è¯¥éé¡¹ä¸ç¬¦åè¯­å¢ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ Cã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p><b>Text 1</b></p><p>The poet Audre Lorde once claimed that poetry is the most inexpensive of art forms to practice. While people who pursue other art formsâsculpture, architecture, long-form proseârequire large blocks of uninterrupted time as well as money to complete their work, poets can write, as Lorde said, \"between shifts, in the hospital pantry, on the subway, and on scraps of surplus paper.\" So poets can make worthwhile art even if they must earn their living in another way.</p><p><b>Text 2</b></p><p>Any assessment of the state of contemporary poetry must reckon with the professionalization of the field. While it is possible in theory for anyone to publish in <i>Virginia Quarterly Review</i>, <i>Kenyon Review</i>, or a similar major poetry outlet, many people who do so have professional training in poetry and extensive practice writing it, which requires time not often available to those who must also work full-time jobs. Thus, financial security indirectly affects which people become poets.</p>",
+      "question": "Based on the texts, how would Lorde (Text 1) most likely respond to the argument presented in Text 2?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By indicating that those poets who publish in major poetry journals are most likely to be able to earn a living by writing poetry."
+        },
+        {
+          "name": "B",
+          "content": "By pointing out that people can produce valuable poetry in other circumstances than those described by the author of Text 2."
+        },
+        {
+          "name": "C",
+          "content": "By suggesting that those artists who specialize in more financially rewarding artistic forms are unlikely to also be successful as poets."
+        },
+        {
+          "name": "D",
+          "content": "By asserting that people often work full-time jobs in order to afford the professional training described in Text 2."
+        }
+      ],
+      "correct": "By pointing out that people can produce valuable poetry in other circumstances than those described by the author of Text 2.",
+      "solution": "A éé¡¹ âéè¿æåºé£äºå¨ä¸»è¦è¯æ­æåä¸åè¡¨ä½åçè¯äººææå¯è½é åè¯è°çãâ<br>B éé¡¹ âéè¿æåºäººä»¬å¯ä»¥å¨ä¸åäºææ¬ 2 ä½èææè¿°çæåµä¸åä½åºæä»·å¼çè¯æ­ãâ<br>C éé¡¹ âéè¿æç¤ºé£äºä¸æ³¨äºç»æµåæ¥æ´é«çèºæ¯å½¢å¼çèºæ¯å®¶ä¸å¤ªå¯è½æä¸ºæåçè¯äººãâ<br>D éé¡¹ âéè¿æ­è¨äººä»¬ç»å¸¸ä¸ºäºè´æææ¬ 2 ä¸­æè¿°çä¸ä¸è®­ç»èä»äºå¨èå·¥ä½ãâ<br>æ´å¾·å¨ææ¬ 1 ä¸­å¼ºè°è¯äººå¯ä»¥å¨åç§éçæ³æ¡ä»¶ä¸åä½ï¼èææ¬ 2 å¼ºè°ä¸ä¸è®­ç»åç»æµä¿éå¯¹æä¸ºè¯äººçå½±åãæ´å¾·ææå¯è½ååºè¯´äººä»¬å¯ä»¥å¨ä¸åäºææ¬ 2 ææè¿°çæ¡ä»¶ä¸åä½åºæä»·å¼çè¯æ­ï¼B éé¡¹æ­£ç¡®ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Yellow Admiral</i>, first published in 1996, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, <i>The Yellow Admiral</i> has a rather abrupt ending, but the following book, <i>The Hundred Days</i>, picks up neatly where <i>The Yellow Admiral</i> leaves off. Thus, the sudden ending is only an issue if one considers the books as independent textsâthe Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust's <i>In Search of Lost Time</i>.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Over time, the Aubrey/Maturin series has acquired the same eminence among critics as works like <i>In Search of Lost Time</i> that have similar structures."
+        },
+        {
+          "name": "B",
+          "content": "A certain understanding of the structures of the novels in the Aubrey/Maturin series is helpful if one wishes to appreciate the series."
+        },
+        {
+          "name": "C",
+          "content": "Many readers find the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels' structures."
+        },
+        {
+          "name": "D",
+          "content": "<i>The Yellow Admiral</i> and <i>The Hundred Days</i> are two of the most complex of O'Brian's novels due in part to their unconventional structures."
+        }
+      ],
+      "correct": "A certain understanding of the structures of the novels in the Aubrey/Maturin series is helpful if one wishes to appreciate the series.",
+      "solution": "A éé¡¹ âéçæ¶é´çæ¨ç§»ï¼å¥¥å¸é / é©¬å¾æç³»åå¨è¯è®ºå®¶ä¸­è·å¾äºä¸ãè¿½å¿ä¼¼æ°´å¹´åãç­ç»æç¸ä¼¼çä½åç¸åçåè¶å°ä½ãâ<br>B éé¡¹ âå¦ææ³è¦æ¬£èµå¥¥å¸é / é©¬å¾æç³»åå°è¯´ï¼å¯¹å¶å°è¯´ç»ææä¸å®çäºè§£æ¯æå¸®å©çãâ<br>C éé¡¹ âè®¸å¤è¯»èåç°å¥¥å¸é / é©¬å¾æç³»åå°è¯´å°½ç®¡ç»ææç¼ºé·ï¼ä½éå¸¸æè¶£ãâ<br>D éé¡¹ âãé»è²æµ·åä¸å°ãåãç¾æ¥çæãæ¯å¥¥å¸è±æ©å°è¯´ä¸­ç»ææå¤æçä¸¤é¨ï¼é¨ååå æ¯å®ä»¬éä¼ ç»çç»æãâ<br>æç« éç¹å¼ºè°äºå°å¥¥å¸é / é©¬å¾æç³»åè§ä¸ºä¸ä¸ªæ´ä½æ¥çè§£å¶ç»æçéè¦æ§ï¼B éé¡¹ç¬¦åæç« ä¸»æ¨ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Mary Shelley's 1818 novel <i>Frankenstein</i>. Victor Frankenstein, who narrates this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.</p><blockquote style=\"margin-left: 40px;\">The untaught peasant beheld the elements around him and was acquainted with their practical uses. The most learned philosopher knew little more. He had partially unveiled the face of Nature, but her immortal lineaments were still a wonder and a mystery. He might dissect, anatomize, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him. I had gazed upon the fortifications and impediments that seemed to keep human beings from entering the citadel of nature, and rashly and ignorantly I had repined.</blockquote>",
+      "question": "Which choice best describes the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Victor became disappointed in science when he realized that the practical knowledge laypeople have of nature is often deeper than the scientific understanding."
+        },
+        {
+          "name": "B",
+          "content": "Victor was impressed by the layperson's practical understanding of nature but thought science provided a clearer understanding."
+        },
+        {
+          "name": "C",
+          "content": "Victor was immediately impressed by the advantages of the scientific approach to understanding natural phenomena."
+        },
+        {
+          "name": "D",
+          "content": "Victor thinks that conventional scientific approaches to understanding natural phenomena will not yield the answers he seeks."
+        }
+      ],
+      "correct": "Victor thinks that conventional scientific approaches to understanding natural phenomena will not yield the answers he seeks.",
+      "solution": "A éé¡¹ âå½ç»´åå¤æè¯å°æ®éäººå¯¹èªç¶çå®éç¥è¯å¾å¾æ¯ç§å­¦çè§£æ´æ·±å»æ¶ï¼ä»å¯¹ç§å­¦æå°å¤±æãâ<br>B éé¡¹ âç»´åå¤å¯¹æ®éäººå¯¹èªç¶çå®éçè§£å°è±¡æ·±å»ï¼ä½è®¤ä¸ºç§å­¦è½æä¾æ´æ¸æ°ççè§£ãâ<br>C éé¡¹ âç»´åå¤ç«å³å¯¹çè§£èªç¶ç°è±¡çç§å­¦æ¹æ³çä¼å¿å°è±¡æ·±å»ãâ<br>D éé¡¹ âç»´åå¤è®¤ä¸ºä¼ ç»çç§å­¦æ¹æ³æ æ³æ¾å°ä»æå¯»æ±çç­æ¡ãâ<br>æä¸­ç»´åå¤æå°ç§å­¦è½ç¶æä¸äºåç°ï¼ä½å¯¹äºèªç¶çå¾å¤æ¹é¢è¿æ¯æªç¥çï¼D éé¡¹ç¬¦åææã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><strong>Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters</strong></p><div style=\"text-align: center;\"><img src=\"/images/449f45d7bb90ad468573ba3648d74e64.png\" width=\"338\" height=\"194\"></div><p>Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler, darker mesophotic zone (30 to 150 meters below the surface). However, it isn't clear that all such species will be able to tolerate mesophotic conditions. In 2018, Luiz Rocha and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Agaricia undata</i>, because its minimum depth of 20 meters is in the shallow zone."
+        },
+        {
+          "name": "B",
+          "content": "<i>Plerogyra discus</i>, because its maximum depth of 15 meters is furthest from the mesophotic zone."
+        },
+        {
+          "name": "C",
+          "content": "<i>Acropora echinata</i>, because its maximum depth of 25 meters is close to but doesn't reach the mesophotic zone."
+        },
+        {
+          "name": "D",
+          "content": "<i>Psammocora albopicta</i>, because its minimum depth of 1 meter is the shallowest of those listed."
+        }
+      ],
+      "correct": "<i>Plerogyra discus</i>, because its maximum depth of 15 meters is furthest from the mesophotic zone.",
+      "solution": "A éé¡¹ <i>Agaricia undata</i>ï¼å ä¸ºå¶æå°æ·±åº¦ 20 ç±³å¨æµæ°´åºã<br>B éé¡¹ <i>Plerogyra discus</i>ï¼å ä¸ºå¶æå¤§æ·±åº¦ 15 ç±³ç¦»ä¸­å±å¸¦æè¿ã<br>C éé¡¹ <i>Acropora echinata</i>ï¼å ä¸ºå¶æå¤§æ·±åº¦ 25 ç±³æ¥è¿ä½æªè¾¾å°ä¸­å±å¸¦ã<br>D éé¡¹ <i>Psammocora albopicta</i>ï¼å ä¸ºå¶æå°æ·±åº¦ 1 ç±³æ¯æåä¸­ææµçã<br>è¦éæ©æä¸éåå®å¨è¿ç§»å°ä¸­å±å¸¦çç©ç§ï¼å³å¶çå­æ·±åº¦èå´ç¦»ä¸­å±å¸¦æè¿çã<i>Plerogyra discus</i> çæå¤§æ·±åº¦ 15 ç±³ç¦»ä¸­å±å¸¦ï¼30 - 150 ç±³ï¼æè¿ï¼B éé¡¹æ­£ç¡®ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Harlem Renaissance, which gave us great literary works like May Miller's play <i>The Bog Guide</i> and nonliterary works like James Van DerZee's photograph <i>Couple, Harlem</i>, is often said to have ended in the 1930s shortly after the Great Depression began. But some scholars argue that the Harlem Renaissance never really ended because it continues to shape culture in the United States today. These scholars therefore suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "if a cultural movement has both literary and nonliterary innovations, then it is likely to be influential."
+        },
+        {
+          "name": "B",
+          "content": "if a cultural movement is very innovative, then it is unlikely to be able to sustain itself for long."
+        },
+        {
+          "name": "C",
+          "content": "if literary works of a cultural movement are influential, then it doesn't matter whether the unliterary works are."
+        },
+        {
+          "name": "D",
+          "content": "if the influence of a cultural movement continues, then in some sense the movement itself continues."
+        }
+      ],
+      "correct": "if the influence of a cultural movement continues, then in some sense the movement itself continues.",
+      "solution": "A éé¡¹ âå¦æä¸ä¸ªæåè¿å¨æ¢ææå­¦åæ°åæéæå­¦åæ°ï¼é£ä¹å®å¾å¯è½å·æå½±ååãâ<br>B éé¡¹ âå¦æä¸ä¸ªæåè¿å¨éå¸¸åæ°ï¼é£ä¹å®ä¸å¤ªå¯è½é¿ä¹ç»´æèªèº«ãâ<br>C éé¡¹ âå¦æä¸ä¸ªæåè¿å¨çæå­¦ä½åå·æå½±ååï¼é£ä¹éæå­¦ä½åæ¯å¦æå½±ååå°±æ å³ç´§è¦äºãâ<br>D éé¡¹ âå¦æä¸ä¸ªæåè¿å¨çå½±åæç»­å­å¨ï¼é£ä¹å¨æç§æä¹ä¸è¿ä¸ªè¿å¨æ¬èº«å°±è¿å¨ç»§ç»­ãâ<br>æä¸­æå°ä¸äºå­¦èè®¤ä¸ºåè±å§æèºå¤å´çå½±åè³ä»ä»å¨ï¼æå³çå®å¹¶æ²¡æç»æï¼D éé¡¹ç¬¦åè¿ç§é»è¾ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Architects looking for inspiration may examine photographs of iconic buildings such as the Forbidden City in Beijing. A two-dimensional photograph, however, cannot capture how a building interacts with its surroundings, whether by complementing, blending in with, or perhaps even clashing with sights and activities nearby. An image of the Forbidden City thus ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "serves to exaggerate the building's historical importance."
+        },
+        {
+          "name": "B",
+          "content": "fails to convey the full impact of the building's design and structure."
+        },
+        {
+          "name": "C",
+          "content": "misrepresents how the building is perceived by people who have never visited Beijing."
+        },
+        {
+          "name": "D",
+          "content": "conceals the subtle deterioration of the building's materials."
+        }
+      ],
+      "correct": "fails to convey the full impact of the building's design and structure.",
+      "solution": "A éé¡¹ âå¤¸å¤§äºå»ºç­çåå²éè¦æ§ãâ<br>B éé¡¹ âæ æ³ä¼ è¾¾å»ºç­è®¾è®¡åç»æçå¨é¨å½±åãâ<br>C éé¡¹ âæ­ªæ²äºä»æªå»è¿åäº¬çäººå¯¹å»ºç­ççæ³ãâ<br>D éé¡¹ âæ©çäºå»ºç­ææçç»å¾®æåãâ<br>æä¸­å¼ºè°äºç»´ç§çæ æ³åç°å»ºç­ä¸å¨è¾¹ç¯å¢çäºå¨ï¼è¿æå³çæ æ³å®æ´åç°å»ºç­çè®¾è®¡åç»æå¸¦æ¥çå¨é¨ææï¼B éé¡¹ç¬¦åé»è¾ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some studies can be done well with relatively little money. For example, a marketing study simply trying to identify the average amount customers spend per transaction at an online retailer has a straightforward central question that doesn't require many years of data collection. But it is much more expensive to conduct a longitudinal study like the Household, Income and Labour Dynamics in Australia Survey (HILDA), which looks at data for 25,000 people in Australia to find trends in economic well-being that can take a long time to develop. This requires lots of funding because ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "marketing studies are not likely to require data from very many individuals."
+        },
+        {
+          "name": "B",
+          "content": "data from 25,000 people may not be enough to reveal significant trends in economic well-being."
+        },
+        {
+          "name": "C",
+          "content": "long-term trends in economic well-being are hard to find without collecting data over many years."
+        },
+        {
+          "name": "D",
+          "content": "long-term trends in marketing can be found without examining many years of data."
+        }
+      ],
+      "correct": "long-term trends in economic well-being are hard to find without collecting data over many years.",
+      "solution": "A éé¡¹ âè¥éç ç©¶ä¸å¤ªå¯è½éè¦æ¥èªå¾å¤ä¸ªä½çæ°æ®ãâ<br>B éé¡¹ âæ¥èª 25,000 äººçæ°æ®å¯è½ä¸è¶³ä»¥æ­ç¤ºç»æµç¦ç¥çæ¾èè¶å¿ãâ<br>C éé¡¹ âå¦æä¸å¤å¹´æ¶éæ°æ®ï¼å¾é¾åç°ç»æµç¦ç¥çé¿æè¶å¿ãâ<br>D éé¡¹ âä¸æ£æ¥å¤å¹´çæ°æ®ä¹è½åç°è¥éçé¿æè¶å¿ãâ<br>æä¸­æå°çºµåç ç©¶éè¦å¤§éèµéï¼åå æ¯åç°ç»æµç¦ç¥çé¿æè¶å¿éè¦å¤å¹´æ¶éæ°æ®ï¼C éé¡¹ç¬¦åé»è¾ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some fuel additives contain cerium oxide nanoparticles (CeO2-NPs), which can leach into waterways and soils via wastewater. In a 2015 study, Mael Garaud and colleagues found that CeO2-NPs can accumulate in the bodies of zebra mussels (<i>Dreissena polymorpha</i>). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that CeO2-NP bioaccumulation in invertebrates like <i>D. polymorpha</i> could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species such as rainbow trout (<i>Oncorhynchus mykiss</i>), commonly used in regulatory compliance testing for manipulative bioaccumulation, as environmental protection laws currently require.</p>",
+      "question": "Which finding, if true, would most directly weaken the hypothesis presented in the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "When <i>D. polymorpha</i> and <i>O. mykiss</i> are exposed to similar levels of CeO2-NPs, concentrations of CeO2-NPs in animals of both species show little variation from individual to individual."
+        },
+        {
+          "name": "B",
+          "content": "The rate of CeO2-NPs uptake in <i>D. polymorpha</i> differs from the rate of CeO2-NPs uptake in <i>O. mykiss</i> in a way that is not yet well understood by researchers."
+        },
+        {
+          "name": "C",
+          "content": "<i>D. polymorpha</i> has been shown to accumulate several other types of manufactured nanoparticles in addition to CeO2-NPs, whereas <i>O. mykiss</i> has been shown to accumulate only CeO2-NPs."
+        },
+        {
+          "name": "D",
+          "content": "Compared with <i>O. mykiss</i>, <i>D. polymorpha</i> can accumulate detectable CeO2-NPs concentrations with significantly fewer negative effects."
+        }
+      ],
+      "correct": "The rate of CeO2-NPs uptake in <i>D. polymorpha</i> differs from the rate of CeO2-NPs uptake in <i>O. mykiss</i> in a way that is not yet well understood by researchers.",
+      "solution": "A éé¡¹ âå½å¤å½¢é¥°è´ï¼D. polymorphaï¼åè¹é³é±¼ï¼O. mykissï¼æ´é²äºç¸ä¼¼æ°´å¹³ç CeO2 - NPs æ¶ï¼ä¸¤ç§å¨ç©ä½å CeO2 - NPs çæµåº¦å¨ä¸ªä½é´å·®å¼å¾å°ãâ<br>B éé¡¹ âå¤å½¢é¥°è´ï¼D. polymorphaï¼æå CeO2 - NPs çéçä¸è¹é³é±¼ï¼O. mykissï¼æå CeO2 - NPs çéçä¸åï¼ç ç©¶äººåå¯¹æ­¤è¿ä¸å¤ªäºè§£ãâ<br>C éé¡¹ âå¤å½¢é¥°è´ï¼D. polymorphaï¼é¤äºç§¯ç´¯ CeO2 - NPs å¤ï¼è¿è¢«åç°ç§¯ç´¯å¶ä»å ç§äººé çº³ç±³é¢ç²ï¼èè¹é³é±¼ï¼O. mykissï¼åªè¢«åç°ç§¯ç´¯ CeO2 - NPsãâ<br>D éé¡¹ âä¸è¹é³é±¼ï¼O. mykissï¼ç¸æ¯ï¼å¤å½¢é¥°è´ï¼D. polymorphaï¼è½å¨äº§çæ¾èè¾å°è´é¢æåºçæåµä¸ç§¯ç´¯å¯æ£æµå°ç CeO2 - NPs æµåº¦ãâ<br>æä¸­åè®¾æ¯æ èæ¤å¨ç©ï¼å¦å¤å½¢é¥°è´ï¼ä½åç CeO2 - NP çç©ç´¯ç§¯å¯ä»¥æ¿ä»£å¯¹èæ¤å¨ç©ï¼å¦è¹é³é±¼ï¼çæµè¯ï¼è¥å¤å½¢é¥°è´æå CeO2 - NPs çéçä¸è¹é³é±¼æåçéçä¸åä¸ç ç©¶äººåä¸äºè§£è¿ç§å·®å¼ï¼é£ä¹è¿ç§æ¿ä»£ä½ç¨å°±å­å¨é®é¢ï¼B éé¡¹æ­£ç¡®ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Generally speaking, whether consumers give a good comment or a bad one is closely related to their expectations about the kind of service they will get. Some gas stations are located near schools while others are near restaurants. People who go to gas stations near schools usually get discounts for refueling their automobiles. However, such discounts are not provided at gas stations near restaurants. Recent studies show that the rate of good comments versus bad comments made to the gas stations near cafeteria is lower than the rate near schools, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The number of people going to gas stations at restaurants is greater than that of people going to gas stations near schools."
+        },
+        {
+          "name": "B",
+          "content": "People who go to gas stations at restaurants have higher expectations about the service because of higher price."
+        },
+        {
+          "name": "C",
+          "content": "People are more willing to give good comments to gas stations near schools."
+        },
+        {
+          "name": "D",
+          "content": "More gas stations should be established near schools."
+        }
+      ],
+      "correct": "People who go to gas stations at restaurants have higher expectations about the service because of higher price.",
+      "solution": "A éé¡¹ âå»é¤é¦éè¿å æ²¹ç«çäººæ°æ¯å»å­¦æ ¡éè¿å æ²¹ç«çäººæ°å¤ãâ<br>B éé¡¹ âå»é¤é¦éè¿å æ²¹ç«çäººå ä¸ºä»·æ ¼è¾é«ï¼å¯¹æå¡ææ´é«çææãâ<br>C éé¡¹ âäººä»¬æ´æ¿æç»å­¦æ ¡éè¿çå æ²¹ç«å¥½è¯ãâ<br>D éé¡¹ âåºè¯¥å¨å­¦æ ¡éè¿å»ºç«æ´å¤å æ²¹ç«ãâ<br>æä¸­æå°é¤é¦éè¿å æ²¹ç«æ²¡æææ£ï¼ä¸å¥½è¯çä½ï¼å¯æ¨æµåºå ä¸ºä»·æ ¼é«ï¼äººä»¬å¯¹å¶æå¡ææä¹é«ï¼B éé¡¹ç¬¦åé»è¾ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Saeed M. Z. A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product's risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Turkey, investigating participants' intentions to purchase a new skincare product, and found that, on average, parents of small children had the lowest perception among all the demographic groups in the study of the environmental risks of the skin-care product. Assuming that the results of Tarabieh's study are broadly applicable, this finding suggests that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the new skin-care product is less appealing to parents of small children than other similar products on the market are."
+        },
+        {
+          "name": "B",
+          "content": "there is not a meaningful difference in the average likelihood of purchasing environmentally friendly products among the demographic groups included in the study."
+        },
+        {
+          "name": "C",
+          "content": "parents of small children likely prioritize other factors over a product's environmental sustainability when making purchasing decisions."
+        },
+        {
+          "name": "D",
+          "content": "parents of small children might be more likely than participants in the other demographic groups to purchase the skin-care product."
+        }
+      ],
+      "correct": "parents of small children might be more likely than participants in the other demographic groups to purchase the skin-care product.",
+      "solution": "A éé¡¹ âæ°æ¤è¤äº§åå¯¹å¹¼å¿å®¶é¿çå¸å¼åä¸å¦å¸åºä¸çå¶ä»ç±»ä¼¼äº§åãâ<br>B éé¡¹ âå¨ç ç©¶ä¸­æåå«çäººå£ç¾¤ä½ä¹é´ï¼è´­ä¹°ç¯ä¿äº§åçå¹³åå¯è½æ§æ²¡ææ¾èå·®å¼ãâ<br>C éé¡¹ âå¹¼å¿å®¶é¿å¨åè´­ä¹°å³ç­æ¶å¯è½ä¼ä¼åèèäº§åçå¶ä»å ç´ èéç¯å¢å¯æç»­æ§ãâ<br>D éé¡¹ âå¹¼å¿å®¶é¿å¯è½æ¯å¶ä»äººå£ç¾¤ä½çåä¸èæ´æå¯è½è´­ä¹°è¯¥æ¤è¤äº§åãâ<br>æä¸­æå°å¹¼å¿å®¶é¿å¯¹äº§åç¯å¢é£é©çè®¤ç¥åº¦æä½ï¼ç»åä¹åçç ç©¶ï¼å¯¹ç¯å¢å±å®³è®¤ç¥åº¦ä½ä¼å¢å è´­ä¹°å¯è½æ§ï¼ï¼å¯æ¨æ­åºå¹¼å¿å®¶é¿æ´æå¯è½è´­ä¹°è¯¥æ¤è¤äº§åï¼D éé¡¹æ­£ç¡®ã"
+    },
+    {
+      "type": "choice",
+      "article": "<p>During the American Civil War, Thomas Morris Chester braved the front lines as a war correspondent for the <i>Philadelphia Press</i>. Amplifying the voices and experiences of Black soldiers ______ of particular importance to Chester, who later became an activist and lawyer during the postwar Reconstruction period.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " were"
+        },
+        {
+          "name": "B",
+          "content": " have been"
+        },
+        {
+          "name": "C",
+          "content": " are"
+        },
+        {
+          "name": "D",
+          "content": " was"
+        }
+      ],
+      "correct": " was",
+      "solution": "A éé¡¹ âwereâï¼å¤æ°å½¢å¼çè¿å»æ¶ï¼ï¼<br>B éé¡¹ âhave beenâï¼ç°å¨å®ææ¶ï¼ï¼<br>C éé¡¹ âareâï¼ä¸è¬ç°å¨æ¶ï¼ï¼<br>D éé¡¹ âwasâï¼åæ°å½¢å¼çè¿å»æ¶ï¼ã<br>æä¸­ âAmplifying the voices and experiences of Black soldiersâï¼æ¾å¤§é»äººå£«åµçå£°é³åç»åï¼è¿ä¸è¡ä¸ºæ¯åæ°æ¦å¿µï¼ä¸æ¶æä¸ºè¿å»æ¶ï¼D éé¡¹ âwasâ ç¬¦åè¯­æ³è§åã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The first multi-player computer video game, Steve Russell's <i>Spacewar!</i>, challenged games' abilities not only to maneuver their spaceships but also to decide how best to utilize their limited weaponry so that they could defeat other <i>Spacewar!</i>'s  ______ development, playing a video game was a more solitary experience in which one game player tried to beat a single computer.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "players, before"
+        },
+        {
+          "name": "B",
+          "content": "players and before"
+        },
+        {
+          "name": "C",
+          "content": "players. Before"
+        },
+        {
+          "name": "D",
+          "content": "players before"
+        }
+      ],
+      "correct": "players. Before",
+      "solution": "A éé¡¹ âplayers, beforeâï¼âplayersâ åç¨éå·éå¼ï¼âbeforeâ å°åå¼å¤´ï¼ï¼<br>B éé¡¹ âplayers and beforeâï¼âplayersâ å âbeforeâ ç¨ âandâ è¿æ¥ï¼ï¼<br>C éé¡¹ âplayers. Beforeâï¼âplayersâ åç¨å¥å·éå¼ï¼âBeforeâ å¤§åå¼å¤´ï¼ï¼<br>D éé¡¹ âplayers beforeâï¼âplayersâ å âbeforeâ ç´æ¥ç¸è¿ï¼ã<br>æä¸­ âSpacewar! 's ___ developmentâ è¿ééè¦ä¸ä¸ªåè¯æææ ¼å½¢å¼ï¼âSpacewar!â æ¯åæ°ï¼âplayersâ éè¦ç¨å¤æ°æææ ¼æ¥è¡¨ç¤ºæå±å³ç³»ï¼ä¸ âBeforeâ å¨å¥é¦éè¦å¤§åï¼C éé¡¹ç¬¦åè¯­æ³è§åã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>To most observers, it might seem like the net-casting spider's small web consists of the same silk spun by other arachnids that make larger, fixed ______ the net casting spider uses a unique, stretchy silk to construct a net between its front legs that has more elasticity, enabling the net to expand tremendously when the spider lunges to capture prey. Biologist Jessica Garb and her research team hypothesize that this superior stretchiness comes from proteins in its silk.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "webs, however,"
+        },
+        {
+          "name": "B",
+          "content": "webs however,"
+        },
+        {
+          "name": "C",
+          "content": "webs, however;"
+        },
+        {
+          "name": "D",
+          "content": "webs; however,"
+        }
+      ],
+      "correct": "webs; however,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Advancing a previous discovery by K. Barry Sharpless, chemist Carolyn Bertozziâwinner of the 2022 Nobel Prize in Chemistry alongside Sharpless and Morten Meldalâdevised a method for the removal of toxic byproducts from click chemistry ______ healthy cells in humans for use in a variety of pharmaceutical treatments.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "to protect"
+        },
+        {
+          "name": "B",
+          "content": "protected"
+        },
+        {
+          "name": "C",
+          "content": "and protecting"
+        },
+        {
+          "name": "D",
+          "content": "protecting"
+        }
+      ],
+      "correct": "to protect",
+      "solution": "A éé¡¹ âto protectâï¼ä¸å®å¼å½¢å¼ï¼ï¼<br>B éé¡¹ âprotectedâï¼è¿å»å¼æè¿å»åè¯å½¢å¼ï¼ï¼<br>C éé¡¹ âand protectingâï¼å¹¶åçç°å¨åè¯å½¢å¼ï¼ï¼<br>D éé¡¹ âprotectingâï¼ç°å¨åè¯å½¢å¼ï¼ã<br>æä¸­ âa method for the removal of toxic byproducts from click chemistry ___ healthy cells in humansâï¼è¿ééè¦ç¨ä¸å®å¼æ¥è¡¨ç¤ºç®çï¼A éé¡¹ âto protectâ ç¬¦åè¯­æ³è§åã"
+    },
+    {
+      "type": "choice",
+      "article": "<p>According to Maria Magdalena Llabre of the University of Miami, the reason that the rate of heart disease seems lower in US Hispanics than in their non-Hispanic white counterparts while similarly ______ is that the nature of the Spanish language better supports emotional expression, helping its speakers manage their stress responses.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "stressed"
+        },
+        {
+          "name": "B",
+          "content": "stressed,"
+        },
+        {
+          "name": "C",
+          "content": "stressed;"
+        },
+        {
+          "name": "D",
+          "content": "stressed:"
+        }
+      ],
+      "correct": "stressed",
+      "solution": "A éé¡¹ âstressedâï¼ä¸è¬è¿å»æ¶æè¿å»åè¯å½¢å¼ï¼ï¼<br>B éé¡¹ âstressed,âï¼ä¸è¬è¿å»æ¶æè¿å»åè¯å½¢å¼ï¼åé¢æéå·ï¼ï¼<br>C éé¡¹ âstressed;âï¼ä¸è¬è¿å»æ¶æè¿å»åè¯å½¢å¼ï¼åé¢æåå·ï¼ï¼<br>D éé¡¹ âstressed:âï¼ä¸è¬è¿å»æ¶æè¿å»åè¯å½¢å¼ï¼åé¢æåå·ï¼ã<br>æä¸­ âwhile similarly ___â è¿ééè¦ä¸ä¸ªå¨è¯å½¢å¼ï¼âsimilarlyâ æ¯å¯è¯ä¿®é¥°å¨è¯ï¼âstressedâ ç¬¦åè¯­æ³è§åï¼A éé¡¹æ­£ç¡®ã"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The modern board game <i>backgammon</i> has its roots in the earliest identifiable tables game from the Byzantine Empire, <i>tabula</i>. In both games, the rules are the same for hitting a blot (landing on an occupied point) and bearing off (removing checkers from the board); re-entering one of the checkers into the game also ______ the same rules in <i>backgammon</i> as in <i>tabula</i>.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "follows"
+        },
+        {
+          "name": "B",
+          "content": "are following"
+        },
+        {
+          "name": "C",
+          "content": "have followed"
+        },
+        {
+          "name": "D",
+          "content": "follow"
+        }
+      ],
+      "correct": "follows",
+      "solution": "A éé¡¹ âfollowsâï¼ä¸è¬ç°å¨æ¶ï¼åæ°å½¢å¼ï¼ï¼<br>B éé¡¹ âare followingâï¼ç°å¨è¿è¡æ¶ï¼ï¼<br>C éé¡¹ âhave followedâï¼ç°å¨å®ææ¶ï¼ï¼<br>D éé¡¹ âfollowâï¼ä¸è¬ç°å¨æ¶ï¼å¤æ°å½¢å¼ï¼ã<br>æä¸­ âre - entering one of the checkers into the game also ___ the same rulesâï¼ä¸»è¯­æ¯ âre - enteringâï¼å¨åè¯ä½ä¸»è¯­ï¼è§ä¸ºåæ°ï¼ï¼è¿ééè¦ç¨ä¸è¬ç°å¨æ¶çåæ°å½¢å¼ï¼A éé¡¹ âfollowsâ ç¬¦åè¯­æ³è§åã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The moon Leda orbits Jupiter in the same direction that the planet rotates. ______ Leda's orbit is described as prograde. Ananke, another of Jupiter's moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In reality,"
+        },
+        {
+          "name": "B",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "C",
+          "content": "Hence,"
+        },
+        {
+          "name": "D",
+          "content": "Next,"
+        }
+      ],
+      "correct": "Hence,",
+      "solution": "A éé¡¹ âIn reality,âï¼å®éä¸ï¼ï¼<br>B éé¡¹ âNevertheless,âï¼ç¶èï¼ï¼<br>C éé¡¹ âHence,âï¼å æ­¤ï¼ï¼<br>D éé¡¹ âNext,âï¼æ¥ä¸æ¥ï¼ã<br>æä¸­åä¸å¥è¯´æäºæ¨å«åä¸çè½¨éæ¹åä¸æ¨æèªè½¬æ¹åç¸åï¼åä¸å¥è¯´æäºæ¨å«åäºçè½¨éæ¹åä¸æ¨æèªè½¬æ¹åç¸åï¼ååå­å¨å æå³ç³»ï¼âHenceâ ç¬¦åé»è¾ï¼C éé¡¹æ­£ç¡®ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>As part of a study, participants were asked to list animals they thought of as âcharismatic,â which was defined as âattractive, fascinating, or appealing.â Researchers compiled the responses into a single list and found that the cheetah and the blue whale both landed in the top twenty. ______ no animal outranked the tiger.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "As a result,"
+        },
+        {
+          "name": "C",
+          "content": "Still,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "Still,",
+      "solution": "A éé¡¹ âIn other words,âï¼æ¢å¥è¯è¯´ï¼ï¼<br>B éé¡¹ âAs result,âï¼ç»æï¼ï¼<br>C éé¡¹ âStill,âï¼ä¸è¿ï¼ä»ç¶ï¼ï¼<br>D éé¡¹ âFor example,âï¼ä¾å¦ï¼ã<br>æä¸­åä¸å¥æå°çè±¹åèé²¸æå¨åäºåï¼åä¸å¥è¯´æ²¡æå¨ç©æåè¶è¿èèï¼å­å¨è½¬æå³ç³»ï¼âStillâ ç¬¦åé»è¾ï¼C éé¡¹æ­£ç¡®ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Shonte Tucker has worked at NASA's famed Jet Propulsion Laboratory (JPL), one of the world's leading facilities for robotic space exploration. ______ Tucker worked as a systems engineer on the JPL's Mars 2020 Perseverance rover team, which improved upon the 2011 Curiosity rover design by adding a coring drill to the robot that could collect rock samples for later analysis.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Conversely,"
+        },
+        {
+          "name": "B",
+          "content": "Specifically,"
+        },
+        {
+          "name": "C",
+          "content": "Finally,"
+        },
+        {
+          "name": "D",
+          "content": "Nevertheless,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": "A éé¡¹ âConversely,âï¼ç¸åå°ï¼ï¼<br>B éé¡¹ âSpecifically,âï¼å·ä½æ¥è¯´ï¼ï¼<br>C éé¡¹ âFinally,âï¼æåï¼ï¼<br>D éé¡¹ âNevertheless,âï¼ç¶èï¼ã<br>æä¸­åä¸å¥æå°å¡åå¨å·æ°æ¨è¿å®éªå®¤å·¥ä½ï¼åä¸å¥å·ä½è¯´æäºå¡åå¨è¯¥å®éªå®¤ä¸­çå·ä½å·¥ä½åå®¹ï¼âSpecificallyâ ç¬¦åé»è¾ï¼B éé¡¹æ­£ç¡®ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Superconductors, materials that transmit electricity without any resistance to the flow of the electric current, only work at extremely low temperatures. In a 2023 article, ______ asserts that researchers have made progress toward developing superconductors that can function at room temperature and still carry up to five times as much electricity as current cables.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "physicist Mishkat Bhattacharya,"
+        },
+        {
+          "name": "B",
+          "content": "physicist, Mishkat Bhattacharya"
+        },
+        {
+          "name": "C",
+          "content": "physicist Mishkat Bhattacharya"
+        },
+        {
+          "name": "D",
+          "content": "physicist, Mishkat Bhattacharya,"
+        }
+      ],
+      "correct": "physicist Mishkat Bhattacharya",
+      "solution": "A éé¡¹ âphysicist Mishkat Bhattacharya,âï¼âphysicistâ åæéå·ï¼ï¼B éé¡¹ âphysicist, Mishkat Bhattacharyaâï¼âphysicistâ åæéå·ï¼ä¸ âMishkat Bhattacharyaâ åæéå·ï¼ï¼C éé¡¹ âphysicist Mishkat Bhattacharyaâï¼æ éå·ï¼ï¼D éé¡¹ âphysicist, Mishkat Bhattacharya,âï¼âphysicistâ å âMishkat Bhattacharyaâ åé½æéå·ï¼ãè¿é âphysicistâ æ¯å¯¹ âMishkat Bhattacharyaâ çèä¸è¯´æï¼ä¸­é´ä¸éè¦éå·ï¼C éé¡¹ç¬¦åè¯­æ³è§åã"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Stephanie Jenouvrier of the Woods Hole Oceanographic Institution asserts that when climate change results in sea ice abatement, emperor penguin chicks encounter fewer solid surfaces for required respite when they are not swimming, which increases their chance of drowning and thus endangers this species. If elevated temperatures continue, ______ Jenouvrier conducted a study to find the answer.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "these penguins could become extinct."
+        },
+        {
+          "name": "B",
+          "content": "these penguins could become extinct?"
+        },
+        {
+          "name": "C",
+          "content": "could these penguins become extinct."
+        },
+        {
+          "name": "D",
+          "content": "could these penguins become extinct?"
+        }
+      ],
+      "correct": "could these penguins become extinct?",
+      "solution": "A éé¡¹ âthese penguins could become extinct.âï¼éè¿°å¥ï¼ï¼<br>B éé¡¹ âthese penguins could become extinct?âï¼å¥æ«é®å·ä½¿ç¨éè¯¯ï¼ï¼<br>C éé¡¹ âcould these penguins become extinct.âï¼å¥æ«æ é®å·ï¼ï¼<br>D éé¡¹ âcould these penguins become extinct?âï¼ä¸è¬çé®å¥ï¼<br>æä¸­è¿éæ¯ä¸ä¸ªçé®å¥ï¼âcould these penguins become extinct?â ç¬¦åè¯­æ³è§åï¼D éé¡¹æ­£ç¡®ã<br>"
+    }
+  ]
+}

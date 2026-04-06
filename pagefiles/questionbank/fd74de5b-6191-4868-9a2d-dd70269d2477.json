@@ -1,0 +1,682 @@
+{
+  "uuid": "fd74de5b-6191-4868-9a2d-dd70269d2477",
+  "chunk": "BySbjHBA.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Willa Cather's 1912 novel <i>Alexander's Bridge.</i></p><p>For the next few days Alexander was very busy. He took a desk in the office of a [Scottish] engineering firm on Henrietta Street, and was at work almost <u>constantly</u>. He avoided the clubs and usually dined alone at his hotel.</p>",
+      "question": "As used in the text, what does the word âconstantlyâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Nonstop"
+        },
+        {
+          "name": "B",
+          "content": "Quickly"
+        },
+        {
+          "name": "C",
+          "content": "Fearfully"
+        },
+        {
+          "name": "D",
+          "content": "Enough"
+        }
+      ],
+      "correct": "Nonstop",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Radiocarbon dating can help scientists determine whether the extinction of the long-nosed peccary around 9000 BCE ______ the arrival of humans in the same region of the Americas. If instead the long-nosed peccary died out before humans could have altered its habitat, that suggests that its extinction was the result of some other factor, such as climate change.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "compensated for"
+        },
+        {
+          "name": "B",
+          "content": "clashed with"
+        },
+        {
+          "name": "C",
+          "content": "coincided with"
+        },
+        {
+          "name": "D",
+          "content": "developed into"
+        }
+      ],
+      "correct": "coincided with",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Economists often assert that countries looking to increase their reliance on solar energy should expand their capacity for storage; having an ample reserve of stored energy can mitigate the effects of ______ solar energy collection caused by unpredictable shifts in cloud cover and haze.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "incentives for"
+        },
+        {
+          "name": "B",
+          "content": "calibrations with"
+        },
+        {
+          "name": "C",
+          "content": "developments of"
+        },
+        {
+          "name": "D",
+          "content": "fluctuations in"
+        }
+      ],
+      "correct": "fluctuations in",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the United States, historians of the American Revolution once had a tendency to approach their subject with ________: they had so much admiration for the people who carried out the revolution that they were far from objective in their scholarship.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "reverence"
+        },
+        {
+          "name": "B",
+          "content": "candor"
+        },
+        {
+          "name": "C",
+          "content": "prudence"
+        },
+        {
+          "name": "D",
+          "content": "curiosity"
+        }
+      ],
+      "correct": "reverence",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from the 1895 poem âMarshlandsâ by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake.</p><blockquote style=\"margin-left: 40px;\"><p>Among the wild rice in the still lagoon,</p><p>In monotone the lizard shrills his tune.</p><p>The wild goose, homing, seeks a sheltering,</p><p>Where rushes grow, and oozing lichens cling.</p><p>Late cranes with heavy wing, and lazy flight,</p><p>Sail up the silence with the nearing night.</p><p>And like a spirit, swathed in some soft veil.</p><p>Steals twilight and its shadows o'er the swale.</p><p>Hushed lie the sedges, and the vapours creep,</p><p>Thick, grey and humid, while the marshes sleep.</p></blockquote>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It names animal species found in a place, then names plant species there."
+        },
+        {
+          "name": "B",
+          "content": "It sketches a setting by presenting a series of images of nature."
+        },
+        {
+          "name": "C",
+          "content": "It identifies a location, then refers to a person living there."
+        },
+        {
+          "name": "D",
+          "content": "It makes an extended comparison of nature to human emotions."
+        }
+      ],
+      "correct": "It sketches a setting by presenting a series of images of nature.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as Chief of Staff H.R. âBobâ Haldeman and Secretary of State Henry Kissinger. But Nixon's legacy is complex: he has been praised for his role in creating the Environmental Protection Agency, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It assesses a historical figure's significance by considering both his achievements and failings."
+        },
+        {
+          "name": "B",
+          "content": "It explains how a historical figure's reputation has improved significantly with the passage of time."
+        },
+        {
+          "name": "C",
+          "content": "It argues that the seeming prominence of a historical figure is largely due to the actions of others."
+        },
+        {
+          "name": "D",
+          "content": "It catalogs the most notable achievements of a historical figure."
+        }
+      ],
+      "correct": "It assesses a historical figure's significance by considering both his achievements and failings.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Thermal technologies have been used in the food industry for over 100 years, providing a way of preserving food in large batches. Recent advancements in ohmic heating were made through research in Brazil on the preservation of acerola pulp. Ohmic heating is generally considered to be an improvement over more conventional thermal preservation methods: whereas conventional methods transfer energy from the surface of a food to its interior, ohmic heating passes electric current through food products to generate heat within the food itself.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests that there are possible flaws in ohmic heating technologies that have not yet been well researched."
+        },
+        {
+          "name": "B",
+          "content": "It introduces ohmic heating as a food preservation technology and identifies one of its advantages."
+        },
+        {
+          "name": "C",
+          "content": "It provides an overview of the research into ohmic heating both globally and in a specific country."
+        },
+        {
+          "name": "D",
+          "content": "It explains why conventional heating methods are popular in commercial applications and proposes a shift away from these methods."
+        }
+      ],
+      "correct": "It introduces ohmic heating as a food preservation technology and identifies one of its advantages.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Anne Spencer's 1922 poem \"Translation.\"</p><blockquote style=\"margin-left: 40px;\">We trekked into a far country,<br>My friend and I.<br>Our deeper content was never spoken.<br>But each knew all the other said.<br>He told me how calm his soul was laid<br>By the lack of anvil and strife.<br>âThe wooing kestrel,â I said, âmutes his mating-note<br>To please the harmony of this sweet silence.â</blockquote>",
+      "question": "Which choice best describes the function of the reference to the âwooing kestrelâ (a type of bird) in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests that there are some aspects of nature that will forever be mysterious to humans."
+        },
+        {
+          "name": "B",
+          "content": "It emphasizes the speaker's belief that her friend is not sharing his true feelings with her."
+        },
+        {
+          "name": "C",
+          "content": "It presents the natural world as aligning with the experience of the speaker and her friend."
+        },
+        {
+          "name": "D",
+          "content": "It illustrates the assertion that the definition of peace changes from person to person."
+        }
+      ],
+      "correct": "It presents the natural world as aligning with the experience of the speaker and her friend.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Julia Alvarez's 2000 novel <i>In the Name of SalomÃ©</i>. SalomÃ©, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.</p><div style=\"margin-left: 40px;\"><p>It was evening when the two men got up to leave. Tia Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into SalomÃ©'s salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.</p></div><p style=\"text-align: right;\">Â©2000 by Julia Alvarez</p>",
+      "question": "Based on the text, what most likely motivates Tia Ana's behavior during Salome's salon?",
+      "options": [
+        {
+          "name": "A",
+          "content": "She finds the guests to be dull and is eager to find a way to leave the salon."
+        },
+        {
+          "name": "B",
+          "content": "She is eager to tell the guests about the new school she is opening and anticipates their approval of her plans."
+        },
+        {
+          "name": "C",
+          "content": "She is anxious for the gathering to disperse so that she can ready the space for her own needs."
+        },
+        {
+          "name": "D",
+          "content": "She is frustrated because she needs assistance elsewhere in the house, but SalomÃ© is unavailable while entertaining the guests."
+        }
+      ],
+      "correct": "She is anxious for the gathering to disperse so that she can ready the space for her own needs.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mexican textile artist Victoria Villasana weaves stories of triumph, using her unique method of applying colorful yarn to photographs of people. In some works, Villasana focuses on celebrating cultural icons who are people of color, as she does in her depiction of boxer Muhammad Ali. However, in other works, Villasana honors ordinary people, as she does in her captivating portrayal of a woman making tortillas. Villasana sees both of these approaches as ways of depicting the power and interconnectedness of all people.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Villasana began her artistic career by painting portraits of famous people and then transitioned to depicting everyday people instead."
+        },
+        {
+          "name": "B",
+          "content": "Villasana's works focus on recognizing both famous and everyday examples of human strength and connection."
+        },
+        {
+          "name": "C",
+          "content": "Villasana's portrayal of a woman making tortillas focuses more on human connection than it does on human resilience."
+        },
+        {
+          "name": "D",
+          "content": "Villasanaâs depiction of boxer Muhammad Ali receives more attention from scholars than her depiction of a woman making tortillas does."
+        }
+      ],
+      "correct": "Villasana's works focus on recognizing both famous and everyday examples of human strength and connection.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Total Areas of Five Pueblo Nations in New Mexico</p><div style=\"text-align: center;\"><img src=\"/images/40a84fd4f6d1a588aed660111380203d.png\" style=\"width: 360px; height: 251px;\"></div><p>There are nineteen Pueblo tribal nations in New Mexico. A student in a geography class is a citizen of Santo Domingo Pueblo in the north-central part of the state. The student wants to compare the total area covered by Santo Domingo Pueblo with the total areas of various other Pueblo nations in the state. Looking at the table, the student finds that the total area of Santo Domingo Pueblo is 106.3 square miles, while the total area of NambÃ© Pueblo is ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the comparison?",
+      "options": [
+        {
+          "name": "A",
+          "content": "47.3 square miles."
+        },
+        {
+          "name": "B",
+          "content": "32.4 square miles"
+        },
+        {
+          "name": "C",
+          "content": "77.1 square miles."
+        },
+        {
+          "name": "D",
+          "content": "595.7 square miles."
+        }
+      ],
+      "correct": "32.4 square miles",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/c6d2098fd4afba4b2680e382e2a1b5b1.png\" width=\"318\" height=\"350\" style=\"display:inline-block;\"></div><p>It is common for freshwater lakes near or above a latitude of 45Â° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s.</p>",
+      "question": "Which choice best describes data from the graph that support the researcher's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Spirit Lake had approximately 100 days of ice in the winter of 1980-81 and approximately 125 days of ice in the winter of 2005-06."
+        },
+        {
+          "name": "B",
+          "content": "Lake Kallavesi had approximately 175 days of ice in the winter of 1980-81 and approximately 145 days of ice in the winter of 2005-06."
+        },
+        {
+          "name": "C",
+          "content": "The highest number of days of ice a lake in the graph had in the winter of 2005-06 was approximately 145."
+        },
+        {
+          "name": "D",
+          "content": "None of the three lakes had fewer days of ice in the winter of 1980-81 than they did in the winter of 2005-06."
+        }
+      ],
+      "correct": "Lake Kallavesi had approximately 175 days of ice in the winter of 1980-81 and approximately 145 days of ice in the winter of 2005-06.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Highest-Grossing Films in a Language Other than English at US Box Office</p><div style=\"text-align: center;\"><img src=\"/images/1fa61f6f0bbe7722f5992d33816c2612.png\" style=\"width: 400px; height: 313px;\"></div><p>Many films in a language other than English grow to be financially successful over the course of their time in movie theaters in the United States, but some become immediate successes in their opening weekends. A journalist claims that a film's reception can greatly influence its long-term success. Indications that the film is of high quality, such as an Oscar nomination, can dramatically boost public interest in the film and thus its overall earnings, even with a relatively modest opening weekend performance.</p>",
+      "question": "Which choice best describes data from the table that support the journalist's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>Cinema Paradiso</em> was recognized by the Oscars, but <em>Instructions Not Included</em>, which was not recognized by the Oscars, had higher lifetime earnings."
+        },
+        {
+          "name": "B",
+          "content": "<em>La Cage aux Folles</em>, which was recognized by the Oscars, earned less money in its opening weekend but had higher lifetime earnings than <em>Padmaavat</em>, which was not recognized by the Oscars."
+        },
+        {
+          "name": "C",
+          "content": "Although <em>La Cage aux Folles</em> and <em>Cinema Paradiso</em> were both recognized by the Oscars, <em>La Cage aux Folles</em> had higher lifetime and opening weekend earnings."
+        },
+        {
+          "name": "D",
+          "content": "Although the opening weekend earnings were $7,846,426 for <em>Instructions Not Included</em> and $4,493,384 for <em>Padmaavat</em>, neither film was recognized by the Oscars."
+        }
+      ],
+      "correct": "<em>La Cage aux Folles</em>, which was recognized by the Oscars, earned less money in its opening weekend but had higher lifetime earnings than <em>Padmaavat</em>, which was not recognized by the Oscars.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Cuba Street in Wellington, New Zealand, is a pedestrianized streetâit is closed to car traffic except in special circumstances. Students in Wellington surveyed residents about a proposal to increase the amount of car traffic allowed on Cuba Street. The survey results suggest that residents are generally against the proposal, and the students claim that much of the survey respondents' opposition stems from concerns that allowing more car traffic would diminish the distinctive character of the street.</p>",
+      "question": "Which quotation from a survey respondent would best illustrate the students' claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âPeople behind this idea hardly consulted any of us who work or live around Cuba Street. This proposal doesn't reflect our opinions.â"
+        },
+        {
+          "name": "B",
+          "content": "âA lot of the businesses on Cuba Street depend on foot traffic. If fewer people walk on the street because there are more cars, those businesses might struggle.â"
+        },
+        {
+          "name": "C",
+          "content": "âCuba Street is one of the most unusual streets in Wellington. I would hate to see it become just like any other street.â"
+        },
+        {
+          "name": "D",
+          "content": "âI think Wellington needs more streets like Cuba Street, not more streets full of loud cars spewing exhaust fumes into the air.â"
+        }
+      ],
+      "correct": "âCuba Street is one of the most unusual streets in Wellington. I would hate to see it become just like any other street.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Arthurian legends (tales related to the character of King Arthur) derive from many sources, such as <i>Pa gur yv y porthaur</i>, composed in the 10th century, and <i>Tom a Lincoln</i> from around 1607. One of the most significant sources, Geoffrey of Monmouth's <i>History of the Kings of Britain</i>, was written in the 1130s; some material from it was later adapted by the Norman poet Wace into the <i>Roman de Brut</i> in 1155. But while the <i>Roman de Brut</i> includes references to the famous Round Table at which Arthur's knights assembled, nothing written before 1155 does, which suggests that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Geoffrey of Monmouth's accounts of Arthurian legends in his <i>History</i> are more similar overall in content to the accounts in <i>Tom a Lincoln</i> than they are to the accounts in <i>Roman de Brut</i>."
+        },
+        {
+          "name": "B",
+          "content": "Geoffrey of Monmouth was unaware of stories of the Round Table when composing his <i>History</i>, though historians know that works containing such stories were available to him."
+        },
+        {
+          "name": "C",
+          "content": "any Arthurian legend that mentions the Round Table likely has a lineage that connects it to <i>Roman de Brut</i>."
+        },
+        {
+          "name": "D",
+          "content": "<i>Roman de Brut</i> is more historically accurate than <i>History</i>, because <i>Tom a Lincoln</i> had not been written when Geoffrey of Monmouth was writing his <i>History</i>."
+        }
+      ],
+      "correct": "any Arthurian legend that mentions the Round Table likely has a lineage that connects it to <i>Roman de Brut</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Azulejos, mosaics made of glazed ceramic tiles, can be found throughout Portugal. These mosaics beautify places such as ______ stations, and public squares.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "libraries: train"
+        },
+        {
+          "name": "B",
+          "content": "libraries train"
+        },
+        {
+          "name": "C",
+          "content": "librariesâtrain"
+        },
+        {
+          "name": "D",
+          "content": "libraries, train"
+        }
+      ],
+      "correct": "libraries, train",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Writer Silvia Moreno-Garcia's love of short fiction began when she read a collection of Edgar Allan Poe stories as a child, and she would develop into a prolific short story writer herself, publishing pieces like âIn the Detailsâ (2015) and âShade of the Ceiba Treeâ (2011). Yet she's become, with the breakout success of her 2020 novel Mexican ______ best known as a novelist.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Gothicâ"
+        },
+        {
+          "name": "B",
+          "content": "Gothic;"
+        },
+        {
+          "name": "C",
+          "content": "Gothic"
+        },
+        {
+          "name": "D",
+          "content": "Gothic,"
+        }
+      ],
+      "correct": "Gothic,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Featuring works by the photographers Madame dâOra and Charlotte Rudolph, the 2021 exhibition <i>The New Woman Behind the Camera</i> set out to provide a wide-ranging overview of photography by women in the 1920s through the ______ given the collection's breadth of more than 120 photos, its efforts were largely successful.</p>",
+      "question": "Which choice completes the text so that it conforms to the   conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1950s"
+        },
+        {
+          "name": "B",
+          "content": "1950s, and"
+        },
+        {
+          "name": "C",
+          "content": "1950s,"
+        },
+        {
+          "name": "D",
+          "content": "1950s and"
+        }
+      ],
+      "correct": "1950s, and",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Myra Musselmann-Carr and Lily Everett were among the 300 artists who exhibited at the 1913 Armory Show, a groundbreaking New York City art exhibition that introduced modernism to American audiences. Though now canonical, many works featured in the showâparticularly one abstract cubist painting by Marcel Duchampâ ______ considered shocking at the time.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "was"
+        },
+        {
+          "name": "B",
+          "content": "were"
+        },
+        {
+          "name": "C",
+          "content": "has been"
+        },
+        {
+          "name": "D",
+          "content": "is"
+        }
+      ],
+      "correct": "were",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Along the hallowed walls of New York City's Museum of Modern Art hangs 41.1-by-37.6-inch oil ______ which was created in 1910 by American artist Lyonel Feininger.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "painting Uprising,"
+        },
+        {
+          "name": "B",
+          "content": "painting Uprising"
+        },
+        {
+          "name": "C",
+          "content": "painting, Uprising"
+        },
+        {
+          "name": "D",
+          "content": "painting. Uprising."
+        }
+      ],
+      "correct": "painting Uprising,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1987, chemist Ahmed Zewail devised a novel technique in optical spectroscopy that allowed him to study ultrafast chemical reactions occurring within molecules. Years later, he ______ for this groundbreaking research with the Robert A. Welch Award and the Priestley Medal from the American Chemical Society and hence would become known as the father of femtochemistry.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "would be honored"
+        },
+        {
+          "name": "B",
+          "content": "is honored"
+        },
+        {
+          "name": "C",
+          "content": "will be honored"
+        },
+        {
+          "name": "D",
+          "content": "had been honored"
+        }
+      ],
+      "correct": "would be honored",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Humans inherit specific physical traits (like having brown or green eyes) from their parents. ______ dogs inherit specific physical traits (like having long or short tails) from their parents.</p>",
+      "question": "Which choice completes the text with the most logical   transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Similarly,"
+        },
+        {
+          "name": "B",
+          "content": "In other words,"
+        },
+        {
+          "name": "C",
+          "content": "As a result,"
+        },
+        {
+          "name": "D",
+          "content": "In conclusion,"
+        }
+      ],
+      "correct": "Similarly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Author Ursula K. Le Guin's <i>Planet of Exile</i> is a science fiction story set in an era of intergalactic travel, whereas her <i>The Tombs of Atuan</i> is a work of fantasy set in a land of heroes and dragons. ______ both fans of science fiction and fans of fantasy are among her many readers.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Alternatively,"
+        },
+        {
+          "name": "B",
+          "content": "Accordingly,"
+        },
+        {
+          "name": "C",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "At that time,"
+        }
+      ],
+      "correct": "Accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Kale is a vegetable that contains ascorbic acid, an essential nutrient for humans.</li><li>There is 120 milligrams (mg) of ascorbic acid in every 100 grams (g) of kale.</li><li>Carrots are vegetables that contain ascorbic acid.</li><li>There is 6 mg of ascorbic acid in every 100 g of carrot.</li><li>Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.</li><li>Ascorbic acid is also known as vitamin C.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between kale and carrots. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Carrots are vegetables that contain ascorbic acid; in fact, there is 6 mg of it in every 100g of carrot."
+        },
+        {
+          "name": "B",
+          "content": "Humans cannot make vitamin C in their bodies, so they must get this essential nutrient from vegetables, such as kale."
+        },
+        {
+          "name": "C",
+          "content": "One thing that kale and carrots have in common is that they both contain vitamin C."
+        },
+        {
+          "name": "D",
+          "content": "Just like fruits, vegetables are a food that humans can eat to get ascorbic acid, also known as vitamin C."
+        }
+      ],
+      "correct": "One thing that kale and carrots have in common is that they both contain vitamin C.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In 2022, University of Miami researchers discovered brine pools in the Gulf of Aqaba.</li><li>A brine pool is an underwater lake that sits on the ocean floor.</li><li>The water in brine pools is three to eight times saltier than the surrounding ocean.</li><li>The extreme saltiness of this water makes it toxic to most sea life.</li><li>Some forms of bacteria are able to survive in brine pools.</li></ul></blockquote>",
+      "question": "The student wants to explain why brine pools are toxic to most sea life. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The water in brine pools is toxic to most sea life because it is three to eight times saltier than the surrounding ocean."
+        },
+        {
+          "name": "B",
+          "content": "The brine pools in the Gulf of Aqaba are toxic to most sea life and were discovered by researchers in 2022."
+        },
+        {
+          "name": "C",
+          "content": "Though brine pools are toxic to most sea life, some bacteria can survive there."
+        },
+        {
+          "name": "D",
+          "content": "Brine pools are salty underwater lakes that sit on the ocean floor."
+        }
+      ],
+      "correct": "The water in brine pools is toxic to most sea life because it is three to eight times saltier than the surrounding ocean.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>Discoglossus nigriventer</i> is an amphibian species.</li><li>It was believed to be extinct until a living specimen was identified in Israel in 2011.</li><li><i>Dysphania pusilla</i> is a plant species.</li><li>It was believed to be extinct until a living specimen was identified in New Zealand in 2015.</li><li>They are considered Lazarus species.</li><li>\"Lazarus species\" is a term for living species of organisms that were once believed to be extinct.</li></ul></blockquote>",
+      "question": "The student wants to specify where Discoglossus nigriventer was identified. Which choice most effectively uses relevant   information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 2015, a living specimen of Dysphania pusilla was found in New Zealand."
+        },
+        {
+          "name": "B",
+          "content": "Previously believed to be extinct, a living specimen of Discoglossus nigriventer was identified in Israel."
+        },
+        {
+          "name": "C",
+          "content": "Examples of Lazarus species can be found in Discoglossus nigriventer as well as Dysphania pusilla."
+        },
+        {
+          "name": "D",
+          "content": "A living specimen of Discoglossus nigriventer, once believed to be extinct, was identified in 2011."
+        }
+      ],
+      "correct": "Previously believed to be extinct, a living specimen of Discoglossus nigriventer was identified in Israel.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Entomology is primarily the study of insects.</li><li>Margaretta Morris was an American entomologist born in 1797.</li><li>She is known for her research on wheat flies and cicadas.</li><li>Ornithology is primarily the study of birds.</li><li>Emilie Snethlage was a German-Brazilian ornithologist born in 1868.</li><li>She is known for her research on Brazilian birds.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize a similarity between Morris and Snethlage?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The entomologist Margarett a Morris was born in 1797, but ornithologist Emilie Snethlage was born later, in 1868."
+        },
+        {
+          "name": "B",
+          "content": "Like entomologist Margarett a Morris, ornithologist Emilie Snethlage dedicated her scientific career to the study of living organisms."
+        },
+        {
+          "name": "C",
+          "content": "Entomology and ornithology are just two examples of the myria d fields in which scientists can specialize."
+        },
+        {
+          "name": "D",
+          "content": "Margarett a Morris conducted research on wheat flies and cicadas;Emilie Snethlage, by contrast, is known for her research on Brazilian birds."
+        }
+      ],
+      "correct": "Like entomologist Margarett a Morris, ornithologist Emilie Snethlage dedicated her scientific career to the study of living organisms.",
+      "solution": ""
+    }
+  ]
+}

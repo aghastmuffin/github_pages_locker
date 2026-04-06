@@ -1,0 +1,682 @@
+{
+  "uuid": "b1090998-4e12-45f7-bd60-06406eed8256",
+  "chunk": "BpKo9frX.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Microplastics are a common pollutant in large masses of water like oceans. High concentrations and ______ among particlesâvariations in size, shape, and materialâmake it onerous to comprehensively classify the microplastics in a water sample, so Ojeda-Benitez et al. are exploring a device to help quickly and accurately identify certain characteristics.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "incompatibilities"
+        },
+        {
+          "name": "B",
+          "content": "disruptions"
+        },
+        {
+          "name": "C",
+          "content": "inconsistencies"
+        },
+        {
+          "name": "D",
+          "content": "restraints"
+        }
+      ],
+      "correct": "inconsistencies",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Alice Dunbar Nelson's 1899 short story <i>The Fisherman of Pass Christian</i>. Pass Christian is a city in the US state of Mississippi.</p><blockquote style=\"margin-left: 40px;\">The swift breezes on the beach at Pass Christian meet and conflict as though each strove for the <u>mastery</u> of the air. The land-breeze blows down through the pines, resinous, fragrant, cold, bringing breath-like memories of dim, dark woods shaded by myriad pine-needles. The breeze from the Gulf is warm and soft and languorous, blowing up from the south with its suggestion of tropical warmth.</blockquote>",
+      "question": "As used in the text, what does the word \"mastery\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Familiarity"
+        },
+        {
+          "name": "B",
+          "content": "Comprehension"
+        },
+        {
+          "name": "C",
+          "content": "Domination"
+        },
+        {
+          "name": "D",
+          "content": "Skillfulness"
+        }
+      ],
+      "correct": "Domination",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Alice Dunbar Nelson's 1899 short story <i>The Fisherman of Pass Christian</i>. Pass Christian is a city in the US state of Mississippi.</p><blockquote style=\"margin-left: 40px;\">The swift breezes on the beach at Pass Christian meet and conflict as though each strove for the <u>mastery</u> of the air. The land-breeze blows down through the pines, resinous, fragrant, cold, bringing breath-like memories of dim, dark woods shaded by myriad pine-needles. The breeze from the Gulf is warm and soft and languorous, blowing up from the south with its suggestion of tropical warmth.</blockquote>",
+      "question": "As used in the text, what does the word \"mastery\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Familiarity"
+        },
+        {
+          "name": "B",
+          "content": "Comprehension"
+        },
+        {
+          "name": "C",
+          "content": "Domination"
+        },
+        {
+          "name": "D",
+          "content": "Skillfulness"
+        }
+      ],
+      "correct": "Domination",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The dinosaur displays at museums such as the Natural History Museum of Los Angeles County in Los Angeles (which has a mounted <i>Allosaurus fragilis</i> skeleton among its holdings) are notable for the ______ of the research behind themâthe museum staff consulted numerous sources to ensure the accuracy of the displays.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "shallowness"
+        },
+        {
+          "name": "B",
+          "content": "novelty"
+        },
+        {
+          "name": "C",
+          "content": "obscurity"
+        },
+        {
+          "name": "D",
+          "content": "rigor"
+        }
+      ],
+      "correct": "rigor",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Moving beyond a simple \"present or absent\" designation, researchers created a new classification system that allows for a nuanced understanding of bioluminescence in marine organisms that was unavailable under binary classification systems. <u>The new six-point scale considers varying levels of supporting evidence used to identify bioluminescent species</u>. For example, the splendid ponyfish scores 1 because of inconsistent reports, the emperor squid scores 4 because of its anatomical similarity to known luminous relatives, and the violet cod scores 6 because of substantiated direct observations.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains the basis for the new system's scoring criteria."
+        },
+        {
+          "name": "B",
+          "content": "It explains how the new classification system was derived from the previous binary system."
+        },
+        {
+          "name": "C",
+          "content": "It justifies the need for a new classification system for marine species."
+        },
+        {
+          "name": "D",
+          "content": "It emphasizes the thoroughness of the research conducted."
+        }
+      ],
+      "correct": "It explains the basis for the new system's scoring criteria.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Adult glass eels can be found off the coast of Maine, but the eels begin their lives in the Sargasso Sea, a biodiverse area in the North Atlantic Ocean where they are born and later return to breed. Though biologists believe they have identified the general area in the Sargasso Sea that is crucial to the endangered eels' survival, little is yet known about how the animals spawn there. Scientists believe that solving the mystery will lead to better conservation of glass eels and their habitat, <u>helping in turn to sustain several other species that rely on them as a food source</u>.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It presents a finding from a study that identifies the circumstances required to ensure the survival of glass eels."
+        },
+        {
+          "name": "B",
+          "content": "It indicates that the benefit of understanding glass eels' spawning behavior extends beyond the eels."
+        },
+        {
+          "name": "C",
+          "content": "It suggests that scientists are more concerned about other species than about glass eels' habitat."
+        },
+        {
+          "name": "D",
+          "content": "It discusses a role that glass eels and other species serve in supporting the ecosystem of the Sargasso Sea."
+        }
+      ],
+      "correct": "It indicates that the benefit of understanding glass eels' spawning behavior extends beyond the eels.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Henry James's 1916 short story <i>The Pupil</i>. A man is being considered for a position as a live-in tutor for a woman's child.</p><blockquote style=\"margin-left: 40px;\">The poor young man hesitated and procrastinated: it cost him such an effort to broach the subject of terms, to speak of money to a person who spoke only of feelings and, as it were, of the aristocracy. Yet he was unwilling to take leave, treating his engagement as settled, without some more conventional glance in that direction than he could find an opening for in the manner of the large affable lady who sat there drawing a pair of soiled [suede gloves] through a jewelled hand and, at once pressing and gliding, repeated over and over everything but the thing he would have liked to hear.</blockquote>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It criticizes a person for being excessively timid."
+        },
+        {
+          "name": "B",
+          "content": "It draws a sharp contrast between the personalities of two people."
+        },
+        {
+          "name": "C",
+          "content": "It describes a person's unsuccessful attempt to change someone's mind."
+        },
+        {
+          "name": "D",
+          "content": "It portrays the difficulty a person has with raising a topic of conversation."
+        }
+      ],
+      "correct": "It portrays the difficulty a person has with raising a topic of conversation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Founded in 1991, the Museo de Las Americas showcases art from Latin America, including the art of indigenous peoples. It is located in Denver and has more than 4,800 objects in its collection. Since 2000, a number of other institutions devoted to Latino cultures have opened in the United States. A notable example is Casa de Rosado in Lansing, Michigan. It focuses on the arts and cultures of Latino communities in Michigan.</p>",
+      "question": "Which statement about the Museo de Las Americas is best supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is visited by more people than any other Latino cultural institution in the US."
+        },
+        {
+          "name": "B",
+          "content": "It was founded after 2000."
+        },
+        {
+          "name": "C",
+          "content": "Its collection includes over 4,800 objects."
+        },
+        {
+          "name": "D",
+          "content": "It is no longer located in Denver."
+        }
+      ],
+      "correct": "Its collection includes over 4,800 objects.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Linguist John McWhorter asserts that translation apps for smartphones and computers areâdespite generally failing to convey many nuancesâincreasingly obviating the need to learn new languages. Advances in language processing technology have greatly boosted the utility of these apps for perfunctory tasks, like inquiring about an item on a menu, and passing interactions; be that as it may, richer communication (e.g., in business dealings or meaningful personal exchanges) often hinges on conversational patterns and gradations of meaning.</p>",
+      "question": "What does the text most directly suggest about translation apps?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They are coming to be embraced by international tourists but are viewed with skepticism by many business professionals."
+        },
+        {
+          "name": "B",
+          "content": "They have improved remarkably over time but remain insufficient to support the complexity called for in certain interactions."
+        },
+        {
+          "name": "C",
+          "content": "They are becoming simpler to use but are inconsistent in how comprehensively they cover different languages."
+        },
+        {
+          "name": "D",
+          "content": "They have gained impressive capabilities but continue to be widely viewed as inadequate for most practical purposes."
+        }
+      ],
+      "correct": "They have improved remarkably over time but remain insufficient to support the complexity called for in certain interactions.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Given the immense scope of space, the search for extraterrestrial life is almost necessarily concentrated on the exoplanets deemed to have the most plausible chance of successâtypically, atmosphere-bearing terrestrial planets orbiting within a certain range of their stars (termed the habitable zone). Claiming that Earth experienced a long transition from single-lid to plate tectonics that accelerated the emergence and evolution of complex organisms, researchers Robert J. Stern and Taras V. Gerya hold that consideration of tectonics, an often overlooked factor, could help further narrow the search for advanced extraterrestrial species.</p>",
+      "question": "Based on the text, what do Stern and Gerya most likely believe about the development of complex life on exoplanets?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is probably more dependent on the presence of plate tectonics than on orbital distance from a host star or the presence of an atmosphere."
+        },
+        {
+          "name": "B",
+          "content": "It is unlikely unless the transition from single-lid to plate tectonics occurs before the acquisition of a lasting atmosphere."
+        },
+        {
+          "name": "C",
+          "content": "It is more likely to occur on habitable zone planets with atmospheres and plate tectonics than on otherwise similar planets that lack plate tectonics."
+        },
+        {
+          "name": "D",
+          "content": "It is more likely to occur if habitable zone planets with atmospheres transition from single-lid to plate tectonics late in their history than if they transition early in their history."
+        }
+      ],
+      "correct": "It is more likely to occur on habitable zone planets with atmospheres and plate tectonics than on otherwise similar planets that lack plate tectonics.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img height=\"394\" src=\"/images/ef5dd43a9d3c6896efd98ce1b43e4b49.png\" width=\"477\"></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to&nbsp;graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere&nbsp;to each other. At some voltages, adhesion strengthâas measured in kilopascals (kPa) of stress&nbsp;needed to pull the materials apartâwas high (more than 30 kPa). But the mere application of a&nbsp;direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as&nbsp;evidenced by the fact that_______</span></span><br>",
+      "question": "Which choice most effectively uses data from the graph to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V."
+        },
+        {
+          "name": "B",
+          "content": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+        },
+        {
+          "name": "C",
+          "content": "at 0 V, mean adhesion strength was equal to 0 kPa."
+        },
+        {
+          "name": "D",
+          "content": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V."
+        }
+      ],
+      "correct": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img height=\"218\" src=\"/images/6f32e5168955adb66457bccae4d9667e.png\" width=\"426\"></p><p>The Girl Scouts of America is an organization famous for its annual sales of several varieties of cookies, including Tagalongs. A student is writing an essay on the history of the organization. The student claims that from 1992 to 1995 the organization's popularity regularly peaked among participants in a certain age range before declining among older participants as Girl Scout activities began to compete with other interests.</p>",
+      "question": "Which choice best describes data from the table that support the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Only once between 1992 and 1995 did the number of Juniors in the Girl Scouts exceed the number of Brownies."
+        },
+        {
+          "name": "B",
+          "content": "There were 1,319,000 Brownies in the Girl Scouts in 1992 but 1,142,000 in 1995."
+        },
+        {
+          "name": "C",
+          "content": "For each year from 1992 to 1995, there were fewer Juniors in the Girl Scouts than there were Brownies."
+        },
+        {
+          "name": "D",
+          "content": "Throughout the years from 1992 to 1995, the number of Daisies in the Girl Scouts exceeded the number of Juniors."
+        }
+      ],
+      "correct": "For each year from 1992 to 1995, there were fewer Juniors in the Girl Scouts than there were Brownies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Cane</i> is a 1923 novel by Jean Toomer. In the novel, Toomer mentions a road in rural Georgia called Dixie Pike and describes it as having a deep connection to a faraway place, writing, ______ </p>",
+      "question": "Which quotation from <i>Cane</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"And when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].\""
+        },
+        {
+          "name": "B",
+          "content": "\"The Dixie Pike has grown from a goat path in Africa.\""
+        },
+        {
+          "name": "C",
+          "content": "\"From down the railroad track, the chug-chug of a gas engine announces that the repair gang is coming home.\""
+        },
+        {
+          "name": "D",
+          "content": "\"One evening I walked up the [Dixie] Pike on purpose, and stopped to say hello [to Fern].\""
+        }
+      ],
+      "correct": "\"The Dixie Pike has grown from a goat path in Africa.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mia Heavener's 2019 novel <i>Under Nushagak Bluff</i>, which takes place in a mid-twentieth-century rural Alaskan fishing ______ the story of three Yup'ik women who grapple with the rise of commercial fisheries and other changes affecting their community.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "village. Tells"
+        },
+        {
+          "name": "B",
+          "content": "village tells"
+        },
+        {
+          "name": "C",
+          "content": "village: tells"
+        },
+        {
+          "name": "D",
+          "content": "village, tells"
+        }
+      ],
+      "correct": "village, tells",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many works of the Greek dramatist Menander (4th century BCE) are ______ his <i>Dyskolos</i>, a comedy about a misanthrope, is an extant work: it can still be read.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "lost and conversely,"
+        },
+        {
+          "name": "B",
+          "content": "lost. Conversely,"
+        },
+        {
+          "name": "C",
+          "content": "lost, conversely,"
+        },
+        {
+          "name": "D",
+          "content": "lost, and conversely"
+        }
+      ],
+      "correct": "lost. Conversely,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Sergeant First Class Modesto Cartagena was a soldier in the United States 65th Infantry Regiment, a Puerto Rico-based regiment of the US Army. In 2016, the United States Congress honored Cartagena and the other servicepeople of the 65th Infantry Regiment with one of its highest ______ Congressional Gold Medal.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "honors; the"
+        },
+        {
+          "name": "B",
+          "content": "honors the"
+        },
+        {
+          "name": "C",
+          "content": "honors: the"
+        },
+        {
+          "name": "D",
+          "content": "honors (the"
+        }
+      ],
+      "correct": "honors: the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Growing as large as three meters in diameter, the leaves of the giant Amazonian waterlily feature a complex network of radiating veins that provide structural ______ in thickness from the center to the edges, these veins allow the leaves to maintain their large size and buoyancy with minimal material, optimizing light capture and photosynthesis.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "support, decreasing"
+        },
+        {
+          "name": "B",
+          "content": "support. Decreasing"
+        },
+        {
+          "name": "C",
+          "content": "support decreasing"
+        },
+        {
+          "name": "D",
+          "content": "support, while decreasing"
+        }
+      ],
+      "correct": "support. Decreasing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Recordings of electrical activity in the brain, ______ increased activity in brain areas associated with suppressing motor functions.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hypothetical match scenario responses show that the most highly skilled soccer players captured in electrograms have"
+        },
+        {
+          "name": "B",
+          "content": "the most highly skilled soccer players responding to hypothetical match scenarios have electrograms that show"
+        },
+        {
+          "name": "C",
+          "content": "electrograms show that while responding to hypothetical match scenarios, the most highly skilled soccer players have"
+        },
+        {
+          "name": "D",
+          "content": "responses to hypothetical match scenarios show that the most highly skilled soccer players have electrograms with"
+        }
+      ],
+      "correct": "electrograms show that while responding to hypothetical match scenarios, the most highly skilled soccer players have",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Bertie Marshall, a key figure in the history of steel band music in Trinidad and Tobago, made several innovations to the steel ______ wheels so the instrument could be easily transported during Carnival, a cover to protect the pans from the sun, and amplification so the sound of the pans could be better heard over large crowds and other instrumentation.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "drum;"
+        },
+        {
+          "name": "B",
+          "content": "drum:"
+        },
+        {
+          "name": "C",
+          "content": "drum,"
+        },
+        {
+          "name": "D",
+          "content": "drum"
+        }
+      ],
+      "correct": "drum:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In eastern Mexico, Monument 3 and Monument 61 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ______ they each weigh more than 5 tons!</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In fact,"
+        },
+        {
+          "name": "B",
+          "content": "Earlier,"
+        },
+        {
+          "name": "C",
+          "content": "In any case,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "In fact,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While most animals prefer the safety of nighttime migration, many poisonous amphibiansâa category that includes the Cuban toad and the eastern newtâsafely engage in migratory behavior during the day. ______ with the sun in the sky, the amphibians' striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "At that time,"
+        },
+        {
+          "name": "D",
+          "content": "However,"
+        }
+      ],
+      "correct": "At that time,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While some researchers have identified the planet Kepler-1632b as potentially habitable, it's unlikely that humanity will be able to take advantage of its favorable conditions anytime soonâit's 2,337 light years away. ______ humanity must first focus on making planets within our solar system more habitable.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Next,"
+        },
+        {
+          "name": "B",
+          "content": "Likewise,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "Instead,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When ordering the branches of the Yukon River system, cartographers tend to begin with the riverway's lowest point, the Yukon River. ______ hydrologists begin at the top of the river system, with the Kanuti River and other tributaries fed by the riverway's source, Alaska's Llewellyn Glacier.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "In other words,"
+        },
+        {
+          "name": "C",
+          "content": "In a similar way,"
+        },
+        {
+          "name": "D",
+          "content": "By contrast,"
+        }
+      ],
+      "correct": "By contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Lemons are fruits that contain ascorbic acid, an essential nutrient for humans.</li><li>Every 100 grams (g) of lemon contains 53 milligrams (mg) of ascorbic acid.</li><li>Many animals can make ascorbic acid in their bodies, but humans cannot.</li><li>Humans must get ascorbic acid from foods, including fruits and vegetables.</li><li>Ascorbic acid is also known as vitamin C.</li></ul></blockquote>",
+      "question": "The student wants to explain why humans must get vitamin C from food. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Since humans cannot make vitamin C in their bodies, they must get this essential nutrient from foods like lemons."
+        },
+        {
+          "name": "B",
+          "content": "Many animals can make ascorbic acid, which is also known as vitamin C, in their bodies."
+        },
+        {
+          "name": "C",
+          "content": "Lemons contain vitamin C, which humans must get from food."
+        },
+        {
+          "name": "D",
+          "content": "There is 53 mg of vitamin C, an essential nutrient for humans, in every 100 g of lemon."
+        }
+      ],
+      "correct": "Since humans cannot make vitamin C in their bodies, they must get this essential nutrient from foods like lemons.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Moapa Valley National Wildlife Refuge (NWR) is a protected natural area in Nevada.</li><li>It encompasses 32 acres.</li><li>The Moapa Valley NWR was established to safeguard the habitat of the Moapa dace, an endangered species.</li><li>The Moapa Valley NWR is managed by the US Fish &amp; Wildlife Service.</li><li>The US Fish &amp; Wildlife Service limits human activities in the area.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the role the US Fish & Wildlife Service plays in safeguarding the habitat of the Moapa dace. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By limiting human activities in the Moapa Valley NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the Moapa dace."
+        },
+        {
+          "name": "B",
+          "content": "Human activities are limited in the Moapa Valley NWR, a protected natural area in Nevada."
+        },
+        {
+          "name": "C",
+          "content": "The 32-acre Moapa Valley NWR was established to safeguard the habitat of the Moapa dace, an endangered species."
+        },
+        {
+          "name": "D",
+          "content": "Home to the Moapa dace, the Moapa Valley NWR is located in Nevada, where it encompasses 32 acres."
+        }
+      ],
+      "correct": "By limiting human activities in the Moapa Valley NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the Moapa dace.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Usually, a country's capital is also its largest city by population.</li><li>The capital of Malta is Valletta.</li><li>Its largest city by population is St. Paul's Bay.</li><li>The capital of Kazakhstan is Nur-Sultan.</li><li>Its largest city by population is Almaty.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between St. Paul's Bay and Almaty. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The most populous city in Malta is St. Paul's Bay, but its capital is Valletta."
+        },
+        {
+          "name": "B",
+          "content": "Although neither is a capital city, both St. Paul's Bay and Almaty are the most populous cities in their countries."
+        },
+        {
+          "name": "C",
+          "content": "The capital of Malta is Valletta; the capital of Kazakhstan is Nur-Sultan."
+        },
+        {
+          "name": "D",
+          "content": "While St. Paul's Bay is in Malta, Almaty is in Kazakhstan."
+        }
+      ],
+      "correct": "Although neither is a capital city, both St. Paul's Bay and Almaty are the most populous cities in their countries.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>The Incarnations</i> (2015) is an epistolary novel by English author Susan Barker.</li><li>Epistolary novels are novels written primarily as a series of fictional documents.</li><li>These documents can be letters, journal entries, newspaper clippings, and more.</li><li><i>The Incarnations</i> consists primarily of letters. The letters are sent between a taxi driver named Wang Jun and a mysterious woman.</li></ul></blockquote>",
+      "question": "The student wants to provide an example of an epistolary novel. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 2015, English author Susan Barker published a novel of letters sent between a taxi driver named Wang Jun and a mysterious woman."
+        },
+        {
+          "name": "B",
+          "content": "Consisting primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman, Susan Barker's <i>The Incarnations</i> is an epistolary novel."
+        },
+        {
+          "name": "C",
+          "content": "It was Susan Barker who published the novel <i>The Incarnations</i> in 2015."
+        },
+        {
+          "name": "D",
+          "content": "An epistolary novel is a novel written primarily as a series of fictional documents, such as letters, journal entries, or newspaper clippings."
+        }
+      ],
+      "correct": "Consisting primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman, Susan Barker's <i>The Incarnations</i> is an epistolary novel.",
+      "solution": ""
+    }
+  ]
+}

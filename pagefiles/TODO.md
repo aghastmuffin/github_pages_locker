@@ -1,0 +1,1 @@
+add hints that fade in and give advice for instructor mode

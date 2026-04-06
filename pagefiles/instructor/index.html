@@ -1,0 +1,747 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Instructor Live Viewer</title>
+  <style>
+    :root {
+      --bg: #f2f6fb;
+      --panel: #ffffff;
+      --ink: #10223a;
+      --muted: #4d607b;
+      --line: #d4deeb;
+      --accent: #0e6ad8;
+      --good: #117d4f;
+      --warn: #8c6700;
+      --bad: #b43434;
+      --soft: #edf4ff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 8% 12%, #d6e6ff 0 16%, transparent 16%),
+        radial-gradient(circle at 92% 84%, #e6f3ff 0 18%, transparent 18%),
+        var(--bg);
+      padding: 20px;
+    }
+
+    .wrap {
+      max-width: 1150px;
+      margin: 0 auto;
+      display: grid;
+      gap: 14px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 10px 24px rgba(6, 42, 102, 0.08);
+      padding: 14px;
+    }
+
+    h1, h2, h3 {
+      margin: 0 0 8px;
+    }
+
+    p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    label {
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 700;
+      display: block;
+      margin-bottom: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    input {
+      width: 100%;
+      border: 1px solid #b8c6dc;
+      border-radius: 10px;
+      padding: 9px 11px;
+      font: inherit;
+      color: var(--ink);
+      background: #fff;
+    }
+
+    .field {
+      min-width: 150px;
+      flex: 1;
+    }
+
+    .field.small {
+      flex: 0 0 120px;
+      min-width: 120px;
+    }
+
+    button {
+      border: 1px solid #0b57b3;
+      border-radius: 10px;
+      padding: 9px 12px;
+      cursor: pointer;
+      color: #fff;
+      font-weight: 700;
+      background: linear-gradient(180deg, #1b7cec, #0f5ec2);
+    }
+
+    button.secondary {
+      background: #fff;
+      color: var(--ink);
+      border-color: #adbdd7;
+    }
+
+    button:disabled {
+      opacity: 0.55;
+      cursor: not-allowed;
+    }
+
+    .status {
+      margin-top: 10px;
+      border-radius: 10px;
+      border: 1px solid transparent;
+      padding: 8px 10px;
+      font-size: 13px;
+      background: #f6f8fc;
+      color: var(--muted);
+    }
+
+    .status.ok {
+      background: #ecfbf4;
+      color: var(--good);
+      border-color: #c7ecd7;
+    }
+
+    .status.warn {
+      background: #fff8e7;
+      color: var(--warn);
+      border-color: #eedba8;
+    }
+
+    .status.bad {
+      background: #fff0f0;
+      color: var(--bad);
+      border-color: #efcccc;
+    }
+
+    .grid {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px;
+      background: #fbfdff;
+    }
+
+    .card .label {
+      font-size: 12px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .card .value {
+      margin-top: 6px;
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--ink);
+      word-break: break-word;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: minmax(280px, 0.95fr) minmax(420px, 1.05fr);
+      gap: 12px;
+      align-items: start;
+    }
+
+    .timeline {
+      max-height: 430px;
+      overflow: auto;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fbfdff;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    th, td {
+      text-align: left;
+      font-size: 13px;
+      padding: 8px 7px;
+      border-bottom: 1px solid #e2e8f3;
+      vertical-align: top;
+      word-break: break-word;
+    }
+
+    th {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      background: #f1f6ff;
+      font-size: 11px;
+      color: #2e4463;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .mono {
+      font-family: Menlo, Monaco, Consolas, monospace;
+    }
+
+    .hint {
+      margin-top: 8px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .auth-state {
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    @media (max-width: 1000px) {
+      .split {
+        grid-template-columns: 1fr;
+      }
+
+      .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 640px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="panel">
+      <h1>Instructor Live Viewer</h1>
+      <p>Sign in as an instructor, then watch one student session at a time by entering their 3-character user code.</p>
+      <div class="row" style="margin-top: 10px;">
+        <div class="field">
+          <label for="instructor-email">Instructor Email</label>
+          <input id="instructor-email" type="email" placeholder="you@you.org" autocomplete="username">
+        </div>
+        <div class="field">
+          <label for="instructor-password">Password</label>
+          <input id="instructor-password" type="password" placeholder="Password" autocomplete="current-password">
+        </div>
+        <div class="row" style="margin-top: 20px;">
+          <button id="sign-in-btn" type="button">Sign In</button>
+          <button id="sign-out-btn" class="secondary" type="button">Sign Out</button>
+          <span id="auth-state" class="auth-state">Not signed in</span>
+        </div>
+      </div>
+      <div class="row" style="margin-top: 10px;">
+        <div class="field small">
+          <label for="session-code">Student Code</label>
+          <input id="session-code" type="text" maxlength="3" placeholder="ABC" autocomplete="off">
+        </div>
+        <div class="field small">
+          <label for="poll-ms">Poll-ms (dont touch)</label>
+          <input id="poll-ms" type="number" min="800" step="100" value="1500">
+        </div>
+        <div class="row" style="margin-top: 20px;">
+          <button id="watch-btn" type="button">Watch Session</button>
+          <button id="stop-btn" class="secondary" type="button">Stop</button>
+          <label class="row" style="margin: 0 0 0 4px;">
+            <input id="auto-refresh" type="checkbox" checked style="width: auto;">
+            <span style="font-size: 13px; color: var(--muted);">Auto refresh</span>
+          </label>
+        </div>
+      </div>
+      <div id="status" class="status">Enter a code to begin.</div>
+    </section>
+
+    <section class="panel split">
+      <div>
+        <h2>Current Snapshot</h2>
+        <div class="grid" style="margin-top: 8px;">
+          <div class="card"><div class="label">Session</div><div id="session-out" class="value mono">-</div></div>
+          <div class="card"><div class="label">Events</div><div id="events-count" class="value">0</div></div>
+          <div class="card"><div class="label">Current Event</div><div id="event-type" class="value">-</div></div>
+          <div class="card"><div class="label">Event Value</div><div id="event-value" class="value">-</div></div>
+          <div class="card"><div class="label">Current Question</div><div id="question-ref" class="value mono">-</div></div>
+          <div class="card"><div class="label">Expected Answer</div><div id="expected-answer" class="value">-</div></div>
+          <div class="card"><div class="label">Question Time</div><div id="question-time" class="value">00:00</div></div>
+          <div class="card"><div class="label">Session Time</div><div id="session-time" class="value">00:00</div></div>
+        </div>
+        <p id="question-preview" class="hint">Question text will appear here when the latest event has a valid question reference.</p>
+        <p id="updated-at" class="hint">Last refresh: -</p>
+      </div>
+
+      <div>
+        <h2>Recent Events</h2>
+        <div class="timeline" style="margin-top: 8px;">
+          <table>
+            <thead>
+              <tr>
+                <th style="width: 130px;">Time</th>
+                <th style="width: 110px;">Type</th>
+                <th style="width: 170px;">Question</th>
+                <th>Value</th>
+              </tr>
+            </thead>
+            <tbody id="events-body">
+              <tr><td colspan="4" style="color: var(--muted);">No data yet.</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="hint">This viewer is read-only. It does not change student data.</p>
+      </div>
+    </section>
+  </main>
+
+  <script type="module">
+    import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
+
+    const SUPABASE_URL = "https://cahitfvxroazudhoiixa.supabase.co";
+    const SUPABASE_ANON_KEY = "sb_publishable_XYm-dyC0_ny5NtpTSltLKA_ptuSD9TV";
+    const SESSION_RE = /^[A-Z0-9]{3}$/;
+    const QUESTION_REF_RE = /^([0-9a-fA-F-]{36})#(\d+)$/;
+
+    const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+    const quizCache = new Map();
+
+    const ui = {
+      instructorEmail: document.getElementById("instructor-email"),
+      instructorPassword: document.getElementById("instructor-password"),
+      signInBtn: document.getElementById("sign-in-btn"),
+      signOutBtn: document.getElementById("sign-out-btn"),
+      authState: document.getElementById("auth-state"),
+      sessionCode: document.getElementById("session-code"),
+      pollMs: document.getElementById("poll-ms"),
+      watchBtn: document.getElementById("watch-btn"),
+      stopBtn: document.getElementById("stop-btn"),
+      autoRefresh: document.getElementById("auto-refresh"),
+      status: document.getElementById("status"),
+      sessionOut: document.getElementById("session-out"),
+      eventsCount: document.getElementById("events-count"),
+      eventType: document.getElementById("event-type"),
+      eventValue: document.getElementById("event-value"),
+      questionRef: document.getElementById("question-ref"),
+      expectedAnswer: document.getElementById("expected-answer"),
+      questionTime: document.getElementById("question-time"),
+      sessionTime: document.getElementById("session-time"),
+      questionPreview: document.getElementById("question-preview"),
+      updatedAt: document.getElementById("updated-at"),
+      eventsBody: document.getElementById("events-body"),
+    };
+
+    const state = {
+      authSession: null,
+      activeSession: "",
+      timerId: null,
+      requestToken: 0,
+      loading: false,
+    };
+
+    function normalizeSessionCode(raw) {
+      return String(raw || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 3);
+    }
+
+    function setStatus(message, kind = "") {
+      ui.status.textContent = message;
+      ui.status.className = `status ${kind}`.trim();
+    }
+
+    function updateAuthUi(session) {
+      state.authSession = session || null;
+      const signedIn = Boolean(session && session.user);
+      const email = signedIn ? String(session.user.email || "").trim() : "";
+
+      ui.authState.textContent = signedIn
+        ? `Signed in as ${email || "instructor"}`
+        : "Not signed in";
+
+      ui.signInBtn.disabled = signedIn;
+      ui.signOutBtn.disabled = !signedIn;
+      ui.watchBtn.disabled = !signedIn;
+      ui.stopBtn.disabled = !signedIn;
+      ui.sessionCode.disabled = !signedIn;
+      ui.pollMs.disabled = !signedIn;
+      ui.autoRefresh.disabled = !signedIn;
+    }
+
+    async function initAuth() {
+      const { data, error } = await supabase.auth.getSession();
+      if (error) {
+        setStatus(error.message || "Could not restore auth session.", "bad");
+      }
+      updateAuthUi(data ? data.session : null);
+
+      supabase.auth.onAuthStateChange((_event, session) => {
+        updateAuthUi(session);
+        if (!session) {
+          stopWatching({ keepStatus: true });
+          setStatus("Signed out. Sign in to watch sessions.", "warn");
+        }
+      });
+    }
+
+    async function signInInstructor() {
+      const email = String(ui.instructorEmail.value || "").trim().toLowerCase();
+      const password = String(ui.instructorPassword.value || "");
+
+      if (!email || !password) {
+        setStatus("Enter instructor email and password.", "bad");
+        return;
+      }
+
+      ui.signInBtn.disabled = true;
+      try {
+        const { error } = await supabase.auth.signInWithPassword({ email, password });
+        if (error) throw error;
+        ui.instructorPassword.value = "";
+        setStatus("Signed in. You can now watch sessions.", "ok");
+      } catch (err) {
+        setStatus((err && err.message) || "Sign in failed.", "bad");
+      } finally {
+        if (!state.authSession) {
+          ui.signInBtn.disabled = false;
+        }
+      }
+    }
+
+    async function signOutInstructor() {
+      const { error } = await supabase.auth.signOut();
+      if (error) {
+        setStatus(error.message || "Sign out failed.", "bad");
+        return;
+      }
+      stopWatching({ keepStatus: true });
+      setStatus("Signed out. Sign in to watch sessions.", "warn");
+    }
+
+    function parseEventTimestamp(eventRow) {
+      const source = eventRow.created_at
+        || eventRow.inserted_at
+        || eventRow.timestamp
+        || eventRow.time
+        || "";
+      if (!source) return null;
+      const dt = new Date(source);
+      if (Number.isNaN(dt.getTime())) return null;
+      return dt;
+    }
+
+    function eventMillis(eventRow) {
+      const dt = parseEventTimestamp(eventRow);
+      return dt ? dt.getTime() : 0;
+    }
+
+    function formatClock(value) {
+      if (!value) return "-";
+      const dt = new Date(value);
+      if (Number.isNaN(dt.getTime())) return "-";
+      return dt.toLocaleTimeString();
+    }
+
+    function formatDuration(ms) {
+      if (!Number.isFinite(ms) || ms <= 0) return "00:00";
+      const total = Math.floor(ms / 1000);
+      const hh = Math.floor(total / 3600);
+      const mm = Math.floor((total % 3600) / 60);
+      const ss = total % 60;
+      if (hh > 0) {
+        return `${String(hh).padStart(2, "0")}:${String(mm).padStart(2, "0")}:${String(ss).padStart(2, "0")}`;
+      }
+      return `${String(mm).padStart(2, "0")}:${String(ss).padStart(2, "0")}`;
+    }
+
+    function parseQuestionRef(raw) {
+      const match = String(raw || "").match(QUESTION_REF_RE);
+      if (!match) return null;
+      return {
+        quizUuid: match[1],
+        questionNumber: Number(match[2]),
+      };
+    }
+
+    function htmlToText(value) {
+      const node = document.createElement("div");
+      node.innerHTML = String(value || "");
+      return String(node.textContent || "").replace(/\s+/g, " ").trim();
+    }
+
+    async function loadQuiz(quizUuid) {
+      const key = String(quizUuid || "").trim();
+      if (!key) return null;
+      if (quizCache.has(key)) return quizCache.get(key);
+
+      const paths = [
+        `../questionbank/${key}.json`,
+        `../../questionbank/${key}.json`,
+      ];
+
+      for (const path of paths) {
+        try {
+          // eslint-disable-next-line no-await-in-loop
+          const res = await fetch(path, { cache: "no-store" });
+          if (!res.ok) continue;
+          // eslint-disable-next-line no-await-in-loop
+          const json = await res.json();
+          quizCache.set(key, json);
+          return json;
+        } catch (_err) {
+          // Try the next candidate path.
+        }
+      }
+
+      quizCache.set(key, null);
+      return null;
+    }
+
+    function clearSnapshot() {
+      ui.eventsCount.textContent = "0";
+      ui.eventType.textContent = "-";
+      ui.eventValue.textContent = "-";
+      ui.questionRef.textContent = "-";
+      ui.expectedAnswer.textContent = "-";
+      ui.questionTime.textContent = "00:00";
+      ui.sessionTime.textContent = "00:00";
+      ui.questionPreview.textContent = "Question text will appear here when the latest event has a valid question reference.";
+      ui.eventsBody.innerHTML = "<tr><td colspan=\"4\" style=\"color: var(--muted);\">No events for this session yet.</td></tr>";
+    }
+
+    function renderEvents(events) {
+      if (!events.length) {
+        ui.eventsBody.innerHTML = "<tr><td colspan=\"4\" style=\"color: var(--muted);\">No events for this session yet.</td></tr>";
+        return;
+      }
+
+      const recent = [...events].reverse().slice(0, 120);
+      const frag = document.createDocumentFragment();
+
+      recent.forEach((eventRow) => {
+        const row = document.createElement("tr");
+
+        const timeTd = document.createElement("td");
+        timeTd.textContent = formatClock(eventRow.created_at || eventRow.inserted_at || eventRow.timestamp);
+
+        const typeTd = document.createElement("td");
+        typeTd.textContent = String(eventRow.type || "-");
+
+        const questionTd = document.createElement("td");
+        questionTd.className = "mono";
+        questionTd.textContent = String(eventRow.question_id || "-");
+
+        const valueTd = document.createElement("td");
+        valueTd.textContent = String(eventRow.value || "");
+
+        row.appendChild(timeTd);
+        row.appendChild(typeTd);
+        row.appendChild(questionTd);
+        row.appendChild(valueTd);
+        frag.appendChild(row);
+      });
+
+      ui.eventsBody.innerHTML = "";
+      ui.eventsBody.appendChild(frag);
+    }
+
+    async function renderSnapshot(events) {
+      ui.eventsCount.textContent = String(events.length);
+      if (!events.length) {
+        ui.eventType.textContent = "-";
+        ui.eventValue.textContent = "-";
+        ui.questionRef.textContent = "-";
+        ui.expectedAnswer.textContent = "-";
+        ui.questionTime.textContent = "00:00";
+        ui.sessionTime.textContent = "00:00";
+        ui.questionPreview.textContent = "No events yet for this user.";
+        return;
+      }
+
+      const first = events[0];
+      const latest = events[events.length - 1];
+
+      ui.eventType.textContent = String(latest.type || "-");
+      ui.eventValue.textContent = String(latest.value || "-");
+      ui.questionRef.textContent = String(latest.question_id || "-");
+
+      const firstMs = eventMillis(first);
+      const latestMs = eventMillis(latest);
+      ui.sessionTime.textContent = formatDuration(latestMs - firstMs);
+
+      const parsedRef = parseQuestionRef(latest.question_id);
+      if (!parsedRef) {
+        ui.expectedAnswer.textContent = "Unknown (question_id not in uuid#number format)";
+        ui.questionTime.textContent = "00:00";
+        ui.questionPreview.textContent = "Latest event has no usable question reference.";
+        return;
+      }
+
+      const sameQuestion = events.filter((row) => String(row.question_id || "") === String(latest.question_id || ""));
+      const qFirst = sameQuestion.length ? eventMillis(sameQuestion[0]) : 0;
+      const qLast = sameQuestion.length ? eventMillis(sameQuestion[sameQuestion.length - 1]) : 0;
+      ui.questionTime.textContent = formatDuration(qLast - qFirst);
+
+      const quiz = await loadQuiz(parsedRef.quizUuid);
+      if (!quiz || !Array.isArray(quiz.questions)) {
+        ui.expectedAnswer.textContent = "Questionbank file not found";
+        ui.questionPreview.textContent = "Could not load question JSON for this question reference.";
+        return;
+      }
+
+      const idx = parsedRef.questionNumber - 1;
+      const question = quiz.questions[idx];
+      if (!question) {
+        ui.expectedAnswer.textContent = "Question not found in JSON";
+        ui.questionPreview.textContent = "Question index was out of range for that quiz file.";
+        return;
+      }
+
+      ui.expectedAnswer.textContent = String(question.correct || "(no answer key)");
+      const preview = htmlToText(question.question || question.article || "");
+      ui.questionPreview.textContent = preview || "Question text is empty.";
+    }
+
+    async function refreshSession({ manual = false } = {}) {
+      if (!state.activeSession || state.loading) return;
+      if (!state.authSession) {
+        setStatus("Sign in as an instructor first.", "bad");
+        return;
+      }
+      state.loading = true;
+      const token = ++state.requestToken;
+
+      try {
+        const { data, error } = await supabase
+          .from("events")
+          .select("*")
+          .eq("session_id", state.activeSession)
+          .limit(1500);
+
+        if (error) throw error;
+        if (token !== state.requestToken) return;
+
+        const events = Array.isArray(data) ? data : [];
+        events.sort((a, b) => eventMillis(a) - eventMillis(b));
+
+        renderEvents(events);
+        await renderSnapshot(events);
+
+        ui.updatedAt.textContent = `Last refresh: ${new Date().toLocaleTimeString()}`;
+        if (events.length === 0) {
+          setStatus(`Watching ${state.activeSession}. No events yet.`, "warn");
+        } else {
+          setStatus(`Watching ${state.activeSession}. Loaded ${events.length} events.`, "ok");
+        }
+      } catch (err) {
+        const message = err && err.message ? err.message : "Failed to query Supabase.";
+        setStatus(message, "bad");
+      } finally {
+        state.loading = false;
+      }
+
+      if (manual) {
+        ui.sessionCode.focus();
+      }
+    }
+
+    function stopWatching(options = {}) {
+      const keepStatus = Boolean(options.keepStatus);
+      if (state.timerId) {
+        clearInterval(state.timerId);
+        state.timerId = null;
+      }
+      state.activeSession = "";
+      ui.sessionOut.textContent = "-";
+      clearSnapshot();
+      ui.updatedAt.textContent = "Last refresh: -";
+      if (!keepStatus) {
+        setStatus("Stopped. Enter a code to begin.");
+      }
+    }
+
+    function applyPolling() {
+      if (state.timerId) {
+        clearInterval(state.timerId);
+        state.timerId = null;
+      }
+
+      if (!state.activeSession || !ui.autoRefresh.checked) {
+        return;
+      }
+
+      const interval = Number(ui.pollMs.value) || 1500;
+      const safeInterval = Math.max(800, interval);
+      state.timerId = window.setInterval(() => {
+        refreshSession();
+      }, safeInterval);
+    }
+
+    async function startWatching() {
+      if (!state.authSession) {
+        setStatus("Sign in as an instructor first.", "bad");
+        return;
+      }
+
+      const code = normalizeSessionCode(ui.sessionCode.value);
+      ui.sessionCode.value = code;
+
+      if (!SESSION_RE.test(code)) {
+        setStatus("Session code must be exactly 3 letters/numbers.", "bad");
+        return;
+      }
+
+      state.activeSession = code;
+      ui.sessionOut.textContent = code;
+      clearSnapshot();
+      await refreshSession({ manual: true });
+      applyPolling();
+    }
+
+    ui.signInBtn.addEventListener("click", signInInstructor);
+    ui.signOutBtn.addEventListener("click", signOutInstructor);
+    ui.watchBtn.addEventListener("click", startWatching);
+    ui.stopBtn.addEventListener("click", stopWatching);
+    ui.autoRefresh.addEventListener("change", applyPolling);
+    ui.pollMs.addEventListener("change", applyPolling);
+    ui.sessionCode.addEventListener("input", () => {
+      ui.sessionCode.value = normalizeSessionCode(ui.sessionCode.value);
+    });
+    ui.sessionCode.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        startWatching();
+      }
+    });
+
+    initAuth();
+  </script>
+</body>
+</html>

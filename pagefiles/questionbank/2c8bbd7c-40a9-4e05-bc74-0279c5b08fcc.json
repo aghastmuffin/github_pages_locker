@@ -1,0 +1,455 @@
+{
+  "uuid": "2c8bbd7c-40a9-4e05-bc74-0279c5b08fcc",
+  "chunk": "CpOhSi-2.js",
+  "question_count": 22,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">An object's average acceleration, in meters per second squared, is the change in the object's&nbsp;speed, in meters per second, divided by the time during which the change occurred, in&nbsp;seconds. A certain object's speed changes by <b><span style=\"font-weight:bold\">22 </span></b>meters per second in <b><span style=\"font-weight:bold\">8</span></b>&nbsp;seconds. What is this&nbsp;object's average acceleration, in meters per second squared, during this time period?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0.36<br>"
+        },
+        {
+          "name": "B",
+          "content": "2.75<br>"
+        },
+        {
+          "name": "C",
+          "content": "14<br>"
+        },
+        {
+          "name": "D",
+          "content": "30<br>"
+        }
+      ],
+      "correct": "2.75<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>x</em>+&nbsp;47&nbsp;=&nbsp;<em>y</em></span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">(<em>x</em> + 47)<sup>2</sup>&nbsp;=&nbsp;<em>y</em></span></span><br></p><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A solution to the given system of equations is (<em>x, y</em>). What is a possible value of <em>x</em>?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "47<br>"
+        },
+        {
+          "name": "B",
+          "content": "1<br>"
+        },
+        {
+          "name": "C",
+          "content": "0<br>"
+        },
+        {
+          "name": "D",
+          "content": "-46<br>"
+        }
+      ],
+      "correct": "-46<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">f(x)</span></i>&nbsp;= 50<i><span style=\"font-style:italic\">x</span></i>&nbsp;+ 8</span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The given function<i><span style=\"font-style:italic\">&nbsp;f</span></i>&nbsp;estimates the distance a train has traveled, in kilometers, from a station in a certain city <i><span style=\"font-style:italic\">x </span></i>hours after crossing the city border. What is the best interpretation of <b><span style=\"font-weight:bold\">8</span></b>&nbsp;in this context?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">Between the station and the city border, the train traveled an estimated total</span>&nbsp;<span style=\"font-style:normal\">distance of <strong>8</strong> kilometers.</span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">Between the statio<strong></strong>ââââââân and the city border, the train traveled at an estimated speed of </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">8 </span></span></b><span style=\"font-style:normal\">kilometers per hour.</span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">After crossing the city border, the train traveled at an estimated speed of <strong>8</strong> kilometers per hour.</span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">After crossing the city border, the train traveled an estimated total distance of </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">8</span></span></b><b>&nbsp;</b><span style=\"font-style:normal\">kilometers.</span></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">Between the station and the city border, the train traveled an estimated total</span>&nbsp;<span style=\"font-style:normal\">distance of <strong>8</strong> kilometers.</span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\"></span></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span class=\"mq-math-mode\" latex-data=\"\\frac{1}{6}\\left(x+2\\right)-\\frac{1}{5}\\left(x+2\\right)=-5\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"7\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"8\">6</span></span><span style=\"display:inline-block;width:0\">â</span></span><span class=\"mq-non-leaf\" mathquill-command-id=\"9\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"10\"><var mathquill-command-id=\"11\">x</var><span mathquill-command-id=\"12\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"13\">2</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span mathquill-command-id=\"14\" class=\"mq-binary-operator\">â</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"15\"><span class=\"mq-numerator\" mathquill-block-id=\"16\"><span mathquill-command-id=\"20\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"17\"><span mathquill-command-id=\"19\">5</span></span><span style=\"display:inline-block;width:0\">â</span></span><span class=\"mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"22\"><var mathquill-command-id=\"23\">x</var><span mathquill-command-id=\"24\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"25\">2</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"26\">=</span><span mathquill-command-id=\"27\" class=\"\">â</span><span mathquill-command-id=\"28\">5</span></span></span>&nbsp;<br></span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">What value of&nbsp;<em>x</em> is the solution to the given equation?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-7<br>"
+        },
+        {
+          "name": "B",
+          "content": "-2<br>"
+        },
+        {
+          "name": "C",
+          "content": "148<br>"
+        },
+        {
+          "name": "D",
+          "content": "270<br>"
+        }
+      ],
+      "correct": "148<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The function </span><i><span style=\"font-style:italic\">g</span></i><span style=\"font-style:normal\">&nbsp;is defined by </span><i><span style=\"font-style:italic\">g(</span></i><i><span style=\"font-style:italic\">x</span></i><i><span style=\"font-style:italic\">)</span></i><i>&nbsp;</i><span style=\"font-style:normal\">=</span>&nbsp;<i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">&nbsp;- 18. What is the </span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">-coordinate of</span>&nbsp;<span style=\"font-style:normal\">the x-intercept of the graph of</span><i>&nbsp;</i><i><span style=\"font-style:italic\">y= g(</span></i><i><span style=\"font-style:italic\">x</span></i><i><span style=\"font-style:italic\">) </span></i><span style=\"font-style:normal\">in the</span><i><span style=\"font-style:italic\">&nbsp;xy</span></i><span style=\"font-style:normal\">-plane?</span></span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "18",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">A</span>&nbsp;<span style=\"font-style:normal\">sum of</span>&nbsp;<span style=\"font-style:normal\">4,000 dollars was invested</span>&nbsp;<span style=\"font-style:normal\">in&nbsp;a certificate of deposit (CD) that&nbsp;earns&nbsp;interest, and no other deposit&nbsp;or withdrawals were</span>&nbsp;<span style=\"font-style:normal\">made after</span>&nbsp;<span style=\"font-style:normal\">that. The function f(x)= 4,000(1+0.02)<sup>x</sup></span>&nbsp;<span style=\"font-style:normal\">gives&nbsp;the vale of the CD.</span>&nbsp;<span style=\"font-style:normal\">In</span>&nbsp;<span style=\"font-style:normal\">dollars, x years after the investment</span>&nbsp;<span style=\"font-style:normal\">was initially made, where x&nbsp;</span></span></span><span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">â¤</span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\"> 5. Which of the following is</span>&nbsp;<span style=\"font-style:normal\">the best interpretation of</span>&nbsp;<span style=\"font-style:normal\">the statement</span>&nbsp;<span style=\"font-style:normal\">âf(2)&nbsp;is approximately equal</span>&nbsp;<span style=\"font-style:normal\">to&nbsp;4,186.12\" in this context?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The value of the CD would be approximately 4,186.12 dollars if invested at 2% interest.</span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">4,186.12 days after the investment was made, the value of the CD was approximately 2 times greater than its initial value.</span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">2 years after the investment was made, the value of</span>&nbsp;<span style=\"font-style:normal\">the CD was approximately 4,186.12 dollars.</span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">2 years after the investment was made, the value of the CD was approximately 4,186.12 dollars greater than its initial value.</span></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">2 years after the investment was made, the value of</span>&nbsp;<span style=\"font-style:normal\">the CD was approximately 4,186.12 dollars.</span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/32fcc40e825b93811e5abcd128583cc4.png\" width=\"519\" height=\"421\"><br></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">Two students are playing a game. In the first round, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">1</span></span></b><span style=\"font-style:normal\">&nbsp;answers </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">33</span></span></b><span style=\"font-style:normal\">&nbsp;questions, If</span>&nbsp;<span style=\"font-style:normal\">an</span>&nbsp;<span style=\"font-style:normal\">answer is correct, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">l</span></span></b><span style=\"font-style:normal\">&nbsp;earns </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">l</span></span></b><span style=\"font-style:normal\">&nbsp;point, If an answer is incorrect, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">2</span></span></b><span style=\"font-style:normal\">&nbsp;will earn l point</span>&nbsp;<span style=\"font-style:normal\">instead. The graph shows y = f(x), where y is the number of points Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">2</span></span></b><span style=\"font-style:normal\">&nbsp;will earn when&nbsp;x&nbsp;is the number of points Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">l </span></span></b><span style=\"font-style:normal\">earns. Which of the following is the best interpretation of</span>&nbsp;<span style=\"font-style:normal\">the point (33,0) in this context?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">When Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">1</span></span></b><span style=\"font-style:normal\">&nbsp;earns</span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">&nbsp;33</span></span></b><span style=\"font-style:normal\">&nbsp;points, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">2</span></span></b><span style=\"font-style:normal\">&nbsp;will earn </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">33</span></span></b><span style=\"font-style:normal\">&nbsp;points.</span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">When Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">1</span></span></b><span style=\"font-style:normal\">&nbsp;earns </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">33</span></span></b><span style=\"font-style:normal\">&nbsp;points, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">2</span></span></b><span style=\"font-style:normal\">&nbsp;will earn </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">0</span></span></b><span style=\"font-style:normal\">&nbsp;points.</span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">When Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">1</span></span></b><span style=\"font-style:normal\">&nbsp;earns</span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">&nbsp;0</span></span></b><span style=\"font-style:normal\">&nbsp;points, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">2</span></span></b><span style=\"font-style:normal\">&nbsp;will earn </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">33</span></span></b><span style=\"font-style:normal\">&nbsp;points.</span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">When Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">l </span></span></b><span style=\"font-style:normal\">earns </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">0 </span></span></b><span style=\"font-style:normal\">points, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">2 </span></span></b><span style=\"font-style:normal\">will earn </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">0</span></span></b><span style=\"font-style:normal\">&nbsp;points.</span></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">When Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">1</span></span></b><span style=\"font-style:normal\">&nbsp;earns </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">33</span></span></b><span style=\"font-style:normal\">&nbsp;points, Player </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">2</span></span></b><span style=\"font-style:normal\">&nbsp;will earn </span><b><span style=\"font-weight:bold\"><span style=\"font-style:normal\">0</span></span></b><span style=\"font-style:normal\">&nbsp;points.</span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">Which expression is a factor of</span>&nbsp;<span style=\"font-style:normal\">7<em>x</em><sup>2</sup> -</span>&nbsp;<span style=\"font-style:normal\">9<em>x</em>&nbsp;+ 14<em>x</em>&nbsp;=&nbsp;18?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>x</em>-2<br>"
+        },
+        {
+          "name": "B",
+          "content": "<em>x</em>+9<br>"
+        },
+        {
+          "name": "C",
+          "content": "7<em>x</em>-9<br>"
+        },
+        {
+          "name": "D",
+          "content": "7<em>x</em>+2<br>"
+        }
+      ],
+      "correct": "7<em>x</em>-9<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<img src=\"/images/902b22f096272eb0f828056f74015994.png\" width=\"444\" height=\"365\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The graph shows the momentum y, in newton-seconds, of an object x&nbsp;seconds after the</span>&nbsp;<span style=\"font-style:normal\">object started moving, for 0&nbsp;</span></span></span><span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">â¤</span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\"> x </span></span></span><span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">â¤</span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">8, What is the average rate of change, in newton-seconds</span>&nbsp;<span style=\"font-style:normal\">per second, in the momentum of the object from x&nbsp;= 2 to x&nbsp;=6?</span></span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "1.5,3/2",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">(x+ 81)<sup>2</sup></span>&nbsp;<span style=\"font-style:normal\">=</span>&nbsp;<span style=\"font-style:normal\">-256</span></span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">How many distinct real solutions does the given equation have?</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:10.0000pt\"><span style=\"font-family:'Times New Roman'\"><span style=\"font-style:normal\">Exactly one</span></span></span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:10.0000pt\"><span style=\"font-family:'Times New Roman'\"><span style=\"font-style:normal\">Exactly two</span></span></span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:10.0000pt\"><span style=\"font-family:'Times New Roman'\"><span style=\"font-style:normal\">Inf</span></span></span><span style=\"font-size:10.0000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:normal\"><font face=\"Times New Roman, Times, serif\">i</font></span></span></span><span style=\"font-size:10.0000pt\"><span style=\"font-family:'Times New Roman'\"><span style=\"font-style:normal\">nitely many</span></span></span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:10.0000pt\"><span style=\"font-family:'Times New Roman'\"><span style=\"font-style:normal\">Zero</span></span></span></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:10.0000pt\"><span style=\"font-family:'Times New Roman'\"><span style=\"font-style:normal\">Zero</span></span></span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">|<em>x</em>-6| =13</span></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">What is the sum of the solutions to the given equation?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0<br>"
+        },
+        {
+          "name": "B",
+          "content": "12<br>"
+        },
+        {
+          "name": "C",
+          "content": "19<br>"
+        },
+        {
+          "name": "D",
+          "content": "26<br>"
+        }
+      ],
+      "correct": "12<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The manager of a gym selected a sample of 139 members at random to estimate the percentage of the gym's members that would continue to pay for a membership if the price increased. From the survey, the manager estimates that 82% of the gym's members would continue to pay for a membership if the price increased, with an associated margin of error of 6.39%. If the survey is repeated with a random sample of 278 members and the results are calculated in the same way, which of the following will be the most likely effect of using the larger random sample compared to the smaller random sample?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The margin of error will be lower.</span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The margin of error will be higher.</span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The estimate of the percentage of the gym's members that would continue to pay</span>&nbsp;<span style=\"font-style:normal\">for a membership if the price increased will be lower.</span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The estimate of the percentage of the gym's members that would continue to pay</span>&nbsp;<span style=\"font-style:normal\">for a membership if the price increased will be higher.</span></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The margin of error will be lower.</span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">Raheem bought 9 shirts that were each the same price, He used a coupon for $54 off the entire purchase. The cost for the entire purchase after using the coupon was $108. What was the original price, in dollars. for 1 shirt?</span></span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "18",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The maximum temperature on April l, in degrees Fahrenheit ( Â°F), was recorded each year at a certain weather station for l1 years. The histogram summarizes the recorded data set.</span></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/53b773864bb6c930e46ba50824419001.png\" width=\"640\" height=\"320\">âââââââ<br></span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The temperature of 78.2 Â°F is removed from this data set to create a new data set of 10 temperatures. </span><br></span></span><br></p><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">Which of the following statements must be true?</span></span></span><br></p><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">I. The mean of the new data set is less than the mean of the original data set.</span></span></span><br></p><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">II. The median of the new data set is less than the median of the original data set.</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "I only<br>"
+        },
+        {
+          "name": "B",
+          "content": "II only<br>"
+        },
+        {
+          "name": "C",
+          "content": "l and II<br>"
+        },
+        {
+          "name": "D",
+          "content": "neither A nor B<br>"
+        }
+      ],
+      "correct": "I only<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">For the positive quantities</span><i><span style=\"font-style:italic\">&nbsp;h, j,</span></i><span style=\"font-style:normal\">&nbsp;and </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">, 94% of h is equivalent to 47% of </span><i><span style=\"font-style:italic\">j</span></i><span style=\"font-style:normal\">, and </span><i><span style=\"font-style:italic\">j</span></i><span style=\"font-style:normal\">&nbsp;is equivalent to 30% of </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">. What percentage of </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">&nbsp;is </span><i><span style=\"font-style:italic\">h</span></i><span style=\"font-style:normal\">? (Disregard the % sign when entering your answer.For example, if your answer is 39%, enter 39)</span></span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "15",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">For the exponential function </span><i><span style=\"font-style:italic\">f,</span></i><span style=\"font-style:normal\">&nbsp;the value of </span><i><span style=\"font-style:italic\">f</span></i><span style=\"font-style:normal\">(1) is </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">, where </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">&nbsp;is a constant. Which of the following equivalent forms of the function</span><i><span style=\"font-style:italic\">&nbsp;f </span></i><span style=\"font-style:normal\">shows the value of </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">&nbsp;as the coefficient or the base?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "f(x)= 50(1.4)<sup>x+1</sup><br>"
+        },
+        {
+          "name": "B",
+          "content": "f(x)= 70(1.4)<sup>x</sup><br>"
+        },
+        {
+          "name": "C",
+          "content": "f(x)= 98(1.4)<sup>x-1</sup><br>"
+        },
+        {
+          "name": "D",
+          "content": "f(x)= 137.2(1.4)<sup>x-2</sup><br>"
+        }
+      ],
+      "correct": "f(x)= 98(1.4)<sup>x-1</sup><br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In triangle <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">PQR</span></span></i></b>, the measure of angle <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">P</span></span></i></b>&nbsp;is (3<i><span style=\"font-style:italic\">x</span></i>&nbsp;+ 5)Â°,the measure of angle <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">Q</span></span></i></b>&nbsp;is (2<i><span style=\"font-style:italic\">x</span></i><i>&nbsp;</i>+ 9)Â°, and the measure of angle <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">R </span></span></i></b>is (4<i><span style=\"font-style:italic\">y</span></i>&nbsp;+ 5)Â°. If side <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">QR</span></span></i></b>&nbsp;is extended through point <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">R</span></span></i></b>&nbsp;to point <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">S ,</span></span></i></b>&nbsp;and the measure of angle <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">PRS</span></span></i></b>&nbsp;&nbsp;is (x&nbsp;+ <i><span style=\"font-style:italic\">y</span></i>)Â°, what is the value of&nbsp;<i><span style=\"font-style:italic\">x</span></i><i><span style=\"font-style:italic\">&nbsp;+ y</span></i>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "39",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The triangle inequality theorem states that the sum of any two sides of a triangle must be&nbsp;greater than the length of the third side. If a triangle has side lengths of&nbsp;8 and 13, which&nbsp;inequality represents the possible lengths, x, of the third side of the triangle?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>x</em>&lt;21<br>"
+        },
+        {
+          "name": "B",
+          "content": "<em>x</em>&gt;21<br>"
+        },
+        {
+          "name": "C",
+          "content": "5&lt;<em>x</em>&lt;21<br>"
+        },
+        {
+          "name": "D",
+          "content": "<em>x</em>&lt;5 or <em>x</em>&gt;21<br>"
+        }
+      ],
+      "correct": "5&lt;<em>x</em>&lt;21<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A right circular cone has a volume of <b><span style=\"font-weight:bold\">2,700</span></b><b><span style=\"font-weight:bold\">Ï</span></b>&nbsp;cubic centimeters and the area of its base is&nbsp;<b><span style=\"font-weight:bold\">225Ï</span></b>&nbsp;square centimeters.&nbsp;What is the slant height, in centimeters, of this cone?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "12<br>"
+        },
+        {
+          "name": "B",
+          "content": "15<br>"
+        },
+        {
+          "name": "C",
+          "content": "36<br>"
+        },
+        {
+          "name": "D",
+          "content": "39<br>"
+        }
+      ],
+      "correct": "39<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A quadratic function models the height, in feet, of an object above the ground in terms of the&nbsp;time, in seconds, after the object was launched. According to the model, the object was&nbsp;launched from a height of <b><span style=\"font-weight:bold\">0 </span></b>feet and reached its maximum height of <b><span style=\"font-weight:bold\">1,600</span></b>&nbsp;feet <b><span style=\"font-weight:bold\">10</span></b>&nbsp;seconds&nbsp;after it was launched. Based on the model, what was the height, in feet, of the object <b><span style=\"font-weight:bold\">15</span></b>&nbsp;seconds after it was launched?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "1200",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The cost of renting a power washer is <b><span style=\"font-weight:bold\">$</span></b><b><span style=\"font-weight:bold\">92</span></b>&nbsp;for the first day and <b><span style=\"font-weight:bold\">$46</span></b>&nbsp;for each additional day.&nbsp;Which of the following functions gives the cost <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">C(d)</span></span></i></b>, in dollars, of renting the power washer&nbsp;for <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">d</span></span></i></b>&nbsp;days, where <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">d</span></span></i></b>&nbsp;is a positive integer?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">C(d)</font></span></span></span></i><i>&nbsp;</i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">=</font></span></span>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">46</font></span></span><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">d</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">+ 46</font></span></span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">C(d)</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">=</font></span></span>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">46</font></span></span><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">d</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">+ 92</font></span></span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">C(d)</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">=</font></span></span>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">92</font></span></span><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">d</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">-</font></span></span>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">46</font></span></span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">C(d)</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">=</font></span></span>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">92</font></span></span><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">d</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">+</font></span></span>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">138</font></span></span></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">C(d)</font></span></span></span></i><i>&nbsp;</i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">=</font></span></span>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">46</font></span></span><i><span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><span style=\"font-style:italic\"><font face=\"Calibri\">d</font></span></span></span></i>&nbsp;<span style=\"font-size:10.5000pt\"><span style=\"font-family:å®ä½\"><font face=\"Calibri\">+ 46</font></span></span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The function<i><span style=\"font-style:italic\">&nbsp;f</span></i>&nbsp;is defined by <b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">f(</span></span></i></b><b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">x</span></span></i></b><b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">) = ax<sup>2</sup> + b</span></span></i></b><b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">x</span></span></i></b><b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">&nbsp;+ c</span></span></i></b>, where<i><span style=\"font-style:italic\">&nbsp;a, b</span></i>, and <i><span style=\"font-style:italic\">c</span></i>&nbsp;are constants. The&nbsp;graph of&nbsp;<i><span style=\"font-style:italic\">y= f(</span></i><i><span style=\"font-style:italic\">x</span></i><i><span style=\"font-style:italic\">) </span></i>in the <i><span style=\"font-style:italic\">xy</span></i>-plane passes through the points <b><span style=\"font-weight:bold\">(9, 0</span></b>) and<b><span style=\"font-weight:bold\">&nbsp;(-2, 0)</span></b>. If a is an&nbsp;integer greater than <b><span style=\"font-weight:bold\">1</span></b>, which of the following could be the value of<i>&nbsp;</i><b><i><span style=\"font-weight:bold\"><span style=\"font-style:italic\">a + b</span></span></i></b>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "8<br>"
+        },
+        {
+          "name": "B",
+          "content": "7<br>"
+        },
+        {
+          "name": "C",
+          "content": "-6<br>"
+        },
+        {
+          "name": "D",
+          "content": "-12<br>"
+        }
+      ],
+      "correct": "-12<br>",
+      "solution": ""
+    }
+  ]
+}

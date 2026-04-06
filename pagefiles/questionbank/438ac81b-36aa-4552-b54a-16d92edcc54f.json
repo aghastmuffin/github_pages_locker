@@ -1,0 +1,682 @@
+{
+  "uuid": "438ac81b-36aa-4552-b54a-16d92edcc54f",
+  "chunk": "B-Jh9xm-.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Excavating a <i>giganotosaur</i> fossil is a <u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</u> process, since it can take weeks or even months of hard, physically tiring work to clear away the dirt and rock covering the specimen.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "cheap"
+        },
+        {
+          "name": "B",
+          "content": "difficult"
+        },
+        {
+          "name": "C",
+          "content": "rapid"
+        },
+        {
+          "name": "D",
+          "content": "common"
+        }
+      ],
+      "correct": "difficult",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>British painter Peter Edwards has a ___ painting portraits of notable figures from a variety of different fields. These characteristic works include his esteemed portraits of poet Medbh McGuckian and chemist Harry Kroto.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "reputation for"
+        },
+        {
+          "name": "B",
+          "content": "requirement for"
+        },
+        {
+          "name": "C",
+          "content": "question about"
+        },
+        {
+          "name": "D",
+          "content": "complaint about"
+        }
+      ],
+      "correct": "reputation for",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A unique dialect, or regional variety, of Spanish is spoken in Puerto Rico. It contains many words borrowed from the language of the TaÃ­nos, the Indigenous people of Puerto Rico. African languages also made important contributions to the Puerto Rican dialect. For example, the way certain vowel sounds are pronounced in it can be___to how they are pronounced in Yoruba, a West African language.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "announced"
+        },
+        {
+          "name": "B",
+          "content": "offered"
+        },
+        {
+          "name": "C",
+          "content": "traced"
+        },
+        {
+          "name": "D",
+          "content": "surrendered"
+        }
+      ],
+      "correct": "traced",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the American punk rock band The Deadweights and the Belgian major general ThÃ©ophile Figeys, persisted on the site for many years before they were finally recognized as ___ and deleted.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "enhancements"
+        },
+        {
+          "name": "B",
+          "content": "analyses"
+        },
+        {
+          "name": "C",
+          "content": "fabrications"
+        },
+        {
+          "name": "D",
+          "content": "revelations"
+        }
+      ],
+      "correct": "fabrications",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Humans arenât the only ones who use tools. Other animals also find tools helpful. <u>Boxer crabs use stinging anemones to defend against attack.</u> And despite sometimes being thought of as simple, many birds make clever use of tools as well. Striated herons have been observed using breadcrumbs and other lures to attract fish to the waterâs surface, making it easier for the herons to catch them.</p>",
+      "question": "Which choice best describes the function of the underlined sentence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It provides one example of tool use in a nonhuman animal."
+        },
+        {
+          "name": "B",
+          "content": "It argues that boxer crabs use tools more often than other animals do."
+        },
+        {
+          "name": "C",
+          "content": "It explains that humans use tools for many different tasks."
+        },
+        {
+          "name": "D",
+          "content": "It emphasizes that boxer crabs are smarter than birds."
+        }
+      ],
+      "correct": "It provides one example of tool use in a nonhuman animal.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as security operative Jack Caulfield and Attorney General John Mitchell. <u>But Nixon's legacy is complex: he has been praised for his role in affirming the sovereignty of tribal nations, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains why a historical figureâs accomplishments are often disregarded by historians."
+        },
+        {
+          "name": "B",
+          "content": "It offers information suggesting that a particular perception of a historical figure is an oversimplification."
+        },
+        {
+          "name": "C",
+          "content": "It compares the achievements of two historical figures."
+        },
+        {
+          "name": "D",
+          "content": "It provides evidence supporting a claim about a historical figure and that figureâs associates."
+        }
+      ],
+      "correct": "It offers information suggesting that a particular perception of a historical figure is an oversimplification.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>Attempts to automate classification of music into genres have not been very successful. It is also unclear whether categorizing music by genre is useful, since genre categories are ambiguous, subjective, and simplistic. As Jin Ha Lee and Anh Thu Nguyen argue in their study of the South Korean band BTS, relationships between pieces of music may be best understood with concepts other than genre.</p><p><strong>Text 2</strong></p><p>Tango is a genre of music originally from Argentina and Uruguay that shares some harmonic and rhythmic similarities with the axÃ© genre. Automated genre classification systems typically struggle to draw distinctions in situations like this, but Yandre Costa and colleagues solved that problem by converting sound to images and having computers compare features of those images. Their approach could improve genre classification, which could have many benefits for users.</p>",
+      "question": "Based on the texts, how would the author of Text 1 most likely respond to the claim about the potential benefits of Costa and colleaguesâ research in Text 2?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By emphasizing that humans do not necessarily enjoy every recording in a genre they claim to prefer"
+        },
+        {
+          "name": "B",
+          "content": "By asserting that genre classifications may not be the most helpful way to think about music"
+        },
+        {
+          "name": "C",
+          "content": "By arguing that some genres are more easily recognized by classification systems than others"
+        },
+        {
+          "name": "D",
+          "content": "By suggesting that future research may provide substantial advancements in the field of automated genre classification"
+        }
+      ],
+      "correct": "By asserting that genre classifications may not be the most helpful way to think about music",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Archaeologists have discovered a runestone in Norway that may contain the earliest example of written words in Scandinavia. Carbon dating at the discovery site revealed that the stone was likely carved between 1 and 250 CE. Runologist Kristel Zilmer believes the stone will be helpful in learning more about the use of runic alphabets in early Iron Age Scandinavia.</p>",
+      "question": "Which choice best states the main topic of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A runestone found in Norway"
+        },
+        {
+          "name": "B",
+          "content": "Battles of the Iron Age"
+        },
+        {
+          "name": "C",
+          "content": "The research interests of Kristel Zilmer"
+        },
+        {
+          "name": "D",
+          "content": "A new method for dating rock samples"
+        }
+      ],
+      "correct": "A runestone found in Norway",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Members of the Girl Scouts of America, by Age Category, 1992â1995 (in thousands)</p><p style=\"text-align: center;\"><img src=\"/images/aceff589e5a79efecee355ed2497f133.png\" width=\"628\" height=\"216\"></p><p>The Girl Scouts of America is a youth organization that had just over 1 million members in 2021. A student is writing an essay on the history of the organization and wishes to determine the number of members from 14 to 17 years old who were in the Girl Scouts in 1995. According to the table, the number (in thousands) is___</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "45"
+        },
+        {
+          "name": "B",
+          "content": "52"
+        },
+        {
+          "name": "C",
+          "content": "727"
+        },
+        {
+          "name": "D",
+          "content": "148"
+        }
+      ],
+      "correct": "52",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Life Among the Paiutes</i> is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins. In the work, Winnemucca creates suspense by emphasizing her physical response to an event, writing___</p>",
+      "question": "Which quotation from <i>Life Among the Paiutes</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âSo ended our feast, and every family went to its own home in the pine-nut mountains, and remained there till the pine-nuts were ripe. They ripen about the last of June.â"
+        },
+        {
+          "name": "B",
+          "content": "âOh, how my heart jumped when I heard a noise close by. It was a horse running towards us. We had to lie down close to the ground. It came close to us and stopped. Oh, how my heart beat! I thought whoever it was would hear my heart beat.â"
+        },
+        {
+          "name": "C",
+          "content": "âThe day we were to start we partook of the first gathering of food for that summer. So that morning everybody prayed, and sang songs, and danced, and ate before starting.â"
+        },
+        {
+          "name": "D",
+          "content": "âLate in that fall, there came news that my grandfather was on his way home. Then my father took a great many of his men and went to meet his father, and there came back a runner, saying, that all our people must come together.â"
+        }
+      ],
+      "correct": "âOh, how my heart jumped when I heard a noise close by. It was a horse running towards us. We had to lie down close to the ground. It came close to us and stopped. Oh, how my heart beat! I thought whoever it was would hear my heart beat.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A student is writing an essay on the subject of cultured meat, which is grown in a laboratory and is intended to help reduce the number of livestock harvested for food. The student wishes to make the case that people have mixed feelings about cultured meat that may be a barrier to its worldwide adoption.</p>",
+      "question": "Which quotation from a publication by a researcher would most effectively support the studentâs claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âMany consumers who were surveyed believed that cultured meat would be good for the environment if widely available, but few of those same consumers were willing to try eating cultured meat themselves.â"
+        },
+        {
+          "name": "B",
+          "content": "âThe flavor of meat from livestock differs across species (from pig to chicken to cow), and is also influenced by farming conditions and the breeds and genders of animals.â"
+        },
+        {
+          "name": "C",
+          "content": "âAdvocates of lab-grown meat claim that itâs safer than conventional meat because it doesnât come from animals raised in spaces that make them more vulnerable to illness.â"
+        },
+        {
+          "name": "D",
+          "content": "âConsumers tend to believe that using less packaging when selling meat products in stores would have a significant effect on the environment.â"
+        }
+      ],
+      "correct": "âMany consumers who were surveyed believed that cultured meat would be good for the environment if widely available, but few of those same consumers were willing to try eating cultured meat themselves.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Evan MacLean and colleagues evaluated behavioral and genetic data from over 14,000 dogs, representing more than 100 breeds, and found that certain similarities in behavior between breeds correspond to genetic similarities between those breeds, suggesting a genetic basis for breed differences in behavior. This was the case for both separation problems and dog rivalry but was especially pronounced for attachment and attention-seeking, which can be seen when a dog solicits affection or attention. A different study found that the bullmastiff and the English mastiff breeds exhibit similar attachment and attention-seeking behavior, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "bullmastiffs and English mastiffs show a greater tendency toward attachment and attention-seeking than most other dog breeds do."
+        },
+        {
+          "name": "B",
+          "content": "their similarities with respect to that behavior could result from a shared aspect of their genetics."
+        },
+        {
+          "name": "C",
+          "content": "individual bullmastiffs likely display higher levels of attachment and attention-seeking than individual English mastiffs."
+        },
+        {
+          "name": "D",
+          "content": "the two breeds will likely become less genetically similar over time."
+        }
+      ],
+      "correct": "B",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The state of Maryland has classified the flathead catfish as an invasive species that could harm some of the stateâs native species. But researchers Alejandro Camacho and Jason McLachlan have pointed out that âinvasiveâ and ânativeâ are labels that describe temporary circumstances. Changes in Earthâs climate may force animals from their current ranges. Climate changes may also create good habitats in areas where a species couldnât live previously. In the case of Maryland, these observations suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "itâs useful at present for the state to distinguish between invasive and native species in some instances but not in the case of the flathead catfish."
+        },
+        {
+          "name": "B",
+          "content": "the state was previously home to some flathead catfish but they were outcompeted by invading species."
+        },
+        {
+          "name": "C",
+          "content": "the stateâs designation of the flathead catfish as invasive may be appropriate now but not in the future."
+        },
+        {
+          "name": "D",
+          "content": "even if Earthâs climate doesnât change in the way scientists predict, the flathead catfish will likely establish itself in the state."
+        }
+      ],
+      "correct": "the stateâs designation of the flathead catfish as invasive may be appropriate now but not in the future.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In September of 1989, Indonesia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Indonesian companies. This was part of a wave of stock market liberalizations around the worldâVenezuela in 1990, Bangladesh in 1991, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ___</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "empirical evidence was consistent with the scholarly consensus about the consequences of liberalization."
+        },
+        {
+          "name": "B",
+          "content": "companies did not benefit from liberalization until at least three years after liberalization occurred."
+        },
+        {
+          "name": "C",
+          "content": "economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization."
+        },
+        {
+          "name": "D",
+          "content": "companies in Venezuela experienced a greater increase in investment following liberalization than did companies in Indonesia."
+        }
+      ],
+      "correct": "empirical evidence was consistent with the scholarly consensus about the consequences of liberalization.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Runaway and Dodo are the unofficial names of two small yet notable rocks found on Mars by the <i>Phoenix</i> lander. After touching down on May 25, 2008, the lander spent 161 days ___ data while on the red planet.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "collecting"
+        },
+        {
+          "name": "B",
+          "content": "were collecting"
+        },
+        {
+          "name": "C",
+          "content": "is collecting"
+        },
+        {
+          "name": "D",
+          "content": "collected"
+        }
+      ],
+      "correct": "collecting",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Haida artist Delores Churchill creates intricate baskets. She typically___them from sumac and cedar bark.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "weaving"
+        },
+        {
+          "name": "B",
+          "content": "to weave"
+        },
+        {
+          "name": "C",
+          "content": "weaves"
+        },
+        {
+          "name": "D",
+          "content": "to be weaving"
+        }
+      ],
+      "correct": "weaves",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At 1,889 years old, CRE 175, a Rocky Mountain juniper pine (<i>Juniperus scopulorum</i>) located in the United States, is one of the oldest known trees in the world. With almost two millennia of climate data in its tree rings, a single tree like ___ claims dendrochronologist Valerie Trouet, can tell the history of the world.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "this"
+        },
+        {
+          "name": "B",
+          "content": "this,"
+        },
+        {
+          "name": "C",
+          "content": "this:"
+        },
+        {
+          "name": "D",
+          "content": "this;"
+        }
+      ],
+      "correct": "this,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The <i>algaita</i> is a double reed wind instrument from West Africa. The reed of a wind instrument is the mouthpiece___. A double reed contains two pieces of cane that vibrate and produce sound as air passes between them.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "where is sound made."
+        },
+        {
+          "name": "B",
+          "content": "where sound is made?"
+        },
+        {
+          "name": "C",
+          "content": "where sound is made."
+        },
+        {
+          "name": "D",
+          "content": "where is sound made?"
+        }
+      ],
+      "correct": "where sound is made.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>From 2009 to 2019, travelers flew out of major urban airports with increasing ______ Austin-Bergstrom International Airport in Austin, Texas, saw a 111.3 percent increase in airline passengers, from 4,025,767 total passengers in 2009 to 8,506,262 in 2019.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "frequency,for example."
+        },
+        {
+          "name": "B",
+          "content": "frequency. For example,"
+        },
+        {
+          "name": "C",
+          "content": "frequency,for example;"
+        },
+        {
+          "name": "D",
+          "content": "frequency,for example,"
+        }
+      ],
+      "correct": "frequency. For example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a 2023 study, researchers documented a fascinating behavior in the aquatic plant <i>Elodea densa</i>. When exposed to low levels of light, the plantâs ___ the cellular organs that generate energy from lightâreshuffled to form a tightly packed, glass-like surface ideal for collecting more light.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "chloroplasts;"
+        },
+        {
+          "name": "B",
+          "content": "chloroplasts"
+        },
+        {
+          "name": "C",
+          "content": "chloroplasts,"
+        },
+        {
+          "name": "D",
+          "content": "chloroplastsâ"
+        }
+      ],
+      "correct": "chloroplastsâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Textile artist Amber Joy Greenidge-Sabral wanted to avoid using harsh synthetic dyes that could be damaging to the environment. ___ she began experimenting with more environmentally friendly natural dye methods, using organic materials like prickly poppy and madder root for their natural brown and red colors.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To sum up,"
+        },
+        {
+          "name": "B",
+          "content": "In actuality,"
+        },
+        {
+          "name": "C",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "With this in mind,"
+        }
+      ],
+      "correct": "With this in mind,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As anthropologist Cristina Grasseni explains, with the rise in demand for artisanal cheeses claiming to be typical of specific Italian regions, such as <i>Pecorino Siciliano</i> cheese from Sicily, came the need to guarantee the veracity of such claims to consumers. _____ the European Union established DOP status, a label certifying that the cheese was made according to the regionâs local traditions.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Therefore,"
+        },
+        {
+          "name": "B",
+          "content": "Likewise,"
+        },
+        {
+          "name": "C",
+          "content": "Regardless,"
+        },
+        {
+          "name": "D",
+          "content": "Conversely,"
+        }
+      ],
+      "correct": "Therefore,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Within a given ecosystem, energy tends to transfer across what ecologists, such as Danny Rojas, call trophic levels. _____ primary producers, like plants, at the first trophic level provide energy (i.e., food) for herbivores, like goats, at the second level; those at the second level provide energy for carnivores and omnivores, like hyenas, at the third; and so on, up the food chain.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Likewise,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "By contrast,"
+        }
+      ],
+      "correct": "For example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Residents of ÃrÃ¼mqi, China, rely on its rapid transit system, the ÃrÃ¼mqi Metro, for millions of trips each year. _____ City officials strive to maintain the systemâs 21 stations to ensure each of these journeys is as smooth as possible.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Accordingly,"
+        },
+        {
+          "name": "B",
+          "content": "Alternatively,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "However,"
+        }
+      ],
+      "correct": "Accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Great Salt Lake is one of the worldâs saltiest bodies of water.</li><li>The lake is located in Utah.</li><li>The northern portion of the lake has a higher concentration of salt than the southern portion.</li><li>Aquatic insects called <i>Ephydra cinerea</i> live in the southern portion.</li><li>Bacteria called <i>Coccochloris</i> live in the southern portion.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between <i>Ephydra cinerea</i> and <i>Coccochloris</i>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Great Salt Lake in Utah is one of the saltiest bodies of water in the world."
+        },
+        {
+          "name": "B",
+          "content": "Aquatic insects called <i>Ephydra cinerea</i> and bacteria called <i>Coccochloris</i> both live in the southern portion of the Great Salt Lake."
+        },
+        {
+          "name": "C",
+          "content": "<i>Ephydra cinerea</i>, a type of aquatic insect, lives in the Great Salt Lake."
+        },
+        {
+          "name": "D",
+          "content": "Bacteria called <i>Coccochloris</i> live in the Great Salt Lake, which is located in Utah."
+        }
+      ],
+      "correct": "Aquatic insects called <i>Ephydra cinerea</i> and bacteria called <i>Coccochloris</i> both live in the southern portion of the Great Salt Lake.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The international Slow Food movement was founded in 1989 with the signing of the âSlow Food Manifesto.â</li><li>The movement promotes universal access to healthy, high-quality food.</li><li>It calls for sustainable food production practices that protect local environments, ecosystems, and biodiversity.</li><li>It advocates for fair treatment of and compensation for food production workers.</li><li>The Slow Food USA organization was founded in 2000.</li></ul></blockquote>",
+      "question": "The student wants to introduce the Slow Food movement to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The signing of the âSlow Food Manifestoâ in 1989 marked the founding of the international Slow Food movement, while the Slow Food USA organization was founded in 2000."
+        },
+        {
+          "name": "B",
+          "content": "The international Slow Food movement, founded in 1989, promotes universal access to healthy, high-quality food that is produced sustainably by workers who are treated and compensated fairly."
+        },
+        {
+          "name": "C",
+          "content": "The Slow Food movement advocates for food production workers."
+        },
+        {
+          "name": "D",
+          "content": "Goals of the movement include universal access to healthy, high-quality food and sustainable food practices."
+        }
+      ],
+      "correct": "The international Slow Food movement, founded in 1989, promotes universal access to healthy, high-quality food that is produced sustainably by workers who are treated and compensated fairly.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The poem â15 haiku (for Toni Morrison)â is by African American writer Sonia Sanchez.</li><li>It was published in her 2010 poetry book entitled <i>Morning Haiku</i>.</li><li>The poem is written as a sequence of fifteen haiku.</li><li>According to the bookâs publisher, Penguin Random House (PRH), the book âcelebrates the gifts of life and mourns the deaths of revered African American figures.â</li><li>According to Sanchez, she chose to write in the form of haiku because it helps âmaintain memory and dignity.â</li></ul></blockquote>",
+      "question": "The student wants to describe the format of â15 haiku (for Toni Morrison).â Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The poems in <i>Morning Haiku</i> (2010) are each written as a sequence of haiku."
+        },
+        {
+          "name": "B",
+          "content": "Sanchez chose the form used in the poem â15 haiku (for Toni Morrison)â because it helps âmaintain memory and dignity.â"
+        },
+        {
+          "name": "C",
+          "content": "The poem â15 haiku (for Toni Morrison)â is written as a sequence of fifteen haiku."
+        },
+        {
+          "name": "D",
+          "content": "The poem â15 haiku (for Toni Morrison)â was published in the 2010 book <i>Morning Haiku</i>, which âcelebrates the gifts of life and mourns the deaths of revered African American figures.â"
+        }
+      ],
+      "correct": "The poem â15 haiku (for Toni Morrison)â is written as a sequence of fifteen haiku.",
+      "solution": ""
+    }
+  ]
+}

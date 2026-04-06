@@ -1,0 +1,682 @@
+{
+  "uuid": "8c67d23e-c191-4688-9da8-61bb2e4459ef",
+  "chunk": "BIdblU-B.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>To address Sumitava Mukherjee et al.'s contention that low financial stakes reduce loss aversionâthe tendency for losses to be felt more acutely than equivalent gains areâand thus test a concept that has informed research in fields ranging from behavioral economics to transportation studies, Kellen Mrvka et al. conducted a study in which some participants were presented with scenarios involving ______ amounts of money.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "nominal"
+        },
+        {
+          "name": "B",
+          "content": "indeterminate"
+        },
+        {
+          "name": "C",
+          "content": "negotiable"
+        },
+        {
+          "name": "D",
+          "content": "idiosyncratic"
+        }
+      ],
+      "correct": "nominal",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Using data from Argentina and nineteen other countries, Filazzola et al. compared sites where livestock grazing is active with sites where it has been eliminated. They found that wild-animal abundance positively correlated with duration of grazer exclusion, indicating that following the removal of livestock (e.g., cattle), one adverse effect on co-occurring animal species imposed by grazing livestock may ______ over time.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "abound"
+        },
+        {
+          "name": "B",
+          "content": "emanate"
+        },
+        {
+          "name": "C",
+          "content": "abate"
+        },
+        {
+          "name": "D",
+          "content": "prevail"
+        }
+      ],
+      "correct": "abate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Heege Manuscript (HM) consists of various texts copied by Richard Heege at his home in fifteenth-century England. Most contemporary collections like the HM consist of pieces for polite society like genteel romances and other readings favored by elites; in contrast, the HM reflects a strong ______ toward popular entertainments (such as parody romances) and practicalities (like advice about religion).</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "skepticism"
+        },
+        {
+          "name": "B",
+          "content": "proclivity"
+        },
+        {
+          "name": "C",
+          "content": "sagacity"
+        },
+        {
+          "name": "D",
+          "content": "ambivalence"
+        }
+      ],
+      "correct": "proclivity",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Before the 1858 publication of <i>On the Origin of Species</i>, author Charles Darwin developed principles of natural selection (e.g., that abundant offspring of a species must compete for limited resources) in five notebooks. Some notebook entries from fall 1838 read like outlines of parts of the concept, suggesting that the theory was ______ idea even twenty years before his milestone publication.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a disputed"
+        },
+        {
+          "name": "B",
+          "content": "an entrenched"
+        },
+        {
+          "name": "C",
+          "content": "a conclusive"
+        },
+        {
+          "name": "D",
+          "content": "an incipient"
+        }
+      ],
+      "correct": "an incipient",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Prose poetry, a form that combines the continuous text of prose with the condensed language and imagery of poetryâas exemplified in Claudia Rankine's \"Coherence in Consequence\"âis characterized by significant ______ how poets balance these elements. While some prose poems prominently feature conventional poetic devices, such as figures of speech, others embrace a more prosaic aesthetic.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hesitance in"
+        },
+        {
+          "name": "B",
+          "content": "inquiry into"
+        },
+        {
+          "name": "C",
+          "content": "latitude in"
+        },
+        {
+          "name": "D",
+          "content": "insight into"
+        }
+      ],
+      "correct": "latitude in",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Karuk, an Indigenous language from the West Coast of what is now the United States, <i>ihmar</i> means \"to run,\" whereas <i>ihmÃ¡raramnih</i> means \"to run into.\" This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element \"ar\" in <i>ihmar</i> gets repeated in <i>ihmÃ¡raramnih</i>. There are many examples of this type of reduplication in Karuk.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains the phenomenon of reduplication, discusses why reduplication has been controversial among scholars, and then argues that an analysis of Karuk could help resolve that controversy."
+        },
+        {
+          "name": "B",
+          "content": "It describes the relationship between Karuk and several other languages, raises a question about the nature of that relationship, and then answers that question."
+        },
+        {
+          "name": "C",
+          "content": "It presents some specific words in Karuk, describes the general linguistic phenomenon exemplified by those words, and then states that this phenomenon occurs frequently in Karuk."
+        },
+        {
+          "name": "D",
+          "content": "It identifies the most frequently occurring words in Karuk, explains why it is difficult to translate those words into English, and then provides examples of languages other than English into which those words can be translated."
+        }
+      ],
+      "correct": "It presents some specific words in Karuk, describes the general linguistic phenomenon exemplified by those words, and then states that this phenomenon occurs frequently in Karuk.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<b>Text 1</b><br>John Clare's poetry, reflecting both the beauty and the harshness of nineteenth-century rural England, demonstrates that <u>an effective poetic portrayal of nature must be grounded in the authenticity of everyday lived experience.</u> As a tenant farmer and a self-taught poet, Clare wrote verse that is infused with rhythms of agrarian life. This is evident in <i>The Shepherd's Calendar</i>, which vividly depicts the changing seasons and daily patterns of rural existence.<br><br><b>Text 2</b><br>Samuel Taylor Coleridge, like many other Romantic-era poets, admired nature from afar. His poetry often portrays common landscapes in a mystical, awe-inspiring way, inviting readers to see nature's grandeur and share in his reverence for it. <i>Frost at Midnight</i> exemplifies this perspective as the poet uses the quiet of a winter night to contemplate nature's beauty and its connection to human thought.",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By questioning the idea that poetic depictions of nature that do not derive from authentic everyday experience are ineffective"
+        },
+        {
+          "name": "B",
+          "content": "By asserting that a deep admiration for nature can also enhance the authenticity of its portrayals in poetry"
+        },
+        {
+          "name": "C",
+          "content": "By claiming that authentic portrayals of nature in poetry come from encountering natural settings in the company of others"
+        },
+        {
+          "name": "D",
+          "content": "By proposing that authentic portrayals of nature require a balance of both lived experience and poetic imagination"
+        }
+      ],
+      "correct": "By questioning the idea that poetic depictions of nature that do not derive from authentic everyday experience are ineffective",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Spanning the 1920s to the 1980s, Mexican architect Luis BarragÃ¡n's prolific career evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in an international architectural discourse, BarragÃ¡n's began incorporating principles derived from functionalism and modernism in his work, as seen in the ChÃ¡vez PeÃ³n de Ochoa House, whose unadorned geometric forms contrast with the historically inspired architecture found in the Aguilar House, one of BarragÃ¡n's early projects in Guadalajara.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "BarragÃ¡n's designs of the ChÃ¡vez PeÃ³n de Ochoa House and the Aguilar House are considered paragons of a functionalist and modernist aesthetic."
+        },
+        {
+          "name": "B",
+          "content": "BarragÃ¡n's early work shows an initial dedication to a modernist aesthetic that he later abandoned."
+        },
+        {
+          "name": "C",
+          "content": "A notable shift in BarragÃ¡n's design aesthetic reflects the influence of his time abroad."
+        },
+        {
+          "name": "D",
+          "content": "BarragÃ¡n's design of the Aguilar House is considered more experimental than his design for the ChÃ¡vez PeÃ³n de Ochoa House."
+        }
+      ],
+      "correct": "A notable shift in BarragÃ¡n's design aesthetic reflects the influence of his time abroad.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Ralph Waldo Emerson's 1841 essay \"<i>The Method of Nature</i>.\"</p><blockquote style=\"margin-left: 40px;\">The rapid wealth which hundreds of the community acquire in trade, or by the incessant expansions of our population and arts, enchants the eyes of all the rest; the luck of one is the hope of thousands, and the bribe acts like the neighborhood of a gold mine to impoverish the farm, the school, the church, the house, and the very body and feature of man.</blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Those who wish to accumulate wealth can do so more quickly by engaging in trade than in other activities such as teaching and farming."
+        },
+        {
+          "name": "B",
+          "content": "Participating in a variety of activities is important for one's physical health."
+        },
+        {
+          "name": "C",
+          "content": "When a few people in a society become rich, the rest of the society will benefit in turn, given enough time."
+        },
+        {
+          "name": "D",
+          "content": "Observing the success of a few people can lead many to abandon important parts of their lives in the pursuit of similar success."
+        }
+      ],
+      "correct": "Observing the success of a few people can lead many to abandon important parts of their lives in the pursuit of similar success.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Research by economists Wei Feng and Jinzhe Yan indicates that the degree of linguistic abstraction in negative reviews influences how consumers perceive businesses: reviews with concrete details were more likely to result in stronger attributions of fault to companies than vague reviews were. They also found that varying levels of linguistic abstraction in reviews require different types of responses to mitigate their effects. Conciliatory responses were most effective at mitigating the impact of concrete reviews, whereas more defensive responses were more useful when reviews were relatively abstract.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Increasing linguistic abstraction in negative reviews correlates with the degree to which consumers hold companies accountable for negative experiences, but companies can mitigate this effect by responding to such reviews promptly."
+        },
+        {
+          "name": "B",
+          "content": "Given its implications for companies reputation among consumers, the level of linguistic abstraction in negative reviews is an important consideration when companies devise a response strategy."
+        },
+        {
+          "name": "C",
+          "content": "Consumers are more likely to find companies blameworthy for negative consumer experiences if the companies are overly defensive and linguistically abstract in their responses to negative reviews than if their responses are accommodating and linguistically concrete."
+        },
+        {
+          "name": "D",
+          "content": "The study demonstrates that the relationship between linguistic abstraction in negative reviews and consumer blame is fixed, but companies can neutralize this effect by consistently using conciliatory responses regardless of the review's abstractness."
+        }
+      ],
+      "correct": "Given its implications for companies reputation among consumers, the level of linguistic abstraction in negative reviews is an important consideration when companies devise a response strategy.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/c7ee14e812d830b1024855151fd5beaa.png\" style=\"width: 700px; height: 309px;\"></div><p>A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The first task in this investigation is to determine how the decline in Brazil compares to that in other countries. The student finds that ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "though the decline in number of hours worked in Brazil was less than that in Denmark and Austria, it was greater than that in Peru."
+        },
+        {
+          "name": "B",
+          "content": "though the decline in number of hours worked in Brazil was greater than that in Denmark and Peru, it was less than that in Austria."
+        },
+        {
+          "name": "C",
+          "content": "while the number of hours worked rose in Brazil between 1950 and 2017, it declined in Denmark, Austria, and Peru."
+        },
+        {
+          "name": "D",
+          "content": "the percent decrease in hours worked was greater in Brazil than it was in Denmark, Austria, or Peru."
+        }
+      ],
+      "correct": "though the decline in number of hours worked in Brazil was less than that in Denmark and Austria, it was greater than that in Peru.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Bruce Sterling's 1986 cyberpunk anthology <i>Mirrorshades</i> contains just twelve carefully selected stories, and by the end of the 1980s Sterling himself claimed that cyberpunk, a subgenre of science fiction, was a dead artistic movement. But editor Jared Shurin's 2023 chronologically expansive anthology <i>The Big Book of Cyberpunk</i> contains 108 stories, including Fritz Leiber's \"Coming Attraction\" (1950) and Yudhanjaya Wijeratne's \"The State Machine\" (2020). Critics have claimed that Shurin's idea of what constitutes a cyberpunk short story is far more wide-ranging than Sterling's with respect to method of publication.</p>",
+      "question": "Which quotation from a literary critic would most effectively illustrate the text's assertion about critics?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"For all its merits, <i>Mirrorshades</i> neglected some strains of cyberpunk that would go on to influence science fiction as a whole, largely because Sterling exclusively focused on short stories written in a narrow window of time (the early 1980s).\""
+        },
+        {
+          "name": "B",
+          "content": "\"Many of the best science fiction writers work only in the short story format. Anthologies like <i>The Big Book of Cyberpunk</i> serve a crucial purpose for such writers, making their work available to the many readers who purchase stand-alone books but rarely look at science fiction magazines or online journals.\""
+        },
+        {
+          "name": "C",
+          "content": "\"Unlike the stories in <i>Mirrorshades</i>, not all the stories anthologized in <i>The Big Book of Cyberpunk</i> first appeared in print publications: for example, qntm's 2021 story 'Lena' was originally self-published on the author's site qntm.org.\""
+        },
+        {
+          "name": "D",
+          "content": "\"In contrast to Sterling, who presents cyberpunk as a period-specific expansion of the boundaries of science fiction, Shurin presents cyberpunk as a genre with fixed conventions and essential characteristics that are unrelated to those of science fiction.\""
+        }
+      ],
+      "correct": "\"Unlike the stories in <i>Mirrorshades</i>, not all the stories anthologized in <i>The Big Book of Cyberpunk</i> first appeared in print publications: for example, qntm's 2021 story 'Lena' was originally self-published on the author's site qntm.org.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Participants in a musical-perception study assigned high groove ratings (defined as the degree to which one wants to move to a song) to Earth, Wind &amp; Fire's \"Boogie Wonderland.\" In another study, participants assigned similarly high groove ratings to the Brazilian samba song \"Desafinado.\" If, as some contend, the human experience of groove depends on the ability to \"find the pulse\" (intuit the regular underlying rhythm) of a song, that would suggest that participants in these two studies tended to ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "find the pulses of their respective songs easily."
+        },
+        {
+          "name": "B",
+          "content": "perceive their respective songs as rhythmically complex."
+        },
+        {
+          "name": "C",
+          "content": "experience little desire to move to their respective songs."
+        },
+        {
+          "name": "D",
+          "content": "rate the pulses of their respective songs rather than the grooves."
+        }
+      ],
+      "correct": "find the pulses of their respective songs easily.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a 2018 study, Deepak Jaiswal and Rishi Kant found that consumers' knowledge of environmental issues had no effect on the likelihood that the consumers would purchase environmentally friendly products. Since this study was based on fewer than 400 young adults in India, however, doubts have been raised about how reliable and representative the findings are. To better understand the issue, Wencan Zhuang and colleagues analyzed the results of 54 studies of eco-friendly consumer behavior, such as a 2014 study from China that included 909 participants and a 2015 study from India with 270 participants. Taking all 54 studies together, Zhuang and colleagues found a significant positive effect of environmental knowledge on eco-friendly purchasing decisions, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the number of participants in Jaiswal and Kant's study was far below the number of participants in most studies of purchasing decisions."
+        },
+        {
+          "name": "B",
+          "content": "the participants in Jaiswal and Kant's study may not have been typical of consumers generally when it comes to environmentally friendly purchasing decisions."
+        },
+        {
+          "name": "C",
+          "content": "a sample size of 270 may be sufficient to make reliable conclusions about the relationship between knowledge of environmental issues and purchasing decisions."
+        },
+        {
+          "name": "D",
+          "content": "Jaiswal and Kant's methodology was more precise than the methodology used in the 2014 study from China."
+        }
+      ],
+      "correct": "the participants in Jaiswal and Kant's study may not have been typical of consumers generally when it comes to environmentally friendly purchasing decisions.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2013, Shirley Ann Williams et al. performed a meta-analysis (an assessment of previous research) of studies of the social media website formerly known as Twitter, such as the 2011 paper by Bollen et al. titled \"Happiness Is Assortative in Online Social Networks,\" in order to identify research trends. Williams's team found that while a significant number of papers focused on profiles of users, many focused on message content. Williams's team also found that when researchers focused on message content, they were especially likely to use knowledge discovery methods (methods derived from statistical analysis and artificial intelligence that are aimed at handling enormous amounts of information), suggesting that ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "knowledge discovery methods yield less reliable results when applied to user profiles than to the content of social media messages."
+        },
+        {
+          "name": "B",
+          "content": "researchers typically presumed that a small proportion of users account for most of the information in social media messages."
+        },
+        {
+          "name": "C",
+          "content": "researchers tended to expect the amount of information in social media messages to be particularly high."
+        },
+        {
+          "name": "D",
+          "content": "studies using knowledge discovery methods are more widely cited than studies that do not use such methods."
+        }
+      ],
+      "correct": "researchers tended to expect the amount of information in social media messages to be particularly high.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As a behavioral economist, Katy Milkman of the University of Pennsylvania explores how psychological factors (such as emotion and bias) influence the economic choices that individuals ______ Milkman's research considers the broader effects these choices have on the economy.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "make; moreover,"
+        },
+        {
+          "name": "B",
+          "content": "make, moreover;"
+        },
+        {
+          "name": "C",
+          "content": "make, moreover,"
+        },
+        {
+          "name": "D",
+          "content": "make, moreover."
+        }
+      ],
+      "correct": "make; moreover,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Arms outstretched, right wrist over left with both hands dangling, South Korean musician Psy galloped from one foot to the other in the iconic dance of his 2012 international hit song \"Gangnam Style.\" Later, a statue depicting Psy's arm-positioning during the dance was erected in the place that inspired the song's ______ Gangnam District in Seoul, South Korea.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "name."
+        },
+        {
+          "name": "B",
+          "content": "nameâ"
+        },
+        {
+          "name": "C",
+          "content": "name"
+        },
+        {
+          "name": "D",
+          "content": "name;"
+        }
+      ],
+      "correct": "nameâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Released in 1999, the Intel Pentium II microchip contained a single CPU, or core, to execute commands. Since then, the average processing power of microchips has ______ cores now number in the dozens, hundreds, or even thousandsâthat the once-revolutionary dual-core technology that replaced the single-core chip can be found in everyday items like toasters and toothbrushes.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "increasedâso drastically,"
+        },
+        {
+          "name": "B",
+          "content": "increased so drastically,"
+        },
+        {
+          "name": "C",
+          "content": "increased so drasticallyâ"
+        },
+        {
+          "name": "D",
+          "content": "increased, so drastically,"
+        }
+      ],
+      "correct": "increased so drasticallyâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At the Rankin Inlet observatory site in Canada, radars point their antennae to the sky to track gravity waves and other geospace phenomena. These radars are not the only ones scanning the ______ more than thirty other radar sites around the globe monitor these same phenomena as part of the Super Dual Auroral Radar Network.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "sky, though,"
+        },
+        {
+          "name": "B",
+          "content": "sky, though;"
+        },
+        {
+          "name": "C",
+          "content": "sky though"
+        },
+        {
+          "name": "D",
+          "content": "sky; though,"
+        }
+      ],
+      "correct": "sky, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a chemical equation, the value known as molar mass is useful for converting between the mass of the reactants and the mass of the product. The gaseous ______ have molar masses of 48.00 and 56.11 g/mol, respectively.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "compounds ozone (O3) and isobutylene (C4H8),"
+        },
+        {
+          "name": "B",
+          "content": "compounds, ozone (O3) and isobutylene (C4H8)"
+        },
+        {
+          "name": "C",
+          "content": "compounds ozone (O3) and isobutylene (C4H8)"
+        },
+        {
+          "name": "D",
+          "content": "compounds, ozone (O3) and isobutylene (C4H8),"
+        }
+      ],
+      "correct": "compounds ozone (O3) and isobutylene (C4H8)",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Karl Popper's argument that scientific hypotheses must be theoretically refutable, termed the criterion of falsifiability, rejects the confirmationist ______ verifiability as the essential criterion for scientific hypotheses. To Popper, a statement like \"all spiders have eight legs\" is scientific not because it can be verified, or proved true, but because it can theoretically be proved false.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "argument, it posits"
+        },
+        {
+          "name": "B",
+          "content": "argument positing"
+        },
+        {
+          "name": "C",
+          "content": "argument and posits"
+        },
+        {
+          "name": "D",
+          "content": "argument, positing"
+        }
+      ],
+      "correct": "argument positing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The visual magnitude scale, which measures the brightness of stars, is reverse logarithmic: the brighter a star, the lower its magnitude number. ______ the star Gamma Velorum, the 30th brightest in the sky, has a higher visual magnitude number (1.72) than does the brighter star Aldebaran. The 14th-brightest star, Aldebaran has a magnitude of 0.86.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On the other hand,"
+        },
+        {
+          "name": "B",
+          "content": "Nonetheless,"
+        },
+        {
+          "name": "C",
+          "content": "Moreover,"
+        },
+        {
+          "name": "D",
+          "content": "Hence,"
+        }
+      ],
+      "correct": "Hence,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The total solar eclipse of April 6, 648 BCE, was the subject of a famous poem written in the same year by the Greek lyric poet Archilochus. Another memorable solar eclipse occurred on October 22, 2137 BCE, but unlike the 648 BCE eclipse, the 2137 BCE eclipse was annular. ______ the Moon didn't cover the Sun completely, instead creating an annulus, or \"ring of fire.\"</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Meanwhile,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "That is,"
+        },
+        {
+          "name": "D",
+          "content": "Nonetheless,"
+        }
+      ],
+      "correct": "That is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>During many historic New York City parades, including the 1912 ticker-tape parade for US Olympic champions, the ribbonlike swirls descending on the scene were paper spools from âtickers,â telegraph machines that were used to transmit stock prices. ______ the tickers had long since been retired by the time of the parade for the New York Rangers in 1994. Then, shredded standard paper enriched the celebration.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "Of course,"
+        },
+        {
+          "name": "D",
+          "content": "As a result,"
+        }
+      ],
+      "correct": "Of course,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a 2022 study, Knut Bretzke and colleagues used optically stimulated luminescence dating to estimate the age of stone tools excavated from an archaeological site in South Arabia. This method dates artifacts by determining how much time has elapsed since mineral grains in the sediments surrounding the artifacts were last exposed to sunlight. ______ the timing of the artifacts' burial serves as a proxy for the age of the artifacts themselves.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "That is,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "That is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>Run Rush Run</i> is a 1977 sculpture by Argentinian artist Margarita Paksa.</li><li>It consists of the title phrase (\"run rush run\") spelled out in glowing blue, pink, and purple neon lighting.</li><li>To make neon lighting, glass tubes are heated, molded into shape, and filled with gas.</li><li>An electrical current is passed through the gas to make it glow.</li></ul></blockquote>",
+      "question": "The student wants to explain what makes the neon sculpture glow. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "An electrical current passes through the gas-filled tubes in <i>Run Rush Run</i>, making them glow blue, pink, and purple."
+        },
+        {
+          "name": "B",
+          "content": "A glow emanates from Paksa's sculpture, which is made of glass tubes."
+        },
+        {
+          "name": "C",
+          "content": "The sculpture's glass tubes have been heated and molded to spell out the phrase \"run rush run.\""
+        },
+        {
+          "name": "D",
+          "content": "Paksa's 1977 sculpture spells out the phrase \"run rush run\" in glowing blue, pink, and purple neon lights."
+        }
+      ],
+      "correct": "An electrical current passes through the gas-filled tubes in <i>Run Rush Run</i>, making them glow blue, pink, and purple.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Saturn has 146 moons, including Hyperion and Prometheus.</li><li>Hyperion completes an orbit of Saturn in 21.28 Earth days on average.</li><li>Prometheus completes an orbit of Saturn in 0.61 Earth days on average.</li><li>German mathematician and astronomer Johannes Kepler (1571-1630) described the orbits of planets as elliptical in shape rather than circular.</li><li>Kepler published three laws of planetary motion to describe the orbits of planets around the Sun.</li><li>Kepler's laws also apply to the elliptical orbits of natural satellites (e.g., moons).</li></ul></blockquote>",
+      "question": "The student wants to contrast the orbits of the two moons. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Saturn's moons, specifically Hyperion and Prometheus, orbit their planet in the same way the planets orbit the Sun."
+        },
+        {
+          "name": "B",
+          "content": "Hyperion's orbit of Saturn is elliptical in shape and takes, on average, 21.28 Earth days, while Prometheus's orbit of Saturn is circular in shape and takes, on average, 0.61 Earth days."
+        },
+        {
+          "name": "C",
+          "content": "Kepler's three laws of planetary motion describe the orbits of planets and natural satellites, including those of Hyperion and Prometheus."
+        },
+        {
+          "name": "D",
+          "content": "Prometheus completes its orbit of Saturn many times faster than Hyperion does."
+        }
+      ],
+      "correct": "Prometheus completes its orbit of Saturn many times faster than Hyperion does.",
+      "solution": ""
+    }
+  ]
+}

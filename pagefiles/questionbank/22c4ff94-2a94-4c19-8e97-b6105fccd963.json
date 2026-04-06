@@ -1,0 +1,682 @@
+{
+  "uuid": "22c4ff94-2a94-4c19-8e97-b6105fccd963",
+  "chunk": "ls16V9mm.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>In the search for new impact craters on Mars, the roles of seismic monitoring and orbital imaging as data sources are ______: when vibrations detected with seismic monitoring indicate roughly where an impact has occurred, researchers can use orbital images of that relatively limited area of the rocky surface to precisely locate a new crater.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "interchangeable"
+        },
+        {
+          "name": "B",
+          "content": "exhaustive"
+        },
+        {
+          "name": "C",
+          "content": "redundant"
+        },
+        {
+          "name": "D",
+          "content": "complementary"
+        }
+      ],
+      "correct": "complementary",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ______ among particlesâvariations in size, shape, and materialâmake it onerous to comprehensively classify the microplastics in a water sample, so Kutay Icoz et al. are exploring a device to help quickly and accurately identify certain characteristics.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "restraints"
+        },
+        {
+          "name": "B",
+          "content": "inconsistencies"
+        },
+        {
+          "name": "C",
+          "content": "incompatibilities"
+        },
+        {
+          "name": "D",
+          "content": "disruptions"
+        }
+      ],
+      "correct": "inconsistencies",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from the 1895 poem \"Ojistoh\" by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake.</p><blockquote style=\"margin-left: 40px;\">I am Ojistoh, I am she, the wife<br>Of him whose name <u>breathes</u> bravery and life and courage to the tribe who calls him chief.<br>I am Ojistoh, his white star, and he<br>is land, and lake, and skyâand soul to me.<br></blockquote>",
+      "question": "As used in the text, what does the word \"breathes\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Absorbs"
+        },
+        {
+          "name": "B",
+          "content": "Rejects"
+        },
+        {
+          "name": "C",
+          "content": "Acquiesces"
+        },
+        {
+          "name": "D",
+          "content": "Imparts"
+        }
+      ],
+      "correct": "Imparts",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Bing Xie and her team have discovered that plains zebras make at least four types of vocalizations: \"snorts,\" \"soft snorts,\" \"squeals,\" and \"quagga quagga\" calls. The researchers used machine-learning algorithms to ______ recorded vocalizations according to type, finding that snorts vary across individual zebras, while squeals are more uniform across zebra populations.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "suppress"
+        },
+        {
+          "name": "B",
+          "content": "extend"
+        },
+        {
+          "name": "C",
+          "content": "collapse"
+        },
+        {
+          "name": "D",
+          "content": "categorize"
+        }
+      ],
+      "correct": "categorize",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Henry James's 1881 novel <i>The Portrait of a Lady</i>.</p><blockquote style=\"margin-left: 40px;\">Everything Osmond did was poseâpose so subtly considered that if one were not on the lookout one mistook it for impulse. Ralph had never met a man who lived so much in the land of <u>consideration</u>. His tastes, his studies, his accomplishments, his collections, were all for a purpose.</blockquote>",
+      "question": "As used in the text, what does the word \"consideration\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "indecision"
+        },
+        {
+          "name": "B",
+          "content": "calculation"
+        },
+        {
+          "name": "C",
+          "content": "courtesy"
+        },
+        {
+          "name": "D",
+          "content": "deference"
+        }
+      ],
+      "correct": "calculation",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><em>Peter Pan</em> is a 1911 novel by J.M. Barrie. In the fantasy novel, Peter is a young boy who can fly. He brings Wendy, John, and Michael to Neverland, the mythical island where he lives. The narrator suggests that activity on the island stops when Peter is away and starts again when he is about to return: ______</p>",
+      "question": "Which quotation from <em>Peter Pan</em> best supports the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"There is no entrance to be seen.\""
+        },
+        {
+          "name": "B",
+          "content": "\"Wendy and John and Michael stood on tip-toe in the air to get their first sight of the island.\""
+        },
+        {
+          "name": "C",
+          "content": "\"Feeling that Peter was on his way back, the Neverland had again woke into life.\""
+        },
+        {
+          "name": "D",
+          "content": "\"[Wendy] was often at the lagoon on sunny days after rain.\""
+        }
+      ],
+      "correct": "\"Feeling that Peter was on his way back, the Neverland had again woke into life.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Robert Lowell's 1964 poem \"For the Union Dead.\" The South Boston Aquarium closed permanently in 1954.</p><blockquote style=\"margin-left: 40px;\">The old South Boston Aquarium stands<br>in a Sahara of snow now. Its broken windows are boarded.<br>The bronze weathervane cod has lost half its scales.<br>The airy tanks are dry.</blockquote><p style=\"text-align: right;\">Â©2003 by Robert Lowell</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To contrast the effects of different kinds of weather on a building."
+        },
+        {
+          "name": "B",
+          "content": "To argue that a building should be rehabilitated."
+        },
+        {
+          "name": "C",
+          "content": "To describe details of the deteriorated state of a building."
+        },
+        {
+          "name": "D",
+          "content": "To explain why a once-popular building was abandoned."
+        }
+      ],
+      "correct": "To describe details of the deteriorated state of a building.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/e5eaec39775419ef3d9cb41e251936b4.png\" width=\"636\" height=\"516\"></div><p>Since the nation's earliest days, both houses of the United States Congress have counted many military veterans among their elected officials, including Hiram L. Fong (who served in the US Army Air Force) and Ralph Harold Metcalfe Sr. (who served in the US Army). A research institute gathered historical data about congressional members who have reported past military experience and determined that ______ .</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the sentence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "from 2003 to 2023, the House of Representatives had a higher percentage of those members"
+        },
+        {
+          "name": "B",
+          "content": "than the Senate did"
+        },
+        {
+          "name": "C",
+          "content": "from 1953 to 2003, those members constituted a majority in both houses of Congress"
+        },
+        {
+          "name": "D",
+          "content": "the percentage of those members decreased substantially in both houses of Congress from 1973 to 2013"
+        }
+      ],
+      "correct": "from 1953 to 2003, those members constituted a majority in both houses of Congress",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Outi Tervo and team studied the effect of human-caused noise on narwhals (<i>Monodon monoceros</i>), Arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo's team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditionsâship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the narwhals weren't as sensitive to human-caused sounds as the researchers had predicted."
+        },
+        {
+          "name": "B",
+          "content": "sonic pulses can be heard at significantly greater ocean depths than ship sounds can."
+        },
+        {
+          "name": "C",
+          "content": "narwhals forage at shallower depths in the presence of ship sounds alone than in the presence of ship sounds coupled with sonic pulses."
+        },
+        {
+          "name": "D",
+          "content": "ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals' auditory environment."
+        }
+      ],
+      "correct": "ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals' auditory environment.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/5c611ad602dc6618a5b6b7479a665427.png\" width=\"365\" height=\"328\"></div><p>Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strengthâas measured in kilopascals (kPa) of stress needed to pull the materials apartâwas high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V."
+        },
+        {
+          "name": "B",
+          "content": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+        },
+        {
+          "name": "C",
+          "content": "at 0 V, mean adhesion strength was equal to 0 kPa."
+        },
+        {
+          "name": "D",
+          "content": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V."
+        }
+      ],
+      "correct": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for induction cookers, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for home water tanks, and the 300 series, which has more nickel than the 200 series and is often used for storage containers or sinks. Thus, stainless steel used to manufacture ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "induction cookers will have a face-centered cubic crystalline structure."
+        },
+        {
+          "name": "B",
+          "content": "home water tanks will have a lower percentage of chromium in its composition than stainless steel used for induction cookers will."
+        },
+        {
+          "name": "C",
+          "content": "storage containers will have a concentration of chromium lower than 10.5%, while stainless steel used to manufacture home water tanks will not."
+        },
+        {
+          "name": "D",
+          "content": "sinks will have similar magnetic properties to stainless steel used to manufacture induction cookers."
+        }
+      ],
+      "correct": "home water tanks will have a lower percentage of chromium in its composition than stainless steel used for induction cookers will.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Understanding juvenile sea turtles' migratory patterns is crucial for conservation efforts. While adult sea turtles are well studied, little is known about juveniles during their oceanic stage, when they spend most of their time in the open ocean. To learn about this stage, researchers tagged and released six juvenile green sea turtles (<i>Chelonia mydas</i>) into the eastern Caribbean Sea. Their findings revealed that the majority of the turtles passively drifted with ocean currents throughout the region. However, two individuals swam against the currents, possibly in search of foraging grounds off the coast of South America.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To compare the behavior of adult and juvenile sea turtles during migration."
+        },
+        {
+          "name": "B",
+          "content": "To summarize research on an understudied stage of sea turtle development."
+        },
+        {
+          "name": "C",
+          "content": "To suggest reasons why some juvenile sea turtles swim against the ocean currents."
+        },
+        {
+          "name": "D",
+          "content": "To describe successful conservation efforts for sea turtles."
+        }
+      ],
+      "correct": "To summarize research on an understudied stage of sea turtle development.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Linguist John McWhorter asserts that translation apps for smartphones and computers areâdespite generally failing to convey many nuancesâincreasingly obviating the need to learn new languages. Advances in language processing technology have greatly boosted the utility of these apps for perfunctory tasks, like inquiring about an item on a menu, and passing interactions; be that as it may, richer communication (e.g., in business dealings or meaningful personal exchanges) often hinges on conversational patterns and gradations of meaning.</p>",
+      "question": "What does the text most directly suggest about translation apps?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They have improved remarkably over time but remain insufficient to support the complexity called for in certain interactions."
+        },
+        {
+          "name": "B",
+          "content": "They have gained impressive capabilities but continue to be widely viewed as inadequate for most practical purposes."
+        },
+        {
+          "name": "C",
+          "content": "They are becoming simpler to use but are inconsistent in how comprehensively they cover different languages."
+        },
+        {
+          "name": "D",
+          "content": "They are coming to be embraced by international tourists but are viewed with skepticism by many business professionals."
+        }
+      ],
+      "correct": "They have improved remarkably over time but remain insufficient to support the complexity called for in certain interactions.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/446e79048c6b9bd1d7f64375ebcfef61.png\" width=\"601\" height=\"142\"></div><p>Working in Ghana, Emmanuel Hanyabui and colleagues compared the impact on pineapple growth of different combinations of soil additives, including NPK fertilizer (an inorganic fertilizer containing nitrogen, phosphorus, and potassium), organic compost, and biochar (a carbon-rich material produced from organic waste matter). Based on data in the table, pineapple farmers with no access to inorganic soil additives would likely increase the weight and size of their fruits by the greatest amount by using ______.</p>",
+      "question": "Which choice most effectively uses data from the table to complete the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "biochar and compost"
+        },
+        {
+          "name": "B",
+          "content": "biochar alone"
+        },
+        {
+          "name": "C",
+          "content": "biochar and NPK fertilizer"
+        },
+        {
+          "name": "D",
+          "content": "compost alone"
+        }
+      ],
+      "correct": "biochar and compost",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While some biologists cite the general lineage species concept (Queiroz 1998), others adhere to the biological species concept (Coyne and Orr 2004), with at least fourteen other concepts used across the field. Such lack of consensus, however, isn't necessarily cause for alarm. Scholars supporting a pluralist approachâin place of a single, monistic conceptâto defining a species ______ that a diversity of species concepts fits their equally diverse applications throughout the discipline.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is arguing"
+        },
+        {
+          "name": "B",
+          "content": "to argue"
+        },
+        {
+          "name": "C",
+          "content": "argue"
+        },
+        {
+          "name": "D",
+          "content": "argues"
+        }
+      ],
+      "correct": "argue",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Recordings of electrical activity in the brain, ______ increased activity in brain areas associated with suppressing motor functions.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the most highly skilled soccer players responding to hypothetical match scenarios have electrograms that show"
+        },
+        {
+          "name": "B",
+          "content": "responses to hypothetical match scenarios show that the most highly skilled soccer player have electrograms with"
+        },
+        {
+          "name": "C",
+          "content": "electrograms show that while responding to hypothetical match scenarios, the most highly skilled soccer players have"
+        },
+        {
+          "name": "D",
+          "content": "hypothetical match scenario responses show that the most highly skilled soccer players captured in electrograms have"
+        }
+      ],
+      "correct": "electrograms show that while responding to hypothetical match scenarios, the most highly skilled soccer players have",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When ordering the branches of the Susitna River system, cartographers tend to begin with the riverway's lowest point, the Susitna River. ______ hydrologists begin at the top of the river system, with the Skwentna River and other tributaries fed by the riverway's source, Alaska's Susitna Glacier.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "in other words,"
+        },
+        {
+          "name": "C",
+          "content": "in a similar way,"
+        },
+        {
+          "name": "D",
+          "content": "By contrast,"
+        }
+      ],
+      "correct": "By contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Brigadier General Virgilio Cordero was a soldier in the United States 65th Infantry Regiment, a Puerto Rico-based regiment of the US Army. In 2016, the United States Congress honored Cordero and the other service people of the 65th Infantry Regiment with one of its highest ______ Congressional Gold Medal.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "honors; the"
+        },
+        {
+          "name": "B",
+          "content": "honors the"
+        },
+        {
+          "name": "C",
+          "content": "honors: the"
+        },
+        {
+          "name": "D",
+          "content": "honors (the"
+        }
+      ],
+      "correct": "honors: the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The city of Seoul, South Korea, is home to an office of the International Criminal Police Organization (Interpol). However, you won't see Interpol agents chasing international criminals in Seoul. Interpol can help with investigations, but only South Korean authorities ______ permitted to make arrests there.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "were"
+        },
+        {
+          "name": "B",
+          "content": "had been"
+        },
+        {
+          "name": "C",
+          "content": "are"
+        },
+        {
+          "name": "D",
+          "content": "were being"
+        }
+      ],
+      "correct": "are",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Bertie Marshall, a key figure in the history of steel band music in Trinidad and Tobago, made several innovations to the steel ______ wheels so the instrument could be easily transported during Carnival, a cover to protect the pans from the sun, and amplification so the sound of the pans could be better heard over large crowds and other instrumentation.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "drum,"
+        },
+        {
+          "name": "B",
+          "content": "drum;"
+        },
+        {
+          "name": "C",
+          "content": "drum"
+        },
+        {
+          "name": "D",
+          "content": "drum:"
+        }
+      ],
+      "correct": "drum:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Resins play several important roles in maintaining the health of conifers and many other kinds of trees. ______ resins quickly seal wounds, which helps prevent harmful insects and fungi from entering trees. These sticky substances also help trees retain water that is needed for them to survive.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Regardless,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Next,"
+        }
+      ],
+      "correct": "For example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Astronomers Annie and Edward Maunder meticulously studied historical records of dark areas on the sun's surface known as sunspots. Their work in the late 1800s led to the identification of a period from 1645 to 1715ânow known as the Maunder ______ sunspots were notably scarce, a phenomenon that solar physicists continue to investigate.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Minimum-when"
+        },
+        {
+          "name": "B",
+          "content": "Minimum: when"
+        },
+        {
+          "name": "C",
+          "content": "Minimum, when"
+        },
+        {
+          "name": "D",
+          "content": "Minimum when"
+        }
+      ],
+      "correct": "Minimum-when",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.</li><li>Before automation, lighthouses were run by lighthouse keepers.</li><li>Fannie May Salter was the lighthouse keeper at Turkey Point Light in Maryland.</li><li>She held this position for twenty-two years (1925-1947).</li><li>Ida Lewis was the lighthouse keeper at Lime Rock Light in Rhode Island.</li><li>She held this position for fifty-four years (1857-1911).</li></ul></blockquote>",
+      "question": "The student wants to compare the length of time Fannie May Salter and Ida Lewis worked as lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Fannie May Salter and Ida Lewis were both lighthouse keepers at a time when such a person was needed to operate a lighthouse."
+        },
+        {
+          "name": "B",
+          "content": "From 1925 to 1947, the nighttime waters of Maryland were more navigable thanks to lighthouse keepers Fannie May Salter and Ida Lewis."
+        },
+        {
+          "name": "C",
+          "content": "Fannie May Salter worked as a lighthouse keeper for twenty-two years, but Ida Lewis did so for even longer: fifty-four years."
+        },
+        {
+          "name": "D",
+          "content": "Before automation, lighthouse keepers like Fannie May Salter, who served for twenty-two years and Ida Lewis were crucial to ensuring safe navigation for watercraft."
+        }
+      ],
+      "correct": "Fannie May Salter worked as a lighthouse keeper for twenty-two years, but Ida Lewis did so for even longer: fifty-four years.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Bert terHart is a Canadian sailor.</li><li><em>Seaburban</em> is a sailboat.</li><li>terHart sailed <em>Seaburban</em> on a nonstop, 266-day journey around the world.</li><li>Jesse Martin is an Australian sailor.</li><li><em>Lionheart</em> is a sailboat.</li><li>Martin sailed <em>Lionheart</em> on a nonstop, 328-day journey around the world.</li></ul></blockquote>",
+      "question": "The student wants to compare the durations of the two sailors' journeys. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Both Martin and terHart embarked on sailing journeys around the world."
+        },
+        {
+          "name": "B",
+          "content": "Martin's journey took place aboard <em>Lionheart</em>, while terHart sailed on  <em>Seaburban</em>."
+        },
+        {
+          "name": "C",
+          "content": "Canadian sailor Bert terHart sailed <em>Seaburban</em> around the world in 266 days."
+        },
+        {
+          "name": "D",
+          "content": "Martin's 328-day journey around the world took longer than terHart's 266-day journey."
+        }
+      ],
+      "correct": "Martin's 328-day journey around the world took longer than terHart's 266-day journey.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The waved albatross is a species of bird found in the GalÃ¡pagos Islands.</li><li>It has an average weight of 3,800 grams.</li><li>The vegetarian finch is a species of bird found in the GalÃ¡pagos Islands.</li><li>It has an average weight of 34 grams.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two bird species. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On average, the waved albatross weighs 3,800 grams, while the vegetarian finch weighs only 34 grams."
+        },
+        {
+          "name": "B",
+          "content": "The vegetarian finch and the waved albatross can be found in the GalÃ¡pagos Islands."
+        },
+        {
+          "name": "C",
+          "content": "The waved albatross is a bird with an average weight of 3,800 grams."
+        },
+        {
+          "name": "D",
+          "content": "The vegetarian finch and the waved albatross are both bird species."
+        }
+      ],
+      "correct": "On average, the waved albatross weighs 3,800 grams, while the vegetarian finch weighs only 34 grams.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Usually, a country's capital is also its largest city by population.</li><li>The capital of Kazakhstan is Nur-Sultan.</li><li>Its largest city by population is Almaty.</li><li>The capital of New Zealand is Wellington.</li><li>Its largest city by population is Auckland.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between Almaty and Auckland. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While Almaty is in Kazakhstan, Auckland is in New Zealand."
+        },
+        {
+          "name": "B",
+          "content": "The capital of Kazakhstan is Nur-Sultan; the capital of New Zealand is Wellington."
+        },
+        {
+          "name": "C",
+          "content": "Although neither is a capital city, both Almaty and Auckland are the most populous cities in their countries."
+        },
+        {
+          "name": "D",
+          "content": "The most populous city in Kazakhstan is Almaty, but its capital is Nur-Sultan."
+        }
+      ],
+      "correct": "Although neither is a capital city, both Almaty and Auckland are the most populous cities in their countries.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The human tongue contains taste receptors for a rich, savory flavor called umami.</li><li>Umami is triggered by the compounds in a variety of foods, including tuna and blue cheese.</li><li>Participants in a study tasted a sample of sea palm, a type of brown seaweed.</li><li>They rated its umami intensity as moderate.</li><li>The participants tasted a sample of bull kelp, another type of brown seaweed.</li><li>They rated its umami intensity as high.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "After tasting two types of brown seaweed, sea palm and bull kelp, participants in a study found bull kelp's umami flavor to be the more intense of the two."
+        },
+        {
+          "name": "B",
+          "content": "While sea palm and bull kelp contain umami flavor, umami can also be found in tuna and blue cheese."
+        },
+        {
+          "name": "C",
+          "content": "Sea palm is a type of brown seaweed, but so is bull kelp."
+        },
+        {
+          "name": "D",
+          "content": "Some types of brown seaweed, like sea palm and bull kelp, trigger umami flavor in human taste buds."
+        }
+      ],
+      "correct": "After tasting two types of brown seaweed, sea palm and bull kelp, participants in a study found bull kelp's umami flavor to be the more intense of the two.",
+      "solution": ""
+    }
+  ]
+}

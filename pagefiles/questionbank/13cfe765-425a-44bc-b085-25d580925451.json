@@ -1,0 +1,682 @@
+{
+  "uuid": "13cfe765-425a-44bc-b085-25d580925451",
+  "chunk": "D8M8F9OZ.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Exposed to harsh environmental conditions for centuries, lighthouses such as La Jument lighthouse off the coast of Brittany, France, exemplify the ______ between marine structures and ocean forces: the continuous impact of breaking waves necessitates periodic reinforcements to or redesigns of the structures that in turn may alter local wave patterns.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "interplay"
+        },
+        {
+          "name": "B",
+          "content": "tension"
+        },
+        {
+          "name": "C",
+          "content": "incongruity"
+        },
+        {
+          "name": "D",
+          "content": "continuum"
+        }
+      ],
+      "correct": "interplay",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p> ______ the mythological and heroic subject matter often found in works by Horace Vernet and other establishment figures, HonorÃ© DaumierÊ¼s painting <i>The Third-Class Carriage</i> instead focuses on something decidedly mundane: working-class travelers in a third-class railway car.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Eschewing"
+        },
+        {
+          "name": "B",
+          "content": "Expounding"
+        },
+        {
+          "name": "C",
+          "content": "Caricaturing"
+        },
+        {
+          "name": "D",
+          "content": "Appraising"
+        }
+      ],
+      "correct": "Eschewing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though copies of <i>The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989â</i>an underground computer game that was created anonymously in 1989 as an act of political protest against the authoritarian regime of what was then Czechoslovakiaâwere originally distributed ______ , the game is now readily available online for anyone to play.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dispassionately"
+        },
+        {
+          "name": "B",
+          "content": "disingenuously"
+        },
+        {
+          "name": "C",
+          "content": "surreptitiously"
+        },
+        {
+          "name": "D",
+          "content": "succinctly"
+        }
+      ],
+      "correct": "surreptitiously",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In their study of caterpillars in fragmented forests (formerly contiguous forests that have been broken into isolated patches by roads or other interruptions), James Mickley et al. stress that although fragmentation inevitably ______ alterations to local ecological processes, the changes will likely have a greater impact on <i>Catocala ilia</i>, a specialist feeding on a limited number of plant species, than on a species like <i>Achatia distincta</i> that feeds on several.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "engenders"
+        },
+        {
+          "name": "B",
+          "content": "attenuates"
+        },
+        {
+          "name": "C",
+          "content": "preempts"
+        },
+        {
+          "name": "D",
+          "content": "subsumes"
+        }
+      ],
+      "correct": "engenders",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Establishing protected areas (PAs), such as the Mamanuca Islands in Fiji, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it's widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don't capture the indirect effects of tourism linked to PAs. But Hasita Bhammar et al. found that tourism associated with the Mamanuca Islands boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from retail in nearby areas.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains how PAs typically affect economic development in the regions where they are established, summarizes the findings of several economic studies that support this explanation, and then concedes that a particular PA is an exception to the general trend."
+        },
+        {
+          "name": "B",
+          "content": "It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief's prevalence, and then details a study whose findings seemingly conflict with that belief."
+        },
+        {
+          "name": "C",
+          "content": "It makes a generalization about the difficulty of using PAs to reconcile economic and conservation priorities, demonstrates why most PAs fall short of achieving that goal, and then holds up a particular PA as an example of how that goal can be achieved."
+        },
+        {
+          "name": "D",
+          "content": "It states a hypothesis that accounts for why PAs generally negatively impact local economies, outlines how a research team's findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion."
+        }
+      ],
+      "correct": "It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief's prevalence, and then details a study whose findings seemingly conflict with that belief.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Typically, synthetic leather is petroleum based, but materials scientists searching for an ecologically sustainable alternative have used various bacteria that secrete linear chains of glucose, forming a dense mesh of cellulose called a pellicle, which is leatherlike except in color. The standard process for dyeing leather generates substantial wastewater and other undesirable byproducts, so <u>adopting such a regimen would run counter to the ecological promise of the pellicle approach.</u> To address this, Kenneth T. Walker and colleagues worked to modify <i>Komagataeibacter rhaeticus</i> bacteria to produce a pellicle with embedded pigmentation cells, thereby allowing the pellicle to \"dye\" itself from the inside.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To illustrate how the researchers adapted the pellicle approach to overcome a potential impediment to their main goal as presented in the text."
+        },
+        {
+          "name": "B",
+          "content": "To concede that the researchers' main goal as described in the text will be challenging to achieve due to the standard coloring approach being impractical for use on a pellicle."
+        },
+        {
+          "name": "C",
+          "content": "To indicate the characteristic of conventional synthetic leathers that makes those leathers poorly suited to achieve the researchers' main goal as presented in the text."
+        },
+        {
+          "name": "D",
+          "content": "To describe a consideration that led the researchers to employ an alternative approach to coloring a pellicle that allowed them to achieve their main goal as presented in the text."
+        }
+      ],
+      "correct": "To describe a consideration that led the researchers to employ an alternative approach to coloring a pellicle that allowed them to achieve their main goal as presented in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><b>Text 1</b><br>Mooseberry (<i>Viburnum edule</i>) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (<i>Polygonum aviculare</i>) plants have established themselves in Alaska. Previous research conducted in non-boreal ecosystems has documented warming-induced increases in summer temperatures benefiting invasive species more than native species.</p><p><b>Text 2</b><br>At a site near Fairbanks, Alaska, Christa Mulder and Katie Spellman tracked <i>V. edule</i> and <i>P. aviculare</i>, along with other native and invasive species, over several years. They observed that although average summer temperatures were substantially higher in some years of the study than in others, neither <i>V. edule</i> nor <i>P. aviculare</i> showed any significant variation in summer growth patterns from year to year.</p>",
+      "question": "Which choice best describes the relationship between the two texts?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Text 2 explains a study that suggests an alternative explanation for the trend observed in the research discussed in Text 1."
+        },
+        {
+          "name": "B",
+          "content": "Text 2 describes a methodology that helps researchers avoid a problem encountered in the studies discussed in Text 1."
+        },
+        {
+          "name": "C",
+          "content": "Text 2 presents a finding that casts doubt on the generalizability of the research discussed in Text 1."
+        },
+        {
+          "name": "D",
+          "content": "Text 2 discusses an observation that challenges the validity of the findings described in Text 1."
+        }
+      ],
+      "correct": "Text 2 presents a finding that casts doubt on the generalizability of the research discussed in Text 1.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Optimal foraging theory (OFT) holds that animalsÊ¼ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which W.J. Cresswell and Stephen Harris found to be negatively associated with foraging by European badgers but Eduardo FernÃ¡ndez-Duque and colleagues found to be positively associated with foraging by AzaraÊ¼s night monkeys. This discrepancy is explicable in terms of OFT: the monkeysÊ¼ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the badgers.</p>",
+      "question": "Information in the text best supports which statement about AzaraÊ¼s night monkeys?",
+      "options": [
+        {
+          "name": "A",
+          "content": "If the monkeysÊ¼ foraging behavior under increased lunar intensity actually reflects a cost-benefit trade-off, their behavior should be more similar to that of European badgers than it is."
+        },
+        {
+          "name": "B",
+          "content": "If the advantages that the monkeys gain from increased lunar intensity explain the change in their foraging behavior, those advantages are likely shared by some other species that are not heavily reliant on vision."
+        },
+        {
+          "name": "C",
+          "content": "If increased lunar intensity imposed the same costs on the monkeys that it imposes on European badgers, there would be no association between lunar intensity and the monkeysÊ¼ foraging."
+        },
+        {
+          "name": "D",
+          "content": "If increased lunar intensity creates any disadvantages for the monkeys, those disadvantages are more than compensated for by the advantages that the monkeys gain."
+        }
+      ],
+      "correct": "If increased lunar intensity creates any disadvantages for the monkeys, those disadvantages are more than compensated for by the advantages that the monkeys gain.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\">Ranking of Environmental and Sociocultural Benefits of Urban Agriculture (scale of 1 to 25; 1 = highest)</p><div style=\"text-align:center;\"><img src=\"/images/7c4cd3238134f765ad73afb4c0bb19f7.png\" style=\"width: 700px; height: 224px;\"></div><div style=\"text-align:center;\"><img src=\"/images/c56c78f20ed5dc80bf9c554b1011537b.png\" style=\"width: 700px; height: 96px;\"></div><p>Esther SanyÃ©-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italyâleaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general publicâto compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The researchers used these ratings to rank the services for each group, with a ranking of 1 indicating that a group perceives that urban agriculture benefits that service the most. Using only the rankings shown in the table, a city planner in Bologna who is promoting a new urban agriculture project concludes that advertisements aimed at project leaders should emphasize the project's benefit to the enhancement of pollination.</p>",
+      "question": "Which choice best describes data in the table that support the city plannerÊ¼s conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The conservation of genetic variability was ranked lower for project leaders than it was for the general public."
+        },
+        {
+          "name": "B",
+          "content": "The enhancement of pollination was ranked higher for project leaders than it was for stakeholders."
+        },
+        {
+          "name": "C",
+          "content": "The enhancement of pollination was ranked higher for project leaders than were the other four services."
+        },
+        {
+          "name": "D",
+          "content": "The improvement of social cohesion was ranked higher for project leaders than was the enhancement of pollination."
+        }
+      ],
+      "correct": "The enhancement of pollination was ranked higher for project leaders than were the other four services.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\">Percentages of New YearÊ¼s Resolution Makers Who Make Certain Kinds of Resolutions</div><div style=\"text-align: center;\"><img src=\"/images/c5bed7ed8e508068743ee4f56477a8b0.png\" style=\"width: 700px; height: 158px; display: block; margin: 0 auto;\"><br><img src=\"/images/bcc10841ce942abcac741ed686af2cae.png\" style=\"width: 700px; height: 76px; display: block; margin: 0 auto;\"></div><p>A Pew Research Center survey conducted in January 2024 found that three out of ten US adults make at least one New YearÊ¼s resolution (a promise for the year ahead), while half of those who make a resolution make more than one. The survey asked participants what kinds of resolutions they made and separated them into several categories. The table presents percentages of people who make particular kinds of New YearÊ¼s resolutions among those who choose to make them, indexed by age bracket.</p>",
+      "question": "Which choice best presents a conclusion about the habits of New YearÊ¼s resolution makers that is best supported by information in the text and the table?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The majority of US adults who make resolutions related to health and exercise also make resolutions in multiple additional categories."
+        },
+        {
+          "name": "B",
+          "content": "Among all US adults, people become less likely to make New YearÊ¼s resolutions as they age, regardless of the type of resolution."
+        },
+        {
+          "name": "C",
+          "content": "Resolution makers between the ages of 18 and 29 are more likely to make resolutions about health and exercise than resolution makers between the ages of 30 and 49 are."
+        },
+        {
+          "name": "D",
+          "content": "Resolution makers between the ages of 50 and 64 are more likely to make resolutions related to personal relationships and less likely to make resolutions related to finances than resolution makers between the ages of 30 and 49 are."
+        }
+      ],
+      "correct": "Resolution makers between the ages of 50 and 64 are more likely to make resolutions related to personal relationships and less likely to make resolutions related to finances than resolution makers between the ages of 30 and 49 are.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Richard II</i> is a play from the 1590s by William Shakespeare. Although King Richard has been vanquished by his cousin Henry Bolingbroke, he intimates that he is not entirely ready to show subservience to his cousin, saying, ______</p>",
+      "question": "Which quotation from Richard II most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âAm I both priest and clerk? Well then, amen. / God save the King! although I be not he; / And yet, amen, if heaven do think him me.â"
+        },
+        {
+          "name": "B",
+          "content": "âI have no name, no title,â / No, not that name was given me at the font,â / But Ê¼tis usurpÊ¼d:â Alack the heavy day, / That I have worn so many winters out, / And know not now what name to call myself!â"
+        },
+        {
+          "name": "C",
+          "content": "âStill my griefs are mine. / You may my glories and my state depose, / But not my griefs; still am I king of those.â"
+        },
+        {
+          "name": "D",
+          "content": "âAlack, why am I sent for to a king, / Before I have shook off the regal thoughts / Wherewith I reignÊ¼d? I hardly yet have learnÊ¼d / To insinuate, flatter, bow, and bend my knee.â"
+        }
+      ],
+      "correct": "âAlack, why am I sent for to a king, / Before I have shook off the regal thoughts / Wherewith I reignÊ¼d? I hardly yet have learnÊ¼d / To insinuate, flatter, bow, and bend my knee.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scholars cite <i>Men of Maize</i>, the 1949 novel by Guatemalan author Miguel Ãngel Asturias, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devicesâoften borrowed from the spiritual and narrative traditions of Indigenous and colonial societies in the Americasâare deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors in the United States, including Susan Power, <u>whose 1994 novel <i>The Grass Dancer</i> resembles classic magical realist novels in its juxtaposition of literary realism with long-established cultural traditionsânamely, those of the Dakota people of the northern plains.</u></p>",
+      "question": "Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âThe cultural traditions of the Dakota people of the northern plains, which figure so prominently in the magical realist tradition of Latin America, permit realistic as well as antirealistic scenariosâmuch as <em>The Grass Dancer does</em>.â"
+        },
+        {
+          "name": "B",
+          "content": "âAlthough much of <em>The Grass Dancer</em> conforms to the conventions of realistic fiction, Susan Power also incorporates elements drawn from Dakota cultural traditions that transcend and expose the limitations of realism.â"
+        },
+        {
+          "name": "C",
+          "content": "âEven though <em>The Grass Dancer</em> alternates between realistic and antirealistic modes of representation, the influence of Dakota cultural traditions remains constant throughout the novel.â"
+        },
+        {
+          "name": "D",
+          "content": "âMuch of the interest of <em>The Grass Dancer</em> derives from the productive tension between its competing influencesânamely, Dakota cultural traditions and the magical realism of Latin America.â"
+        }
+      ],
+      "correct": "âAlthough much of <em>The Grass Dancer</em> conforms to the conventions of realistic fiction, Susan Power also incorporates elements drawn from Dakota cultural traditions that transcend and expose the limitations of realism.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While mammals collectively exhibit the highest ratio of brain size to body size among vertebrates, a team led by paleontologist Ornella Bertrand demonstrates that for ten million years following the extinction of dinosaurs, that ratio in fact shrank for mammals as they evolved to fill newly vacated ecological niches and their bodies increased in size more rapidly than their brains. Competition for resources tends to favor intelligence and thus large, complex brains, but during this period, the abundance of resources relative to mammalian population numbers likely moderated competition and facilitated an increase in body size. Bertrand and her team reason that as population numbers swelled, competition intensified, creating conditions that ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "favored an evolutionary increase in brain size relative to body size among mammals."
+        },
+        {
+          "name": "B",
+          "content": "restricted resources so drastically that mammals struggled to secure enough food to maintain large brain sizes."
+        },
+        {
+          "name": "C",
+          "content": "encouraged mammals with large brain sizes to adapt to a range of ecological niches."
+        },
+        {
+          "name": "D",
+          "content": "heightened the advantage that large body size conferred on mammals in certain ecological niches."
+        }
+      ],
+      "correct": "favored an evolutionary increase in brain size relative to body size among mammals.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As exemplified by Sakha songs about local ecosystems and Kaluli songs about rainforest sounds, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla Wathl'thla, a song keeper for the Kwakwaka'wakw people in Canada, collaborated with ethnobiologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressureâa finding that demonstrates that ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the clams harvested from intertidal terraces by Kwakwaka'wakw people in the past likely were a different species than the clams found in those areas today."
+        },
+        {
+          "name": "B",
+          "content": "if each ecotype is indeed locally adapted as the researchers hypothesized, those adaptations are to other environmental conditions than the water each ecotype inhabits."
+        },
+        {
+          "name": "C",
+          "content": "while the ecotypes are genetically and geographically distinct, those differences do not represent adaptations to local environmental conditions."
+        },
+        {
+          "name": "D",
+          "content": "although the researchersÊ¼ hypothesis does not appear to be supported, this may be because the levels of zinc exposure the plants in the experiment received did not match their exposure in their natural environments."
+        }
+      ],
+      "correct": "if each ecotype is indeed locally adapted as the researchers hypothesized, those adaptations are to other environmental conditions than the water each ecotype inhabits.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Enacted in 1991, LatviaÊ¼s 4,917-word constitution, in contrast to ChileÊ¼s, which was enacted in 1980 and contains a far greater number (25,821) of words, ______ as the 4th shortest in the world. Such data are studied by constitutional scholars like Dominic J. Nardi, who can use them to draw broader conclusions.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ranks"
+        },
+        {
+          "name": "B",
+          "content": "have ranked"
+        },
+        {
+          "name": "C",
+          "content": "rank"
+        },
+        {
+          "name": "D",
+          "content": "are ranking"
+        }
+      ],
+      "correct": "ranks",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Astronomers Annie and Edward Maunder meticulously studied historical records of dark areas on the sunÊ¼s surface known as sunspots. Their work in the late 1800s led to the identification of a period from 1645 to 1715ânow known as the Maunder ______ sunspots were notably scarce, a phenomenon that solar physicists continue to investigate.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Minimumâwhen"
+        },
+        {
+          "name": "B",
+          "content": "Minimum when"
+        },
+        {
+          "name": "C",
+          "content": "Minimum: when"
+        },
+        {
+          "name": "D",
+          "content": "Minimum, when"
+        }
+      ],
+      "correct": "Minimumâwhen",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To British musician Jacob Collier, substituting the II chord for the bvii chordâits opposite in pitch and toneâadds expression to improvisation without creating dissonance. This conceptualization of harmonic opposites did not originate with ______ in 1985, the idea was first articulated in Swiss musicologist Ernst Levyâs posthumously published book <i>A Theory of Harmony</i>.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Collier, though"
+        },
+        {
+          "name": "B",
+          "content": "Collier, though;"
+        },
+        {
+          "name": "C",
+          "content": "Collier, though,"
+        },
+        {
+          "name": "D",
+          "content": "Collier; though,"
+        }
+      ],
+      "correct": "Collier, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The statement âall tarantulas are venomousâ is scientific because it could be proved false by a single observation to the contrary, according to Karl Popper. Popper's theory ______ that scientific hypotheses must be refutable, termed the criterion of falsifiability, rejects the confirmationist position that uses verifiability as the standard for scientific hypotheses.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dictated"
+        },
+        {
+          "name": "B",
+          "content": "was dictating"
+        },
+        {
+          "name": "C",
+          "content": "dictating"
+        },
+        {
+          "name": "D",
+          "content": "dictates"
+        }
+      ],
+      "correct": "dictating",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Novelist and playwright Mary Russell Mitford joined with 55 other prominent British writers in 1837 to petition the US Congress for greater copyright protections. This cadre of renowned ______ that American publishersÊ¼ appropriation of their work caused, in the words of the petition, âdeep and extensive injuries...on their reputation and property,â helped sow the seeds for the International Copyright Act of 1891.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "authors asserted"
+        },
+        {
+          "name": "B",
+          "content": "authors, asserting"
+        },
+        {
+          "name": "C",
+          "content": "authors, had asserted"
+        },
+        {
+          "name": "D",
+          "content": "authors were asserting"
+        }
+      ],
+      "correct": "authors, asserting",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Provolone Valpadana from Trentino-Alto Adige and Ragusano from Sicily, are highly valued for their regional authenticity; ______ they are prized for being made using local ingredients and methods typical of their respective geographic regions.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "that is,"
+        },
+        {
+          "name": "B",
+          "content": "still,"
+        },
+        {
+          "name": "C",
+          "content": "rather,"
+        },
+        {
+          "name": "D",
+          "content": "then,"
+        }
+      ],
+      "correct": "that is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The early Australian railroad system of the 1800s was famously uncoordinated. Trains on the broad gauge Victorian Goldfields Railway line in Victoria couldn't travel on the Hotham Valley Railway in Western Australia, which used narrow gauge tracks, without performing time-consuming conversions. ______ historians refer to this complicated system as the âmixed gauge muddle.â</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Rather,"
+        },
+        {
+          "name": "B",
+          "content": "Hence,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Likewise,"
+        }
+      ],
+      "correct": "Hence,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When ordering the branches of the Yukon River system, cartographers tend to begin with the riverwayÊ¼s lowest point, the Yukon River. ______ hydrologists begin at the top of the river system, with the Iditarod River and other tributaries fed by the riverwayÊ¼s source, AlaskaÊ¼s Llewellyn Glacier.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In a similar way,"
+        },
+        {
+          "name": "B",
+          "content": "By contrast,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "By contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Charles Demuthâs 1931 painting <i>Chimney and Water Tower</i> is a classic Precisionist work. The Precisionists strove for cold, machine-like perfection, with crisp lines, geometric shapes, and smooth, brushstroke-free surfaces. ______ Precisionist works often feature skyscrapers, bridges, and factories, highlighting these angular structuresâ engineered symmetry.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "That said,"
+        },
+        {
+          "name": "C",
+          "content": "Accordingly,"
+        },
+        {
+          "name": "D",
+          "content": "In the end,"
+        }
+      ],
+      "correct": "Accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the same. Ischia in Italy, for example, is a complex volcano, a mixed landform consisting of related volcanic centers and their associated lava flows and pyroclastic rock. Mount Vsevidof in Alaska, ______ is a stratovolcano, a conical volcano built up by many layers of hardened lava and tephra.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in any case,"
+        },
+        {
+          "name": "B",
+          "content": "in contrast,"
+        },
+        {
+          "name": "C",
+          "content": "in fact,"
+        },
+        {
+          "name": "D",
+          "content": "in conclusion,"
+        }
+      ],
+      "correct": "in contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>1914: British explorer Ernest Shackleton and a small crew embarked on an expedition to Antarctica.</li><li>1915: ShackletonÊ¼s ship <em>Endurance</em> became stuck in ice before eventually breaking apart and sinking.</li><li>1916: After more harrowing sea-ice adventures, the entire crew was rescued.</li><li>1959: Historian Alfred Lansing wrote a book called <em>Endurance: ShackletonÊ¼s Incredible Voyage</em>.</li><li>1959: Historian Alfred Lansing wrote a book called <em>Endurance: ShackletonÊ¼s Incredible Voyage</em>.</li><li>2001: Filmmaker George Butler released a documentary called <em>The Endurance: ShackletonÊ¼s Legendary Antarctic Expedition</em>.</li><li>2022: The wreckage of <em>Endurance</em> was discovered at the bottom of AntarcticaÊ¼s Weddell Sea.</li></ul></blockquote>",
+      "question": "The student wants to provide a historical overview of the Shackleton expedition. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Alfred Lansing wrote about the history of ShackletonÊ¼s 1914â16 expedition in the book <em>Endurance: ShackletonÊ¼s Incredible Voyage</em> (1959); years later, in 2001, George Butler released a documentary about the expedition."
+        },
+        {
+          "name": "B",
+          "content": "In 1914, the Shackleton expedition sailed to Antarctica, where, in 1916, they rescued the crew of a ship that had sunk, <em>Endurance</em> (the wreckage of which was discovered in 2022)."
+        },
+        {
+          "name": "C",
+          "content": "Leaving in 1914 for Antarctica, Shackleton and his crew underwent many harrowing sea-ice adventures, including losing their ship in 1915, before being rescued in 1916."
+        },
+        {
+          "name": "D",
+          "content": "ShackletonÊ¼s expedition has inspired a 1959 book, a 2001 film, and a 2022 discovery."
+        }
+      ],
+      "correct": "Leaving in 1914 for Antarctica, Shackleton and his crew underwent many harrowing sea-ice adventures, including losing their ship in 1915, before being rescued in 1916.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Louis Ballard was a classical composer and citizen of the Quapaw Tribe.</li><li>BallardÊ¼s composition <em>Desert Trilogy</em> was nominated for the Pulitzer Prize in music in 1971.</li><li>His composition <em>CacÃ©ga AyuwÃ­pi</em> incorporates Hopi notched sticks, a traditional Native instrument.</li><li>Ethnomusicologist Tara Browner claims that BallardÊ¼s compositions rely on elements originating within Native musical traditions.</li></ul></blockquote>",
+      "question": "The student wants to support BrownerÊ¼s claim about Louis BallardÊ¼s compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Classical composer Louis Ballard, who wrote <em>CacÃ©ga AyuwÃ­pi</em>, was nominated for the Pulitzer Prize in music in 1971."
+        },
+        {
+          "name": "B",
+          "content": "Browner claims that Louis BallardÊ¼s compositions, one of which was nominated for the Pulitzer Prize, rely on elements originating within Native musical traditions."
+        },
+        {
+          "name": "C",
+          "content": "According to Browner, composer Louis Ballard, who wrote <em>Desert Trilogy</em>, relies on elements with origins in Native musical traditions."
+        },
+        {
+          "name": "D",
+          "content": "Browner posits that Louis BallardÊ¼s compositions rely on elements originating within Native musical traditions; <em>CacÃ©ga AyuwÃ­pi</em> affirms this assertion, incorporating Hopi notched sticks."
+        }
+      ],
+      "correct": "Browner posits that Louis BallardÊ¼s compositions rely on elements originating within Native musical traditions; <em>CacÃ©ga AyuwÃ­pi</em> affirms this assertion, incorporating Hopi notched sticks.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The farm-size transition hypothesis predicts that economic pressures associated with modernization result in smaller farms amalgamating into larger-scale commercial farms.</li><li>Masters et al. (2013): The average farm size in Asia âalready has or will soon begin to rise.â</li><li>Promkhambut et al. (2023) argue that small rice farms in Thailand have adopted modern farming methods without a significant scaling-up of farm size.</li><li>Promkhambut et al.: âThe persistence of [small] rice farms [in Thailand] does not represent a âfailureÊ¼ to modernize...or a âtruncatedÊ¼ transitionâit is a <i>response</i> to modernization.â</li></ul></blockquote>",
+      "question": "The student wants to make and support a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although the farm-size transition hypothesis may be applicable to some countries in Asia, it is inconsistent with the development of rice farming in Thailand."
+        },
+        {
+          "name": "B",
+          "content": "Taken together, the studies by Masters et al. and Promkhambut et al. suggest that rice farms in Thailand have responded to the economic pressures associated with modernization by expanding in size."
+        },
+        {
+          "name": "C",
+          "content": "Masters et al. report that the average farm size âalready has or will soon begin to riseâ in Asia, a finding that is consistent with the farm-size transition hypothesis."
+        },
+        {
+          "name": "D",
+          "content": "The predicted shift to large-scale commercial farming may not hold true for rice farms in Thailand, where, according to Promkhambut et al., rice farms have remained small as theyÊ¼ve modernized."
+        }
+      ],
+      "correct": "The predicted shift to large-scale commercial farming may not hold true for rice farms in Thailand, where, according to Promkhambut et al., rice farms have remained small as theyÊ¼ve modernized.",
+      "solution": ""
+    }
+  ]
+}

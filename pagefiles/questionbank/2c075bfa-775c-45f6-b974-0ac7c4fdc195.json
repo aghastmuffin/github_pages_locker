@@ -1,0 +1,682 @@
+{
+  "uuid": "2c075bfa-775c-45f6-b974-0ac7c4fdc195",
+  "chunk": "CA7oVkMb.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the Kocatepe Mosque, which incorporates elements from the Neoclassical Ottoman and modern styles, will also include several of these standard features.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "an unprecedented"
+        },
+        {
+          "name": "B",
+          "content": "an embellished"
+        },
+        {
+          "name": "C",
+          "content": "an imposing"
+        },
+        {
+          "name": "D",
+          "content": "a quintessential"
+        }
+      ],
+      "correct": "a quintessential",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Willa Cather's 1912 novel <i>Alexander's Bridge</i>.</p><blockquote style=\"margin-left: 40px;\">For the next few days Alexander was very busy. He took a desk in the office of a [Scottish] engineering firm on Henrietta Street, and was at work almost <u>constantly</u>. He avoided the clubs and usually dined alone at his hotel.</blockquote>",
+      "question": "As used in the text, what does the word \"constantly\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "imperceptibly"
+        },
+        {
+          "name": "B",
+          "content": "Fearfully"
+        },
+        {
+          "name": "C",
+          "content": "Continuously"
+        },
+        {
+          "name": "D",
+          "content": "Hastily"
+        }
+      ],
+      "correct": "Continuously",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Siemowit is said to have ruled what eventually became Poland in the 9th century. Unlike that of Bezprym or other well-attested figures from early Polish history, Siemowit's existence has been the subject of debate, as our knowledge of him is ______ somewhat dubious oral traditions first written down hundreds of years after the events they describe.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "unsupported by"
+        },
+        {
+          "name": "B",
+          "content": "independent of"
+        },
+        {
+          "name": "C",
+          "content": "derived from"
+        },
+        {
+          "name": "D",
+          "content": "reminiscent of"
+        }
+      ],
+      "correct": "derived from",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Parapuzosia seppenradensis</i>, known to have lived in what is now Mexico, and <i>Parapuzosia leptophylla</i>, known to have lived in what is now England, were both ammonites, but <i>P. seppenradensis</i> was much larger than <i>P. leptophylla</i>. Recent research by Christina Ifrim, Nils Schorndorf, and colleagues has suggested that this ______ resulted from the unique predator threat faced by each species.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "disparity"
+        },
+        {
+          "name": "B",
+          "content": "enmity"
+        },
+        {
+          "name": "C",
+          "content": "anomaly"
+        },
+        {
+          "name": "D",
+          "content": "ambiguity"
+        }
+      ],
+      "correct": "disparity",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In their study of fossils of the extinct arthropod <i>Mollisonia symmetrica</i>, Javier Ortega-HernÃ¡ndez, Sarah Losso and team reported some obvious indications of <i>M. symmetrica</i>'s nervous systemâfor example, the animal's primary nerve cord. They also saw signs of what might be a synganglion, a brain-like mass of nerve tissue, in the animal's head. <u>This evidence is exciting because it could help us better understand how <i>M. symmetrica</i> is related to other arthropods, such as cave crickets and krill.</u></p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It indicates that the team's claims about the <i>M. symmetrica</i> fossils are incorrect."
+        },
+        {
+          "name": "B",
+          "content": "It gives the definition of the term \"synganglion\" used earlier in the text."
+        },
+        {
+          "name": "C",
+          "content": "It explains why the team's finding of a possible synganglion is exciting."
+        },
+        {
+          "name": "D",
+          "content": "It states that krill are arthropods but cave crickets are not."
+        }
+      ],
+      "correct": "It explains why the team's finding of a possible synganglion is exciting.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>High-speed rail systems, in which trains can move at great speeds, are expanding in many countries because high-speed rail can reduce the number of automobiles on the road and ultimately conserve energy. In Morocco, for instance, 186 kilometers of high-speed rail lines are in operation as of 2023, and 1,287 kilometers are under construction.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The text notes a general trend and then cites an example of that trend."
+        },
+        {
+          "name": "B",
+          "content": "The text summarizes an argument and then offers a challenge to that argument."
+        },
+        {
+          "name": "C",
+          "content": "The text questions a course of action and then suggests alternatives to that action."
+        },
+        {
+          "name": "D",
+          "content": "The text rejects a long-held belief and then proposes a different interpretation."
+        }
+      ],
+      "correct": "The text notes a general trend and then cites an example of that trend.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A microgenre is a specialized genre consisting of a comparatively small number of stylistically similar artists. The microgenre of electronic music known as hyper pop emerged in the 2010s, with American musician Laura Les as an early exponent. Her combination of dense synthesizer arrangements and metallic percussion with vocals electronically shifted in pitch above her natural range exemplifies the hyper pop sound. <u>More recently, British recording artist Charli XCX has contributed to that sound by incorporating pop melodies into it.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It asserts that the hyper pop sound hasn't changed, even though new artists have adopted it."
+        },
+        {
+          "name": "B",
+          "content": "It criticizes a later hyper pop artist for being too similar to an earlier hyper pop artist."
+        },
+        {
+          "name": "C",
+          "content": "It praises a particular hyper pop artist for consistently evolving through the years."
+        },
+        {
+          "name": "D",
+          "content": "It identifies an artist who has contributed a new stylistic element to the hyper pop sound."
+        }
+      ],
+      "correct": "It identifies an artist who has contributed a new stylistic element to the hyper pop sound.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Women like Minnie McNeal Kenny made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Kenny worked for the National Security Agency (NSA) and received the NSA's two highest awards. She also held administrative positions at the National Cryptologic School. In this way, Kenny and others like her helped make it possible for more womenâsuch as Anna Lysyanskaya, who currently works in and teaches digital cryptographyâto enter the field of cryptology.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Women such as Minnie McNeal Kenny and Anna Lysyanskaya have contributed to the field of cryptology."
+        },
+        {
+          "name": "B",
+          "content": "Cryptology is a field that focuses primarily on securely managing data."
+        },
+        {
+          "name": "C",
+          "content": "Minnie McNeal Kenny and Anna Lysyanskaya worked together on an important project in the field of cryptology."
+        },
+        {
+          "name": "D",
+          "content": "Cryptology should be taught more often in schools to encourage more women to enter the field."
+        }
+      ],
+      "correct": "Women such as Minnie McNeal Kenny and Anna Lysyanskaya have contributed to the field of cryptology.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Tokyo has high pedestrian traffic, but other cities cannot increase their pedestrian traffic simply by replicating a single feature of Tokyoâe.g., <u>its high population density</u>âthat is associated with walkability. As urbanist Mariela Alfonzo argues, many factors influence people's decision-making about whether to walk: some studies have shown the importance of personal preference, others have shown the importance of perceived safety, and so on, and it is clear that none of these factors in isolation fully explains pedestrian habits in a given city.</p>",
+      "question": "Based on the text, the author would most likely agree with which statement about Tokyo's \"high population density\"?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It may increase walk ability in Tokyo but is known to reduce walk ability in other cities."
+        },
+        {
+          "name": "B",
+          "content": "It should be understood as just one of several factors that influence pedestrian activity in Tokyo."
+        },
+        {
+          "name": "C",
+          "content": "It affects walking decisions in Tokyo less than personal preference and perceived safety do."
+        },
+        {
+          "name": "D",
+          "content": "It is better understood as an effect of the high level of pedestrian traffic in Tokyo than as a cause of that pedestrian traffic."
+        }
+      ],
+      "correct": "It should be understood as just one of several factors that influence pedestrian activity in Tokyo.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Meredith E. Protas and colleagues have explored how convergent evolutionâa phenomenon that occurs when the same trait evolves independently in two reproductively separate lineagesâcan result from a genetic mechanism shared by both lineages. Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.</p>",
+      "question": "According to the text, what did Protas and colleagues focus on in their study?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Convergent traits arising from different genetic mechanisms"
+        },
+        {
+          "name": "B",
+          "content": "Convergent traits arising from a shared genetic mechanism"
+        },
+        {
+          "name": "C",
+          "content": "The convergence of traits in lineages that are not reproductively separate"
+        },
+        {
+          "name": "D",
+          "content": "The relative prevalence of convergent traits emerging through shared and different genetic mechanisms"
+        }
+      ],
+      "correct": "Convergent traits arising from a shared genetic mechanism",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\">Examples of Hoards found in Ireland and Northern Ireland</p><div style=\"text-align:center;\"><table style=\"margin-left:auto; margin-right:auto; border-collapse:collapse;\"><thead><tr><th style=\"border:1px solid #000; text-align:center;\">Hoard name</th><th style=\"border:1px solid #000; text-align:center;\">Date of contents</th><th style=\"border:1px solid #000; text-align:center;\">Year of discovery</th><th style=\"border:1px solid #000; text-align:center;\">Description</th></tr></thead><tbody><tr><td style=\"border:1px solid #000; text-align:center;\">Broighter Hoard</td><td style=\"border:1px solid #000; text-align:center;\">1st century BCE</td><td style=\"border:1px solid #000; text-align:center;\">1896</td><td style=\"border:1px solid #000; text-align:center;\">gold pieces</td></tr><tr><td style=\"border:1px solid #000; text-align:center;\">Balline Hoard</td><td style=\"border:1px solid #000; text-align:center;\">4th century CE</td><td style=\"border:1px solid #000; text-align:center;\">1940</td><td style=\"border:1px solid #000; text-align:center;\">silver pieces</td></tr><tr><td style=\"border:1px solid #000; text-align:center;\">Dooyork Hoard</td><td style=\"border:1px solid #000; text-align:center;\">3rd century BCE-2nd century CE</td><td style=\"border:1px solid #000; text-align:center;\">2001</td><td style=\"border:1px solid #000; text-align:center;\">gold, bronze, and beads</td></tr></tbody></table></div><p>Deposits of valuable objects, or hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Some of these hoards were discovered before 2000; for example, ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the Balline Hoard and the Dooyork Hoard were both discovered in the 2000s."
+        },
+        {
+          "name": "B",
+          "content": "the Broighter Hoard was one of several hoards discovered in the 1800s."
+        },
+        {
+          "name": "C",
+          "content": "the Dooyork Hoard was discovered in 1940, and the Balline Hoard was discovered in 2001."
+        },
+        {
+          "name": "D",
+          "content": "the Broighter Hoard was discovered in 1896, and the Balline Hoard was discovered in 1940."
+        }
+      ],
+      "correct": "the Broighter Hoard was discovered in 1896, and the Balline Hoard was discovered in 1940.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Wonderful Wizard of Oz</i> is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle's house in Kansas is remote and solitary, writing that ______</p>",
+      "question": "Which quotation from <i>The Wonderful Wizard of Oz</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in Kansas, \"When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side, not a tree nor a house broke the broad sweep of flat country.\""
+        },
+        {
+          "name": "B",
+          "content": "in Kansas, \"Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else.\""
+        },
+        {
+          "name": "C",
+          "content": "in Oz, \"Dorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have her little girl at home again.\""
+        },
+        {
+          "name": "D",
+          "content": "in Oz, \"[Dorothy and her companions] walked along listening to the singing of the brightly colored birds and looking at the lovely flowers which now became so thick that the ground was carpeted with them.\""
+        }
+      ],
+      "correct": "in Kansas, \"When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side, not a tree nor a house broke the broad sweep of flat country.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Nautilids are marine mollusks that begin growing their shells before emerging from their eggs and continue to add shell segments throughout their lifetimes. The walls between their shells' chambers are called septa, and the concentration of the isotope oxygen-18 they contain exactly reflects the isotope's concentration in the water at the depth at which the septa formed. Paleontologist Amane Tajika and colleagues examined each of the septa in two nautilid shells; finding that sample F13 had a higher concentration of the isotope than sample M03 did, the researchers concluded that F13 must have formed at a significantly lower temperature than M03 did.</p>",
+      "question": "Which finding, if true, would most directly support the researchers' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As the concentration of oxygen-18 in water decreases, water temperature decreases and nautilid shell growth slows."
+        },
+        {
+          "name": "B",
+          "content": "As water depth increases, both the concentration of oxygen-18 and the water temperature decrease."
+        },
+        {
+          "name": "C",
+          "content": "As water depth increases, the concentration of oxygen-18 increases and water temperature decreases."
+        },
+        {
+          "name": "D",
+          "content": "As water temperature increases, nautilids are able to concentrate more oxygen-18 into their shells."
+        }
+      ],
+      "correct": "As water depth increases, the concentration of oxygen-18 increases and water temperature decreases.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Studies have demonstrated that positive feedback enhances real-world exercise performance and exercisers' psychological experience of physical activity. Nicole Trewick and team tested their prediction that positive feedback would produce analogous results among participants cycling on a stationary bike in a virtual reality environment. After monitoring participants' pedaling rate and heart rate to determine the effects on their physical endurance (e.g., their ability to sustain a certain target pedaling and heart rate) of feedback (positive, negative, or neutral) delivered at regular intervals, the researchers used participants' questionnaire responses to assess their psychological experience of the task.</p>",
+      "question": "Assuming participants had similar baseline fitness levels, which finding from the study, if true, would most strongly suggest that positive feedback had the predicted psychological effect but not the predicted physical effect?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Compared with participants who received negative or neutral feedback, participants who received positive feedback reported greater enjoyment of the activity on average but maintained their heart and pedaling rates for approximately similar durations."
+        },
+        {
+          "name": "B",
+          "content": "Compared with participants who received positive or neutral feedback, participants who received negative feedback reported lower enjoyment of the activity on average but maintained their heart and pedaling rates for longer durations."
+        },
+        {
+          "name": "C",
+          "content": "Compared with participants who received negative feedback, participants who received neutral feedback reported similar levels of enjoyment of the activity on average but maintained their heart and pedaling rates for shorter durations than participants who received positive feedback."
+        },
+        {
+          "name": "D",
+          "content": "Compared with participants who received positive feedback, participants who received neutral feedback reported lower enjoyment of the activity on average but maintained their heart and pedaling rates for longer durations than participants who received negative feedback."
+        }
+      ],
+      "correct": "Compared with participants who received negative or neutral feedback, participants who received positive feedback reported greater enjoyment of the activity on average but maintained their heart and pedaling rates for approximately similar durations.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Blue holesâlarge marine sinkholes, like Watling's Blue Hole near San Salvador Islandâcan be hundreds of meters deep and are sometimes part of widespread subterranean networks of passageways. In 2021, researchers conducted the first formal study of the Taam ja' Blue Hole (TJBH), located in a bay of fresh water and salt water on Mexico's coast, and reported a maximum depth of 274 meters. Oscar F. Reyes-Mendoza and colleagues later reinvestigated the depth of the TJBH, determining that it exceeded 400 meters; additionally, they detected variations in characteristics across water layers. Layers more than 400 meters deep began to show density and salinity conditions akin to those of the nearby Caribbean Sea. Reyes-Mendoza and colleagues therefore suggest that ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "there may be tunnels and caves that connect the TJBH and the waters of the Caribbean deep underground"
+        },
+        {
+          "name": "B",
+          "content": "in the TJBH, there are greater differences between water layers less than 275 meters deep than there are between water layers greater than 400 meters deep"
+        },
+        {
+          "name": "C",
+          "content": "researchers should reevaluate existing measurements of the depths of Watling's Blue Hole and other blue holes where the conditions in very deep waters are similar to those of waters in open seas"
+        },
+        {
+          "name": "D",
+          "content": "the apparent relationship between depth and salinity level in the TJBH is the inverse of that found in the Caribbean Sea"
+        }
+      ],
+      "correct": "there may be tunnels and caves that connect the TJBH and the waters of the Caribbean deep underground",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When attempting to determine a fault's seismic history, geophysicists like Dr. Estella Atekwana at the University of Delaware rely in part on data about the fault's physical dimensions and geological features. For example, data from the US Geological Survey show the ______ and most recent deformation (less than 130 thousand years ago) of the Kawich Range fault in Nye County, Nevada.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "length (30 km), slip rate (less than 0.2 mm/yr),"
+        },
+        {
+          "name": "B",
+          "content": "length, (30 km); slip rate, (less than 0.2 mm/yr);"
+        },
+        {
+          "name": "C",
+          "content": "length, (30 km), slip rate, (less than 0.2 mm/yr),"
+        },
+        {
+          "name": "D",
+          "content": "length (30 km) slip rate (less than 0.2 mm/yr)"
+        }
+      ],
+      "correct": "length (30 km), slip rate (less than 0.2 mm/yr),",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Jane Austen's <i>Northanger Abbey</i> (1818) is considered a satire of another novel popular at the time: Ann Radcliffe's <i>The Mysteries of Udolpho</i> (1794), which Austen's heroine, Catherine Morland, is depicted reading. However, the similarity of the ______ experiencesâthe predicaments of both Catherine and Radcliffe's Emily St. Aubert result from men's greedâsuggests that underlying the satire is a social critique.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "novelsâ protagonists"
+        },
+        {
+          "name": "B",
+          "content": "novelsâ protagonistsâ"
+        },
+        {
+          "name": "C",
+          "content": "novel's protagonist's"
+        },
+        {
+          "name": "D",
+          "content": "novel's protagonistsâ"
+        }
+      ],
+      "correct": "novelsâ protagonistsâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The foxtail pine (<i>Pinus balfouriana</i>) known as RCR 1, located in the United States, is one of the oldest known trees in the world, at 1,666 years old. With almost two millennia of climate data in its tree ______ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rings and a"
+        },
+        {
+          "name": "B",
+          "content": "rings, a"
+        },
+        {
+          "name": "C",
+          "content": "rings. A"
+        },
+        {
+          "name": "D",
+          "content": "rings; a"
+        }
+      ],
+      "correct": "rings, a",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When the electrons of a chemical element change energy states, they release certain wavelengths of light that are unique to that element. This means that the emission of light with a wavelength of 516.7 nanometers (nm), which falls in the 500-570 nm range defining the green portion of the visible spectrum, ______ the element iron as the source of the light.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "identifying"
+        },
+        {
+          "name": "B",
+          "content": "identifies"
+        },
+        {
+          "name": "C",
+          "content": "to identify"
+        },
+        {
+          "name": "D",
+          "content": "having identified"
+        }
+      ],
+      "correct": "identifies",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As the exoplanet 8l Ceti b orbits a star 330 light-years from Earth, the gas giant's gravity causes the star to wobble. In 2008, astronomers observing the wobbleâindicated by red shifts and blue shifts in the star's spectral wavelengthsâeventually attributed ______ to the gravitational influence of the previously undetected exoplanet.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "them"
+        },
+        {
+          "name": "B",
+          "content": "it"
+        },
+        {
+          "name": "C",
+          "content": "these"
+        },
+        {
+          "name": "D",
+          "content": "each"
+        }
+      ],
+      "correct": "it",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Their Last Ride</i> was first released in 2022. This short ______ is about the environmental issues affecting wild and domestic horses, was directed by Cherokee filmmaker Neta Rhyne.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "documentary"
+        },
+        {
+          "name": "B",
+          "content": "documentary which"
+        },
+        {
+          "name": "C",
+          "content": "Documentary,"
+        },
+        {
+          "name": "D",
+          "content": "documentary, which"
+        }
+      ],
+      "correct": "documentary, which",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In September 1862, John Francis joined the US Army. He went on to serve in the 2nd Louisiana Infantry during the US Civil War and, ______ earned a place in US history as one of the war's few Chinese-born American soldiers.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in doing so,"
+        },
+        {
+          "name": "B",
+          "content": "for instance,"
+        },
+        {
+          "name": "C",
+          "content": "in any case,"
+        },
+        {
+          "name": "D",
+          "content": "usually,"
+        }
+      ],
+      "correct": "in doing so,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Qatar, in 2022. The event, which is held every four years, used to be much smaller and more limited geographically. ______ the 1950 World Cup in Brazil included only 13 teams, all from Europe and the Americas.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "However,"
+        },
+        {
+          "name": "C",
+          "content": "At last,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "For example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a given rock formation, Fortunian rock from 538 million years ago might directly abut Rhaetian rock from 208.5 million years ago, with millions of years of material missing in between. ______ time did not stand still during these intervening years; the unaccounted-for sedimentary material was likely removed from the stratigraphic record via erosion and weathering.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On the contrary,"
+        },
+        {
+          "name": "B",
+          "content": "Of course,"
+        },
+        {
+          "name": "C",
+          "content": "As a result,"
+        },
+        {
+          "name": "D",
+          "content": "In particular,"
+        }
+      ],
+      "correct": "Of course,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Madeira River is in South America.</li><li>It ranks No. 21 among the longest rivers in the world.</li><li>It is 3,380 kilometers long.</li><li>The Amur River is in Asia.</li><li>It ranks No. 10 among the longest rivers in the world.</li><li>It is 4,444 kilometers long.</li></ul></blockquote>",
+      "question": "The student wants to compare the lengths of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Madeira River in South America is 3,380 kilometers long."
+        },
+        {
+          "name": "B",
+          "content": "The Amur River is in Asia, whereas the Madeira River is located in South America."
+        },
+        {
+          "name": "C",
+          "content": "Among the longest rivers in the world, the Amur River is ranked No. 10."
+        },
+        {
+          "name": "D",
+          "content": "The Madeira River is shorter than the Amur River."
+        }
+      ],
+      "correct": "The Madeira River is shorter than the Amur River.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).</li><li>The ACM gives the award for \"major contributions of lasting importance to computing.\"</li><li>It is named after groundbreaking British mathematician Alan Turing.</li><li>Judea Pearl won the award in 2011.</li></ul></blockquote>",
+      "question": "The student wants to explain whom the award is named for and identify one recipient of it. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The A.M. Turing Award is given for \"major contributions of lasting importance to computing.\""
+        },
+        {
+          "name": "B",
+          "content": "The A.M. Turing Award, which is named for British mathematician Alan Turing, was given to Judea Pearl in 2011."
+        },
+        {
+          "name": "C",
+          "content": "In 2011, Judea Pearl won the A.M. Turing Award, which is given for \"major contributions of lasting importance to computing.\""
+        },
+        {
+          "name": "D",
+          "content": "It was in 2011 that Judea Pearl won the A.M. Turing Award."
+        }
+      ],
+      "correct": "The A.M. Turing Award, which is named for British mathematician Alan Turing, was given to Judea Pearl in 2011.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In music theory, the term \"key\" refers to the set of musical notes that forms the foundation of a piece of music.</li><li>In <em>On the Sensations of Tone</em> (1863), German physicist Hermann von Helmholtz describes the mood of various musical keys.</li><li>He describes the key of F sharp major as \"brilliant, very clear.\"</li><li>\"Give Me One Reason\" (1995) by Tracy Chapman is a song written in F sharp major.</li></ul></blockquote>",
+      "question": "The student wants to explain how Helmholtz describes F sharp major. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The key of F sharp major is one of various keys, which are sets of musical notes that form the foundations of pieces of music."
+        },
+        {
+          "name": "B",
+          "content": "In <em>On the Sensations of Tone</em>, Helmholtz describes the mood of F sharp major."
+        },
+        {
+          "name": "C",
+          "content": "The song âGive Me One Reasonâ could be described as âbrilliant, very clear.â"
+        },
+        {
+          "name": "D",
+          "content": "In <em>On the Sensations of Tone</em>, Helmholtz describes the mood of F sharp major as âbrilliant, very clear.â"
+        }
+      ],
+      "correct": "In <em>On the Sensations of Tone</em>, Helmholtz describes the mood of F sharp major as âbrilliant, very clear.â",
+      "solution": ""
+    }
+  ]
+}

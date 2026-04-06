@@ -1,0 +1,682 @@
+{
+  "uuid": "1bab97be-1fd5-4874-9973-125f743d4cac",
+  "chunk": "G9jT7rTl.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Nancy Bird-Walton, who was an aviation pioneer, undoubtedly accomplished much, but to gain a lasting place in our historical memory, there is little that can ______ being the first to do something. For example, people will always remember that Aloha Wanderwell was the first woman to drive herself around the world.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "overreach by"
+        },
+        {
+          "name": "B",
+          "content": "fluctuate with"
+        },
+        {
+          "name": "C",
+          "content": "constrain within"
+        },
+        {
+          "name": "D",
+          "content": "prevail over"
+        }
+      ],
+      "correct": "prevail over",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "postulate"
+        },
+        {
+          "name": "B",
+          "content": "ameliorate"
+        },
+        {
+          "name": "C",
+          "content": "sanction"
+        },
+        {
+          "name": "D",
+          "content": "rationalize"
+        }
+      ],
+      "correct": "ameliorate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 2010s, the price of vintage G.I. Joe action figures rose dramatically, which had the counterintuitive effect of ______ demand: buyers who hadn't previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "satisfying"
+        },
+        {
+          "name": "B",
+          "content": "capitalizing"
+        },
+        {
+          "name": "C",
+          "content": "exploiting"
+        },
+        {
+          "name": "D",
+          "content": "eliciting"
+        }
+      ],
+      "correct": "eliciting",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The fact that publications by University of Minnesota economist Ellen R. McGrattan, who studies financial policy, are so frequently cited in other scholars' work ______ the usefulness of her research for her peersâother economists clearly find her studies valuable for their own scholarship.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "forestalls"
+        },
+        {
+          "name": "B",
+          "content": "belies"
+        },
+        {
+          "name": "C",
+          "content": "underscores"
+        },
+        {
+          "name": "D",
+          "content": "overshadows"
+        }
+      ],
+      "correct": "underscores",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Shedding light on the thermal biology of fungi, research by RadamÃ©s Cordero et al. indicates that certain mushrooms (including <i>Coprinellus micaceus</i> and species from the genus <i>Cantharellus</i>) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi's fruiting bodies and root-like hyphae: <u>temperature reductions were observed in the air immediately surrounding the mushrooms.</u> Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team's prototype lowered the air temperature in a controlled environment by 10Â°C in forty minutes.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of fungal thermal biology."
+        },
+        {
+          "name": "B",
+          "content": "It provides empirical evidence to bolster the claim made earlier in the text that certain fungal species maintain a hypothermic state."
+        },
+        {
+          "name": "C",
+          "content": "It presents a tangential finding about thermoregulation in certain fungal species that the experiment described later in the text was designed to explain."
+        },
+        {
+          "name": "D",
+          "content": "It identifies an unexpected observation that motivated the study of evaporative cooling in fungi that is discussed earlier in the text."
+        }
+      ],
+      "correct": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of fungal thermal biology.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Algeria, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by approximately three-fourths between 2000 and 2019; such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Rasmus Heltberg's study of fuel use in Ghana shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the stability of the local electrical grid.</p>",
+      "question": "Which choice best describes the function of the information about Algeria in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It provides an example of a type of change that the text goes on to suggest is poorly suited for evaluating whether the energy ladder is a viable model."
+        },
+        {
+          "name": "B",
+          "content": "It introduces a finding that the text goes on to suggest can be explained in two different ways that are equally compelling."
+        },
+        {
+          "name": "C",
+          "content": "It describes a trend that the text goes on to suggest has a similar cause as a seemingly unrelated trend observed in Ghana."
+        },
+        {
+          "name": "D",
+          "content": "It illustrates the kind of phenomenon that the text goes on to suggest is frequently but inadequately accounted for by the energy ladder."
+        }
+      ],
+      "correct": "It illustrates the kind of phenomenon that the text goes on to suggest is frequently but inadequately accounted for by the energy ladder.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of La Paz, Bolivia, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 528 respondents from La Paz, 67.5% indicated that they use the city's parks, and of the 938 respondents from Fortaleza, 35.7% indicated using city parks. Given that the percentage of La Paz respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.</p>",
+      "question": "The text makes which point about the difference between the proportions of La Paz residents and Fortaleza residents using parks?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It was much larger than the researchers conducting the study expected."
+        },
+        {
+          "name": "B",
+          "content": "It was calculated using sources that predate the survey."
+        },
+        {
+          "name": "C",
+          "content": "It could be due to inaccuracies in the survey results."
+        },
+        {
+          "name": "D",
+          "content": "It is caused by something other than the parks' proximity to city residents."
+        }
+      ],
+      "correct": "It is caused by something other than the parks' proximity to city residents.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The bird species <i>Hylophilus ochraceiceps</i> (the tawny-crowned greenlet) shares some territory in French Guiana with <i>Thamnomanes caesius</i> (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded <i>T. caesius</i> alarm calls and played them in the vicinity of wild <i>H. ochraceiceps</i>. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that <i>H. ochraceiceps</i> associates <i>T. caesius</i> alarm calls with danger.</p>",
+      "question": "Which finding, if true, would most directly support Martinez and colleagues' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "When Martinez and colleagues played control sounds of random noise in the vicinity of <i>H. ochraceiceps</i>, the birds displayed no reaction."
+        },
+        {
+          "name": "B",
+          "content": "Other bird species than <i>H. ochraceiceps</i> also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played <i>T. caesius</i> alarm calls."
+        },
+        {
+          "name": "C",
+          "content": "Martinez and colleagues played alarm calls from different <i>T. caesius</i> individuals and observed no significant variation in the responses of <i>H. ochraceiceps</i>."
+        },
+        {
+          "name": "D",
+          "content": "In some instances, <i>H. ochraceiceps</i> froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds."
+        }
+      ],
+      "correct": "When Martinez and colleagues played control sounds of random noise in the vicinity of <i>H. ochraceiceps</i>, the birds displayed no reaction.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Apple's introduction of the iPhone in 2007 is a quintessential instance of brand extension: the company leveraged its brand recognition as a computer manufacturer to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers' likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of laundry detergent and air freshener) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.</p>",
+      "question": "Based on the text, which potential study design would be most likely to produce evidence that would enable Grasby et al. to answer their research question?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Have a representative sample of the households rate the similarity of the product categories in each extended brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair."
+        },
+        {
+          "name": "B",
+          "content": "Have a representative sample of the households rate the similarity of one product in each extended brand pair to other products in the same category, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair."
+        },
+        {
+          "name": "C",
+          "content": "Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended brand pairs, then determine how, if at all, the degree of brand recognition correlates with the frequency with which a different group of households purchased at least one product of that brand."
+        },
+        {
+          "name": "D",
+          "content": "Poll a representative sample of the households to determine the degree of brand recognition of each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the average cost of each product in the pairs."
+        }
+      ],
+      "correct": "Have a representative sample of the households rate the similarity of the product categories in each extended brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/78f0e071ecfacff42b3bd9eb40f52851.png\" width=\"366\" height=\"324\"></div><p>Neuroscientist Kiyohito Iigaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P3 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "P3 would derive more aesthetic pleasure from cubist paintings than from abstract paintings."
+        },
+        {
+          "name": "B",
+          "content": "P3's rating for abstract and cubist paintings would equal one another."
+        },
+        {
+          "name": "C",
+          "content": "P3 would derive less aesthetic pleasure from cubist paintings than from abstract paintings."
+        },
+        {
+          "name": "D",
+          "content": "P3's ratings for abstract and cubist paintings would differ from one another."
+        }
+      ],
+      "correct": "P3's ratings for abstract and cubist paintings would differ from one another.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1900, in collaboration with Cherokee cultural historian Will West Long, white ethnographer James Mooney assembled a collection of traditional oral stories related to him by Cherokee elders. Based on their content, Mooney categorized them into various genres: historical traditions, tales of animals, and so on. Noting that some stories feature detailed descriptions of geographic locations in the Cherokee homeland, Mooney demarcated those as a genre he referred to as \"wonder stories.\" While Long and Mooney's collaboration proved valuable as an act of cultural preservation, it is important to bear in mind that Cherokee people are not known to have applied genre divisions to their stories before Mooney's work. There is, therefore, ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "some reason to think that other traditional stories that the Cherokee elders did not share with Mooney would not have met Mooney's criterion for classifying them as \"wonder stories\" despite including geographical information."
+        },
+        {
+          "name": "B",
+          "content": "no evidence for Mooney's conclusion that the Cherokee elders who recounted the stories believed that the geographic details included in some stories were accurate descriptions of the Cherokee homeland."
+        },
+        {
+          "name": "C",
+          "content": "considerable uncertainty about whether Mooney's classifications of the stories shared by the Cherokee elders were influenced by Long's views about which features of a story are most indicative of the genre to which the story belongs."
+        },
+        {
+          "name": "D",
+          "content": "no reason to believe that the Cherokee elders who provided the stories would have agreed with Mooney that the inclusion of geographical specificity in some stories marked those stories as different in kind from other stories."
+        }
+      ],
+      "correct": "no reason to believe that the Cherokee elders who provided the stories would have agreed with Mooney that the inclusion of geographical specificity in some stories marked those stories as different in kind from other stories.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Yao Luo and colleagues in China, showed similar results to the North American studies, while few have produced results similar to those of Porvari and Verta's study, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "levels of dissolved organic carbon and mercury in bodies of fresh water are both much higher in Finland than elsewhere."
+        },
+        {
+          "name": "B",
+          "content": "the hypothesis that the positive association is particular to North America is correct."
+        },
+        {
+          "name": "C",
+          "content": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water."
+        },
+        {
+          "name": "D",
+          "content": "there were circumstances unique to Luo and colleagues' study that impeded accurate measurements of mercury levels."
+        }
+      ],
+      "correct": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Chelsea Wood et al. tracked temperature driven changes in the abundance of <i>Opechona sp.</i> (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), <i>Anthocotyle merlucci</i> (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "as the number of host species involved in a parasite's transmission increases, the parasite is better protected against rising temperatures."
+        },
+        {
+          "name": "B",
+          "content": "any advantages that the transmission strategy used by three host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance."
+        },
+        {
+          "name": "C",
+          "content": "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies."
+        },
+        {
+          "name": "D",
+          "content": "directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three host CLPs."
+        }
+      ],
+      "correct": "any advantages that the transmission strategy used by three host CLPs may have conferred did not completely offset the negative effects of other temperature driven factors on CLP abundance.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Lidia Eva Wysocki and colleagues found in a 2006 study of common carp. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of fish showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for fish. Therefore, the results of the meta-analysis suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the studies in the meta-analysis that examined fish were more likely than those that examined birds to specify whether the observed effects were detrimental."
+        },
+        {
+          "name": "B",
+          "content": "the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for fish."
+        },
+        {
+          "name": "C",
+          "content": "the difference found in the study conducted by Lidia Eva Wysocki and colleagues was likely larger than the average difference for studies of common carp included in the meta-analysis."
+        },
+        {
+          "name": "D",
+          "content": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did."
+        }
+      ],
+      "correct": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although the epic poem <i>The Poem of the Cid</i> dates back to the 12th century, ______ compelling narrative still captivates readers today.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "they're"
+        },
+        {
+          "name": "B",
+          "content": "its"
+        },
+        {
+          "name": "C",
+          "content": "their"
+        },
+        {
+          "name": "D",
+          "content": "it's"
+        }
+      ],
+      "correct": "its",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Most sand is beige because of deposits of gray- and tan-hued minerals, such as quartz and feldspar. The sand at Balos Beach in Greece is a more unusual ______ deposits of crushed coral and other organic matter lend the sand a unique pink hue.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "shade, though"
+        },
+        {
+          "name": "B",
+          "content": "shade: though"
+        },
+        {
+          "name": "C",
+          "content": "shade, though,"
+        },
+        {
+          "name": "D",
+          "content": "shade, though;"
+        }
+      ],
+      "correct": "shade, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The poem \"Naomi,\" which was published in 1960, contains three signature elements of Gwendolyn Brooks's poetic ______ compressed lines infused with bursts of vivid imagery; syncopated rhythms, largely inspired by the blues tradition; and a keen attention to everyday life in Brooks's South Side Chicago neighborhood.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "style. Terse,"
+        },
+        {
+          "name": "B",
+          "content": "style, terse,"
+        },
+        {
+          "name": "C",
+          "content": "style: terse,"
+        },
+        {
+          "name": "D",
+          "content": "style; terse,"
+        }
+      ],
+      "correct": "style: terse,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Neoclassical economic models assume that people consistently make rational economic decisions, but Laura Gee of Tufts University makes no such assumption; behavioral economists such as Gee, whose research focuses on charitable giving, ______ that economic decision-making can in fact be highly irrational.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "has contended"
+        },
+        {
+          "name": "B",
+          "content": "contends"
+        },
+        {
+          "name": "C",
+          "content": "is contending"
+        },
+        {
+          "name": "D",
+          "content": "contend"
+        }
+      ],
+      "correct": "contend",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While the greater adjutant (<i>Leptoprilos dubius</i>) can be found in places like the Central Tanintharyi Coast in Myanmar and the Chhep Wildlife Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife ______ is on the front lines of conservation efforts to bring adjutants back from near extinction.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "biologist, Dr. Purnima Devi Barman,"
+        },
+        {
+          "name": "B",
+          "content": "biologist, Dr. Purnima Devi Barman"
+        },
+        {
+          "name": "C",
+          "content": "biologist: Dr. Purnima Devi Barman"
+        },
+        {
+          "name": "D",
+          "content": "biologist Dr. Purnima Devi Barman"
+        }
+      ],
+      "correct": "biologist Dr. Purnima Devi Barman",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Roman poet Lucan's <i>Pharsalia</i>, an epic poem about Julius Caesar, is an extant work: it can still be read. By contrast, lost works like Lucan's poem praising Emperor Nero, <i>Laudes Neronis</i>âno copy of which existsâ______ known to antiquarians only through references in extant works.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have become"
+        },
+        {
+          "name": "B",
+          "content": "is becoming"
+        },
+        {
+          "name": "C",
+          "content": "has become"
+        },
+        {
+          "name": "D",
+          "content": "becomes"
+        }
+      ],
+      "correct": "have become",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In their attempt to create a quantum random number generator, K. Muhammed Shafi et al. used a continuous-wave diode laser to fire photons at a periodically-poled potassium titanyl phosphate (PPKTP) nonlinear crystal. A plano-convex lens ______ the laser on the center of the 10-millimeter-long crystal ensured a spot size (a measure of the beam's diameter) of 85 micrometers.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "focused"
+        },
+        {
+          "name": "B",
+          "content": "focuses"
+        },
+        {
+          "name": "C",
+          "content": "focusing"
+        },
+        {
+          "name": "D",
+          "content": "focus"
+        }
+      ],
+      "correct": "focusing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Christine Chen is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Chen's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Therefore,"
+        },
+        {
+          "name": "B",
+          "content": "By contrast,"
+        },
+        {
+          "name": "C",
+          "content": "Similarly,"
+        },
+        {
+          "name": "D",
+          "content": "Secondly,"
+        }
+      ],
+      "correct": "By contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Contour modeling and box modeling, methods used by digital artists to create three-dimensional elements for video games, typically require software to process geometric shapes numbering in the thousands. ______ these approaches are more economical than surface model methods, which require more powerful and expensive processors to manage polygons numbering in the millions.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Instead,"
+        },
+        {
+          "name": "B",
+          "content": "Specifically,"
+        },
+        {
+          "name": "C",
+          "content": "As such,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "As such,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The total solar eclipse of April 16, 1178 BCE, was famously described in Homer's epic poem <i>The Odyssey</i>. Another memorable solar eclipse occurred on April 21, 899 BCE, but unlike the 1178 BCE eclipse, the 899 BCE eclipse was annular. ______ the Moon didn't cover the Sun completely, instead creating an annulus, or \"ring of fire.\"</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Meanwhile,"
+        },
+        {
+          "name": "C",
+          "content": "That is,"
+        },
+        {
+          "name": "D",
+          "content": "Nonetheless,"
+        }
+      ],
+      "correct": "That is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Pilot Knob National Wildlife Refuge (NWR) is a protected natural area in Missouri.</li><li>It encompasses 90 acres.</li><li>It was established to safeguard the habitat of the Indiana bat, an endangered species.</li><li>The Pilot Knob NWR is managed by the US Fish &amp; Wildlife Service.</li><li>The US Fish &amp; Wildlife Service limits human activities in the area.</li></ul></blockquote>",
+      "question": "The student wants to indicate the size of the Pilot Knob NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Pilot Knob NWR is a protected natural area managed by the US Fish &amp; Wildlife Service, which limits human activities there."
+        },
+        {
+          "name": "B",
+          "content": "The Pilot Knob NWR is a natural area in Missouri, home to the Indiana bat."
+        },
+        {
+          "name": "C",
+          "content": "Home to the Indiana bat, Missouri's Pilot Knob NWR is managed by the US Fish &amp; Wildlife Service."
+        },
+        {
+          "name": "D",
+          "content": "A protected natural area, the Pilot Knob NWR encompasses 90 acres of land in Missouri."
+        }
+      ],
+      "correct": "A protected natural area, the Pilot Knob NWR encompasses 90 acres of land in Missouri.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>Never Sleep</i> is a 2015 sculpture by British artist Tim Etchells.</li><li>It is crafted from pink neon lighting that spells out the title phrase (\"never sleep\").</li><li><i>Verdurous No. 2</i> is a 2020 sculpture by United States artist Annesta Le.</li><li>It is crafted from green neon lighting that forms an abstract squiggle shape.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Tim Etchells and Annesta Le are artists who have used neon in their sculptures."
+        },
+        {
+          "name": "B",
+          "content": "Unlike Etchells's sculpture, which spells out a phrase, Le's is an abstract squiggle shape."
+        },
+        {
+          "name": "C",
+          "content": "Both Etchells's and Le's sculptures are crafted from neon lighting."
+        },
+        {
+          "name": "D",
+          "content": "<i>Never Sleep</i>, like <i>Verdurous No. 2</i>, is a sculpture."
+        }
+      ],
+      "correct": "Unlike Etchells's sculpture, which spells out a phrase, Le's is an abstract squiggle shape.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Paralympic Games are a series of international sporting events involving athletes with an impairment.</li><li>A gold medal indicates that an athlete finished in first place.</li><li>Terje Loevaas competed as a Paralympic cross-country skier from 1980 to 1994.</li><li>He won thirteen medals, ten of which were gold.</li><li>Michael Edgson competed as a Paralympic swimmer from 1984 to 1992.</li><li>He won twenty-one medals, eighteen of which were gold.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize how long Michael Edgson competed in the Paralympic Games?",
+      "options": [
+        {
+          "name": "A",
+          "content": "During his career as a Paralympic swimmer, Michael Edgson took home a total of twenty-one medals, eighteen of which were gold."
+        },
+        {
+          "name": "B",
+          "content": "An accomplished Paralympian with multiple gold medal wins, Michael Edgson competed as a swimmer from 1984 to 1992."
+        },
+        {
+          "name": "C",
+          "content": "Swimming, a sport in which Michael Edgson took home eighteen gold medals, has been an event at the Paralympic Games since 1960."
+        },
+        {
+          "name": "D",
+          "content": "Cross-country skier Terje Loevaas made his Paralympic debut in 1980, while swimmer Michael Edgson made his debut in 1984."
+        }
+      ],
+      "correct": "An accomplished Paralympian with multiple gold medal wins, Michael Edgson competed as a swimmer from 1984 to 1992.",
+      "solution": ""
+    }
+  ]
+}

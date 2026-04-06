@@ -1,0 +1,682 @@
+{
+  "uuid": "8979aab8-13bc-4454-bb32-5bdf66fd4ea4",
+  "chunk": "Bbs5xNqx.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The Apollo Moon landings (1969-1972) brought atmospheric sensors and seismic sensors to the Moon and produced large amounts of data. Researcher Renee Weber, who is investigating tectonic activity on the Moon, continues to use Apollo's data, demonstrating that the missions' value to science is ______.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "displaced"
+        },
+        {
+          "name": "B",
+          "content": "ongoing"
+        },
+        {
+          "name": "C",
+          "content": "original"
+        },
+        {
+          "name": "D",
+          "content": "controversial"
+        }
+      ],
+      "correct": "ongoing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Because cyanobacteria and other microphytobenthos (MPB)âmicroscopic organisms inhabiting tidal flatsâare consumed by mussels as well as by certain shorebirds and fish, MPB are ______ estuary ecosystems. Decreased MPB abundance, which may be caused by environmental stressors, thus has a direct, negative impact on coastal food webs.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "imperative for"
+        },
+        {
+          "name": "B",
+          "content": "emblematic of"
+        },
+        {
+          "name": "C",
+          "content": "subordinate to"
+        },
+        {
+          "name": "D",
+          "content": "interchangeable with"
+        }
+      ],
+      "correct": "imperative for",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some pieces of music might have many meaningsâthe composition of Charlotte Moorman can ______ as many different interpretations as there are people to listen to themâand so as long as a listener's interpretation isn't willfully absurd or the result of inattention, it is difficult to justify the claim that the listener has misunderstood the piece.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "refute"
+        },
+        {
+          "name": "B",
+          "content": "omit"
+        },
+        {
+          "name": "C",
+          "content": "support"
+        },
+        {
+          "name": "D",
+          "content": "evade"
+        }
+      ],
+      "correct": "support",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The inventories of consonant sounds among the Polynesian languages of the Pacific tend toward the ______: Sikaiana in the south Pacific has a total of nine consonants, and Ê»Ålelo HawaiÊ»i, the language of Native Hawaiian people, has one fewer, while the global median per language is over twenty-two.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "minimal"
+        },
+        {
+          "name": "B",
+          "content": "static"
+        },
+        {
+          "name": "C",
+          "content": "replicable"
+        },
+        {
+          "name": "D",
+          "content": "melodic"
+        }
+      ],
+      "correct": "minimal",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Founded in Long Beach, California, in 1996, the Museum of Latin American Art is dedicated to modern and contemporary art by Latin American artists and Latino artists in the United States. Since its founding, it has acquired more than 1,300 objects for its permanent collection. More recently founded US-based institutions devoted to Latino cultures include Casa de Rosado. Located in Lansing, Michigan, it focuses on the arts and cultures of Latino communities in Michigan.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To trace a historical development that encouraged the founding of two institutions."
+        },
+        {
+          "name": "B",
+          "content": "To trace the founding of two institutions, including how they acquired funding to purchase artworks."
+        },
+        {
+          "name": "C",
+          "content": "To present information about two institutions, including each institution's area of focus."
+        },
+        {
+          "name": "D",
+          "content": "To draw a contrast between the collection sizes of two institutions."
+        }
+      ],
+      "correct": "To present information about two institutions, including each institution's area of focus.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from D.A. Lozano's 1844 poem \"A Remembrance of Puerto Cabello-The Mangle\" (translated by Agnes Blake Poor in 1918). The poem is a dedication to Puerto Cabello, a town on the northern coast of Venezuela.</p><blockquote style=\"margin-left: 40px;\">And while outside the tempest is raving o'er the Ocean,<br>And the ship is madly driving on some lone and desert shore;<br>Thy warm and land-locked waters swell with an easy motion,<br>And gently glides the light pirogue [canoe] at dipping of the oar.</blockquote>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes the speaker's attitude towards the day-to-day life in Puerto Cabello."
+        },
+        {
+          "name": "B",
+          "content": "It contrasts the tranquility of the waters near Puerto Cabello with the roughness of waters elsewhere."
+        },
+        {
+          "name": "C",
+          "content": "It emphasizes the severity of a storm that is expected to arrive soon in Puerto Cabello."
+        },
+        {
+          "name": "D",
+          "content": "It compares the appearance of two types of boats."
+        }
+      ],
+      "correct": "It contrasts the tranquility of the waters near Puerto Cabello with the roughness of waters elsewhere.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In what is now New Mexico, the Pueblo of Pojoaque operates the Poeh Cultural Center. Relying on traditional knowledge to guide the design of exhibits, this institution presents Pojoaque history and culture to the tribe's citizens. The Tohono O'odham Nation, a tribe in Arizona, employs a similar strategy in its own cultural center. Both centers contrast with museums that aren't Indigenous-led, when displaying Indigenous artifacts, such museums tend to anticipate mainly non-Indigenous audiences and rely on Euro-centric strategies for designing exhibits.</p>",
+      "question": "According to the text, what is one way that non-Indigenous museums typically differ from the cultural centers operated by the Pueblo of Pojoaque and the Tohono O'odham Nation?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The museums typically feature fewer artifacts in their exhibits."
+        },
+        {
+          "name": "B",
+          "content": "The museums are often somewhat smaller in size."
+        },
+        {
+          "name": "C",
+          "content": "The museums are largely aimed at non-Indigenous audiences."
+        },
+        {
+          "name": "D",
+          "content": "The museums focus on tribal history as well as tribal culture."
+        }
+      ],
+      "correct": "The museums are largely aimed at non-Indigenous audiences.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Hawaiian archipelago is home to the kiwikiu (<i>Pseudonestor xanthophrys</i>), one of several bird species that can only be found on the islands. Due to Hawai'i's uniquely varied geographic and ecological conditions, the kiwikiu became highly specialized as it adapted to survive in a specific island habitat. However, like many highly specialized species, the kiwikiu is particularly vulnerable to environmental stressors, such as disease, invasive species, and habitat destruction, that disrupt the delicately balanced ecosystems in which the birds live.</p>",
+      "question": "Based on the text, why is the kiwikiu a highly specialized species?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It lives exclusively in the most geographically isolated locations on the Hawaiian archipelago."
+        },
+        {
+          "name": "B",
+          "content": "It adapted over time to live in a specific habitat found on the Hawaiian archipelago."
+        },
+        {
+          "name": "C",
+          "content": "It adapted over time to share a habitat with other highly specialized bird species on the Hawaiian archipelago."
+        },
+        {
+          "name": "D",
+          "content": "It lives in a habitat that is exposed to numerous environmental stressors."
+        }
+      ],
+      "correct": "It adapted over time to live in a specific habitat found on the Hawaiian archipelago.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Guy de Maupassant's 1884 short story \"A Recollection,\" from the collection <i>Guy de Maupassant Short Stories</i> (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.</p><blockquote style=\"margin-left: 40px;\">I took up a position in the bows [front of the boat], standing up and looking at the quays, the trees, the houses and the bridges disappearing behind us. And suddenly I perceived the great viaduct of Point du Jour which blocked the river. It was the end of Paris, the beginning of the country, and behind the double row of arches the Seine, suddenly spreading out as though it had regained space and liberty, became all at once the peaceful river which flows through the plains, alongside the wooded hills, amid the meadows, along the edge of the forests.</blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The narrator contrasts his feelings of apprehension with the apparent tranquility of the river as the boat enters the countryside."
+        },
+        {
+          "name": "B",
+          "content": "The narrator is anxious for the trip to the countryside to be over as quickly as possible, and is frustrated that it is taking so long."
+        },
+        {
+          "name": "C",
+          "content": "Though the narrator did not expect to be leaving the city on this trip, he is nonetheless excited to undertake this new adventure."
+        },
+        {
+          "name": "D",
+          "content": "The narrator perceives a parallel between the shift from the urban environment to the countryside and the changes in the features of the river itself."
+        }
+      ],
+      "correct": "The narrator perceives a parallel between the shift from the urban environment to the countryside and the changes in the features of the river itself.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/bd10c1be59dc6f2816be263765d95c96.png\" width=\"520\" height=\"603\"></div><p>To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the annual mean size of forest patches across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region's climate, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By 1986, mean forest patch sizes had dropped considerably. In that year, they were between ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "100 and 125 hectares."
+        },
+        {
+          "name": "B",
+          "content": "125 and 150 hectares."
+        },
+        {
+          "name": "C",
+          "content": "200 and 250 hectares."
+        },
+        {
+          "name": "D",
+          "content": "0 and 50 hectares."
+        }
+      ],
+      "correct": "0 and 50 hectares.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/4a526d9e0cdffc08e8da9ebfdc71f036.png\" width=\"424\" height=\"558\"></div><p>Lin-Tai Ho and colleagues monitored fish populations in a tide pool in Taiwan. They found that some species were entirely absent from the tide pool at particular times of the year; for example, they did not observe even one ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "barred flagtail in January of 2001."
+        },
+        {
+          "name": "B",
+          "content": "striated rock skipper in January and April of 2001."
+        },
+        {
+          "name": "C",
+          "content": "barred flagtail in October of 2001."
+        },
+        {
+          "name": "D",
+          "content": "combtooth blenny in January of 2001."
+        }
+      ],
+      "correct": "striated rock skipper in January and April of 2001.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Paleontologist Amane Tajika and colleagues analyzed the shells of two marine mollusks called nautilids that were collected from waters near New Caledonia. Sample F13 and other shell sections formed during adulthood suggest that mature New Caledonian nautilids live at the same depths as mature Fijian nautilids. However, sample M06, which formed while the nautilid was still in its egg, had a chemical signature suggesting the egg had been laid in water 120 meters deep, while Fijian nautilids typically lay eggs at depths of at least 170 meters. Because water temperature decreases as depth increases, a biology student hypothesized that the New Caledonian nautilids lay their eggs in warmer water than Fijian nautilids do.</p>",
+      "question": "Which finding, if true, would most directly weaken the student's hypothesis?",
+      "options": [
+        {
+          "name": "A",
+          "content": "New Caledonia nautilids tend to migrate upward to warmer water immediately after hatching, whereas Fijian nautilids do not."
+        },
+        {
+          "name": "B",
+          "content": "The water temperature at a given depth tends to be higher in waters near Fiji than it is at that depth in waters near New Caledonia."
+        },
+        {
+          "name": "C",
+          "content": "There aren't enough suitable hatching areas at a depth of at least 170 meters in New Caledonia for nautilids to lay their eggs at that depth."
+        },
+        {
+          "name": "D",
+          "content": "The water temperature at a given depth tends to be lower in waters near Fiji than it is at that depth in waters near New Caledonia."
+        }
+      ],
+      "correct": "The water temperature at a given depth tends to be higher in waters near Fiji than it is at that depth in waters near New Caledonia.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the pattern is particular to North America. However, Yao Luo and colleagues reported dissolved organic carbon and mercury rising or falling together in a study conducted in China, and several other studies from outside North America have yielded similar results, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "environmental characteristics unique to Finland likely result in dissolved organic carbon and mercury levels in bodies of fresh water both being significantly higher there than elsewhere."
+        },
+        {
+          "name": "B",
+          "content": "the bodies of water examined in Porvari and Verta's study may be more similar to the bodies of water examined in studies conducted in North America than to those examined in Luo and colleagues' study."
+        },
+        {
+          "name": "C",
+          "content": "there may be circumstances specific to the bodies of water examined in Porvari and Verta's study that disrupted a general positive association between dissolved organic carbon and mercury levels."
+        },
+        {
+          "name": "D",
+          "content": "bodies of fresh water outside North America are more likely to show a negative association between dissolved organic carbon and mercury levels than a positive association."
+        }
+      ],
+      "correct": "there may be circumstances specific to the bodies of water examined in Porvari and Verta's study that disrupted a general positive association between dissolved organic carbon and mercury levels.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Rudolf Cesaretti et al. conducted an analysis of historical urban scaling trends circa 1300 CE in Western Europe, focusing on agglomeration patterns within medieval settlements. They examined settlements in urban systems across Western Europe, with groupings based on regionally distinct political structures, economic focuses, and spatial constraintsâincluding the aristocratically controlled city-state of Parma in northern Italy, merchant controlled city-states like Goerlitz in Germany, the wool-trading centers of Lincoln and Canterbury in England, and prime trade fair towns like Troyes in France. A prevalent trend emerged: as a city's total settled area increased, so did population density in its core urban areas. This finding implies that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "even when they were substantial, known inter-regional differences in characteristics of urban systems had a limited effect on agglomeration patterns in medieval Western European settlements."
+        },
+        {
+          "name": "B",
+          "content": "the observed relationship is heavily influenced by urban characteristics that were particular to medieval Western Europe, making it unlikely that a similarly strong relationship between area and population density would be found from medieval settlements in other regions."
+        },
+        {
+          "name": "C",
+          "content": "the effects of variations in political and economic interests on agglomeration patterns were less evident in comparisons between medieval settlements within a region than in comparisons between groups of settlements across regions of Western Europe."
+        },
+        {
+          "name": "D",
+          "content": "despite regional differences in their political and economic systems, medieval Western European settlements shared common spatial constraints that encouraged high population density in core urban areas."
+        }
+      ],
+      "correct": "even when they were substantial, known inter-regional differences in characteristics of urban systems had a limited effect on agglomeration patterns in medieval Western European settlements.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>After much debate, ______ finally made a decision: the judges for the 1947 Nobel Prize in Literature would award AndrÃ© Paul Guillaume Gide of France with that year's prize \"for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight.\"</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "anyone"
+        },
+        {
+          "name": "B",
+          "content": "you"
+        },
+        {
+          "name": "C",
+          "content": "they"
+        },
+        {
+          "name": "D",
+          "content": "it"
+        }
+      ],
+      "correct": "they",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In June of 1966, the song \"I Need Love\" was a top-ten hit. Having climbed the charts for six weeks, ______ ranked No. 4 on the Billboard Hot 100 list of most popular songs.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "those"
+        },
+        {
+          "name": "B",
+          "content": "they"
+        },
+        {
+          "name": "C",
+          "content": "each"
+        },
+        {
+          "name": "D",
+          "content": "it"
+        }
+      ],
+      "correct": "it",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1847, the novel <i>Agnes Grey</i> was published under the pen name Acton Bell. Now, we know that ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "was the author's real name Anne BrontÃ«?"
+        },
+        {
+          "name": "B",
+          "content": "the author's real name was Anne BrontÃ«."
+        },
+        {
+          "name": "C",
+          "content": "was the author's real name Anne BrontÃ«."
+        },
+        {
+          "name": "D",
+          "content": "the author's real name was Anne BrontÃ«?"
+        }
+      ],
+      "correct": "the author's real name was Anne BrontÃ«.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While the greater adjutant (<i>Leptoptilos dubius</i>) can be found in places like the Inner Gulf of Thailand and Manchar Lake in ______ than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of conservation efforts to bring adjutants back from near extinction.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Pakistan, more"
+        },
+        {
+          "name": "B",
+          "content": "Pakistan; more"
+        },
+        {
+          "name": "C",
+          "content": "Pakistan. More"
+        },
+        {
+          "name": "D",
+          "content": "Pakistan more"
+        }
+      ],
+      "correct": "Pakistan, more",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Canada and Germany have two of the longest constitutions in the world. At 19,565 and 27,379 words, respectively, these ______ according to research by constitutional scholars George Tsebelis and Dominic J. Nardi, correlate with GDPs (gross domestic products) that are lower than those of countries with shorter constitutions.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "constitutions' length,"
+        },
+        {
+          "name": "B",
+          "content": "constitutions lengths,"
+        },
+        {
+          "name": "C",
+          "content": "constitution's length,"
+        },
+        {
+          "name": "D",
+          "content": "constitutions' lengths,"
+        }
+      ],
+      "correct": "constitutions' lengths,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A pet cat poses next to its owners in <i>Kiesler and Wife</i>, an oil painting by American ______ Will Barnet.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "artist:"
+        },
+        {
+          "name": "B",
+          "content": "artist"
+        },
+        {
+          "name": "C",
+          "content": "artistâ"
+        },
+        {
+          "name": "D",
+          "content": "artist,"
+        }
+      ],
+      "correct": "artist",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Every US state has an associated state soil, which is typically selected by a group of experts then passed through the state legislature to receive its official designation. For example, Arkansas's Stuttgart soil was formally designated in 1997, and Maine's Chesuncook soil in 1999. ______ years pass between a soil's selection and official designation, as the legislative process can be notoriously slow.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Often,"
+        },
+        {
+          "name": "B",
+          "content": "Therefore,"
+        },
+        {
+          "name": "C",
+          "content": "Similarly,"
+        },
+        {
+          "name": "D",
+          "content": "Indeed,"
+        }
+      ],
+      "correct": "Often,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A 1990 study of schooling fish observed the fish mimicking the behavior of school-mates rapidly swimming away from a predator. This is an example of an information cascade that benefits the collective. ______ the animal world is at times susceptible to the spread of misinformation, often with unfavorable results: a 2010 study of semipalmated sandpipers concluded that fleeing in response to flock-mates' false alarms caused the birds to abandon safe nesting grounds unnecessarily.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "Conversely,"
+        },
+        {
+          "name": "C",
+          "content": "Indeed,"
+        },
+        {
+          "name": "D",
+          "content": "Consequently,"
+        }
+      ],
+      "correct": "Conversely,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>Bread</i> is a 1968 black-and-white linocut print by Black American artist Elizabeth Catlett.</li><li>It features a young girl eating a slice of bread.</li><li>Relief printing is a technique in which an image is first carved onto a printing block made of wood, rubber or other materials.</li><li>The block is then painted and stamped onto a print surface.</li><li>Lino cutting is a type of relief printing that uses linoleum tile as the printing block.</li></ul></blockquote>",
+      "question": "The student wants to describe the process of relief printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Relief printing is a technique that can use wood, rubber, and other materials as the printing block, not just linoleum tile."
+        },
+        {
+          "name": "B",
+          "content": "Catlett used a relief printing technique called lino cutting, carving an image onto linoleum tile."
+        },
+        {
+          "name": "C",
+          "content": "Catlett used relief printing to create the 1968 linocut <i>Bread</i>."
+        },
+        {
+          "name": "D",
+          "content": "In relief printing, an image is carved onto a printing block, which is then painted and pressed onto a print surface."
+        }
+      ],
+      "correct": "In relief printing, an image is carved onto a printing block, which is then painted and pressed onto a print surface.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Usually, a country's capital is also its largest city by population.</li><li>The capital of the Philippines is Manila.</li><li>Its largest city by population is Quezon City.</li><li>The capital of Liechtenstein is Vaduz.</li><li>Its largest city by population is Schaan.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the two countries. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In both the Philippines and Liechtenstein, the capital is not the country's most populous city."
+        },
+        {
+          "name": "B",
+          "content": "While the most populous city in the Philippines is Quezon City, the most populous city in Liechtenstein is Schaan."
+        },
+        {
+          "name": "C",
+          "content": "The most populous city in the Philippines is Quezon City, but the country's capital is Manila."
+        },
+        {
+          "name": "D",
+          "content": "The capital of the Philippines is Manila; the capital of Liechtenstein is Vaduz."
+        }
+      ],
+      "correct": "In both the Philippines and Liechtenstein, the capital is not the country's most populous city.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Historian Isabel Wilkerson's book <i>The Warmth of Other Suns</i> is about the Great Migration.</li><li>The Great Migration was a period in twentieth-century US history when over six million African Americans moved from the rural South to cities such as Detroit, Michigan.</li><li>To document this period, Wilkerson narrates the personal journeys of George Swanson Starling and Robert Pershing Foster, among others.</li><li>The book won the Mark Lynton History Prize in 2011.</li><li>It also won the National Book Critics Circle Award in 2011.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize how Wilkerson documents the Great Migration?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Detroit, Michigan, is one of the cities whose African American populations grew during the Great Migration."
+        },
+        {
+          "name": "B",
+          "content": "Isabel Wilkerson chronicles the complex history of the Great Migration in such riveting, personal detail by narrating the journeys of individuals, such as George Swanson Starling and Robert Pershing Foster."
+        },
+        {
+          "name": "C",
+          "content": "In 2011, Isabel Wilkerson's book <i>The Warmth of Other Suns</i> won not only the Mark Lynton History Prize but also the National Book Critics Circle Award."
+        },
+        {
+          "name": "D",
+          "content": "The personal journey of George Swanson Starling is featured in the award-winning book <i>The Warmth of Other Suns</i>."
+        }
+      ],
+      "correct": "Isabel Wilkerson chronicles the complex history of the Great Migration in such riveting, personal detail by narrating the journeys of individuals, such as George Swanson Starling and Robert Pershing Foster.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>India Arie is an African American singer and songwriter.</li><li>The media outlet BBC Music has described her music as a \"blend of hip hop, soul and folk [that is] as subtle as it [is] inspired.\"</li><li>Her acclaimed albums feature many talented musicians.</li><li>Judeth Insel played viola on her first studio album, <i>Acoustic Soul</i> (2001).</li><li>David Davidson played violin on her second studio album, <i>Voyage to India</i> (2002).</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between Judeth Insel and David Davidson. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Judeth Insel played on India Arie's first studio album, Acoustic Soul, which was released one year before her album Voyage to India."
+        },
+        {
+          "name": "B",
+          "content": "Acoustic Soul and Voyage to India, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie."
+        },
+        {
+          "name": "C",
+          "content": "Although both musicians have played on India Arie albums, Judeth Insel played viola, whereas David Davidson played violin."
+        },
+        {
+          "name": "D",
+          "content": "Judeth Insel and David Davidson both lent their musical talents to albums by India Arie in the early 2000s."
+        }
+      ],
+      "correct": "Judeth Insel and David Davidson both lent their musical talents to albums by India Arie in the early 2000s.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Merle Oberon (1911-1979) was an actress born in Mumbai (then known as Bombay), India.</li><li>She was of Indian, Maori, and Irish heritage.</li><li>She was the first Indian-born actress to be nominated for an Academy Award.</li><li>Early in her career, she played many nameless, uncredited roles, such as her role in <i>Alf's Button</i> (1930).</li><li>Later, she played many named, credited roles, such as Marjorie Ismay in <i>Forever and a Day</i> (1943).</li></ul></blockquote>",
+      "question": "The student wants to make and support a generalization about Merle Oberon's early career. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Alf's Button (1930) was released early in Merle Oberon's career, whereas Forever and a Day (1943) came out later."
+        },
+        {
+          "name": "B",
+          "content": "Merle Oberon wasn't even listed in the credits of some of her early films, such as Alf's Button (1930), where she played a nameless, uncredited role."
+        },
+        {
+          "name": "C",
+          "content": "Alf's Button and Forever and a Day are both films that include Merle Oberon, the first Indian-born actress to be nominated for an Academy Award."
+        },
+        {
+          "name": "D",
+          "content": "In Alf's Button (1930), actress Merle Oberon played a nameless, uncredited role."
+        }
+      ],
+      "correct": "Merle Oberon wasn't even listed in the credits of some of her early films, such as Alf's Button (1930), where she played a nameless, uncredited role.",
+      "solution": ""
+    }
+  ]
+}

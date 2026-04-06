@@ -1,0 +1,682 @@
+{
+  "uuid": "839d1132-416e-4cc6-be17-13454f14da43",
+  "chunk": "DRhLE9Cp.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The reception of Ji-li Jiang's book <i>Red Kite, Blue Kite</i> has been very good. Many reviewers have ______ the book, and it won the Asian/Pacific American Award for Literature.</p>",
+      "question": "Which choice completes the text with the most logical and   precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "blamed"
+        },
+        {
+          "name": "B",
+          "content": "applauded"
+        },
+        {
+          "name": "C",
+          "content": "misunderstood"
+        },
+        {
+          "name": "D",
+          "content": "overlooked"
+        }
+      ],
+      "correct": "applauded",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At a conference for aspiring children's book authors, Candy Dawson Boyd, author of such lauded works as <i>Circle of Gold</i>, was the subject of a presentation that was intended specifically to foster ______ the techniques of successful authors so that attendees could use that understanding to improve their own work.</p>",
+      "question": "Which choice completes the text with the most logical and   precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "insight into"
+        },
+        {
+          "name": "B",
+          "content": "obliviousness about"
+        },
+        {
+          "name": "C",
+          "content": "exceptions to"
+        },
+        {
+          "name": "D",
+          "content": "hesitancy about"
+        }
+      ],
+      "correct": "insight into",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Sydney rock engravingsâstone carvings of human and animal figures found in what is now Australia and dating from 5,000â7,000 years agoâare thought of as art today, but how the people of the time understood the engravings is ______. They may have thought of the engravings as something akin to art in our modern sense, but it is entirely possible that they did notâwe simply cannot say for certain.</p>",
+      "question": "Which choice completes the text with the most logical and   precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "uncontroversial"
+        },
+        {
+          "name": "B",
+          "content": "unknown"
+        },
+        {
+          "name": "C",
+          "content": "unalterable"
+        },
+        {
+          "name": "D",
+          "content": "unsurprising"
+        }
+      ],
+      "correct": "unknown",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>One way to ______ the importance of a scholar's research is to track how often other scholars refer to that research. For example, Harvard University economist Claudia Goldin, who studies gender and economics, is among the world's most frequently cited researchers in her field, indicating that her work has been quite significant.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "utilize"
+        },
+        {
+          "name": "B",
+          "content": "influence"
+        },
+        {
+          "name": "C",
+          "content": "undermine"
+        },
+        {
+          "name": "D",
+          "content": "assess"
+        }
+      ],
+      "correct": "assess",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers CÃ©sar A. Hidalgo, Elisa CastaÃ±er, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify electronics stores, bakeries, and other businesses and map their locations. This approach has some limitsâ<u>data from Places API tend to be restricted to places that are customer facing</u>âbut the data set nonetheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.</p>",
+      "question": "Which choice best describes the function of the underlined   portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes the imprecise and subjective nature of neighborhood boundaries."
+        },
+        {
+          "name": "B",
+          "content": "It emphasizes the potential utility of the team's model."
+        },
+        {
+          "name": "C",
+          "content": "It introduces a model that a research team built to evaluate the mix of amenities in urban neighborhoods."
+        },
+        {
+          "name": "D",
+          "content": "It identifies a specific flaw in using a data set about amenities in cities."
+        }
+      ],
+      "correct": "It identifies a specific flaw in using a data set about amenities in cities.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>Sir Geoffrey Luttrell funded the creation of the Luttrell Psalter, notable for its portrayal of life on a 14th-century English estate. Not all of Luttrell's actions were admirable, however. Most infamously, he participated in what was essentially a private war against Sempringham Priory, a monastery near his manor, even making off with 500 pounds' worth of monastery property during a raid. <u>So Luttrell's reputation should be regarded as questionable at best.</u></p><br><p><strong>Text 2</strong><br>Some historians claim that Luttrell's poor treatment of his neighbors is as crucial to his biography as his funding of the Luttrell Psalter. But his conflict with Sempringham Priory must be seen as an indirect result of a property dispute involving land on which his manor sat: he was taking property to which he thought he had a right.</p>",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the claim in the underlined sentence in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By suggesting that whatever infractions Luttrell might have committed are outweighed by the cultural value of the Luttrell Psalter."
+        },
+        {
+          "name": "B",
+          "content": "By agreeing that though the law might have permitted Luttrell to do so, Luttrell was wrong to have raided Sempringham Priory."
+        },
+        {
+          "name": "C",
+          "content": "By pointing out that if Luttrell had taken the actions of which he is accused, then there would be documentation of those actions in the Luttrell Psalter."
+        },
+        {
+          "name": "D",
+          "content": "By asserting that a consideration of Luttrell's behavior should take into account that he believed his actions were justified."
+        }
+      ],
+      "correct": "By asserting that a consideration of Luttrell's behavior should take into account that he believed his actions were justified.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Nathaniel Hawthorne's 1830 short story âSir William Phips.â</p><div style=\"margin-left: 40px;\"><p>Few of the personages of past times (except such as have gained renown in fireside legends as well as in written history) are anything but mere names to their successors. They seldom stand up in our imaginations like men. The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the mapâminute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting.</p></div>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Historians are more interested in the lives of famous people than in those of the less famous."
+        },
+        {
+          "name": "B",
+          "content": "The creativity of historians is restricted by the need to write strictly truthful works."
+        },
+        {
+          "name": "C",
+          "content": "The lives of historical figures are usually documented as a collection of facts, rather than as a representation of their personalities."
+        },
+        {
+          "name": "D",
+          "content": "Paintings may be more beautiful than maps, but maps are more useful than paintings."
+        }
+      ],
+      "correct": "The lives of historical figures are usually documented as a collection of facts, rather than as a representation of their personalities.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Why do rusty-spotted cats purr but lions roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Rusty-spotted cats, which are much smaller than lions, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, lions have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that rusty-spotted cats lack. These traits allow lions and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.</p>",
+      "question": "According to the text, which trait do researchers think may contribute to a rusty-spotted cat's ability to purr?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The ligament attaching the hyoid bone to the rusty-spotted cat's skull."
+        },
+        {
+          "name": "B",
+          "content": "The relative size of the rusty-spotted cat's body and throat."
+        },
+        {
+          "name": "C",
+          "content": "The rusty-spotted cat's rigid hyoid bone."
+        },
+        {
+          "name": "D",
+          "content": "The shape of the rusty-spotted cat's larynx."
+        }
+      ],
+      "correct": "The rusty-spotted cat's rigid hyoid bone.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Anton Chekhov's 1898 short story âIonitchâ (translated by Marian Fell in 1915). The text is set in a Russian city referred to as the city of S.</p><p style=\"margin-top: 16px; margin-bottom: 16px;\"></p><blockquote style=\"margin-left: 40px;\">If newcomers to the little provincial city of S. complained that life there was monotonous and dull, its inhabitants would answer that, on the contrary, S. was a very amusing place, indeed, that it had a library and a club, that balls were given there, and finally, that very pleasant families lived there with whom one might become acquainted. And they always pointed to the Turkins as the most accomplished and most enlightened family of all.</blockquote><p></p>",
+      "question": "What does the text suggest about the Turkins?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They are relative newcomers to the city of S."
+        },
+        {
+          "name": "B",
+          "content": "They have a unique status in the city of S."
+        },
+        {
+          "name": "C",
+          "content": "They are amused by the other residents of the city of S."
+        },
+        {
+          "name": "D",
+          "content": "They have long disliked living in the city of S."
+        }
+      ],
+      "correct": "They have a unique status in the city of S.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Members of the Girl Scouts of America, by Age Category.</p><p style=\"text-align: center;\">1992â1995 (in thousands)</p><div style=\"text-align: center;\"><img src=\"/images/affa0cae7a9c5cae637ac4bb3da8bfa3.png\" width=\"318\" height=\"213\" style=\"display: inline-block;\"></div><p style=\"margin-top: 16px; margin-bottom: 16px;\">The Girl Scouts of America is a youth organization that had just over 1 million members in 2021. A student is writing an essay on the history of the organization and wishes to determine which of four categories of Girl Scouts had the most members in 1993. (Girl Scout categories correspond roughly with ages.) According to the table, the category with the most members in 1993 was the ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ambassadors."
+        },
+        {
+          "name": "B",
+          "content": "Brownies."
+        },
+        {
+          "name": "C",
+          "content": "Daisies."
+        },
+        {
+          "name": "D",
+          "content": "Cadettes."
+        }
+      ],
+      "correct": "Brownies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from D.A. Lozanoâs 1844 poem âA Remembrance of Puerto Cabelloâ The Mangleâ (translated by Agnes Blake Poor in 1918). The poem is a dedication to Puerto Cabello, a town on the northern coast of Venezuela.</p><blockquote style=\"margin-left: 40px;\">And while outside the tempest is raving oâer the ocean,<br>And the ship is madly driving on some lone and desert shore;<br>Thy warm and land-locked waters swell with an easy motion,<br>And gently glides the light pirogue [canoe] at dipping of the oar.</blockquote>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It contrasts the tranquility of the waters near Puerto Cabello with the roughness of waters elsewhere."
+        },
+        {
+          "name": "B",
+          "content": "It emphasizes the severity of a storm that is expected to arrive soon in Puerto Cabello."
+        },
+        {
+          "name": "C",
+          "content": "It compares the sturdiness of two types of boats."
+        },
+        {
+          "name": "D",
+          "content": "It describes the speaker's appreciation for the people of Puerto Cabello."
+        }
+      ],
+      "correct": "It contrasts the tranquility of the waters near Puerto Cabello with the roughness of waters elsewhere.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Elaine Ostrander led an international study of domestic dogs with Kevin Bevant and other researchers to explore what causes very small breeds, such as Pomeranians, to be so small. Scientists once thought that smaller dogs came about only after humans started deliberately breeding dogs within the last 12,000 years. But Ostrander's team claims that a certain genetic mutation strongly affects dog size and that the mutation existed long before humans started breeding dogs.</p>",
+      "question": "Which finding, if true, would most directly support the team's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The genetic mutation exists in an ancestor of domestic dogs dating to 53,000 years ago."
+        },
+        {
+          "name": "B",
+          "content": "Wolves are related to domestic dogs but are much bigger than Pomeranians."
+        },
+        {
+          "name": "C",
+          "content": "Some domestic dog breeds that do not have the genetic mutation are very large."
+        },
+        {
+          "name": "D",
+          "content": "Dogs vary in size more than any other type of land mammal does."
+        }
+      ],
+      "correct": "The genetic mutation exists in an ancestor of domestic dogs dating to 53,000 years ago.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Marine archaeologists have found much of the wooden hull of a sixteenth-century ship in a flooded quarry in southeast England. When it is exposed to air and water, wood rots quickly unless it is protected by sediment that shields it from oxygen. Therefore, the discovered ship was likely ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a confirmation of previous theories about the type of wood that was used in sixteenth-century ships."
+        },
+        {
+          "name": "B",
+          "content": "first constructed much earlier than previously thought."
+        },
+        {
+          "name": "C",
+          "content": "one of several other ships buried in the same quarry."
+        },
+        {
+          "name": "D",
+          "content": "covered by a protective sediment layer in the quarry."
+        }
+      ],
+      "correct": "covered by a protective sediment layer in the quarry.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some studies can be done well with relatively little money. For example, a fitness study simply trying to identify the percentage of regular exercisers in a city who do weight training has a straightforward central question that doesn't require many years of data collection. But it is much more expensive to conduct a longitudinal study like the Household, Income and Labour Dynamics in Australia Survey (HILDA), which looks at data for 25,000 people in Australia to find trends in economic well-being that can take a long time to develop. This requires lots of funding because ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": " long-term trends in economic well-being are hard to find without collecting data over many years."
+        },
+        {
+          "name": "B",
+          "content": " fitness studies are not likely to require data from very many individuals."
+        },
+        {
+          "name": "C",
+          "content": "long-term trends in fitness can be found without examining many years of data."
+        },
+        {
+          "name": "D",
+          "content": "data from 25,000 people may not be enough to reveal significant trends in economic well-being."
+        }
+      ],
+      "correct": " long-term trends in economic well-being are hard to find without collecting data over many years.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Soledad LucÃ­a Uran and colleagues found in a 2012 study of brown rats. A meta-analysis of more than 100 such studies examining various species found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group, regardless of whether that difference was beneficial or detrimental for the exposed group. So while a study of birds might show a difference that benefits the exposed group, and a study of mammals might show a difference that's harmful to the exposed group, both differences are substantial. Therefore, the results of the meta-analysis suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the studies of the birds likely found significantly larger effects of exposure to anthropogenic noise than most studies of mammals except the study of brown rats by Soledad Lucia Uran and colleagues."
+        },
+        {
+          "name": "B",
+          "content": "the study conducted by Soledad Lucia Uran and colleagues found substantial differences, but studies included in the meta-analysis of mammals other than brown rats likely did not."
+        },
+        {
+          "name": "C",
+          "content": "exposure to anthropogenic noise will likely have noticeable effects both on mammals such as brown rats and on birds such as European robins, but the nature of that effect could be very different for the two species."
+        },
+        {
+          "name": "D",
+          "content": "the studies in the meta-analysis that examined mammals were more likely than those about birds to specify whether the observed effects were detrimental."
+        }
+      ],
+      "correct": "exposure to anthropogenic noise will likely have noticeable effects both on mammals such as brown rats and on birds such as European robins, but the nature of that effect could be very different for the two species.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2019, the Russian Federation produced 27,016 hectograms per hectare (hg/ha) of wheat, and Serbia produced 43,890 hg/ha. This is the type of information on global food production that the United Nations' Food and Agriculture Organization ______ since 1945.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is collecting"
+        },
+        {
+          "name": "B",
+          "content": "will collect"
+        },
+        {
+          "name": "C",
+          "content": "has collected"
+        },
+        {
+          "name": "D",
+          "content": "collects"
+        }
+      ],
+      "correct": "has collected",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Today's US currency features mainly former presidents. However, it was once common for images of nonpresidents such as Robert Fulton, the inventor of the steamboat, to appear ______ US currency.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "on;"
+        },
+        {
+          "name": "B",
+          "content": "on,"
+        },
+        {
+          "name": "C",
+          "content": "on:"
+        },
+        {
+          "name": "D",
+          "content": "on"
+        }
+      ],
+      "correct": "on",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Both Nakuru, Kenya, and Ibarra, Ecuador, are located at less than one degree latitude. In other words, ______ cities basically sit right on the equator!</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "these"
+        },
+        {
+          "name": "B",
+          "content": "that"
+        },
+        {
+          "name": "C",
+          "content": "this"
+        },
+        {
+          "name": "D",
+          "content": "each"
+        }
+      ],
+      "correct": "these",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many folktales that originate in the Hindi language begin with the same phrase. In English, this phrase ______ roughly to âit's an old story.â</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "to translate"
+        },
+        {
+          "name": "B",
+          "content": "translating"
+        },
+        {
+          "name": "C",
+          "content": "having translated"
+        },
+        {
+          "name": "D",
+          "content": "translates"
+        }
+      ],
+      "correct": "translates",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With residents from Mexico, China, El Salvador, and many other countries, Los Angeles has long been a city of cultural diversity. Even back in the 1860s, nearly 30% of the city's population ______ from outside the United States.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is being"
+        },
+        {
+          "name": "B",
+          "content": "was"
+        },
+        {
+          "name": "C",
+          "content": "will be"
+        },
+        {
+          "name": "D",
+          "content": "is"
+        }
+      ],
+      "correct": "was",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though it was designated as mission ______ mission was actually the ninety-fourth flight under NASA's Space Shuttle Program.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "STS-96, and the"
+        },
+        {
+          "name": "B",
+          "content": "STS-96. The"
+        },
+        {
+          "name": "C",
+          "content": "STS-96 the"
+        },
+        {
+          "name": "D",
+          "content": "STS-96, the"
+        }
+      ],
+      "correct": "STS-96, the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In eastern Mexico, Monument 5 and Monument 2 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ______ they each weigh more than 5 tons!</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In fact,"
+        },
+        {
+          "name": "B",
+          "content": "Earlier,"
+        },
+        {
+          "name": "C",
+          "content": "In any case,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "In fact,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ecologists, such as Gerardo R. Camilo, use trophic pyramids to illustrate the food chain within a given ecosystem. At a typical pyramid's base are primary producers, like phytoplankton, followed by herbivores at the second trophic level, then omnivores and carnivores at the third. ______ at the fourth, highest trophic level are apex predators, like sharks, that feed on the animals below.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In fact,"
+        },
+        {
+          "name": "B",
+          "content": "Besides,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Finally,"
+        }
+      ],
+      "correct": "Finally,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Stephaney Smith has worked at NASA's famed Jet Propulsion Laboratory (JPL), one of the world's leading facilities for robotic space exploration. ______ Smith worked as a hardware quality assurance engineer on JPL's Mars 2020 Perseverance rover team, which improved upon the 2011 Curiosity rover design by adding a coring drill to the robot that could collect rock samples for later analysis.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Conversely,"
+        },
+        {
+          "name": "B",
+          "content": "Finally,"
+        },
+        {
+          "name": "C",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "Specifically,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Elizabeth Catlett (1915-2012) was a celebrated African American artist.</li><li>She is best known for creating sculptures and prints that explore the Black experience.</li><li><i>Political Prisoner</i> is a 1971 cedar sculpture by Catlett.</li><li><i>Singing Head</i> is a 1980 marble sculpture by Catlett.</li></ul></blockquote>",
+      "question": "The student wants to introduce Elizabeth Catlett to an audience unfamiliar with the artist. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In contrast to the 1971 sculpture Political Prisoner, which is made of cedar, the 1980 sculpture Singing Head is made of marble."
+        },
+        {
+          "name": "B",
+          "content": "Political Prisoner is a cedar sculpture that was created in 1971."
+        },
+        {
+          "name": "C",
+          "content": "The sculpture Political Prisoner was made in 1971, and the sculpture Singing Head was made in 1980."
+        },
+        {
+          "name": "D",
+          "content": "Elizabeth Catlett, a celebrated African American artist, is best known for creating sculptures and prints that explore the Black experience."
+        }
+      ],
+      "correct": "Elizabeth Catlett, a celebrated African American artist, is best known for creating sculptures and prints that explore the Black experience.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>The Ramayana</i> is a Sanskrit epic poem from ancient India.</li><li>In <i>The Ramayana</i>, the character Kaikeyi is often portrayed as a villain.</li><li><i>Kaikeyi</i> is a 2022 novel by Vaishnavi Patel.</li><li>The novel is a retelling of the epic poem from Kaikeyi's point of view.</li><li>It often portrays Kaikeyi as heroic.</li></ul></blockquote>",
+      "question": "The student wants to emphasize whose point of view the novel is told from. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Kaikeyi</i> is a retelling of <i>The Ramayana</i> from the character Kaikeyi's point of view."
+        },
+        {
+          "name": "B",
+          "content": "From the point of view of <i>The Ramayana</i>, the character Kaikeyi is often a villain."
+        },
+        {
+          "name": "C",
+          "content": "Vaishnavi Patel often portrays the character as heroic."
+        },
+        {
+          "name": "D",
+          "content": "<i>The Ramayana</i> is an epic poem that features the character Kaikeyi."
+        }
+      ],
+      "correct": "<i>Kaikeyi</i> is a retelling of <i>The Ramayana</i> from the character Kaikeyi's point of view.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Louis Ballard was a classical composer and citizen of the Quapaw Tribe.</li><li>His compositions synthesize Western classical music with elements of various Native musical traditions.</li><li>Ballard's classical piece <i>Live On, Heart of My Nation</i> features a Choctaw hymn.</li><li>Ballard's classical piece <i>Fantasy Aborigine No.3</i> incorporates a Tewa seashell rattle, a traditional Native instrument.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Live On, Heart of My Nation</i> and <i>Fantasy Aborigine No.3</i> are two compositions written by Ballard, a classical music composer."
+        },
+        {
+          "name": "B",
+          "content": "In his two compositions <i>Live On, Heart of My Nation</i> and <i>Fantasy Aborigine No.3</i>, Ballard blends elements of various Native musical traditions, such as Indigenous hymns or instruments, with Western classical music."
+        },
+        {
+          "name": "C",
+          "content": "While both compositions integrate various Native musical traditions, <i>Live On, Heart of My Nation</i> does so by featuring a Choctaw hymn and <i>Fantasy Aborigine No.3</i> does so by incorporating a Tewa seashell rattle."
+        },
+        {
+          "name": "D",
+          "content": "Ballard has different approaches to blending Western classical music with elements of various Native musical traditions, such as using Indigenous hymns and instruments in his compositions."
+        }
+      ],
+      "correct": "While both compositions integrate various Native musical traditions, <i>Live On, Heart of My Nation</i> does so by featuring a Choctaw hymn and <i>Fantasy Aborigine No.3</i> does so by incorporating a Tewa seashell rattle.",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "uuid": "73482b52-a20f-452d-896f-76f578ac2361",
+  "chunk": "CrTZrsRE.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Becoming a member of the organization Indigenous Photograph has helped Sara Aliaga Ticona (Aymara) to ______ her work with an audience beyond Bolivia, where she's from. The organization's database of members is used by photography editors and others in the media industry around the world.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "share"
+        },
+        {
+          "name": "B",
+          "content": "split"
+        },
+        {
+          "name": "C",
+          "content": "challenge"
+        },
+        {
+          "name": "D",
+          "content": "examine"
+        }
+      ],
+      "correct": "share",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Since the Hubble Space Telescope was launched into space in 1990, astronauts have needed to complete regular missions to repair the telescope and keep it working smoothly. Researchers hope that robots will soon be able to make these repairs. Employing robots instead of humans to make repairs will be helpful, as ______ astronauts to maintain the telescope can be expensive.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "straightening"
+        },
+        {
+          "name": "B",
+          "content": "relying on"
+        },
+        {
+          "name": "C",
+          "content": "reducing"
+        },
+        {
+          "name": "D",
+          "content": "forgetting about"
+        }
+      ],
+      "correct": "relying on",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1776, the United States sent Benjamin Franklin to France to try to win the country's support in the United States' fight for independence from Great Britain. Franklin was very popular in France. This <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> surely helped him to convince France to assist the United States.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "controversy"
+        },
+        {
+          "name": "B",
+          "content": "sincerity"
+        },
+        {
+          "name": "C",
+          "content": "esteem"
+        },
+        {
+          "name": "D",
+          "content": "thoughtfulness"
+        }
+      ],
+      "correct": "esteem",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The creation of Lotte Reiniger's 1926 animated film <i>The Adventures of Prince Achmed</i> was ______ process. Over the course of three years, Reiniger and her collaborators painstakingly made more than 250,000 individual images of hand-cut paper silhouettes and repeatedly had to invent entirely new methods and tools to create the special effects Reiniger envisioned.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a haphazard"
+        },
+        {
+          "name": "B",
+          "content": "a contentious"
+        },
+        {
+          "name": "C",
+          "content": "an ineffectual"
+        },
+        {
+          "name": "D",
+          "content": "an arduous"
+        }
+      ],
+      "correct": "an arduous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Yung Wing's 1909 memoir <i>My Life in China and America</i>. Yung Wing was the first American college graduate of Chinese heritage; Phoebe Brown was the first prominent female hymn writer in the United States.</p><blockquote style=\"margin-left: 40px;\">I look back upon my acquaintance with Mrs. Phoebe H. Brown with a mingled feeling of respect and admiration. She certainly was a remarkable New England woman-a woman of surpassing strength of moral and religious character. <u>Those who have had the rare privilege of reading her stirring biography, will, I am sure, bear me out in this statement</u>. She went through the crucible of unprecedented adversities and trials of life and came out one of the rare shining lights that beautify the New England sky.</blockquote>",
+      "question": "Which choice best describes the function of the reference to Brown's biography in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It emphasizes that Brown's life has been a popular subject for writers because it was so remarkable."
+        },
+        {
+          "name": "B",
+          "content": "It suggests that other people who are familiar with Brown's life would share the author's view of her."
+        },
+        {
+          "name": "C",
+          "content": "It explains why Brown was unique amongst her peers."
+        },
+        {
+          "name": "D",
+          "content": "It describes the nature of the relationship between Yung and Brown."
+        }
+      ],
+      "correct": "It suggests that other people who are familiar with Brown's life would share the author's view of her.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Mary Shelley's 1818 novel <i>Frankenstein</i>. Victor Frankenstein, who is narrating this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.</p><blockquote style=\"margin-left: 40px;\">The untaught peasant beheld the elements around him and was acquainted with their practical uses. The most learned philosopher knew little more. He had partially unveiled the face of Nature, but her immortal lineaments were still a wonder and a mystery. <u>He might dissect, anatomise, and give names, but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him.</u> I had gazed upon the fortifications and impediments that seemed to keep human beings from entering the citadel of nature, and rashly and ignorantly I had repined.</blockquote>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains what can be gained from a scientific approach to understanding natural phenomena."
+        },
+        {
+          "name": "B",
+          "content": "It describes an intensely debated scientific controversy that Victor dedicated his life to resolving."
+        },
+        {
+          "name": "C",
+          "content": "It undermines the idea that a practical approach to understanding natural phenomena is inferior to a scientific approach."
+        },
+        {
+          "name": "D",
+          "content": "It suggests that Victor did not discover what he wanted to know from the scientific research available to him."
+        }
+      ],
+      "correct": "It suggests that Victor did not discover what he wanted to know from the scientific research available to him.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 1940s, Evelyn Cunningham worked for the Pittsburgh Courier, focusing on coverage of the early civil rights movement. Cunningham's accomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National Association of Black Journalists, which was founded in Washington, D.C. in 1975 to support Black media professionals and honor people like Cunningham.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The National Association of Black Journalists was founded in Washington, DC, in the 1900s."
+        },
+        {
+          "name": "B",
+          "content": "Black journalists has an interesting history both inside and outside the United States."
+        },
+        {
+          "name": "C",
+          "content": "Cunningham's achievements are often overlooked in countries other than the United States."
+        },
+        {
+          "name": "D",
+          "content": "Black journalism in the United States has an important history that the National Association of Black Journalists helps to honor."
+        }
+      ],
+      "correct": "Black journalism in the United States has an important history that the National Association of Black Journalists helps to honor.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Why do ocelots purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Ocelots, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that ocelots lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Both ocelots and jaguars have U-shaped hyoid bones, but ocelotsâ hyoids are rigid whereas jaguars' hyoids are flexible."
+        },
+        {
+          "name": "B",
+          "content": "Researchers are uncertain why relatively small cats, such as ocelots, purr but relatively large cats, such as jaguars, roar."
+        },
+        {
+          "name": "C",
+          "content": "Jaguars and most other species of big cats can roar because they have flexible hyoid bones that are attached by stretchy ligaments to their skulls."
+        },
+        {
+          "name": "D",
+          "content": "Differences related to the hyoid bone in ocelots and jaguars may help explain why one species purrs and the other roars."
+        }
+      ],
+      "correct": "Differences related to the hyoid bone in ocelots and jaguars may help explain why one species purrs and the other roars.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>âCoyoteâ is an example of a loanwordâthat is, a word that originated in one language and was later adopted by another. The word came to English indirectly from <i>coyote</i>, the Spanish word for the wild canine species. Spanish had borrowed it from Nahuatl, an Indigenous language of Central Mexico, in which the word's original form is <i>coyotl</i>. âCondorâ also has an Indigenous origin and entered English through Spanish, but in this case, the original source was Quechua, a language of South America, in which the word for the large vulture species is <i>kuntur</i>.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The English words âcoyoteâ and âcondorâ are both examples of loanwords from Indigenous languages."
+        },
+        {
+          "name": "B",
+          "content": "When borrowing from Indigenous languages, Spanish adopted roughly as many words from Nahuatl as from Quechua."
+        },
+        {
+          "name": "C",
+          "content": "Many Spanish words with Indigenous origins first passed through English before entering Spanish."
+        },
+        {
+          "name": "D",
+          "content": "When non-Indigenous languages borrowed from Indigenous languages, the words often underwent a significant change in meaning."
+        }
+      ],
+      "correct": "The English words âcoyoteâ and âcondorâ are both examples of loanwords from Indigenous languages.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many believe that lullabies, characterized by their slow tempos, contain some acoustic features that are universally calming to infants. In a study, Constance M. Bainbridge and colleagues played both a lullaby sung in the Luk Saami language and a non-lullaby sung in the Tundra Nenets language to a group of infants. The researchers also measured the infantsâ heart rates, as a reduced heart rate is considered a measure of relaxation. They claim that the lullaby did indeed relax the infants.</p>",
+      "question": "Which finding, if true, would most directly support Bainbridge and colleagues' claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The heart rates of infants in the study were more irregular during the lullabies than during non-lullabies."
+        },
+        {
+          "name": "B",
+          "content": "Infants' heart rates were substantially lower during the lullaby than during the non-lullaby."
+        },
+        {
+          "name": "C",
+          "content": "Parents of infants in the study chose the lullaby over the non-lullaby when asked which song they would use to calm their child."
+        },
+        {
+          "name": "D",
+          "content": "Both the song in Luk Saami and the song in Tundra Nenets were sung by a female singer."
+        }
+      ],
+      "correct": "Infants' heart rates were substantially lower during the lullaby than during the non-lullaby.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>A Pair of Silk Stockings</i> is an 1897 short story by Kate Chopin. In the story, Mrs. Sommers is depicted as sometimes making decisions without conscious deliberation: ______</p>",
+      "question": "Which quotation from <i>A Pair of Silk Stockings</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âShe handed the girl a five-dollar bill and waited for her change and for her parcel. What a very small parcel it was!â"
+        },
+        {
+          "name": "B",
+          "content": "âShe had no time, no second of time to devote to the past. The needs of the present absorbed her every faculty.â"
+        },
+        {
+          "name": "C",
+          "content": "âShe was not thinking at all. She seemed for the time to be taking a rest from that laborious and fatiguing function and to have abandoned herself to some mechanical impulse that directed her actions and freed her of responsibility.â"
+        },
+        {
+          "name": "D",
+          "content": "âMrs. Sommers selected a black pair and looked at them very long and closely. She pretended to be examining their texture, which the clerk assured her was excellent.â"
+        }
+      ],
+      "correct": "âShe was not thinking at all. She seemed for the time to be taking a rest from that laborious and fatiguing function and to have abandoned herself to some mechanical impulse that directed her actions and freed her of responsibility.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Austria and Turkey, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an experimenter's instruction to laugh. Analysis of the participants' evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.</p>",
+      "question": "Which quotation from a psychologist not involved in the team's study would most directly weaken the team's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âWhen an individual chooses to produce volitional laughter in a natural social context, the laughter often shares certain acoustic qualities, such as pitch and fluctuation of intensity, with spontaneous laughter.â"
+        },
+        {
+          "name": "B",
+          "content": "âAlthough the team considered the average size of communities in each society in the study, that demographic factor was found to have no effect on listeners' identifications of laughter as spontaneous or volitional.â"
+        },
+        {
+          "name": "C",
+          "content": "âJudgments of spontaneous laughter are often associated with acoustic features such as greater intensity variability and higher pitch.â"
+        },
+        {
+          "name": "D",
+          "content": "âRecent studies in communications have shown that certain acoustic features of spontaneous laughter, such as pitch and intensity, are consistent both within and across societies.â"
+        }
+      ],
+      "correct": "âWhen an individual chooses to produce volitional laughter in a natural social context, the laughter often shares certain acoustic qualities, such as pitch and fluctuation of intensity, with spontaneous laughter.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/018574b3f1f1b48a582e170247332628.png\" width=\"459\" height=\"690\"></div>\n<p>To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the forest cover area across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region's climate, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By the mid-1980s, however, increased public awareness and environmental reforms, along with a decline in meat prices, triggered a natural regrowth process, as evident by the ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "increase in the forest cover area for all classes from 1979 to 2000."
+        },
+        {
+          "name": "B",
+          "content": "similarity in forest cover area in Class I-IV and Class VII in 1986."
+        },
+        {
+          "name": "C",
+          "content": "difference between the forest cover area in Class I-IV and in Class VI in 2000."
+        },
+        {
+          "name": "D",
+          "content": "decrease in the forest cover area for all classes from 1960 to 1979."
+        }
+      ],
+      "correct": "increase in the forest cover area for all classes from 1979 to 2000.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>There are over 150 species of the cactus genus <i>Mammillaria</i> throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of them, like <i>M. knippeliana</i>, restricted to only one state. The fact that this genus has not been observed in eastern and western Coahuila has been attributed to a lack of appropriate habitat, but much of the landscape in this area is notoriously inaccessible, which suggests that _________</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>M. knippeliana</i> may have been overlooked in eastern and western Coahuila because of its similarity to another species."
+        },
+        {
+          "name": "B",
+          "content": "the current methods of collecting and tracking <i>Mammillaria</i> species throughout Mexico may cause an overestimation of the number of species in this genus."
+        },
+        {
+          "name": "C",
+          "content": "the perceived absence of <i>Mammillaria</i> in eastern and western Coahuila may be due to insufficient exploration of the region."
+        },
+        {
+          "name": "D",
+          "content": "the dense vegetation and high annual precipitation levels in eastern and western Coahuila impede the ability of <i>Mammillaria</i> species to survive."
+        }
+      ],
+      "correct": "the perceived absence of <i>Mammillaria</i> in eastern and western Coahuila may be due to insufficient exploration of the region.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The 1958 poem \"The Ghost's Leavetaking\" by American author Sylvia Plath ___ the first use of the word \"dreamscape.\"</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "having contained"
+        },
+        {
+          "name": "B",
+          "content": "to contain"
+        },
+        {
+          "name": "C",
+          "content": "containing"
+        },
+        {
+          "name": "D",
+          "content": "contains"
+        }
+      ],
+      "correct": "contains",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Florence EstÃ© and Lily Everett were among the 300 artists who exhibited at the 1913 Armory Show, a groundbreaking New York City art exhibition that introduced modernism to American audiences. Though shocking at the time, an abstract cubist painting exhibited by Marcel Duchampâone of several works that received scorn from criticsâ__________ the Western art canon more than a century later.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "were entering"
+        },
+        {
+          "name": "B",
+          "content": "enter"
+        },
+        {
+          "name": "C",
+          "content": "has entered"
+        },
+        {
+          "name": "D",
+          "content": "have entered"
+        }
+      ],
+      "correct": "has entered",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Increasing the heat on an uncovered boiling pot of water does not increase the temperature of the water. What increases is the rate at which the water turns to ______ a pressure cooker pot, though, an airtight seal traps the vapor in the pot, creating pressure that allows the temperature of the water to increase past its boiling point.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "vapor. With"
+        },
+        {
+          "name": "B",
+          "content": "vapor and with"
+        },
+        {
+          "name": "C",
+          "content": "vapor, with"
+        },
+        {
+          "name": "D",
+          "content": "vapor with"
+        }
+      ],
+      "correct": "vapor. With",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Each year, a Nobel Prize in Literature is given to an author who has, in the words of its founder Alfred Nobel, âproduced the most outstanding work in an idealistic ______ in 1912, for instance, judges recognized Gerhart Johann Robert Hauptmann \"[for] his fruitful, varied and outstanding production in the realm of dramatic art.â</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "direction\""
+        },
+        {
+          "name": "B",
+          "content": "direction\" and,"
+        },
+        {
+          "name": "C",
+          "content": "direction\";"
+        },
+        {
+          "name": "D",
+          "content": "direction,\""
+        }
+      ],
+      "correct": "direction\";",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With a blend of traditional design elements, such as arched Gothic ceilings, and modern ones, such as floor-to-ceiling ______ design splits the difference between old and new, a mixture that is increasingly seen in home interiors in the US.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "windows; transitional"
+        },
+        {
+          "name": "B",
+          "content": "windows. Transitional"
+        },
+        {
+          "name": "C",
+          "content": "windowsâtransitional"
+        },
+        {
+          "name": "D",
+          "content": "windows, transitional"
+        }
+      ],
+      "correct": "windows, transitional",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Paintings by the renowned twentieth-century US ______ were featured in <i>Artist to Artist</i>, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "artists Thomas Hart Benton, and Jackson Pollack,"
+        },
+        {
+          "name": "B",
+          "content": "artists: Thomas Hart Benton and Jackson Pollack,"
+        },
+        {
+          "name": "C",
+          "content": "artists Thomas Hart Benton and Jackson Pollack"
+        },
+        {
+          "name": "D",
+          "content": "artists, Thomas Hart Benton and Jackson Pollack"
+        }
+      ],
+      "correct": "artists Thomas Hart Benton and Jackson Pollack",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In March 1862, John Ahoy joined the US Navy, where he went on to serve aboard the <i>USS Pinola</i> during the US Civil War. ______ he earned a place in US history as one of the war's few Chinese-born American soldiers.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In any case,"
+        },
+        {
+          "name": "B",
+          "content": "Finally,"
+        },
+        {
+          "name": "C",
+          "content": "For instance,"
+        },
+        {
+          "name": "D",
+          "content": "In doing so,"
+        }
+      ],
+      "correct": "In doing so,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The London Array, an offshore wind farm located off the coast of England, produces about 630 megawatts (MW) of electricity per year. __________ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As a result,"
+        },
+        {
+          "name": "B",
+          "content": "That is,"
+        },
+        {
+          "name": "C",
+          "content": "By comparison,"
+        },
+        {
+          "name": "D",
+          "content": "For instance,"
+        }
+      ],
+      "correct": "By comparison,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1974, Mexican chemist Mario Molina and US chemist F. Sherwood Rowland discovered that chemicals called CFCs were harmful to the ozone layer. Their research was extremely influential in the fight against CFCs. ______ it laid the foundation for a 1987 treaty that phased out the use of CFCs across the globe.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "Regardless,"
+        },
+        {
+          "name": "C",
+          "content": "Earlier,"
+        },
+        {
+          "name": "D",
+          "content": "However,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the Airbus A320 jet, __________, helps it glide through wind with relative ease, while a boxy pickup truck encounters more wind resistance, making it less aerodynamic.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "for example"
+        },
+        {
+          "name": "B",
+          "content": "additionally"
+        },
+        {
+          "name": "C",
+          "content": "meanwhile"
+        },
+        {
+          "name": "D",
+          "content": "however"
+        }
+      ],
+      "correct": "for example",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Springtails are a group of noninsect hexapods (six-legged animals).</li><li>Researchers Claudia Marcela Ospina-SÃ¡nchez, Felipe N. Soto-Adames, and Grizelle GonzÃ¡lez conducted a study to determine how many springtail species are present in Puerto Rico.</li><li>They found a total of 146 springtail species.</li><li>They found 1 springtail species belonging to the genus <i>Hemisotoma</i>.</li><li>They found 3 springtail species belonging to the genus <i>Sphaeridia</i>.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to present the study and its findings?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In Puerto Rico, the genus <i>Hemisotoma</i> contains one springtail species, and the genus <i>Sphaeridia</i>."
+        },
+        {
+          "name": "B",
+          "content": "According to a study by researchers Claudia Marcela Ospina-SÃ¡nchez, Felipe N. Soto-Adames, and Grizelle GonzÃ¡lez, there are 146 springtail species present in Puerto Rico, including one from the genus <i>Hemisotoma</i> and three from the genus <i>Sphaeridia</i>."
+        },
+        {
+          "name": "C",
+          "content": "Researchers Claudia Marcela Ospina-SÃ¡nchez, Felipe N. Soto-Adames,and Grizelle GonzÃ¡lez studied springtails in Puerto Rico, and they wanted to know how many species there are in the genus <i>Hemisotoma</i> and the genus <i>Sphaeridia</i>."
+        },
+        {
+          "name": "D",
+          "content": "There are 146 species of springtail (noninsect hexapods) in Puerto Rico, but there are more species from the genus <i>Sphaeridia</i> than from the genus <i>Hemisotoma</i>."
+        }
+      ],
+      "correct": "According to a study by researchers Claudia Marcela Ospina-SÃ¡nchez, Felipe N. Soto-Adames, and Grizelle GonzÃ¡lez, there are 146 springtail species present in Puerto Rico, including one from the genus <i>Hemisotoma</i> and three from the genus <i>Sphaeridia</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A merchant vessel is any ship hired to carry cargo or passengers. Common merchant vessels include bulk carriers, cruise liners, and oil tankers.</li><li>A vessel's carrying capacity is also known as its deadweight tonnage (DWT).</li><li>In 2021, there were a total of 1,236 merchant vessels registered in Greece.</li><li>The combined DWT of these vessels was 64.9 million tons.</li></ul></blockquote>",
+      "question": "The student wants to explain what a merchant vessel is and provide examples. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "There were a total of 1,236 ships hired to carry cargo or passengers registered in Greece in 2021."
+        },
+        {
+          "name": "B",
+          "content": "The carrying capacity of bulk carriers, cruise liners, and oil tankers is measured in deadweight tonnage."
+        },
+        {
+          "name": "C",
+          "content": "A merchant vessel is any ship hired to carry cargo or passengers like bulk carriers, cruise liners, and oil tankers."
+        },
+        {
+          "name": "D",
+          "content": "In total, Greece's 1,236 merchant vessels had a carrying capacity of 64.9 million tons in 2021."
+        }
+      ],
+      "correct": "A merchant vessel is any ship hired to carry cargo or passengers like bulk carriers, cruise liners, and oil tankers.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Musicians around the world have used protest songs to raise awareness about human rights violations.</li><li>US folk singer Aunt Molly Jackson released the protest song <i>Poor Miner's Farewell</i> in 1932.</li><li>It exposed the unlivable wages and dangerous working conditions coal miners faced in Kentucky during the 1920s and 1930s.</li><li>South African singer-songwriter Hugh Masekela released the protest song <i>Bring Him Back Home</i> in 1987.</li><li>It called on the South African government to free Nelson Mandela, an anti-apartheid leader who'd been unjustly imprisoned.</li></ul></blockquote>",
+      "question": "The student wants to contrast the song <i>Poor Miner's Farewell</i> with the song <i>Bring Him Back Home</i>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While both are protest songs, <i>Poor Miner's Farewell</i> is about coal miners in Kentucky, whereas <i>Bring Him Back Home</i> is about the anti-apartheid leader Nelson Mandela."
+        },
+        {
+          "name": "B",
+          "content": "Hugh Masekala's song <i>Bring Him Back Home</i>, released in 1987, called on the South African government to free Nelson Mandela."
+        },
+        {
+          "name": "C",
+          "content": "The songs <i>Poor Miner's Farewell</i> and <i>Bring Him Back Home</i> both raised awareness about human rights violations."
+        },
+        {
+          "name": "D",
+          "content": "Released in 1932 by Aunt Molly Jackson, the song <i>Poor Miner's Farewell</i> was a protest against the unlivable wages and dangerous working conditions faced by Kentucky coal miners."
+        }
+      ],
+      "correct": "While both are protest songs, <i>Poor Miner's Farewell</i> is about coal miners in Kentucky, whereas <i>Bring Him Back Home</i> is about the anti-apartheid leader Nelson Mandela.",
+      "solution": ""
+    }
+  ]
+}

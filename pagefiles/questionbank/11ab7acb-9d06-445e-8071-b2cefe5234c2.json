@@ -1,0 +1,682 @@
+{
+  "uuid": "11ab7acb-9d06-445e-8071-b2cefe5234c2",
+  "chunk": "BJpwiQGs.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Text corpora such as the Brown Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word \"know\" appears quite often in written English could ______ that assumption with data from a corpus: \"know\" is the eighth most commonly used verb.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "substantiate"
+        },
+        {
+          "name": "B",
+          "content": "entail"
+        },
+        {
+          "name": "C",
+          "content": "transpose"
+        },
+        {
+          "name": "D",
+          "content": "refute"
+        }
+      ],
+      "correct": "substantiate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Gertrude Ederle, who was the first woman to swim across the English channel, and Wanda Rutkiewicz, who was the first woman to summit K2 (the second tallest mountain in the world), are ensured lasting places in our historical memory. No matter what others may do in the future, nobody can ever ______ these women as the first to accomplish these feats.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "stipulate"
+        },
+        {
+          "name": "B",
+          "content": "induce"
+        },
+        {
+          "name": "C",
+          "content": "supplant"
+        },
+        {
+          "name": "D",
+          "content": "engender"
+        }
+      ],
+      "correct": "supplant",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>During the 2007-2010 financial crisis, the United States furnished billions of dollars to selected countries' central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries' policy environments seem to have been ______ swap-line decisions: the probability that banks would be granted swap lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such inflows.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "material to"
+        },
+        {
+          "name": "B",
+          "content": "predicated on"
+        },
+        {
+          "name": "C",
+          "content": "decoupled from"
+        },
+        {
+          "name": "D",
+          "content": "mediated by"
+        }
+      ],
+      "correct": "material to",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The <i>Darlington</i> is just one of approximately three million known historical shipwrecks spread throughout the world's oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Rachel Moseley and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It introduces a study of microbial communities near shipwrecks that has received significant scholarly attention, summarizes the results of that study, and then describes a research team's reaction to the study."
+        },
+        {
+          "name": "B",
+          "content": "It states the number of known shipwrecks, describes the historical significance of one of those shipwrecks, and then comments on the various microbes found at the shipwreck site."
+        },
+        {
+          "name": "C",
+          "content": "It names a famous historical shipwreck, describes the type of wood used to build that ship, and then explains how that wood type influences underwater microbial communities."
+        },
+        {
+          "name": "D",
+          "content": "It notes a general scientific interest in shipwrecks' ecological effects, describes a specific study related to that interest, and then states one of the study's findings."
+        }
+      ],
+      "correct": "It notes a general scientific interest in shipwrecks' ecological effects, describes a specific study related to that interest, and then states one of the study's findings.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Yung Wing's 1909 memoir <i>My Life in China and America</i>. Yung Wing was the first person from China to graduate from a US university.</p><blockquote style=\"margin-left: 40px;\"><u>Little did I realize when in 1845 I wrote, while in the Morrison school, a composition on \"An Imaginary Voyage to New York and up the Hudson,\" that I was to see New York in reality.</u> This incident leads me to the reflection that sometimes our imagination foreshadows what lies uppermost in our minds and brings possibilities within the sphere of realities.</blockquote>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It indicates Yung's unwillingness to distinguish between reality and fantasy as a child."
+        },
+        {
+          "name": "B",
+          "content": "It foreshadows Yung's future difficulties in publishing his writings."
+        },
+        {
+          "name": "C",
+          "content": "It describes an event in Yung's life that exemplifies a phenomenon."
+        },
+        {
+          "name": "D",
+          "content": "It illustrates the sense of adventure that Yung developed as a child."
+        }
+      ],
+      "correct": "It describes an event in Yung's life that exemplifies a phenomenon.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Paintings by the Florida Highwaymenâan informal collective of prolific landscape artists active in Florida during the 1950s and '60sâare recognizable by their reiteration of the same general compositional structures and subjects: moonlit waters and poinciana trees, to name two. But there was room for individuation: Al Black's <i>Sunset Backwater Scene with Egrets</i>, for example, may resemble other Highwaymen paintings at first glance, but his works stand out for their comparative bleakness and minimalism.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes an aesthetic framework shared by a particular group of artists and then makes and illustrates the claim that individuals introduced variations within that framework."
+        },
+        {
+          "name": "B",
+          "content": "It describes the common perception that a particular group of artists' works are derivative and then provides a specific piece of evidence that reinforces that perception."
+        },
+        {
+          "name": "C",
+          "content": "It explains how a particular group of artists began collaborating and then recounts how one member of that group became especially influential among them."
+        },
+        {
+          "name": "D",
+          "content": "It offers historical context that accounts for a particular group of artists' shared style and then indicates the circumstances under which several members of that group began exploring more unconventional themes."
+        }
+      ],
+      "correct": "It describes an aesthetic framework shared by a particular group of artists and then makes and illustrates the claim that individuals introduced variations within that framework.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Text 1 is adapted from E.M. Forster's 1910 novel <i>Howards End</i>. Text 2 discusses <i>Howards End</i>. King's Cross and St. Pancras are adjacent railway terminals in London from which trains travel to the countryside.</p><p><b>Text 1</b><br>To Margaret the station of King's Cross had always suggested infinity. Its very situationâwithdrawn a little behind the facile splendours of St. Pancrasâimplied a comment on the materialism of life. Those two great arches, colourless, indifferent, shouldering between them an unlovely clock, were fit portals for some eternal adventure, whose issue might be prosperous, but would certainly not be in the ordinary language of prosperity.</p><p><b>Text 2</b><br>The interplay between opposing ideological positions in <i>Howards End</i> is broadly articulated in the novel's organization of geographic space. On the one hand, the modern metropolis of London represents capitalism's emphasis on pragmatism and the accumulation of material wealth; on the other, the English countryside, accessible via King's Cross, fosters an idealism that values tradition, authentic personal connection, and the aestheticâwhat the novel calls \"the infinite.\"</p>",
+      "question": "Based on the texts, the author of Text 2 would most likely agree with which statement about King's Cross, as it is depicted in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As a point of connection between London and the countryside, King's Cross suggests to Margaret the possibility of acquiring the intangible abundance promised by the kinds of authentic engagements that the novel's rural spaces seem to offer."
+        },
+        {
+          "name": "B",
+          "content": "Because it is situated at the beginning of Margaret's journey from the city to the country, King's Cross emblematizes the intrusion of the forces of materialism and modernity into the rural spaces that the novel associates with idealism and tradition."
+        },
+        {
+          "name": "C",
+          "content": "The austerity conveyed by King's Cross's appearance mirrors Margaret's disillusionment with the prospect of having authentic connections with other people in a world that chiefly values more conventional forms of prosperity."
+        },
+        {
+          "name": "D",
+          "content": "King's Cross has a relatively unassuming appearance whose sharp contrast with the more aesthetically pleasing appearance of St. Pancras suggests to Margaret the ascendancy of the pragmatic capitalistic outlook among London's inhabitants."
+        }
+      ],
+      "correct": "As a point of connection between London and the countryside, King's Cross suggests to Margaret the possibility of acquiring the intangible abundance promised by the kinds of authentic engagements that the novel's rural spaces seem to offer.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though John Crowley, author of <i>Engine Summer</i>, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet John Hollander and the literary critic Harold Bloom. According to journalist Graeme Wood, Bloom claimed to have read Crowley's novel <i>Little, Big</i> at least forty-six times, and in his posthumously published afterword to a 2022 edition of the book, Bloom rhetorically asked: \"How many living authors of prose romance are universally relevant? Only Crowley.\"</p>",
+      "question": "What is the main topic of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The similarities between the prose of John Crowley and the poetry of John Hollander."
+        },
+        {
+          "name": "B",
+          "content": "The characteristics of John Crowley's work that make it universally relevant."
+        },
+        {
+          "name": "C",
+          "content": "The reason why the work of John Crowley is not as commercially successful as it deserves to be."
+        },
+        {
+          "name": "D",
+          "content": "The reception of the work of John Crowley."
+        }
+      ],
+      "correct": "The reception of the work of John Crowley.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/95cfbdb5283a4cc20a5d54d497214160.png\" width=\"538\" height=\"279\"></div><p>Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler darker mesophotic zone (30 to 150 meters below the surface). However it isn't clear that such species will be able to tolerate mesophotic conditions. In 2018, Hudson Pinheiro and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Agaricia grahamae, because its minimum depth of 20 meters is in the shallow zone."
+        },
+        {
+          "name": "B",
+          "content": "Acropora anthocercis, because its maximum depth of 10 meters is furthest from the mesophotic zone."
+        },
+        {
+          "name": "C",
+          "content": "Acropora striata, because its maximum depth of 25 meters is close to but doesn't reach the mesophotic zone."
+        },
+        {
+          "name": "D",
+          "content": "Danafungia scruposa, because its minimum depth of 1 meter is the shallowest of those listed."
+        }
+      ],
+      "correct": "Acropora anthocercis, because its maximum depth of 10 meters is furthest from the mesophotic zone.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Rafael NÃºnez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as jare, a past-oriented expression that translates to \"day before yesterday,\" and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, Hebrew speakers often refer to the right/left axis to describe events in time. Some researchers believe this tendency is universal, but NÃºnez and colleagues claim this is not the case.</p>",
+      "question": "Which finding, if true, would most directly support NÃºnez and colleagues' claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented."
+        },
+        {
+          "name": "B",
+          "content": "Future-oriented gestures used by Yupno speakers do not, on average, point in the opposite linear direction of past-oriented gestures."
+        },
+        {
+          "name": "C",
+          "content": "Some Yupno grammatical structures used when talking about time are also used in Hebrew."
+        },
+        {
+          "name": "D",
+          "content": "Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors."
+        }
+      ],
+      "correct": "Future-oriented gestures used by Yupno speakers do not, on average, point in the opposite linear direction of past-oriented gestures.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/081740254fe45f0a4dd0c3138188a4e7.png\" width=\"579\" height=\"510\"></div><p>Researchers investigated how enjoyment of a story is affected when it has been spoiled (when the reader has foreknowledge of an important plot development). As part of the study, participants rated their enjoyment of one story that was spoiled before they read it and one story that was unspoiled. For each story, participants who had been given a spoiler reported greater enjoyment than did those who hadn't received a spoiler. But the degree of this difference varied across the stories, as is best illustrated by the enjoyment ratings for ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"Owl Creek Bridge\" and \"A Chess Problem.\""
+        },
+        {
+          "name": "B",
+          "content": "\"The Calm\" and \"Plumbing.\""
+        },
+        {
+          "name": "C",
+          "content": "\"Blitzed\" and \"Plumbing.\""
+        },
+        {
+          "name": "D",
+          "content": "\"Blitzed\" and \"A Chess Problem.\""
+        }
+      ],
+      "correct": "\"Owl Creek Bridge\" and \"A Chess Problem.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.</p>",
+      "question": "Which finding, if true, would most directly support the text's claim about wireless communication devices?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices."
+        },
+        {
+          "name": "B",
+          "content": "The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters."
+        },
+        {
+          "name": "C",
+          "content": "The CFRP electrode is incompatible with most wireless communication devices."
+        },
+        {
+          "name": "D",
+          "content": "The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices."
+        }
+      ],
+      "correct": "Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are."
+        },
+        {
+          "name": "B",
+          "content": "although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees."
+        },
+        {
+          "name": "C",
+          "content": "although bumblebees and many other wild bees have experienced similar population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction."
+        },
+        {
+          "name": "D",
+          "content": "because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees."
+        }
+      ],
+      "correct": "because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm<sup>2</sup>). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm<sup>2</sup>. Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode."
+        },
+        {
+          "name": "B",
+          "content": "as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles."
+        },
+        {
+          "name": "C",
+          "content": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode."
+        },
+        {
+          "name": "D",
+          "content": "electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions."
+        }
+      ],
+      "correct": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The ratio of methane to other atmospheric constituentsârepresented by a measure called the methane mole fractionâinfluences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn's largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model's developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "some disagreements between the model's simulations of Titan's precipitation and humidity and the moon's actual precipitation and humidity are to be expected."
+        },
+        {
+          "name": "B",
+          "content": "even though the model's outputs sometimes agree with observational data, Titan's real methane mole fraction is likely higher than the methane mole fraction used in the model."
+        },
+        {
+          "name": "C",
+          "content": "further observations of Titan may clarify the moon's methane mole fraction sufficiently for the model to employ a single value rather than a range."
+        },
+        {
+          "name": "D",
+          "content": "inconsistencies across the model's simulations of Titan's precipitation and humidity could be attributable to variations in the moon's methane mole fraction."
+        }
+      ],
+      "correct": "some disagreements between the model's simulations of Titan's precipitation and humidity and the moon's actual precipitation and humidity are to be expected.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>An emulsifier is a type of compound that serves to stabilize an emulsionâa mixture of two or more liquids that otherwise would not easily blend together. In the cosmetics industry, emulsifiers such as cetyl hydroxyethylcellulose ______ to blend oil and water into homogeneous formulations, like lotions and perfumes.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "are employed"
+        },
+        {
+          "name": "B",
+          "content": "employed"
+        },
+        {
+          "name": "C",
+          "content": "that they employ"
+        },
+        {
+          "name": "D",
+          "content": "being employed"
+        }
+      ],
+      "correct": "are employed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Proto-Nilotic is a hypothesized ancestor of the Nilotic family of languages, and, as such, its theoretical linguistic properties ______ those traits common among its fifty-five Nilotic descendants, traits identified and compiled by way of comparative analyses.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "having reflected"
+        },
+        {
+          "name": "B",
+          "content": "reflect"
+        },
+        {
+          "name": "C",
+          "content": "reflecting"
+        },
+        {
+          "name": "D",
+          "content": "that reflect"
+        }
+      ],
+      "correct": "reflect",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At the Actors Gymnasium in Chicago, Illinois, students can study the Meisner technique. Developed in the mid-1900s by acting instructor Sanford Meisner, the technique emphasizes spontaneous reaction to an actor's environment, and ______ methodology includes repetitive improvisation exercises to refine an actor's natural responses.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "they're"
+        },
+        {
+          "name": "B",
+          "content": "its"
+        },
+        {
+          "name": "C",
+          "content": "it's"
+        },
+        {
+          "name": "D",
+          "content": "their"
+        }
+      ],
+      "correct": "its",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Author Jeffrey Auerbach disputes claims that London's Great Exhibition of 1851 was a show of Victorian-era England's economic ______ citing previously unpublished records of the exhibition's planning commission, Auerbach makes the compelling argument that the event was foremost an attempt to boost a stagnating economy, not celebrate its supremacy.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "might and"
+        },
+        {
+          "name": "B",
+          "content": "might,"
+        },
+        {
+          "name": "C",
+          "content": "might by"
+        },
+        {
+          "name": "D",
+          "content": "might;"
+        }
+      ],
+      "correct": "might;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although P/2019 LD2 (Atlas) and 121725 Aphidas are both classified as centaur objectsâouter solar system bodies in unstable orbitsâthey exhibit striking differences in ______ object P/2019 LD2 (Atlas) is considered an active centaur, showing sporadic comet-like activity (such as clouds of dust and gas on its surface), 121725 Aphidas, showing no such activity, is considered dormant.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "behavior. The"
+        },
+        {
+          "name": "B",
+          "content": "behavior, while the"
+        },
+        {
+          "name": "C",
+          "content": "behavior; the"
+        },
+        {
+          "name": "D",
+          "content": "behavior: while the"
+        }
+      ],
+      "correct": "behavior: while the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The parks of Dallas, Texas, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was ______ analyzed geotagged social media posts from various locations in Dallas. They found that posts from the city's parks contained more words associated with happiness than other posts did.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "created, and the post's content"
+        },
+        {
+          "name": "B",
+          "content": "created and the post's content"
+        },
+        {
+          "name": "C",
+          "content": "created, and the post's content,"
+        },
+        {
+          "name": "D",
+          "content": "created and the post's content,"
+        }
+      ],
+      "correct": "created and the post's content",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Kyudo, a form of archery that originated in Japan, was not a medal sport at the 1964 Tokyo Summer Olympic Games. ______ kyudo was featured at the Games as a demonstration sport. Demonstration sports have been featured at past Olympics to showcase lesser-known or regionally significant sports.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Thus,"
+        },
+        {
+          "name": "B",
+          "content": "Rather,"
+        },
+        {
+          "name": "C",
+          "content": "Additionally,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "Rather,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As can be seen in the case of \"Publius\"âa pseudonym adopted by a trio of writers that included Alexander Hamiltonâhistorians have deduced the likely authorship of many pseudonymous political essays published in the years following the American Revolutionary War; pen names such as \"Democritus\" and \"Obadiah Spriggins,\" ______ remain as elusive as they once were to eighteenth-century audiences.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "indeed,"
+        },
+        {
+          "name": "B",
+          "content": "though,"
+        },
+        {
+          "name": "C",
+          "content": "likewise,"
+        },
+        {
+          "name": "D",
+          "content": "for example,"
+        }
+      ],
+      "correct": "though,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Documentary TV programs in the slow TV genre consist of uninterrupted broadcasts of ordinary events in real time.</li><li><i>FlÃ¡msbana: Minutt for Minutt</i> (running time: 1 hour) is a Norwegian slow TV program that aired in 2010.</li><li>It documented a train ride from Myrdal station down to FlÃ¡m.</li><li><i>Hihna 247</i> (running time: 12 hours) is a Finnish slow TV program that aired in 2017.</li><li>It documented a supermarket checkout aisle of the Prisma Kaari grocery store.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the two TV programs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While <i>FlÃ¡msbana: Minutt for Minutt</i> depicts a train ride from Myrdal station down to FlÃ¡m, <i>Hihna 247</i> depicts a supermarket checkout aisle of the Prisma Kaari grocery store."
+        },
+        {
+          "name": "B",
+          "content": "Documenting ordinary events in real time, <i>FlÃ¡msbana: Minutt for Minutt</i> and <i>Hihna 247</i> are both documentary programs in the slow TV genre."
+        },
+        {
+          "name": "C",
+          "content": "Compared to the 12-hour-long <i>Hihna 247</i>, the slow TV program <i>FlÃ¡msbana: Minutt for Minutt</i> is relatively short, at 1 hour."
+        },
+        {
+          "name": "D",
+          "content": "A prime example of the slow TV genre can be seen in <i>FlÃ¡msbana: Minutt for Minutt</i>, a 1-hour Norwegian TV documentary program documenting a train ride from Myrdal station down to FlÃ¡m."
+        }
+      ],
+      "correct": "Documenting ordinary events in real time, <i>FlÃ¡msbana: Minutt for Minutt</i> and <i>Hihna 247</i> are both documentary programs in the slow TV genre.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In a 2004 study, researchers Jorge E. LÃ³pez and C. Vaughan wanted to explore the effects of ingestion by bats on the germination of <i>Piper sancti-felicis</i> seeds in Costa Rica.</li><li>The team of researchers tested 125 <i>Piper sancti-felicis</i> seeds that had been ingested by chestnut short-tailed bats.</li><li>Of these, 82 seeds (66%) germinated.</li><li>As a control, J.E. LÃ³pez and C. Vaughan tested 125 <i>Piper sancti-felicis</i> seeds that had not been ingested by chestnut short-tailed bats.</li><li>Of these, 88 seeds (70%) germinated.</li></ul></blockquote>",
+      "question": "The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "J.E. LÃ³pez and C. Vaughan wanted to explore the effects of chestnut short-tailed bats' ingestion on <i>Piper sancti-felicis</i> seed germination."
+        },
+        {
+          "name": "B",
+          "content": "In the study, a lower percentage of <i>Piper sancti-felicis</i> seeds ingested by bats germinated than those that had not been ingested by bats."
+        },
+        {
+          "name": "C",
+          "content": "The team of researchers tested the germination of 125 <i>Piper sancti-felicis</i> seeds that had been ingested by chestnut short-tailed bats and 125 <i>Piper sancti-felicis</i> seeds that had not been ingested."
+        },
+        {
+          "name": "D",
+          "content": "Research by J.E. LÃ³pez and C. Vaughan revealed that 82 of 125âthat is, 66%âof the <i>Piper sancti-felicis</i> seeds that had been ingested by the bats germinated."
+        }
+      ],
+      "correct": "The team of researchers tested the germination of 125 <i>Piper sancti-felicis</i> seeds that had been ingested by chestnut short-tailed bats and 125 <i>Piper sancti-felicis</i> seeds that had not been ingested.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.</li><li>1983: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.</li><li>In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.</li><li>2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).</li><li>MMH expands modularity to include all cognitive systems.</li></ul></blockquote>",
+      "question": "The student wants to compare Fodor's hypothesis with Carruthers's. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is."
+        },
+        {
+          "name": "B",
+          "content": "Following Fodor's 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems."
+        },
+        {
+          "name": "C",
+          "content": "The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular."
+        },
+        {
+          "name": "D",
+          "content": "In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor's earlier hypothesis that the mind is composed of innate neural structures."
+        }
+      ],
+      "correct": "In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.</li><li>Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object's first layer takes shape.</li><li>Step 2: The partially cured resin object is raised, leaving a thin space (a \"dead zone\") beneath it for oxygen and liquid resin to flow through.</li><li>Step 3: The UV light passes through the dead zoneâmaintaining the flow of resinâand partially cures additional layers of the object.</li><li>Step 4: When the resin object is complete, it is baked in an oven to complete the curing.</li></ul></blockquote>",
+      "question": "The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "DLS cures 3D objects by passing through a \"dead zone,\" adding layers to the object, then curing the object in an oven."
+        },
+        {
+          "name": "B",
+          "content": "In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a \"dead zone,\" wherein the curing is completed."
+        },
+        {
+          "name": "C",
+          "content": "In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven."
+        },
+        {
+          "name": "D",
+          "content": "DLS is a form of additive manufacturing that creates a \"dead zone\" in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object."
+        }
+      ],
+      "correct": "In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.",
+      "solution": ""
+    }
+  ]
+}

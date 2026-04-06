@@ -1,0 +1,682 @@
+{
+  "uuid": "9f9439b4-1f8b-48cd-b607-fd0776fedebb",
+  "chunk": "DVprYPsa.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Maryam Hosseini and her team used aerial images of well-mapped areas of Boston to train a computer program to identify sidewalks. When it was tested on images of Washington, DC, it ______ identified sidewalks in the vast majority of cases and even whether sidewalks were cobblestone or granite. Hosseini believes the program will improve on this already-strong performance as it gets used more.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rarely"
+        },
+        {
+          "name": "B",
+          "content": "reliably"
+        },
+        {
+          "name": "C",
+          "content": "slowly"
+        },
+        {
+          "name": "D",
+          "content": "clumsily"
+        }
+      ],
+      "correct": "reliably",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Orinoco River delta is a constantly changing landform made up of a network of distributaries, small channels that branch off from the main river. The delta is shaped and reshaped over time as sediments carried by the river ______ where the river meets the Caribbean Sea, eventually forming new portions of land.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dissolve"
+        },
+        {
+          "name": "B",
+          "content": "accelerate"
+        },
+        {
+          "name": "C",
+          "content": "thrive"
+        },
+        {
+          "name": "D",
+          "content": "accumulate"
+        }
+      ],
+      "correct": "accumulate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Text corpora such as the Bank of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word \"own\" appears quite often in written English could ______ that assumption with data from a corpus: \"own\" is the eighth most commonly used adjective.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "validate"
+        },
+        {
+          "name": "B",
+          "content": "refute"
+        },
+        {
+          "name": "C",
+          "content": "transpose"
+        },
+        {
+          "name": "D",
+          "content": "entail"
+        }
+      ],
+      "correct": "validate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The minor planet 713 Luscinia was named after the animal genus that includes nightingales. But most minor planets are given only an identification number, largely due to there being over 500,000 such bodies known at present. So while the task of finding a unique name for each minor planet was ______ when few had been discovered, so many minor planets have since been discovered that the task has become nearly impossible.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ambiguous"
+        },
+        {
+          "name": "B",
+          "content": "feasible"
+        },
+        {
+          "name": "C",
+          "content": "substantial"
+        },
+        {
+          "name": "D",
+          "content": "insurmountable"
+        }
+      ],
+      "correct": "feasible",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "The following text is adapted from Pam MuÃ±oz Ryan's 2020 novel <i>MaÃ±analand</i>.<br>In the village where Max lives, there is an old fortress called La Reina. Children in the village say that the fortress is haunted.<br><blockquote style=\"margin-left: 40px;\">For as long as he could remember, Max had begged PapÃ¡ [his father] to take him to see La Reina and the ruins up close, He'd be a hero among his friends if he was the first boy to cross the haunted gates! Just because PapÃ¡ didn't believe in ghosts didn't mean they weren't there. Maybe this summer PapÃ¡ would finally take him. He was almost twelve.</blockquote><p style=\"text-align: right;\">Â©2020 by Pam Munoz Rvan</p>",
+      "question": "Which choice best describes the overall purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To explain why Max doesn't want to grow up yet."
+        },
+        {
+          "name": "B",
+          "content": "To portray how proud Max's father is of Max."
+        },
+        {
+          "name": "C",
+          "content": "To show how much Max wants to visit La Reina."
+        },
+        {
+          "name": "D",
+          "content": "To criticize Max for disliking summer."
+        }
+      ],
+      "correct": "To show how much Max wants to visit La Reina.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered \"fast painting,\" a technique (which in part involved slashing in elements with a palette knife) that many Highwaymen, including James Gibson, adopted. <u>To conclude that this approach accounts for the ethereal actualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair's methods weren't universally practiced by his affiliates</u>: Harold Newton, for example, painted with greater deliberateness but achieved the same effects.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains how an artist mentioned earlier in the text developed a distinctive style by adapting a particular approach to painting originated by his colleagues."
+        },
+        {
+          "name": "B",
+          "content": "It considers and rebuts an interpretation of the effect of a painting technique mentioned earlier in the text on the perception of work by a group of artists."
+        },
+        {
+          "name": "C",
+          "content": "It establishes a contrast between the aesthetic qualities of works by artists who were central to a movement introduced earlier in the text and those of an artist who was more peripheral to that movement."
+        },
+        {
+          "name": "D",
+          "content": "It details evidence that contradicts a claim mentioned earlier in the text about a long-standing disagreement within a group of artists."
+        }
+      ],
+      "correct": "It considers and rebuts an interpretation of the effect of a painting technique mentioned earlier in the text on the perception of work by a group of artists.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like all species of baleen whales, the humpback whale feeds on tiny creatures known as krill by filtering water through bristlelike keratin structures called baleen plates. In this way, baleen whales can eat up to 30 percent of their total mass per day. And while no one would call the humpback whale smallâit can have a mass as high as 30,000 kgâit is one of the smaller baleen whales and is much smaller than the fin whale, which can weigh a whopping 80,000 kg and consume as much as 24,000 kg of krill per day.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It draws a distinction between the sizes of the humpback whale and the fin whale and then presents a feature that they have in common."
+        },
+        {
+          "name": "B",
+          "content": "It details a relationship between humpback and fin whales and krill and then discusses an unexpected consequence of a change in baleen whale populations."
+        },
+        {
+          "name": "C",
+          "content": "It discusses a unique feature of the humpback whale and how the lack of that feature in the fin whale explains differences in the two speciesâ behavior."
+        },
+        {
+          "name": "D",
+          "content": "It describes a characteristic shared by all baleen whales and then illustrates a difference between the humpback whale and the fin whale that is relevant to that characteristic."
+        }
+      ],
+      "correct": "It describes a characteristic shared by all baleen whales and then illustrates a difference between the humpback whale and the fin whale that is relevant to that characteristic.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of BogotÃ¡, Colombia, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 1,121 respondents from BogotÃ¡, 71.996 indicated that they use the city's parks, and of the 938 respondents from Fortaleza, 35.796 indicated using city parks. Given that the percentage of BogotÃ¡ respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.</p>",
+      "question": "The text makes which point about the difference between the proportions of BogotÃ¡ residents and Fortaleza residents using parks?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is caused by something other than the parks' proximity to city residents."
+        },
+        {
+          "name": "B",
+          "content": "It was calculated using sources that predate the survey."
+        },
+        {
+          "name": "C",
+          "content": "It was much larger than the researchers conducting the study expected."
+        },
+        {
+          "name": "D",
+          "content": "It could be due to inaccuracies in the survey results."
+        }
+      ],
+      "correct": "It is caused by something other than the parks' proximity to city residents.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Spanning the 1920s to the 1980s, Mexican architect Luis BarragÃ¡n's prolific career evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in an international architectural discourse, BarragÃ¡n began incorporating principles derived from functionalism and modernism in his work, as seen in the apartment building for JosÃ© Mojica, whose unadorned geometric forms contrast with the historically inspired architecture found in the Harper de Garibi House, one of BarragÃ¡n's early projects in Guadalajara.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "BarragÃ¡n's designs of the apartment building for JosÃ© Mojica and the Harper de Garibi House are considered paragons of a functionalist and modernist aesthetic."
+        },
+        {
+          "name": "B",
+          "content": "A notable shift in BarragÃ¡n's design aesthetic reflects the influence of his time abroad."
+        },
+        {
+          "name": "C",
+          "content": "BarragÃ¡n's design of the Harper de Garibi House is considered more experimental than his design for the apartment building for JosÃ© Mojica."
+        },
+        {
+          "name": "D",
+          "content": "BarragÃ¡n's early work shows an initial dedication to a modernist aesthetic that he later abandoned."
+        }
+      ],
+      "correct": "A notable shift in BarragÃ¡n's design aesthetic reflects the influence of his time abroad.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Nathaniel Hawthorne's 1830 short story \"Sir William Phips.\"</p><blockquote style=\"margin-left: 40px;\">The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the mapâminute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting. These defects are partly remediable, and even without an absolute violation of literal truth, although by methods rightfully interdicted to professors of biographical exactness.</blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Writers of fiction possess storytelling skills that historians do not."
+        },
+        {
+          "name": "B",
+          "content": "The more famous a person is, the more likely that person is to attract the attention of a historian."
+        },
+        {
+          "name": "C",
+          "content": "Maps are more practical to own than paintings."
+        },
+        {
+          "name": "D",
+          "content": "Historians' fidelity to the truth often results in work that is less engaging than it could be."
+        }
+      ],
+      "correct": "Historians' fidelity to the truth often results in work that is less engaging than it could be.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2018, scientists discovered an immense aggregation of <i>Muusoctopus robustus</i> (pearl octopuses) along a hydrothermal vent 3,200 meters beneath the ocean's surface. Water temperatures at this siteânamed the Octopus Gardenâclimb as high as 11Â°C, much warmer than the ambient 1.6Â°C typical at this depth. Based on observations made over three years, scientists concluded that temperatures at the site likely confer reproductive benefits and that the site is used exclusively for reproductionâ6,000 <i>M. robustus</i> adults, hatchlings, and eggs were observed at the garden, but no juveniles were present.</p>",
+      "question": "Which statement about <i>M. robustus</i> and the Octopus Garden is best supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The <i>M. robustus</i> population at the Octopus Garden remains stable despite variations in water temperature."
+        },
+        {
+          "name": "B",
+          "content": "The Octopus Garden provides an ideal feeding ground for <i>M. robustus</i> hatchlings."
+        },
+        {
+          "name": "C",
+          "content": "<i>M. robustus</i> nests in the Octopus Garden contain on average fewer but larger eggs than nests at similar ocean depths."
+        },
+        {
+          "name": "D",
+          "content": "<i>M. robustus</i> leave the Octopus Garden upon reaching an intermediary stage of development."
+        }
+      ],
+      "correct": "<i>M. robustus</i> leave the Octopus Garden upon reaching an intermediary stage of development.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/deb8121b9dcba46027abf087b904b787.png\" width=\"580\" height=\"197\"></div><p>Scientists recently tested whether scorpion venom reduces the growth of bacteria. The scientists put bacteria in petri dishes with two chambers. They treated the bacteria in one chamber with a saline solution, which does not affect the bacteria. They treated bacteria in the other chamber with scorpion venom. After 14 hours, they counted how many colony-forming units (CFUs) of bacteria were in each chamber.</p>",
+      "question": "According to the table, for petri dish number 6, how many CFUs of bacteria were found in the chamber with the venom-treated bacteria?",
+      "options": [
+        {
+          "name": "A",
+          "content": "153"
+        },
+        {
+          "name": "B",
+          "content": "977"
+        },
+        {
+          "name": "C",
+          "content": "55"
+        },
+        {
+          "name": "D",
+          "content": "103"
+        }
+      ],
+      "correct": "153",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/e4264c06c9f2bec0a5f9e39c2c498385.png\" width=\"599\" height=\"371\" style=\"display:inline-block;\"></div><p>In 2021, Rocio UrÃ­a-Martnez, Megan M. Johnson, and Rul Shan published a report on hydroelectric power plants operating on bodies of water in the US as recently as 2019, and data from their report are shown in the table. Of the plants in the table, the plant with the highest average power generated per year in 2019 was located on the ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Androscoggin River."
+        },
+        {
+          "name": "B",
+          "content": "Hiwassee River."
+        },
+        {
+          "name": "C",
+          "content": "Spearfish Creek."
+        },
+        {
+          "name": "D",
+          "content": "Montreal River."
+        }
+      ],
+      "correct": "Hiwassee River.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Poems of Experience</i> is a 1910 collection of poetry by Ella Wheeler Wilcox. In one of her poems, the speaker indicates that several beneficial opportunities have recently become available to women, saying, ______</p>",
+      "question": "Which quotation from <i>Poems of Experience</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âFor worlds to conquer [woman] had not yearned, / Till [man] spoke of her feminine sphere as 'narrow.'â (from âWomanâ)"
+        },
+        {
+          "name": "B",
+          "content": "âTrade and science and craft and art, / Have opened their doors to the call of woman; / And greater she grows in her greater part, / More tenderly wise, and more sweetly human.â (from âWomanâ)"
+        },
+        {
+          "name": "C",
+          "content": "â[Woman] grasped the scope of the First Intent / That made her kingdom for her, no other.â (from âWomanâ)"
+        },
+        {
+          "name": "D",
+          "content": "âTime has cut his beard, and lo! / He is but a boy / Singing, on with him we go, / Ah! But life is joy.â (from âThe Voices of the Cityâ)"
+        }
+      ],
+      "correct": "âTrade and science and craft and art, / Have opened their doors to the call of woman; / And greater she grows in her greater part, / More tenderly wise, and more sweetly human.â (from âWomanâ)",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Archaeologist Christiana Kohler and her team excavated the Egyptian tomb of Queen Merneith, the wife of a First Dynasty pharaoh. Some scholars claim that she also ruled Egypt on her own and was actually the first female pharaoh. The team found a tablet in Merneith's tomb with writing suggesting that she was in charge of the country's treasury and other central offices. Whether Merneith was a pharaoh or not, this discovery supports the idea that Merneith likely ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "lived after rather than before the First Dynasty of Egypt."
+        },
+        {
+          "name": "B",
+          "content": "created a new form of writing in Egypt."
+        },
+        {
+          "name": "C",
+          "content": "had an important role in Egypt's government."
+        },
+        {
+          "name": "D",
+          "content": "traveled beyond Egypt's borders often."
+        }
+      ],
+      "correct": "had an important role in Egypt's government.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the periodic table, an element's atomic number indicates how many protons there are in an atom of the element. For example, a zinc atom ______ 30 protons. Professor Raymond Chang explains this concept in more detail in the textbook <i>Chemistry</i>.</p>",
+      "question": "Which choice completes the text so that it conforms to the conversations of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "has had"
+        },
+        {
+          "name": "B",
+          "content": "had"
+        },
+        {
+          "name": "C",
+          "content": "is having"
+        },
+        {
+          "name": "D",
+          "content": "has"
+        }
+      ],
+      "correct": "has",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Inspired by her Pomo heritage, artist Susan Billy typically uses willowâ a strong and flexible ______ craft baskets that are both beautiful and elaborate.</p>",
+      "question": "Which choice completes the text so that it conforms to the conversations of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "material. To"
+        },
+        {
+          "name": "B",
+          "content": "material. to"
+        },
+        {
+          "name": "C",
+          "content": "material;to"
+        },
+        {
+          "name": "D",
+          "content": "materialâto"
+        }
+      ],
+      "correct": "materialâto",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The historian's books about Zachary Taylor ______ what she is best known for, but she is also well regarded for her scholarship on James Monroe.</p>",
+      "question": "Which choice completes the text so that it conforms to the conversations of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "are"
+        },
+        {
+          "name": "B",
+          "content": "was"
+        },
+        {
+          "name": "C",
+          "content": "has been"
+        },
+        {
+          "name": "D",
+          "content": "is"
+        }
+      ],
+      "correct": "are",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The 1970 founding of the Partido Nacional de La Raza Unida and the 1966 <i>Katzenbach v. Morgan</i> court decision are regarded as important events in US civil rights ______ former establishing a Latino rights advocacy group and the latter legally affirming the rights of Latino voters.</p>",
+      "question": "Which choice completes the text so that it conforms to the conversations of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "history, as the"
+        },
+        {
+          "name": "B",
+          "content": "history. The"
+        },
+        {
+          "name": "C",
+          "content": "history the"
+        },
+        {
+          "name": "D",
+          "content": "history, the"
+        }
+      ],
+      "correct": "history, the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A government body officially known as the Althing, ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conversations of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Iceland's parliament is one of the oldest in the world, first meeting in 930 CE."
+        },
+        {
+          "name": "B",
+          "content": "the world's oldest parliaments include one which first met in 930 CE, Iceland's."
+        },
+        {
+          "name": "C",
+          "content": "930 CE was the year when Iceland's parliament, one of the oldest parliaments in the world, first met."
+        },
+        {
+          "name": "D",
+          "content": "the first meeting of one of the oldest parliaments in the world, Iceland's, was in 930 CE."
+        }
+      ],
+      "correct": "Iceland's parliament is one of the oldest in the world, first meeting in 930 CE.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Disyllabic words ______ as trochees in English metrical verse, such as \"beverage\" and \"postal,\" consist of one stressed syllable followed by one unstressed syllable.</p>",
+      "question": "Which choice completes the text so that it conforms to the conversations of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "can be classified"
+        },
+        {
+          "name": "B",
+          "content": "classified"
+        },
+        {
+          "name": "C",
+          "content": "are classified"
+        },
+        {
+          "name": "D",
+          "content": "have been classified"
+        }
+      ],
+      "correct": "classified",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Soil polluted with cadmium (a heavy metal) is harmful to many plants and animals, but the plant species <i>Typha latifolia</i>, or broadleaf cattail, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, <i>Typha latifolia</i> absorbs a large amount of cadmium and stores it safely in its roots and shoots; ______ cadmium concentrations in the soil decrease.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "specifically,"
+        },
+        {
+          "name": "B",
+          "content": "in turn,"
+        },
+        {
+          "name": "C",
+          "content": "in addition,"
+        },
+        {
+          "name": "D",
+          "content": "nevertheless,"
+        }
+      ],
+      "correct": "in turn,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When printing paper money for the colony of Pennsylvania in the 1730s, Benjamin Franklinâthen a Philadelphia shop ownerâtook steps to combat the circulation of counterfeit notes, such as weaving blue threads and Muscovite (a reflective mineral) into the paper he used. _____ he stamped the notes with detailed imprints of sage leaves that proved difficult for forgers to replicate.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "That said,"
+        },
+        {
+          "name": "B",
+          "content": "Specifically,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Moreover,"
+        }
+      ],
+      "correct": "Moreover,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Pearl Harbor National Wildlife Refuge (NWR) is a protected natural area in Hawaii.</li><li>It encompasses 61 acres.</li><li>It was established to safeguard the habitat of the Hawaiian stilt, an endangered species.</li><li>The Pearl Harbor NWR is managed by the US Fish &amp; Wildlife Service.</li><li>The US Fish &amp; Wildlife Service limits human activities in the area.</li></ul></blockquote>",
+      "question": "The student wants to indicate the size of the Pearl Harbor NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A protected natural area, the Pearl Harbor NWR encompasses 61 acres of land in Hawaii."
+        },
+        {
+          "name": "B",
+          "content": "The Pearl Harbor NWR is a protected natural area managed by the US Fish &amp; Wildlife Service, which limits human activities there."
+        },
+        {
+          "name": "C",
+          "content": "The Pearl Harbor NWR is a natural area in Hawaii, home to the Hawaiian stilt."
+        },
+        {
+          "name": "D",
+          "content": "Home to the Hawaiian stilt, Hawaii's Pearl Harbor NWR is managed by the US Fish &amp; Wildlife Service."
+        }
+      ],
+      "correct": "A protected natural area, the Pearl Harbor NWR encompasses 61 acres of land in Hawaii.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A super continent is a single landmass made up of most or all of Earth's continents.</li><li>Over time, continents merge together to form super continents, which then break apart.</li><li>This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.</li><li>Vaalbara was a supercontinent that formed about 3.6 billion years ago.</li><li>Euramerica was a supercontinent that formed about 300 million years ago.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the order in which the super continents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earth's continents."
+        },
+        {
+          "name": "B",
+          "content": "The super continent Euramerica formed long after the supercontinent Vaalbara."
+        },
+        {
+          "name": "C",
+          "content": "Vaalbara formed about 3.6 billion years ago but eventually broke apart."
+        },
+        {
+          "name": "D",
+          "content": "Vaalbara and Euramerica were both supercontinents, single landmasses made up of most or all of Earth's continents."
+        }
+      ],
+      "correct": "The super continent Euramerica formed long after the supercontinent Vaalbara.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The human tongue contains taste receptors for a rich, savory flavor called umami.</li><li>Umami is triggered by the compounds in a variety of foods, including tuna and garlic.</li><li>Participants in a study tasted a sample of North Pacific konbu, a type of brown seaweed.</li><li>They rated its umami intensity as moderate.</li><li>The participants tasted a sample of arame, another type of brown seaweed.</li><li>They rated its umami intensity as high.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "North Pacific konbu is a type of brown seaweed, but so is arame."
+        },
+        {
+          "name": "B",
+          "content": "While North Pacific konbu and arame contain umami flavor, umami can also be found in tuna and garlic."
+        },
+        {
+          "name": "C",
+          "content": "Although North Pacific konbu and arame are types of brown seaweed, the latter's umami flavor is more intense."
+        },
+        {
+          "name": "D",
+          "content": "Some types of brown seaweed, like North Pacific konbu and arame, trigger umami flavor in human taste buds."
+        }
+      ],
+      "correct": "Although North Pacific konbu and arame are types of brown seaweed, the latter's umami flavor is more intense.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).</li><li>The ACM gives the award for \"major contributions of lasting importance to computing.\"</li><li>Judea Pearl won the award in 2011 for developing a calculus for probabilistic reasoning.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize when Judea Pearl won the A.M. Turing Award?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Judea Pearl is one winner of the A.M. Turing Award."
+        },
+        {
+          "name": "B",
+          "content": "It was in 2011 that Judea Pearl won the A.M. Turing Award."
+        },
+        {
+          "name": "C",
+          "content": "The prestigious A.M. Turing Award is given for âmajor contributions of lasting importance to computing."
+        },
+        {
+          "name": "D",
+          "content": "For developing a calculus for probabilistic reasoning, Judea Pearl won the A.M. Turing Award."
+        }
+      ],
+      "correct": "It was in 2011 that Judea Pearl won the A.M. Turing Award.",
+      "solution": ""
+    }
+  ]
+}

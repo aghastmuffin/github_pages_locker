@@ -1,0 +1,682 @@
+{
+  "uuid": "189130a6-4c31-4ce3-bed9-fe7c0db5ff63",
+  "chunk": "5LWrdWfG.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Zygomorphic (bilaterally symmetric) flowers remain open and functional on average 1.1 days longer than actinomorphic (radially symmetric) flowers do. Ruby E. Stephens and colleagues claim that this extended period could be ______ the relatively small pool of potential pollinators available to zygomorphic flowers and the greater chance at successful pollination that remaining open affords them.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "analogous to"
+        },
+        {
+          "name": "B",
+          "content": "magnified by"
+        },
+        {
+          "name": "C",
+          "content": "converted by"
+        },
+        {
+          "name": "D",
+          "content": "attributed to"
+        }
+      ],
+      "correct": "attributed to",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Charles Dickens's 1861 novel <i>Great Expectations</i>. The narrator is taking a walk near his home on a damp morning.</p><blockquote style=\"margin-left: 40px;\">On every rail and gate, wet lay clammy, and the marsh was so thick, that the wooden finger on the post directing people to our villageâa direction which they never <u>accepted</u>, for they never came thereâwas invisible to me until I was quite close under it.</blockquote>",
+      "question": "As used in the text, what does the word \"accepted\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Shifted"
+        },
+        {
+          "name": "B",
+          "content": "Approved"
+        },
+        {
+          "name": "C",
+          "content": "Authorized"
+        },
+        {
+          "name": "D",
+          "content": "Followed"
+        }
+      ],
+      "correct": "Followed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Analysis of preserved plants cataloged in the United States Virtual Herbarium indicates that rising temperatures correlate with earlier leaf production, but such specimens represent only brief moments in plantsâ overall development. ______ this research with studies involving live plants would enable a fuller understanding of how these observed changes affect plant fitness.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Foregrounding"
+        },
+        {
+          "name": "B",
+          "content": "Categorizing"
+        },
+        {
+          "name": "C",
+          "content": "Anticipating"
+        },
+        {
+          "name": "D",
+          "content": "Complementing"
+        }
+      ],
+      "correct": "Complementing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although <i>Mistress and Maid</i>, which depicts two women perusing a letter, is atypical of Johannes Vermeer's genre paintings (scenes of everyday life) in that its subjects are set against a plain background instead ofâas in <i>Woman with a Pearl Necklace</i>âa richly detailed one, the painting nonetheless ______ many signature traits of Vermeer's art, including realistic rendering of natural light.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "evinces"
+        },
+        {
+          "name": "B",
+          "content": "repudiates"
+        },
+        {
+          "name": "C",
+          "content": "predates"
+        },
+        {
+          "name": "D",
+          "content": "eschews"
+        }
+      ],
+      "correct": "evinces",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Technological advances have prompted companies to increasingly rely on automation to streamline production. Armin Granulo and colleagues, however, found that for products with higher symbolic value (those viewed as contributing to individual self-expression), consumers prefer products made by humans rather than by robots, likely because human-made products are more strongly associated with uniqueness. <u>When considering automation, therefore, companiesâespecially those specializing in products of symbolic valueâshould weigh trade-offs between efficiency gains and consumer preferences.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It refers to a finding presented in the previous sentence to recommend that companies that value product quality reconsider automating their production processes."
+        },
+        {
+          "name": "B",
+          "content": "It emphasizes that a research finding discussed in the text has practical implications that are particularly relevant for businesses making a certain class of product."
+        },
+        {
+          "name": "C",
+          "content": "It presents evidence supporting the text's argument that consumers prefer products with high symbolic value over products with low symbolic value."
+        },
+        {
+          "name": "D",
+          "content": "It illustrates the need for additional research to evaluate the claim in the previous sentence that automation affects how consumers rate product uniqueness."
+        }
+      ],
+      "correct": "It emphasizes that a research finding discussed in the text has practical implications that are particularly relevant for businesses making a certain class of product.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>To many artists in the mid-nineteenth-century United States, the American wilderness symbolized innocence and untouched beauty. So George Inness's decision to foreground a railroad in his 1855 painting <i>The Lackawanna Valley</i> is notable, since images of railroads often alluded to the destruction of wilderness in the name of progress. In fact, art historian Nicolai Cikovsky Jr. argues that Inness glorifies the subject of the railroad by painting a scene that suggests hopefulness rather than devastation.</p><p><strong>Text 2</strong><br>It is impossible to deduce anything about George Inness's personal views from <i>The Lackawanna Valley</i> because the painting was a commissioned work for the Delaware, Lackawanna and Western Railroad, intended to promote the company's expansion. As a result, the painting's content likely reflects commercial demands rather than the artist's own artistic intentions.</p>",
+      "question": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the painting The Lackawanna Valley?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The author of Text 1 implies that the styles and themes of the painting are atypical of Inness's body of work, whereas the author of Text 2 claims that the painting is representative of Inness as a painter."
+        },
+        {
+          "name": "B",
+          "content": "The author of Text 1 suggests that the painting can reveal information about lnness's opinions, whereas the author of Text 2 believes that the circumstances of the painting's production prohibit such an interpretation."
+        },
+        {
+          "name": "C",
+          "content": "The author of Text 1 claims that the painting is an accurate representation of a physical place, whereas the author of Text 2 identifies several embellishments that Inness made to alter the scene."
+        },
+        {
+          "name": "D",
+          "content": "The author of Text 1 focuses on the painting's symbolic representation of technological progress, whereas the author of Text 2 emphasizes its realistic portrayal of industrial development."
+        }
+      ],
+      "correct": "The author of Text 1 suggests that the painting can reveal information about lnness's opinions, whereas the author of Text 2 believes that the circumstances of the painting's production prohibit such an interpretation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The prints in <i>Images of Autonomous Matter</i>, part of a traveling exhibition of innovative Japanese art from the 1960s and 1970s, exemplify the interest in creating minimalist images of stark materials, such as steel, that first emerged among Japanese printmakers in the mid-to-late twentieth century. Mitsuo Kano's close-up of a serrated metal fragment, <i>Soldered Blue</i>, and Tatsuo Kawaguchi's image of a single corroded staple, which belongs to his <i>Relation-Quality</i> series, are two such works in the exhibit. In their emphasis on the innate qualities of manufactured materials, both prints push traditional boundaries for figurative art.</p>",
+      "question": "Which statement about the prints by Kano and Kawaguchi in <i>Images of Autonomous Matter</i> is best supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The portrayal of imperfection in the prints illustrates that the artists' goal was to disrupt the carefully curated nature of most art exhibitions."
+        },
+        {
+          "name": "B",
+          "content": "The objects depicted and the manner of depiction render the prints distinct from more conventional works of art."
+        },
+        {
+          "name": "C",
+          "content": "The prints showcase how different methods for printing images can offer unique perspectives on stark materials."
+        },
+        {
+          "name": "D",
+          "content": "The prints emulate the style of an earlier artistic movement that used simplistic compositions and featured industrial objects."
+        }
+      ],
+      "correct": "The objects depicted and the manner of depiction render the prints distinct from more conventional works of art.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Arturo Casadevall et al. have confirmed that twenty mushroom species (including <i>Marasmius capillaris</i> and species from the genus <i>Russula</i>) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the myceliumâa difference that persisted even after fruited bodies were detachedâthe researchers speculate that thermoregulation in the mycelium may influence reproductive success.</p>",
+      "question": "Which statement about the mycelium of the twenty mushroom species is best supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The mycelium generally maintains temperatures lower than those of the fruited bodies even when considering temperature variations between fruiting and nonfruiting sites."
+        },
+        {
+          "name": "B",
+          "content": "The correlation between higher mycelium temperature and greater fruit productivity indicates that successful reproduction may be dependent on thermoregulation in the mycelium."
+        },
+        {
+          "name": "C",
+          "content": "Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies."
+        },
+        {
+          "name": "D",
+          "content": "Temperatures in the fruiting areas of one mycelium are lower than in the nonfruiting areas due to differences in the depth and spread of the mycelium within soil or other organic matter."
+        }
+      ],
+      "correct": "Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from William Carlos Williams's 1925 creative nonfiction book <i>In the American Grain</i>. Williams is discussing how works by nineteenth-century US poet and fiction writer Edgar Allan Poe were received by American readers.</p><blockquote style=\"margin-left: 40px;\">Poe must suffer by his originality. Invent that which is new, even if it be made of pine from your own yard, and there's none to know what you have done. It is because there's no name. This is the cause of Poe's lack of recognition. He was American. He was the astounding, inconceivable growth of his locality. Gape at him they did, and he at them in amazement. Afterward with mutual hatred; he in disgust, they in mistrust. It is only that which is under your nose that seems most difficult to see.</blockquote>",
+      "question": "What does the text most strongly suggest about Poe's work and American readers?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Poe's work was so innovative that there was not even terminology to describe it, which led American readers to regard both the work and Poe himself as strange but quintessentially American."
+        },
+        {
+          "name": "B",
+          "content": "Poe's work had few fans among American readers because it tended to present a negative image of American life and institutions."
+        },
+        {
+          "name": "C",
+          "content": "American readers largely ignored Poe's work because its tone and subject matter were out of keeping with mainstream literature."
+        },
+        {
+          "name": "D",
+          "content": "American readers failed to appreciate Poe's work because of its novelty and the fact that it reflected aspects of the American character too ingrained in those readers for them to comprehend."
+        }
+      ],
+      "correct": "American readers failed to appreciate Poe's work because of its novelty and the fact that it reflected aspects of the American character too ingrained in those readers for them to comprehend.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/712e1a23d0ba5556ac57a52b418f21f2.png\" style=\"width: 600px; height: 242px;\"></div><p>Most bird species that are capable of flight weigh less than a kilogram (kg), which is not surprising considering the burden that extra body weight puts on a flying animal. But not all flying birds are so light, as we can see most clearly in the example of the ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "common ostrich, which has a higher average mass than the emperor penguin."
+        },
+        {
+          "name": "B",
+          "content": "trumpeter swan, which has an average mass of 12.7 kg."
+        },
+        {
+          "name": "C",
+          "content": "common ostrich, which has an average mass of 104.0 kg."
+        },
+        {
+          "name": "D",
+          "content": "great bustard, which has an average mass below 10 kg."
+        }
+      ],
+      "correct": "trumpeter swan, which has an average mass of 12.7 kg.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The 2002 production of <i>I'm Not Rappaport</i> was the first Broadway show for which Teresa Snider-Stein was credited as a costume designer. Snider-Stein was among the Broadway costume designers interviewed by Sara Jablon-Roberts and Eulanda A. Sanders for their study of historical accuracy in costume design. They argue that aesthetics often outweigh fidelity to the past among designers for shows with historical settings. In a paper for a theater class, a student claims that the costume design for a modern production of Shakespeare's <i>A Midsummer Night's Dream</i> (set in ancient Greece) exemplifies this tendency.</p>",
+      "question": "Which quotation from the costume designer for the modern production of <i>A Midsummer Night's Dream</i> would most effectively support the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"For <i>A Midsummer Night's Dream</i>, I decided not to include the extra fabric that would have been typical of clothing in the period because it made the costumes unappealingly bulky.\""
+        },
+        {
+          "name": "B",
+          "content": "\"In trying to create the period look of <i>A Midsummer Night's Dream</i>, I had to make some practical compromises, such as substituting cooler fabrics for historically accurate woolens so that the actors didn't overheat.\""
+        },
+        {
+          "name": "C",
+          "content": "\"Although historically accurate costumes would have added an air of authenticity to <i>A Midsummer Night's Dream</i>, they have so many layers that costume changes would have been difficult.\""
+        },
+        {
+          "name": "D",
+          "content": "\"Due to the productionâs tight budget, I had to simplify many of the historically inspired costume elements for <i>A Midsummer Nightâs Dream</i>, often choosing less expensive materials and less intricate construction methods.\""
+        }
+      ],
+      "correct": "\"For <i>A Midsummer Night's Dream</i>, I decided not to include the extra fabric that would have been typical of clothing in the period because it made the costumes unappealingly bulky.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The percent of cities and towns in a given period that persist from a prior period (backward continuity) and the percent that persist into a later period (forward continuity) are known to correlate positively with economic and political stability in a region. Researchers studying demographic trends in the Indigenous societies of ancient Mexico determined both continuity measures for the Yautepec Valley, which lay within the macroregional hegemony of the city-state of Teotihuacan from roughly 100 BCE until roughly 450 CE, after which point Teotihuacan declined. The team concluded that ______ </p><div style=\"text-align: center;\"><img src=\"/images/4f7df92d336099832ae93a236e5e3422.png\" style=\"width: 700px; height: 371px;\"></div>",
+      "question": "Which choice most effectively uses data from the chart to complete the conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "values for both backward and forward continuity in the Yautepec Valley were consistently higher during the centuries of Teotihuacan's hegemony than they were in the period following the collapse of the hegemony."
+        },
+        {
+          "name": "B",
+          "content": "the marginal decrease in the compound average annual growth rate of the Yautepec Valley's population in the Early Classic was likely associated with the widespread abandonment of cities and towns established in the Terminal Formative."
+        },
+        {
+          "name": "C",
+          "content": "Teotihuacan's hegemony imposed stability on the Yautepec Valley mitigating the decrease in the compound average annual growth rate of the valley's population as well as the decrease in the number of cities and towns there in the Early Classic and Middle Classic."
+        },
+        {
+          "name": "D",
+          "content": "although the forward continuity data suggest that the decline of Teotihuacan occasioned economic and political instability in the Yautepec Valley, these developments were nonetheless associated with a net increase in the valley's population."
+        }
+      ],
+      "correct": "although the forward continuity data suggest that the decline of Teotihuacan occasioned economic and political instability in the Yautepec Valley, these developments were nonetheless associated with a net increase in the valley's population.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2004, the US state of North Dakota enacted rate stability regulations (RSRs), constraining insurance companiesâ latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, North Dakota's RSRs may ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "be more advantageous for insurers than they are for either current prospective policyholders."
+        },
+        {
+          "name": "B",
+          "content": "benefit policyholders at the expense of nonpolicyholders seeking to acquire policies."
+        },
+        {
+          "name": "C",
+          "content": "prevent large increases in premium prices for new policies despite leading to fower insurers offering such policies in the affected market."
+        },
+        {
+          "name": "D",
+          "content": "reduce premium price volatility once policies are in effect but increase risks for policyholders."
+        }
+      ],
+      "correct": "benefit policyholders at the expense of nonpolicyholders seeking to acquire policies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In an analysis of medieval urbanization in Pisa, Greifswald, and other European settlements, researchers drew on modern urban scaling theory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship would have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integrationâdrivers of urban agglomerationâthe team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the social and economic dynamics that affect urban agglomeration were likely much different in medieval settlements than in modern cities, despite the similarity across time in population density patterns."
+        },
+        {
+          "name": "B",
+          "content": "although there tends to be a positive relationship between population size and development of core urban areas for both medieval settlements and modern cities, social institutions likely limited the rate at which population density increased in medieval settlements."
+        },
+        {
+          "name": "C",
+          "content": "despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas."
+        },
+        {
+          "name": "D",
+          "content": "the constraining influence of hierarchical medieval institutions likely had a significant effect on individuals in some social groupings but little to no effect on members of other social groupings."
+        }
+      ],
+      "correct": "despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Painter Georgette ______ for incorporating everyday objects from her Singaporean environmentâsuch as lanterns, mooncakes, and tropical fruitsâinto her still-life compositions, was a pivotal figure in the mid-twentieth-century Nanyang art movement, which sought to blend European painting traditions (including still life) with elements of Southeast Asian cultures and art.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Chen, was known"
+        },
+        {
+          "name": "B",
+          "content": "Chen, known"
+        },
+        {
+          "name": "C",
+          "content": "Chen was known"
+        },
+        {
+          "name": "D",
+          "content": "Chen is known"
+        }
+      ],
+      "correct": "Chen, known",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>âStreetwide and bitter as hope / strewn between El Salvador and San Francisco.â These lines are from a poem by Chicano ______ whose early career as a <i>campesino</i> informs the dialogue on Mexican American politics and identity that unfolds in his work.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "writer Juan Felipe Herrera,"
+        },
+        {
+          "name": "B",
+          "content": "writer, Juan Felipe Herrera"
+        },
+        {
+          "name": "C",
+          "content": "writer, Juan Felipe Herrera,"
+        },
+        {
+          "name": "D",
+          "content": "writer Juan Felipe Herrera"
+        }
+      ],
+      "correct": "writer Juan Felipe Herrera,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Los Angeles-based artist Henry Taylor's large, vibrant paintings of prominent Black figures such as Olympian Alice Coachman (<i>See Alice Jump, 2011</i>) and artist David Hammons (<i>Hammons meets a hyena on holiday</i>,  ______  celebrated by admirers of twenty-first-century portraiture, attracted legions of new fans in 2024 when they were included in a popular Taylor retrospective at the Whitney Museum.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "2016), long"
+        },
+        {
+          "name": "B",
+          "content": "2016) were long"
+        },
+        {
+          "name": "C",
+          "content": "2016) have long been"
+        },
+        {
+          "name": "D",
+          "content": "2016), had long been"
+        }
+      ],
+      "correct": "2016), long",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Among the small magazines animating London's vibrant literary scene in the early twentieth century was ______ by Wyndham Lewis and featuring artwork by Edward Wadsworth, Frederick Etchells, and Jacob Epstein; fiction by Rebecca West and Ford Madox Ford; and a manifesto penned by Lewis, this magazine publicized the work of influential avant-garde writers and artists of the day.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Blast</i>; edited"
+        },
+        {
+          "name": "B",
+          "content": "<i>Blast</i>. Edited"
+        },
+        {
+          "name": "C",
+          "content": "<i>Blast</i>edited"
+        },
+        {
+          "name": "D",
+          "content": "<i>Blast</i>, edited"
+        }
+      ],
+      "correct": "<i>Blast</i>. Edited",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Reena Esmail's classical composition âSummitless Mountainsâ incorporates a raag, a melodic framework used in Hindustani classical music, called Raag Chandrakauns. Often, interplay between the raag's designated vadi and samvadi (the first- and second-most important notes, respectively) and its prescribed melodic sequences ______ an unsettled mood.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have evoked"
+        },
+        {
+          "name": "B",
+          "content": "evoke"
+        },
+        {
+          "name": "C",
+          "content": "evokes"
+        },
+        {
+          "name": "D",
+          "content": "evoking"
+        }
+      ],
+      "correct": "evokes",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is <i>The Pearls Leading to Accepted Guidance</i>, one of the city's hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu's tenure as a center of trade and education.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "are offering"
+        },
+        {
+          "name": "B",
+          "content": "offer"
+        },
+        {
+          "name": "C",
+          "content": "offering"
+        },
+        {
+          "name": "D",
+          "content": "offers"
+        }
+      ],
+      "correct": "offers",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Castelmagno from Piedmont and Quartirolo Lombardo from Lombardy, are highly valued for their regional authenticity; ______ they are prized for being made using local ingredients and methods typical of their respective geographic regions.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "that is,"
+        },
+        {
+          "name": "B",
+          "content": "rather,"
+        },
+        {
+          "name": "C",
+          "content": "then,"
+        },
+        {
+          "name": "D",
+          "content": "still,"
+        }
+      ],
+      "correct": "that is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The moon Valetudo orbits Jupiter in the same direction that the planet rotates. ______ Valetudo's orbit is described as prograde. Mneme, another of Jupiter's moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "B",
+          "content": "In reality,"
+        },
+        {
+          "name": "C",
+          "content": "Hence,"
+        },
+        {
+          "name": "D",
+          "content": "Next,"
+        }
+      ],
+      "correct": "Hence,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>For several centuries after the birth of opera in sixteenth-century Florence, Italian remained the default language in which most opera scores were written. ______ opera singers today, such as the soprano Amira Selim, encounter a wide range of Italian termsâfrom affettuoso (with feeling) to accelerando (at an accelerating tempo)âwhen following many eighteenth-century opera scores.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Granted,"
+        },
+        {
+          "name": "C",
+          "content": "Lastly,"
+        },
+        {
+          "name": "D",
+          "content": "Thus,"
+        }
+      ],
+      "correct": "Thus,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Rajahnate of Butuan, a sea power based on Mindanao island in the Philippines that reached the height of its influence around 1100 CE, is classified as a thalassocracy. Thalassocracies are generally considered distinct from tellurocracies, or land-based powers, ______ the British Empire (1600s-1900s CE) notably extended its hegemony across both land and sea.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "exemplifying this distinction,"
+        },
+        {
+          "name": "B",
+          "content": "underscoring this difference,"
+        },
+        {
+          "name": "C",
+          "content": "supporting this claim,"
+        },
+        {
+          "name": "D",
+          "content": "blurring this line,"
+        }
+      ],
+      "correct": "blurring this line,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>According to climate envelope models, individual organisms that inhabit the coolest areas of their species geographic distribution are expected to benefit from a warming climate, while individuals in the warmest areas will struggle. A 2024 University of Arizona study, ______ found that warmer-than-average temperatures resulted in a decrease in growth across all areas of the common pinon tree's distribution range.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "though,"
+        },
+        {
+          "name": "B",
+          "content": "therefore,"
+        },
+        {
+          "name": "C",
+          "content": "for example,"
+        },
+        {
+          "name": "D",
+          "content": "moreover,"
+        }
+      ],
+      "correct": "though,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>Birthday Party</i> is a 1957 black-and-white linocut print by Black American artist Margaret Burroughs.</li><li>It depicts a tranquil, everyday scene (a group of children celebrating).</li><li><i>Amanzi Amthatha</i> (â<i>The cold water takes him</i>â) is a 2001 black-and-white linocut print by South African artist Nomathemba Tana.</li><li>It features a scene with an explicitly political point of view (a Xhosa warrior fighting British colonial rule).</li><li>Relief printing is a technique in which an image is carved onto a printing block, covered in ink or paint, and stamped.</li></ul></blockquote>",
+      "question": "The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The print by Tana is a black-and-white linocut; by contrast, Burroughs's is a relief print."
+        },
+        {
+          "name": "B",
+          "content": "Burroughs made <i>Birthday Party</i> in 1957, while Tana made <i>Amanzi Amthatha</i> (â<i>The cold water takes him</i>â) later, in 2001."
+        },
+        {
+          "name": "C",
+          "content": "Tana's print expresses an explicitly political point of view, while Burroughs's depicts a tranquil, everyday scene."
+        },
+        {
+          "name": "D",
+          "content": "The scenes depicted in both works were first carved onto a printing block, then stamped onto paper; however, one work is a linocut, while the other is a relief print."
+        }
+      ],
+      "correct": "Tana's print expresses an explicitly political point of view, while Burroughs's depicts a tranquil, everyday scene.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Researchers Gwangsu Kim et al. sought to explore the relationship between the brain's ability to process natural sounds and its ability to process music.</li><li>They used an artificial deep neural network (DNN) that models how the brain processes auditory information.</li><li>The DNN had been trained to detect natural sounds (excluding music).</li><li>Finding: The DNN spontaneously developed neurons that responded to music but not to other auditory stimuli.</li><li>Conclusion: The brain's ability to process music may arise as a by-product of natural sound processing.</li></ul></blockquote>",
+      "question": "The student wants to present the aim of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Using an artificial deep neural network, the researchers sought to explore the relationship between the brain's ability to process natural sounds and its ability to process music."
+        },
+        {
+          "name": "B",
+          "content": "The researchers used an artificial deep neural network, which spontaneously developed neurons that respond to music but not to other auditory stimuli."
+        },
+        {
+          "name": "C",
+          "content": "By training an artificial deep neural network, the researchers aimed to establish that the brain's ability to process natural sounds arises as a by-product of processing music."
+        },
+        {
+          "name": "D",
+          "content": "The researchers used an artificial deep neural network to demonstrate that neurons responding to music are also sensitive to a wide range of other auditory stimuli."
+        }
+      ],
+      "correct": "Using an artificial deep neural network, the researchers sought to explore the relationship between the brain's ability to process natural sounds and its ability to process music.",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "uuid": "4dbbfd50-0f4a-4f74-a6ce-180eff8cc514",
+  "chunk": "DIHJ73EM.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Microbiologist RadamÃ©s Cordero and team investigated surface temperatures of a variety of fungi, including <i>Marasmius capillaris</i> and a species from the genus <i>Cantharellus</i>, in a study ______ a previous observation: Cordero had taken thermal images of various wild mushrooms while hiking and found that the mushrooms all appeared to be colder than the surrounding environment, raising questions about thermoregulation in fungi.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "excluded by"
+        },
+        {
+          "name": "B",
+          "content": "acknowledged in"
+        },
+        {
+          "name": "C",
+          "content": "released in"
+        },
+        {
+          "name": "D",
+          "content": "prompted by"
+        }
+      ],
+      "correct": "prompted by",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Players of online games are largely aware that the games collect their data, and they're often willing to trade some privacy for a fun experience. But the games are often quite ______ about what data they collect and why. Because of this, data-privacy advocates are seeking to expand online players' knowledge of data collection practices and improve their ability to navigate privacy-setting features in games.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "opaque"
+        },
+        {
+          "name": "B",
+          "content": "ambivalent"
+        },
+        {
+          "name": "C",
+          "content": "abrasive"
+        },
+        {
+          "name": "D",
+          "content": "outspoken"
+        }
+      ],
+      "correct": "opaque",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Described in treatises mainly published between 1768 and 1950 (such as William Holdsworth and William Aldridge's <i>Natural Short-Hand</i>), musical stenography used quickly written squiggles and dots in an attempt to preserve, in print and in real time, the ______ features of live performancesâthose that result from impromptu deviations of performers when fidelity to an established musical score is not mandated.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "meticulous"
+        },
+        {
+          "name": "B",
+          "content": "inconspicuous"
+        },
+        {
+          "name": "C",
+          "content": "inevitable"
+        },
+        {
+          "name": "D",
+          "content": "extemporaneous"
+        }
+      ],
+      "correct": "extemporaneous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Edward Gibbon's 1796 <i>Memoirs of My Life and Writings</i>. Gibbon reflects on publishing a volume of his series <i>The History of the Decline and Fall of the Roman Empire</i>.</p><p>I am at a loss how to describe the success of the work, without <u>betraying</u> the vanity of the writer. The first impression was exhausted in a few days; a second and third edition were scarcely adequate to the demand.</p>",
+      "question": "As used in the text, what does the word \"betraying\" most nearly mean? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "Forsaking"
+        },
+        {
+          "name": "B",
+          "content": "Distorting"
+        },
+        {
+          "name": "C",
+          "content": "Exploiting"
+        },
+        {
+          "name": "D",
+          "content": "Exposing"
+        }
+      ],
+      "correct": "Exposing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Al Black's <em>Sunset Backwater Scene with Egrets</em>, a wetland landscape with silhouettes of moss-covered trees contrasted by a vibrant orange sky, is typical of paintings by the Florida Highwaymen, loosely affiliated landscape artists mainly active in Fort Pierce, Florida, during the 1950s and '60s. Some art historians suggest that Highwaymen paintings played a role in shaping popular perceptions of the state that persist today: the natural iconography that Black and colleagues constantly revisitedâlush tropical forests, vivid sunsetsâis now seen as classically Floridian.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To explain that a particular painting by Al Black has had greater influence on the broader culture of the state of Florida than is generally acknowledged."
+        },
+        {
+          "name": "B",
+          "content": "To present the argument that paintings by the Florida Highwaymen likely helped to create a particular widespread impression of Florida."
+        },
+        {
+          "name": "C",
+          "content": "To describe the historical circumstances in which paintings by the Florida Highwaymen experienced a resurgence in popularity."
+        },
+        {
+          "name": "D",
+          "content": "To contrast the public's reaction during the 1950s and '60s to a particular painting by Al Black with more recent reactions to it."
+        }
+      ],
+      "correct": "To present the argument that paintings by the Florida Highwaymen likely helped to create a particular widespread impression of Florida.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The metal featured in both the structure of the House in Kamiaraya by Kazuto Nishi Architects and the hardware in the One-Room Residence of 5 Layers by Matsuyama Architect and Associates is representative of a trend in contemporary Japanese interior design to juxtapose sleek, modern accents with traditional organic materials such as paper. The prominent featuring of metal stems from the post-World War II emphasis on technological progress, while more traditional natural materials help preserve longstanding architectural and aesthetic approaches.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The text introduces the salient characteristics of two buildings and then details the historical events that occasioned the buildings' designs."
+        },
+        {
+          "name": "B",
+          "content": "The text names projects that are noteworthy for their inclusion of certain materials and then explains past important uses of the materials."
+        },
+        {
+          "name": "C",
+          "content": "The text distinguishes between two aesthetic approaches to architecture and then submits that one approach has had more of a long-term impact than the other has had."
+        },
+        {
+          "name": "D",
+          "content": "The text cites examples of a design trend and then briefly establishes the principles underlying the trend."
+        }
+      ],
+      "correct": "The text cites examples of a design trend and then briefly establishes the principles underlying the trend.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Nathaniel Hawthorne's 1830 short story \"Sir William Phips.\"</p><p>The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the map,âminute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting. These defects are partly remediable, and even without an absolute violation of literal truth, although by methods rightfully interdicted to professors of biographical exactness.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Historians should not worry if their readers believe they are embellishing the truth."
+        },
+        {
+          "name": "B",
+          "content": "Historians' fidelity to the truth often results in work that is less engaging than it could be."
+        },
+        {
+          "name": "C",
+          "content": "Historians do not agree among themselves about the best methods of recording history."
+        },
+        {
+          "name": "D",
+          "content": "Maps are more practical to own than paintings."
+        }
+      ],
+      "correct": "Historians' fidelity to the truth often results in work that is less engaging than it could be.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\"><img src=\"/images/96d12101b58c8c1a7f793f7ee53ca3ad.png\" width=\"630\" height=\"225\"></p><p>Deposits of valuable objects, called hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Technological advancements in the twenty-first century have made it easier to locate hoards, but plenty of hoards were found earlier. For example, ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the Ardagh Hoard and Balline Hoard were both found before 2000."
+        },
+        {
+          "name": "B",
+          "content": "Balline Hoard and Carrick-on-Suir Hoard were both discovered in the 1900s."
+        },
+        {
+          "name": "C",
+          "content": "the Balline Hoard was found in 1868."
+        },
+        {
+          "name": "D",
+          "content": "the Ardagh Hoard, Balline Hoard, and Carrick-on-Suir Hoard have all been found since 1868."
+        }
+      ],
+      "correct": "the Ardagh Hoard and Balline Hoard were both found before 2000.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/0c510cc81902669c721c8db2f31fe81e.png\" width=\"726\" height=\"339\"></div><p>The nearly forty tribes located in Oklahoma, including the Osage Nation and the Seminole Nation, operate numerous businesses and generate billions of dollars in revenue. A student in an economics class is researching the tribes' collective activity as a single industry. The student wants to compare that industry's contribution to Oklahoma's overall economy in 2017 with the contributions made by three other industries in the state. Looking at the table, the student finds that tribal economic activity totaled over $7.3 billion, ranking it above ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the comparison?",
+      "options": [
+        {
+          "name": "A",
+          "content": "accommodation/food services but below both health care and retail"
+        },
+        {
+          "name": "B",
+          "content": "health care, retail, and accommodation/food services"
+        },
+        {
+          "name": "C",
+          "content": "accommodation/food services and nearly equal to health care and retail"
+        },
+        {
+          "name": "D",
+          "content": "both accommodation/food services and retail but below health care"
+        }
+      ],
+      "correct": "accommodation/food services but below both health care and retail",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/b37b00f64d52082bc4e9e8e70122f72e.png\" width=\"642\" height=\"264\"></div><p>Studies have found that when looking at other people's eyes, humans tend to perceive dilated pupils positively and constricted pupils negatively. Noting that a dark irisâthe colored portion surrounding the pupilâis hard to distinguish from the black of the pupil (and thereby affects the pupil's apparent size) and that many domestic dogs have dark irises, Akitsugu Konno et al. showed close-up images of dogs' faces to human participants and asked them to rate the dogs' traits and their own attitudes toward the dogs. Their findings suggest that ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "iris color in domestic dogs may be an adaptation to elicit positive responses from humans, as participants responded more negatively to images of dogs whose iris colors can make pupils appear large than they did to images of dogs without such iris colors."
+        },
+        {
+          "name": "B",
+          "content": "humans may not be as sensitive to pupil size in dogs as they are to pupil size in other people, as participants' responses to the images show no relationship to differences in the shade of dogs' irises that could affect how large the dogs' pupils appear to be."
+        },
+        {
+          "name": "C",
+          "content": "humans' responses to pupil size in other people may extend to dogs, as participants responded more positively to images of dogs whose iris colors were likely to make their pupils appear large than they did to images of dogs whose iris colors were unlikely to have that effect."
+        },
+        {
+          "name": "D",
+          "content": "differences in dogsâ pupil size may elicit a stronger response in humans than differences in peopleâs pupil size do, as participantsâ responses to the images when dogsâ pupils were actually large were indistinguishable from participantsâ responses when dogsâ pupils only appeared to be large due to iris color."
+        }
+      ],
+      "correct": "humans' responses to pupil size in other people may extend to dogs, as participants responded more positively to images of dogs whose iris colors were likely to make their pupils appear large than they did to images of dogs whose iris colors were unlikely to have that effect.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Carolina chickadees are cavity nesting birds that initiate nest building at the same time of year as golden paper wasps, a species that also nests in enclosed spaces. Researchers observed that both species will settle in nesting boxes, but birds and wasps are not often observed co-occupying boxes, leading to the hypothesis that the two species compete for nesting sites. To test this hypothesis, the researchers installed nesting boxes throughout a nature preserve in the US state of North Carolina, manipulated some of the boxes to exclude birds, and then monitored the boxes for two years. Not only was the hypothesis validated, there was also a clear indication of competitive advantage for birds.</p>",
+      "question": "Which finding from the study, if true, would most directly support the text's characterization of the study's results?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Even though overall usage of the nesting boxes by wasps and birds was high throughout the study, 24% of the manipulated boxes remained vacant each spring, while less than 4% of the unmanipulated nesting boxes remained vacant."
+        },
+        {
+          "name": "B",
+          "content": "Nest initiation by either birds or wasps but not both was observed in more than 90% of the unmanipulated boxes, but nest initiation by wasps was observed in less than 50% of the manipulated boxes."
+        },
+        {
+          "name": "C",
+          "content": "Wasps initiated nesting in manipulated boxes much more often than in unmanipulated boxes, and 80% of initial co-occupations of unmanipulated boxes resulted in abandonment by wasps but not by birds."
+        },
+        {
+          "name": "D",
+          "content": "Although only 15 instances of co-occupation of unmanipulated boxes by wasps and birds were observed over the course of the study, in a majority of those instances, wasps were already occupying the boxes when birds initiated nesting in them."
+        }
+      ],
+      "correct": "Wasps initiated nesting in manipulated boxes much more often than in unmanipulated boxes, and 80% of initial co-occupations of unmanipulated boxes resulted in abandonment by wasps but not by birds.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Based on findings from fossil sites, paleobotanists had developed the so-called partition hypothesis, which holds that there were two distinctly different kinds of biomes during the Devonian period (circa 360 to 420 million years ago). One was a tropical deltaic forest biome home to plants such as the fernlike <i>Eospermatopteris</i>, and the other was an arid floodplain forest biome home to plants such as the coniferlike <i>Archaeopteris</i>. Recently, however, evolutionary ecologist Khudadad Khudadad examined the remnants of a Devonian forest in what is now Cairo, New York, and concluded that evidence from the Cairo site is inconsistent with the partition hypothesis.</p>",
+      "question": "Which finding about the Cairo site, if true, would most directly support Khudadad's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although the site appears to have been a tropical deltaic forest during the Devonian period, fossil evidence suggests that <em>Eospermatopteris</em> was present at that time."
+        },
+        {
+          "name": "B",
+          "content": "The site appears to have been a tropical deltaic forest early in the Devonian period but transitioned to an arid floodplain forest after the end of the Devonian period."
+        },
+        {
+          "name": "C",
+          "content": "The site appears to have been an arid floodplain forest during the Devonian period and contains fossil evidence of contemporaneous <em>Eospermatopteris</em> and <em>Archaeopteris</em>."
+        },
+        {
+          "name": "D",
+          "content": "Fossil evidence from the site suggests that several forest plant species other than <em>Eospermatopteris</em> and <em>Archaeopteris</em> lived there during the Devonian period."
+        }
+      ],
+      "correct": "The site appears to have been an arid floodplain forest during the Devonian period and contains fossil evidence of contemporaneous <em>Eospermatopteris</em> and <em>Archaeopteris</em>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of detail (with a higher rating for reported data with more detail) and for level of traceability (with a higher rating for clearer descriptions of procedures). Based on these ratings, a second research team concluded that a study by Baipaki P. Hikwama provided more specificity in its data than a study by Timothy G. Townsend and colleagues did.</p>",
+      "question": "Which finding, if true, would most directly challenge the second research team's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The study by Hikwama had a lower traceability rating than the study by Townsend and colleagues did."
+        },
+        {
+          "name": "B",
+          "content": "The study by Hikwama had a lower detail rating than the study by Townsend and colleagues did."
+        },
+        {
+          "name": "C",
+          "content": "The study by Hikwama had a high detail rating and a high traceability rating."
+        },
+        {
+          "name": "D",
+          "content": "The study by Townsend and colleagues had a low detail rating and a low traceability rating."
+        }
+      ],
+      "correct": "The study by Hikwama had a lower detail rating than the study by Townsend and colleagues did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>From November 1980 to February 1981, oil prices rose 45%, creating what economists term an oil shock. Although oil shocks have occurred multiple times since 1945, a broadly applicable description of how oil shocks affect economies at the national level has proved elusive, a problem typically attributed to the fact that oil shocks' effects are substantially conditioned on country-specific characteristics (oil import-export ratios, most importantly). Recently, however, Gbadebo Oladosu et al. showed that economists' estimates of national economies' responsiveness to oil shocks are highly heterogeneous even within a given country and time frameâranging by more than a factor of five in the case of the United States during a recent oil shock, for instanceâsuggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "controlling for variations in countries' oil import-export ratios may have obscured inconsistencies in economists' findings about the effects of oil shocks at national levels."
+        },
+        {
+          "name": "B",
+          "content": "economists' conventional measures of national economic activity may be insufficiently sensitive to the effects of oil shocks."
+        },
+        {
+          "name": "C",
+          "content": "methodological discrepancies in studies of oil shocks may have contributed to economists' inability to provide a generalized model of oil shocks' effects on national economies."
+        },
+        {
+          "name": "D",
+          "content": "differences in oil import-export ratios from one country to another may account for more of the differences in the effects of oil shocks on those countries' economies than economists previously believed."
+        }
+      ],
+      "correct": "methodological discrepancies in studies of oil shocks may have contributed to economists' inability to provide a generalized model of oil shocks' effects on national economies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product's risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Australia, investigating participants' intentions to purchase a new television, and found that, on average, middle-aged adults had the lowest perception among all the demographic groups in the study of the environmental risks of the TV. Assuming that the results of Tarabieh's study are broadly applicable, this finding suggests that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "middle-aged adults likely prioritize other factors over a product's environmental sustainability when making purchasing decisions."
+        },
+        {
+          "name": "B",
+          "content": "middle-aged adults might be more likely than participants in the other demographic groups to purchase the TV."
+        },
+        {
+          "name": "C",
+          "content": "the new TV is less appealing to middle-aged adults than other similar products on the market are."
+        },
+        {
+          "name": "D",
+          "content": "there is not a meaningful difference in the average likelihood of purchasing environmentally friendly products among the demographic groups included in the study."
+        }
+      ],
+      "correct": "middle-aged adults might be more likely than participants in the other demographic groups to purchase the TV.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a letter dated January 14th, 1780, congressman John Witherspoon attempts to persuade General George Washington that the Continental Army's difficulty in procuring supplies, often attributed to disloyalty among civilian farmers and merchants, ______ due to concerns suppliers have about receiving compensation in the form of rapidly depreciating Continental currency.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "largely occur"
+        },
+        {
+          "name": "B",
+          "content": "largely occurring"
+        },
+        {
+          "name": "C",
+          "content": "is largely occurring"
+        },
+        {
+          "name": "D",
+          "content": "have largely occurred"
+        }
+      ],
+      "correct": "is largely occurring",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Social media platforms have made the collection of qualitative human behavioral data easier than ever. To collect such data by means of social media does raise a serious ethical ______ terms of service stipulate that platforms can analyze usersâ accounts and posts, according to sociologist Jose van Dijck, users are not informed when their data are included in behavioral studies.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "concern, though;"
+        },
+        {
+          "name": "B",
+          "content": "concern, though:"
+        },
+        {
+          "name": "C",
+          "content": "concern, though"
+        },
+        {
+          "name": "D",
+          "content": "concern: though"
+        }
+      ],
+      "correct": "concern: though",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The neurotechnology company MindMaze is working on an exciting new technology: game-based digital therapies that improve neuroplasticity to help with cognitive rehabilitation. MindMaze's technology, alongside other such neuromodulation technologies that function by stimulating nervous system structures, ______ the way for future advancements in neurotechnology.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "paving"
+        },
+        {
+          "name": "B",
+          "content": "is paving"
+        },
+        {
+          "name": "C",
+          "content": "have paved"
+        },
+        {
+          "name": "D",
+          "content": "are paving"
+        }
+      ],
+      "correct": "is paving",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Helical ______ widely understood to confer stability and efficiency in the locomotion of a variety of microscopic organismsâincluding bacteria, eukaryotic algae, and ciliatesâbestows similar advantages, albeit via different propulsive modes, to larger oceanic macroplanktons, such as salps.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "swimming has been"
+        },
+        {
+          "name": "B",
+          "content": "swimming, is"
+        },
+        {
+          "name": "C",
+          "content": "swimming,"
+        },
+        {
+          "name": "D",
+          "content": "swimming is"
+        }
+      ],
+      "correct": "swimming,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Alberto Gabriele, author of <i>Reading Popular Culture in Victorian Print,</i> tracks the transnational dissemination of works by author Mary Elizabeth Braddon via the magazine ______ from 1866 to 1899 and distributed throughout the Australian cities of Melbourne, Adelaide, and Hobart; the continental European cities of Brussels, Paris, and Turin; and cities in Turkey, India, and Jamaica, this magazine helped make Braddon's serialized novels globally available.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>Belgravia</em>, published"
+        },
+        {
+          "name": "B",
+          "content": "<em>Belgravia</em>; published"
+        },
+        {
+          "name": "C",
+          "content": "<em>Belgravia</em>. Published"
+        },
+        {
+          "name": "D",
+          "content": "<em>Belgravia</em> published"
+        }
+      ],
+      "correct": "<em>Belgravia</em>. Published",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Brothers Orville and Wilbur Wright famously received a patent for their flying machine on May 22, 1906. Louisiana native Charles F. Page, who was born into slavery and self-educated, created a gas-powered flying ship in 1903 that was officially patented on April 10, ______ only model had been suspiciously destroyed en route to a planned demonstration at the 1904 World's Fair, and, discouraged, he never built a replacement.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1906âroughly six weeks earlierâPage's"
+        },
+        {
+          "name": "B",
+          "content": "1906.Roughly six weeks earlier, Page's"
+        },
+        {
+          "name": "C",
+          "content": "1906 roughly six weeks earlier, Page's"
+        },
+        {
+          "name": "D",
+          "content": "1906âroughly six weeks earlier. Page's"
+        }
+      ],
+      "correct": "1906âroughly six weeks earlier. Page's",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In contrast to first-past-the-post electoral processes, the proportional representation system by which Australia's Senate is elected begins with citizens casting their votes not for specific candidates but for political parties. ______ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Conversely,"
+        },
+        {
+          "name": "B",
+          "content": "In other words,"
+        },
+        {
+          "name": "C",
+          "content": "However,"
+        },
+        {
+          "name": "D",
+          "content": "Then,"
+        }
+      ],
+      "correct": "Then,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At Storm King Art Center, an outdoor sculpture park in New York, Charles Ginnever's <i>Fayette: For Charles and Medgar Evers</i> is exposed to rain, snow, heat, and humidity. ______ it remains in good condition due to its material: Ginnever's sculpture is made of corrosion-resistant steel.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "That said,"
+        },
+        {
+          "name": "B",
+          "content": "In addition,"
+        },
+        {
+          "name": "C",
+          "content": "On the contrary,"
+        },
+        {
+          "name": "D",
+          "content": "As a result,"
+        }
+      ],
+      "correct": "That said,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A writer whose debut novel is a success may struggle to live up to that first book's promise. ______ as in the case of Tommy Orange, author of the popular debut <i>There There</i> (2018) and the sequel <i>Wandering Stars</i> (2024), the follow-up actually elevates the writer's reputation. (<i>Wandering Stars</i> was labeled a \"towering achievement\" by the <i>New York Times</i>.)</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "Accordingly,"
+        },
+        {
+          "name": "C",
+          "content": "Sometimes,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "Sometimes,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Box modeling and digital sculpting approaches to three-dimensional digital modeling for video games yield graphics that accurately represent the relative sizes and proportions of real-world objects, but since these graphics are rendered from perfect geometric shapes, they tend to lack organic realism. ______ these 3D elements may display unnaturally precise angles and curves as compared to their real-world counterparts.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As such,"
+        },
+        {
+          "name": "B",
+          "content": "In addition,"
+        },
+        {
+          "name": "C",
+          "content": "In conclusion,"
+        },
+        {
+          "name": "D",
+          "content": "However,"
+        }
+      ],
+      "correct": "As such,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Horridus is the nickname of a <em>Triceratops</em> fossil specimen housed at the Melbourne Museum.</li><li>The Melbourne Museum is located in Melbourne, Australia.</li><li>Horridus lived in the Late Cretaceous period.</li><li>Dio is the nickname of a <em>Triceratops</em> fossil specimen housed at the Royal Ontario Museum.</li><li>The Royal Ontario Museum is located in Ontario, Canada.</li><li>Dio lived in the Late Cretaceous period.</li></ul></blockquote>",
+      "question": "The student wants to contrast the locations of the two specimens. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Like Horridus, Dio is a <em>Triceratops</em> fossil specimen that lived in the Late Cretaceous period."
+        },
+        {
+          "name": "B",
+          "content": "The Royal Ontario Museum in Ontario, Canada, houses Dio, a <em>Triceratops</em> fossil specimen."
+        },
+        {
+          "name": "C",
+          "content": "The <em>Triceratops</em> fossil specimen Horridus is not the only such specimen currently housed in a museum or institute."
+        },
+        {
+          "name": "D",
+          "content": "Horridus is housed at the Melbourne Museum in Melbourne, Australia, while Dio is housed at the Royal Ontario Museum in Ontario, Canada."
+        }
+      ],
+      "correct": "Horridus is housed at the Melbourne Museum in Melbourne, Australia, while Dio is housed at the Royal Ontario Museum in Ontario, Canada.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Cree is a synthetic language in the Algonquian language family.</li><li>In synthetic languages, nouns can take several different forms (or cases) depending on their function within a sentence.</li><li>Combining the suffix <i>-ihk</i> with the Cree noun <i>sÄkahikan</i> (lake) forms the locative-case noun <i>sÄkahikanihk</i> (in the lake).</li><li>Synthetic languages have extensive case systems.</li><li>In analytic languages, cases are not typically used to indicate noun function.</li><li>Noun function is instead indicated through word order and auxiliary words (such as prepositions and adjectives).</li></ul></blockquote>",
+      "question": "The student wants to explain why Cree is classified as a synthetic language. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Cree is a synthetic language rather than an analytic language, where nouns rely on word order and auxiliary words to indicate their function."
+        },
+        {
+          "name": "B",
+          "content": "In contrast to an analytic language, a synthetic language like Cree indicates a noun's function within a sentence."
+        },
+        {
+          "name": "C",
+          "content": "Cree has a robust case system in which nouns take different forms depending on their function, making it a synthetic language."
+        },
+        {
+          "name": "D",
+          "content": "Cree is classified as a synthetic language, meaning that the Algonquian language utilizes nouns to fulfill various functions within a sentence."
+        }
+      ],
+      "correct": "Cree has a robust case system in which nouns take different forms depending on their function, making it a synthetic language.",
+      "solution": ""
+    }
+  ]
+}

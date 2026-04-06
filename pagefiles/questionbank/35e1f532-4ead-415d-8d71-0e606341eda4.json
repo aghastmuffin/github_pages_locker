@@ -1,0 +1,682 @@
+{
+  "uuid": "35e1f532-4ead-415d-8d71-0e606341eda4",
+  "chunk": "hejoVmZ7.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>In the Metropolitan Museum of Art's Costume Institute's innovative multisensory exhibit of garments and accessories spanning four centuries, an emphasis on the ______ of fashion was conveyed both by the exhibit's theme of perpetual renewal in nature and, more subtly, by its scientific re-creations of ephemeral elements (like a fragrance worn with a dress more than a century ago).</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "definitiveness"
+        },
+        {
+          "name": "B",
+          "content": "superficiality"
+        },
+        {
+          "name": "C",
+          "content": "partiality"
+        },
+        {
+          "name": "D",
+          "content": "transience"
+        }
+      ],
+      "correct": "transience",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Because blue holes (such as the Lost Blue Hole in the Bahamas) and cenotes (such as Cenote Dos Ojos in Mexico) differ in their size, water composition, and type of location, they are not usually viewed as being ______ , but both are water-filled sinkholes typically produced by the natural dissolution and collapse of rocks.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "distinct"
+        },
+        {
+          "name": "B",
+          "content": "incongruous"
+        },
+        {
+          "name": "C",
+          "content": "analogous"
+        },
+        {
+          "name": "D",
+          "content": "explicable"
+        }
+      ],
+      "correct": "analogous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Wind power and solar power constitute over 60% of Chile's electricity production. Due to the geographical availability of renewable resources of energy, Chile is in an advantageous position to potentially ______ the proportion of electricity it produces from renewable resources in the future.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "induce"
+        },
+        {
+          "name": "B",
+          "content": "augment"
+        },
+        {
+          "name": "C",
+          "content": "alleviate"
+        },
+        {
+          "name": "D",
+          "content": "exhaust"
+        }
+      ],
+      "correct": "augment",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. <u>While horizontal gene transfer is common among prokaryotesâsingle-celled organisms, such as the bacteria <i>Enterococcus cecorum</i> and <i>Moraxella caviae</i>âit has rarely been observed among eukaryotes (multicellular organisms).</u> However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.</p>",
+      "question": "Which choice best states the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It argues that two biological phenomena are more similar than they may initially appear to be."
+        },
+        {
+          "name": "B",
+          "content": "It explains why a common perception of a biological process is flawed."
+        },
+        {
+          "name": "C",
+          "content": "It contrasts the frequency with which a biological phenomenon has been detected in two categories of organisms."
+        },
+        {
+          "name": "D",
+          "content": "It indicates a distinction between the mechanics of two kinds of biological processes."
+        }
+      ],
+      "correct": "It contrasts the frequency with which a biological phenomenon has been detected in two categories of organisms.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Rachel Hengâs 2023 novel <i>The Great Reclamation</i>. Ah Boon is fishing off the coast of Singapore.</p><blockquote style=\"margin-left: 40px;\">When he pulled up the nets, they contained only one kind of fishâ<u>black pomfrets</u>, the flat diamonds of their bodies slick in the morning light. This uniformity did not surprise him; over the years, heâd learned that the waters here were temperamental. They could be relied upon for a good catch, but from time to time threw up only <u>prawns or squid</u>, and other times <u>colorful varieties of fish</u> that werenât even supposed to be found in this region. Heâd grown to accept the unpredictability, embracing it as a game to be played, like the reading of tea leaves or the grooves of a palm.</blockquote>",
+      "question": "Taken together, the three underlined portions most clearly serve which function in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They emphasize the wide variety of sea creatures that Ah Boon has caught on this particular fishing trip."
+        },
+        {
+          "name": "B",
+          "content": "They provide examples of what Ah Boon most frequently catches in the area."
+        },
+        {
+          "name": "C",
+          "content": "They illustrate the changeable nature of the fishing grounds where Ah Boon is."
+        },
+        {
+          "name": "D",
+          "content": "They underscore Ah Boon's lack of surprise at seeing sea creatures that aren't usually found in the region."
+        }
+      ],
+      "correct": "They illustrate the changeable nature of the fishing grounds where Ah Boon is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Technological advances have prompted companies to increasingly rely on automation to streamline production. Armin Granulo and colleagues, however, found that for products with higher symbolic value (those viewed as contributing to individual self-expression), consumers prefer products made by humans rather than by robots, likely because human-made products are more strongly associated with uniqueness. <u>When considering automation, therefore, companiesâespecially those specializing in products of symbolic valueâshould weigh trade-offs between efficiency gains and consumer preferences.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It presents evidence supporting the text's argument that consumers prefer products with high symbolic value over products with low symbolic value."
+        },
+        {
+          "name": "B",
+          "content": "It illustrates the need for additional research to evaluate the claim in the previous sentence that automation affects how consumers rate product uniqueness."
+        },
+        {
+          "name": "C",
+          "content": "It emphasizes that a research finding discussed in the text has practical implications that are particularly relevant for businesses making a certain class of product."
+        },
+        {
+          "name": "D",
+          "content": "It refers to a finding presented in the previous sentence to recommend that companies that value product quality reconsider their approach to automation."
+        }
+      ],
+      "correct": "It emphasizes that a research finding discussed in the text has practical implications that are particularly relevant for businesses making a certain class of product.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<strong>Text 1</strong><br>Oil extraction and other human activities are sources of atmospheric methane (CHâ), but, as Donald Wuebbles and Katherine Hayhoe have shown, so too are naturally occurring emissions, such as those from termite mounds. This biogenic CHâ is challenging to track given natural sourcesâ variability and spatial diffusion, <u>but one promising approach is to use CHâ flux data from extant monitoring infrastructure as proxies for CHâ fluxes in unmonitored areas.</u><br><br><strong>Text 2</strong><br>Sparkle Malone and colleagues examined the United Statesâ network of eddy covariance (EC) towersâthe equipment used to measure methane fluxesâand identified significant gaps in the infrastructure that limit the ability to constrain biogenic CHâ emissions. Their analysis revealed that the existing EC towers are not distributed representatively across all climatic regions and ecosystem types, particularly in areas like Alaska and the Rocky Mountains, leading to uncertainties in extrapolating flux data to unmonitored areas. This challenges the reliability of using observed fluxes as proxies for unmonitored regions, as the network's incomplete coverage fails to capture the full variability of biogenic sources.",
+      "question": "Based on the texts, how would Malone et al. (Text 2) most likely respond to the claim in the underlined portion of Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By disputing that biogenic CHâ fluxes from unobserved areas can be reliably derived from observed fluxes."
+        },
+        {
+          "name": "B",
+          "content": "By disagreeing about the importance of quantifying biogenic CHâ fluxes."
+        },
+        {
+          "name": "C",
+          "content": "By challenging the assumption that there are significant biogenic CHâ fluxes that existing CHâ monitoring infrastructure fails to capture."
+        },
+        {
+          "name": "D",
+          "content": "By arguing that existing monitoring technology is not sensitive enough to detect biogenic CHâ fluxes."
+        }
+      ],
+      "correct": "By disputing that biogenic CHâ fluxes from unobserved areas can be reliably derived from observed fluxes.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Marketers of goods often emphasize popularity or expert approval (e.g., âJapan's best-selling carâ or âgum preferred by dentistsâ). To assess the effects of these types of recommendations, Kamal Bookwala and her team asked consumers to choose between two cupcake flavors in several different scenarios; when neither flavor had a recommendation label (the baseline condition), when one flavor was labeled with either âmost popularâ or âbaker's choiceâ information and a thumbs-up approval symbol, and when one flavor was labeled with only a thumbs-up symbol (to control for the increased product prominence any recommendation label confers).</p>",
+      "question": "What does the text most strongly suggest would have been a limitation of the findings if Bookwala and her team had not included conditions with only a thumbs-up label?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The researchers wouldn't have been able to determine whether differences in consumersâ choices between the baseline condition and the conditions with recommendation labels were caused by the content of the labels or the mere fact that labels were present."
+        },
+        {
+          "name": "B",
+          "content": "The researchers wouldn't have been able to determine whether differences in consumersâ choices between the baseline condition and the conditions with recommendation labels were attributable to a positive effect of recognizing an indication of approval."
+        },
+        {
+          "name": "C",
+          "content": "The researchers wouldn't have been able to rule out the possibility that differences in consumersâ choices between the baseline condition and the conditions with recommendation labels were due to consumers' awareness of an attempt to influence their decisions."
+        },
+        {
+          "name": "D",
+          "content": "The researchers wouldn't have been able to determine whether the effectiveness of the recommendations depended on the specific type of approval (e.g., popularity vs. expert) rather than the mere presence of a label."
+        }
+      ],
+      "correct": "The researchers wouldn't have been able to determine whether differences in consumersâ choices between the baseline condition and the conditions with recommendation labels were caused by the content of the labels or the mere fact that labels were present.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Research by economists Wei Feng and Jinzhe Yan indicates that the degree of linguistic abstraction in negative reviews influences how consumers perceive businesses: reviews with concrete details were more likely to result in stronger attributions of fault to companies than vague reviews were. They also found that varying levels of linguistic abstraction in reviews require different types of responses to mitigate their effects. Conciliatory responses were most effective at mitigating the impact of concrete reviews, whereas more defensive responses were more useful when reviews were relatively abstract.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Increasing linguistic abstraction in negative reviews correlates with the degree to which consumers hold companies accountable for negative experiences, but companies can mitigate this effect by responding to such reviews promptly."
+        },
+        {
+          "name": "B",
+          "content": "Given its implications for companies reputation among consumers, the level of linguistic abstraction in negative reviews is an important consideration when companies devise a response strategy."
+        },
+        {
+          "name": "C",
+          "content": "Consumers are more likely to find companies blameworthy for negative consumer experiences if the companies are overly defensive and linguistically abstract in their responses to negative reviews than if their responses are accommodating and linguistically concrete."
+        },
+        {
+          "name": "D",
+          "content": "The study demonstrates that the relationship between linguistic abstraction in negative reviews and consumer blame is fixed, but companies can neutralize this effect by consistently using conciliatory responses regardless of the review's abstractness."
+        }
+      ],
+      "correct": "Given its implications for companies reputation among consumers, the level of linguistic abstraction in negative reviews is an important consideration when companies devise a response strategy.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/f2d0f525541edf006edab1eed31a7d82.png\" style=\"width: 720px; height: 316px;\"></div><p><i>Drosophila</i> (fruit flies) have generation times of 10-12 days, so seasonal changes in rainfall and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as <i>D. persimilis</i> and <i>D. mediopunctata</i>. <i>Drosophila</i> body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Sebnem Onder and Cansu Fidan Aksoy measured the wing sizes of members of a <i>D. melanogaster</i> population in YesilÃ³z, Turkey, that were collected monthly between May and October over three years. Their research suggests that <i>Drosophila</i> collected in relatively warmer months should tend to have a longer life span, as is illustrated by the finding that ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the average male wing centroid size was larger in July than in May."
+        },
+        {
+          "name": "B",
+          "content": "the average female wing centroid size was consistently larger than the average male wing centroid size in all four months in the table."
+        },
+        {
+          "name": "C",
+          "content": "the average monthly low temperature was higher in September than in May."
+        },
+        {
+          "name": "D",
+          "content": "the average female wing centroid size was 2.02 mm in July but was 2.29 mm in October."
+        }
+      ],
+      "correct": "the average male wing centroid size was larger in July than in May.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A student is writing a research paper on the history of irrigation in the southwestern United States, concentrating on the Clear Lake Reservoir, created in Modoc County, California, in 1910. The student claims that the Clear Lake Reservoir is one instance in a long line of successful attempts at irrigation in southwestern states, such as California, Arizona, and New Mexico.</p>",
+      "question": "Which quotation from a historian best supports the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âSprinkler irrigation systems, which were developed in the late 20th century, are a method of irrigating that requires machinery that can spray water in all directions. These systems are currently widely used in many areas of California, New Mexico, and Arizona.â"
+        },
+        {
+          "name": "B",
+          "content": "âSeveral major irrigation canals currently in use in central Arizona follow the original paths of the irrigation system constructed by the Hohokam people in the early 7th century CE, the first of a number of systems in the region.â"
+        },
+        {
+          "name": "C",
+          "content": "âThe significance of the Clear Lake Reservoir in the development of California cannot be overstated, since irrigation is a principal means of transporting water for food production.â"
+        },
+        {
+          "name": "D",
+          "content": "âThe success of the Clear Lake Reservoir exemplifies the technical innovations of early 20th-century federal reclamation projects, yet its design relied primarily on contemporary engineering rather than historical precedents from the region.â"
+        }
+      ],
+      "correct": "âSeveral major irrigation canals currently in use in central Arizona follow the original paths of the irrigation system constructed by the Hohokam people in the early 7th century CE, the first of a number of systems in the region.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The percent of cities and towns in a given period that persist from a prior period (backward continuity) and the percent that persist into a later period (forward continuity) are known to correlate positively with economic and political stability in a region. Researchers studying demographic trends in the Indigenous societies of ancient Mexico determined both continuity measures for the Yautepec Valley, which lay within the macroregional hegemony of the city-state of Teotihuacan from roughly 100 BCE until roughly 450 CE, after which point Teotihuacan declined. The team concluded that ______ </p><div style=\"text-align: center;\"><img src=\"/images/96f1ec7ce4dfc601eabdc5d7310fc480.png\" style=\"width: 700px; height: 370px;\"></div>",
+      "question": "Which choice most effectively uses data from the table to complete the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Teotihuacan's hegemony imposed stability on the Yautepec Valley, mitigating the decrease in the compound average annual growth rate of the valley's population as well as the decrease in the number of cities and towns there in the Early Classic and Middle Classic."
+        },
+        {
+          "name": "B",
+          "content": "the marginal decrease in the compound average annual growth rate of the Yautepec Valley's population in the Early Classic was likely associated with the widespread abandonment of cities and towns established in the Terminal Formative."
+        },
+        {
+          "name": "C",
+          "content": "values for both backward and forward continuity in the Yautepec Valley were consistently higher during the centuries of Teotihuacan's hegemony than they were in the period following the collapse of the hegemony."
+        },
+        {
+          "name": "D",
+          "content": "although the forward continuity data suggest that the decline of Teotihuacan occasioned economic and political instability in the Yautepec Valley, these developments were nonetheless associated with a net increase in the valley's population."
+        }
+      ],
+      "correct": "although the forward continuity data suggest that the decline of Teotihuacan occasioned economic and political instability in the Yautepec Valley, these developments were nonetheless associated with a net increase in the valley's population.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Sir Gawain and the Green Knight</i> is a circa 1400 poem written in Middle Englishâan archaic form of the English spoken today. Over the last several centuries, the English language has undergone such transformations in vocabulary, spelling, and grammar that most readers now rely on translations to read <i>Sir Gawain</i>. In the introduction to his 2007 translation, Simon Armitage remarks that the sonic patterns of the poem, which was written in alliterative verse (a verse form featuring extensive repetition of initial consonant sounds), are essential to its structure. Because many Modern English words begin with different sounds than their Middle English equivalents do, a strictly literal translation of <i>Sir Gawain</i> would therefore likely ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "be more faithful to the original intentions of the poem than most strictly literal translations of alliterative Middle English poems are to their originals."
+        },
+        {
+          "name": "B",
+          "content": "appeal more to modern readers than would translations like Armitage's that instead prioritize the original text's sonic and structural qualities."
+        },
+        {
+          "name": "C",
+          "content": "be preferable to modern readers who are primarily interested in learning what the poem reveals about historical conditions during the time it was originally written."
+        },
+        {
+          "name": "D",
+          "content": "preserve much of the original text's meaning at the expense of other qualities that are also integral to the experience of reading the poem."
+        }
+      ],
+      "correct": "preserve much of the original text's meaning at the expense of other qualities that are also integral to the experience of reading the poem.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But StÃ©phane GuÃ©dron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Michael E. Berndt and Travis K. Bavin carried out a study on freshwater bodies disturbed by mining that showed similar results to the studies on undisturbed waters, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "GuÃ©dron, Tisserand, and colleagues' study used different methods to measure the concentration of mercury in fresh water than Berndt and Bavin's study did."
+        },
+        {
+          "name": "B",
+          "content": "levels of dissolved organic carbon and mercury are both much higher in bodies of fresh water impacted by wastewater than they are in bodies of fresh water disturbed by mining."
+        },
+        {
+          "name": "C",
+          "content": "disturbances linked to wastewater affect significantly more bodies of fresh water than disturbances linked to mining do."
+        },
+        {
+          "name": "D",
+          "content": "the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance."
+        }
+      ],
+      "correct": "the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To better understand consumer loyalty to specific online retailers, Branislav Dudic and colleagues created a survey using 58 statements as proxy indicators of customer experience with receiving goods purchased online. The statements are categorized as relevant to one of six topicsâe.g., statement 37, âI like when packages delivered to me are tightly packed,â is categorized as relevant to the topic of visual appealâand respondents rate the importance of each statement to their experience. The researchers propose that the survey can be adapted for use by companies and other researchers, and they note that same-category responses show very low same-participant heterogeneity, which suggests that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "responses to statements in the visual appeal topic are highly predictive of responses in the other five topics."
+        },
+        {
+          "name": "B",
+          "content": "the reliability of the survey data for each topic would be largely unaffected by the number of survey respondents."
+        },
+        {
+          "name": "C",
+          "content": "it may be possible to collect meaningful data about all six customer experience topics without using all 58 of the original statements."
+        },
+        {
+          "name": "D",
+          "content": "the six topics into which the 58 statements are grouped may actually represent more than six different topics."
+        }
+      ],
+      "correct": "it may be possible to collect meaningful data about all six customer experience topics without using all 58 of the original statements.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Arms outstretched, right wrist over left with both hands dangling, South Korean musician Psy galloped from one foot to the other in the iconic dance of his 2012 international hit song \"Gangnam Style.\" Later, a statue depicting Psy's arm-positioning during the dance was erected in the place that inspired the song's ______ Gangnam District in Seoul, South Korea.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "name."
+        },
+        {
+          "name": "B",
+          "content": "nameâ"
+        },
+        {
+          "name": "C",
+          "content": "name"
+        },
+        {
+          "name": "D",
+          "content": "name;"
+        }
+      ],
+      "correct": "nameâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At Ramla I-Hamra Beach in Malta, deposits of iron oxide and other organic matter ______ to lend a unique red tint to the sand.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is helping"
+        },
+        {
+          "name": "B",
+          "content": "helps"
+        },
+        {
+          "name": "C",
+          "content": "help"
+        },
+        {
+          "name": "D",
+          "content": "has helped"
+        }
+      ],
+      "correct": "help",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Los Angeles-based artist Henry Taylor's large, vibrant paintings of prominent Black figures such as Olympian Alice Coachman (<i>See Alice Jump, 2011</i>) and artist David Hammons (<i>Hammons meets a hyena on holiday</i>, ______ celebrated by admirers of twenty-first-century portraiture, attracted legions of new fans in 2024 when they were included in a popular Taylor retrospective at the Whitney Museum.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "2016) have long been"
+        },
+        {
+          "name": "B",
+          "content": "2016), had long been"
+        },
+        {
+          "name": "C",
+          "content": "2016) were long"
+        },
+        {
+          "name": "D",
+          "content": "2016), long"
+        }
+      ],
+      "correct": "2016), long",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The <i>shesep</i>, which is written as a long, horizontal hieroglyph shaped like a thumbless hand, and the <i>heqat</i>, which is written as a hieroglyph that looks like four oval items pouring out of a barrel, were ancient Egyptian units of ______ to record length and volume, respectively, the <i>shesep</i> and <i>heqat</i> have since fallen out of use.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "measurement, used"
+        },
+        {
+          "name": "B",
+          "content": "measurement and used"
+        },
+        {
+          "name": "C",
+          "content": "measurement used"
+        },
+        {
+          "name": "D",
+          "content": "measurement. Used"
+        }
+      ],
+      "correct": "measurement. Used",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Reena Esmail's classical composition \"String Quartet (Ragamala)\" incorporates a raag, a melodic framework used in Hindustani classical music, called Raag Bihag. Often, interplay between the raag's designated vadi and samvadi (the first- and second-most important notes, respectively) and its prescribed melodic sequences ______ an intense mood.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have evoked"
+        },
+        {
+          "name": "B",
+          "content": "evoking"
+        },
+        {
+          "name": "C",
+          "content": "evokes"
+        },
+        {
+          "name": "D",
+          "content": "evoke"
+        }
+      ],
+      "correct": "evokes",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The extensive impact that chitosan nanoparticles (ChNPs) have had on medicine belies their minuscule size, the nanoparticles typically ______ from only 33 to 75 billionths of a meter.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ranging"
+        },
+        {
+          "name": "B",
+          "content": "can range"
+        },
+        {
+          "name": "C",
+          "content": "range"
+        },
+        {
+          "name": "D",
+          "content": "will range"
+        }
+      ],
+      "correct": "ranging",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The moon Elara orbits Jupiter in the same direction that the planet rotates. ______ Elara's orbit is described as prograde. Erinome, another of Jupiter's moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In reality,"
+        },
+        {
+          "name": "B",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "C",
+          "content": "Next,"
+        },
+        {
+          "name": "D",
+          "content": "Hence,"
+        }
+      ],
+      "correct": "Hence,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>For several centuries after the birth of opera in sixteenth-century Florence, Italian remained the default language in which most opera scores were written. ______ opera singers today, such as the mezzo-soprano Gala El Hadidi, encounter a wide range of Italian terms from <i>drammatico</i> (dramatically) to <i>affrettando</i> (at a hurried tempo)âwhen following many eighteenth-century opera scores.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Granted,"
+        },
+        {
+          "name": "C",
+          "content": "Lastly,"
+        },
+        {
+          "name": "D",
+          "content": "Thus,"
+        }
+      ],
+      "correct": "Thus,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Unlike the sprawling, permanent mural installations of David Alfaro Siqueiros and other contemporaries of the Muralismo Mexicano movement, the easily reproducible block print posters that Francisco Mora and Elizabeth Catlett created as part of the printmaking collective Taller de GrÃ¡fica Popular (TGP) were highly portable. ______ the prints were a boon to the TGP's goal of spreading their artwork throughout Mexico and the world beyond.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For instance,"
+        },
+        {
+          "name": "B",
+          "content": "As such,"
+        },
+        {
+          "name": "C",
+          "content": "Despite this,"
+        },
+        {
+          "name": "D",
+          "content": "To be exact,"
+        }
+      ],
+      "correct": "As such,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Mundrabilla I meteorite, discovered in Australia in 1911, weighs approximately 27,300 pounds and is the twelfth-largest iron meteorite ever discovered on Earth. The Estherville meteorite, discovered in the United States in 1879, is much smaller at 710 pounds. ______ the latter is a stony-iron meteorite, and a size difference between meteorites of different compositions isn't unexpected.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "Admittedly,"
+        },
+        {
+          "name": "C",
+          "content": "As a result,"
+        },
+        {
+          "name": "D",
+          "content": "In conclusion,"
+        }
+      ],
+      "correct": "Admittedly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>The Future of Nostalgia</i> is a book by Svetlana Boym.</li><li>In it, Boym explores the concept of nostalgia from various angles.</li><li>In Chapter 5, âReflective Nostalgia,â she defines a form of nostalgia interested in meditating on past things.</li><li>In Chapter 14, âJoseph Brodsky's Room and a Half,â she discusses themes of nostalgia in Joseph Brodsky's writing.</li></ul>\n</blockquote>",
+      "question": "The student wants to emphasize the order in which the topics appear. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In <i>The Future of Nostalgia</i>, Svetlana Boym offers readers a multifaceted exploration of the concept of nostalgia."
+        },
+        {
+          "name": "B",
+          "content": "In the book, Svetlana Boym not only discusses themes of nostalgia in Joseph Brodsky's writing but also defines a form of nostalgia interested in meditating on past things."
+        },
+        {
+          "name": "C",
+          "content": "After defining a form of nostalgia interested in meditating on past things, Svetlana Boym goes on to discuss themes of nostalgia in Joseph Brodsky's writing."
+        },
+        {
+          "name": "D",
+          "content": "Svetlana Boym defines a form of nostalgia interested in meditating on past things in her chapter titled âReflective Nostalgia.â"
+        }
+      ],
+      "correct": "After defining a form of nostalgia interested in meditating on past things, Svetlana Boym goes on to discuss themes of nostalgia in Joseph Brodsky's writing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Ukiyo-e woodblock prints were a popular artistic form in Japan from the 1600s through the 1800s.</li><li>Ukiyo-e prints were produced by teams of artisans that included artists, wood-carvers, printers, and publishers.</li><li>SÅsaku-hanga was a popular Japanese printmaking movement that emerged in the early 1900s.</li><li>SÅsaku-hanga prioritized individual artistic expression.</li><li>An artist working in this style typically handled all aspects of print creation, from drawing to wood carving to printing.</li></ul></blockquote>",
+      "question": "The student wants to contrast ukiyo-e and sÅsaku-hanga production methods. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Teams of artisans produced ukiyo-e prints, whereas individual artists typically handled all aspects of sÅsaku-hanga printmaking themselves."
+        },
+        {
+          "name": "B",
+          "content": "In contrast to ukiyo-e prints, sÅsaku-hanga prints were produced using methods such as drawing and wood carving."
+        },
+        {
+          "name": "C",
+          "content": "Ukiyo-e prints were popular in Japan from the 1600s through the 1800s, while sÅsaku-hanga prints emerged later, in the early 1900s."
+        },
+        {
+          "name": "D",
+          "content": "One notable distinction between ukiyo-e and sÅsaku-hanga prints is sÅsaku-hanga's emphasis on individual artistic expression."
+        }
+      ],
+      "correct": "Teams of artisans produced ukiyo-e prints, whereas individual artists typically handled all aspects of sÅsaku-hanga printmaking themselves.",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "uuid": "1487028b-5b14-4a74-ba77-84ab65217d04",
+  "chunk": "9mu_eV9e.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>In the search for new impact craters on Mars, the roles of seismic monitoring and orbital imaging as data sources are ______ : when vibrations detected with seismic monitoring indicate roughly where an impact has occurred, researchers can use orbital images of that relatively limited area of the rocky surface to precisely locate a new crater.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "redundant"
+        },
+        {
+          "name": "B",
+          "content": "exhaustive"
+        },
+        {
+          "name": "C",
+          "content": "complementary"
+        },
+        {
+          "name": "D",
+          "content": "interchangeable"
+        }
+      ],
+      "correct": "complementary",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though copies of <i>The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989</i>âan underground computer game that was created anonymously in 1989 as an act of political protest against the authoritarian regime of what was then Czechoslovakiaâwere originally distributed ______, the game is now readily available online for anyone to play.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "succinctly"
+        },
+        {
+          "name": "B",
+          "content": "dispassionately"
+        },
+        {
+          "name": "C",
+          "content": "surreptitiously"
+        },
+        {
+          "name": "D",
+          "content": "disingenuously"
+        }
+      ],
+      "correct": "surreptitiously",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>If some specific predictions in Alvin Toffler's 1970 book <i>Future Shock</i> seem ludicrous nowâpeople do not wear paper clothing while living in underwater citiesâToffler's fundamental claim that rapid technological and social change will leave people feeling disoriented and atomized seems, in our age of disequilibrium and fragmentation, remarkably ______ .</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "prescient"
+        },
+        {
+          "name": "B",
+          "content": "articulate"
+        },
+        {
+          "name": "C",
+          "content": "iconoclastic"
+        },
+        {
+          "name": "D",
+          "content": "equivocal"
+        }
+      ],
+      "correct": "prescient",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A conclusive demonstration of the logical certainty of the honeycomb conjecture, posed in the first century BCE, ______ mathematicians' efforts until Thomas C. Hales presented the first valid proof of the conjecture in 1999.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "defied"
+        },
+        {
+          "name": "B",
+          "content": "prefigured"
+        },
+        {
+          "name": "C",
+          "content": "epitomized"
+        },
+        {
+          "name": "D",
+          "content": "displaced"
+        }
+      ],
+      "correct": "defied",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Establishing protected areas (PAs), such as Abrolhos Marine Park in Brazil, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it's widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don't capture the indirect effects of tourism linked to PAs. But Heng Zhu et al. found that tourism associated with Abrolhos boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from fishing in nearby areas.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It states a hypothesis that accounts for why PAs generally negatively impact local economies, outlines how a research team's findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion."
+        },
+        {
+          "name": "B",
+          "content": "It makes a generalization about the difficulty of using PAs to reconcile economic and conservation priorities, demonstrates why most PAs fall short of achieving that goal, and then holds up a particular PA as an example of how that goal can be achieved."
+        },
+        {
+          "name": "C",
+          "content": "It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief's prevalence, and then details a study whose findings seemingly conflict with that belief."
+        },
+        {
+          "name": "D",
+          "content": "It explains how PAs typically affect economic development in the regions where they are established, summarizes the findings of several economic studies that support this explanation, and then concedes that a particular PA is an exception to the general trend."
+        }
+      ],
+      "correct": "It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief's prevalence, and then details a study whose findings seemingly conflict with that belief.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minorityâsuch as Washoe, which is spoken in California and Nevada, and Chitimacha, which is spoken in Louisianaâare isolates, having no demonstrable genealogical relationship to other languages. <u>Yet Washoe and Chitimacha, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It implies that a nonisolate language may have influenced both Washoe and Chitimacha to such a degree that their relationship to their former families is no longer discernible."
+        },
+        {
+          "name": "B",
+          "content": "It suggests that the ancestral languages of both Washoe and Chitimacha were likely isolates that replaced nonisolate languages through geographic expansion in the distant past."
+        },
+        {
+          "name": "C",
+          "content": "It asserts that the historical record tends to overrepresent nonisolate languages relative to isolates, such that the origins of Washoe and Chitimacha are obscure to scholars in the present day."
+        },
+        {
+          "name": "D",
+          "content": "It proposes that the distinction made between present-day nonisolate languages and isolates like Washoe and Chitimacha may not have been applicable in the distant past."
+        }
+      ],
+      "correct": "It proposes that the distinction made between present-day nonisolate languages and isolates like Washoe and Chitimacha may not have been applicable in the distant past.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><b>Text 1</b><br>Good art often challenges and disrupts social and aesthetic norms, but the creation of public artâpaintings, sculptures, and performance pieces displayed in nonmuseum or nontheatrical public settingsâtypically requires broad agreement among artists, civic officials, and community members about the works' message and artistic goals. <u>Public art that fails to appease everyone by being sufficiently aesthetically and conceptually bland almost inevitably provokes backlash.</u></p><p><b>Text 2</b><br>Public art is commonly displayed in spaces intended for purposes other than meaningful aesthetic engagement. Some critics of public art therefore note that norm-defying pieces that aren't effectively integrated within their surroundings in a manner that primes passersby to appreciate the pieces' merits (as is often the case) tend to be regarded more unfavorably than similarly provocative art encountered in museums is.</p>",
+      "question": "Based on the texts, how would the critics mentioned in Text 2 most likely respond to the underlined claim in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By disputing the notion that civic leaders and community members are easily placated by art that is intended mainly to reinforce social norms."
+        },
+        {
+          "name": "B",
+          "content": "By agreeing with the idea that only works of art that are universally appealing are suitable for displaying in public spaces."
+        },
+        {
+          "name": "C",
+          "content": "By arguing that the reason members of the general public might disagree about a public artwork's merits is unrelated to the unconventionality of its appearance and ideas."
+        },
+        {
+          "name": "D",
+          "content": "By contending that the kinds of reactions controversial public artworks often receive aren't exclusively the result of attributes inherent in the works themselves."
+        }
+      ],
+      "correct": "By contending that the kinds of reactions controversial public artworks often receive aren't exclusively the result of attributes inherent in the works themselves.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Mark Twain's 1876 novel <em>The Adventures of Tom Sawyer</em>. Aunt Polly is having dinner with Tom, her mischievous young nephew.</p><blockquote style=\"margin-left: 40px;\"><p>Aunt Polly asked [Tom] questions that were full of guile, and very deepâfor she wanted to trap him into damaging revealments. Like many other simple-hearted souls, it was her pet vanity to believe she was endowed with a talent for dark and mysterious diplomacy, and she loved to contemplate her most transparent devices as marvels of low cunning.</p></blockquote>",
+      "question": "Which choice best describes how Aunt Polly is presented in the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The narrator gently makes fun of Aunt Polly's mistaken confidence in her subtlety."
+        },
+        {
+          "name": "B",
+          "content": "The narrator humorously exaggerates Aunt Polly's view of herself as an intellectual."
+        },
+        {
+          "name": "C",
+          "content": "The narrator characterizes Aunt Polly as being excessively nosy about other people's private lives."
+        },
+        {
+          "name": "D",
+          "content": "The narrator emphasizes that Aunt Polly's intentions are good even when she behaves impolitely."
+        }
+      ],
+      "correct": "The narrator gently makes fun of Aunt Polly's mistaken confidence in her subtlety.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>From petroleum refining to fuel for residential heating, hydrogen has many applications. Currently, producing hydrogen is carbon intensive, but Alexandra M. Oliveira is one of many scholars investigating the feasibility of large-scale production of hydrogen through electrolysis, a process that emits no carbon when renewable energy is used. Oliveira suggests that although some obstacles may prevent electrolytic hydrogen from dominating energy systems, there is utility in its ability to decarbonize the petroleum and heating industries, where reducing carbon emissions is especially challenging.</p>",
+      "question": "Which statement about the use of hydrogen in the petroleum and heating industries is most strongly supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The adoption of electrolytic hydrogen by these industries has been impeded by concerns about how carbon intensive its production is."
+        },
+        {
+          "name": "B",
+          "content": "Development of applications for electrolytic hydrogen is less advanced in these industries than it is in most other carbon-intensive industries."
+        },
+        {
+          "name": "C",
+          "content": "At least some of electrolytic hydrogen's potential to lessen these industries' carbon emissions is as yet unrealized."
+        },
+        {
+          "name": "D",
+          "content": "The fact that large-scale electrolytic hydrogen production is not yet available has limited these industries' interest in pursuing hydrogen-based applications."
+        }
+      ],
+      "correct": "At least some of electrolytic hydrogen's potential to lessen these industries' carbon emissions is as yet unrealized.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In subtropical Asia, <em>Apis dorsata</em> (giant honeybee) plays an essential role in pollinating a wide variety of crops and wild plants. To study how different agricultural land covers affect the species, Rika Raffiudin and colleagues monitored the foraging activity of the bees as well as the pollen content of the honey from <em>A. dorsata</em> colonies at two sites in Indonesia: Kampar, characterized by its surrounding monoculture farms (growing a single crop), and Kerinci, a forest-agriculture site where multiple crops, including hot peppers and coffee, are grown nearby. The researchers concluded that a lack of crop variety may reduce total pollen collection by <em>A. dorsata</em>.</p>",
+      "question": "Which finding, if true, would most directly support the researchers' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Significantly fewer bees were observed engaging in foraging activities with the crops surrounding Kerinci than with the crops surrounding Kampar."
+        },
+        {
+          "name": "B",
+          "content": "Honey samples from Kerinci bee colonies contained significantly higher concentrations of pollen than honey samples from Kampar bee colonies did."
+        },
+        {
+          "name": "C",
+          "content": "Pollen in honey samples from Kampar bee colonies was predominantly sourced from a single plant species, whereas pollen in honey samples from Kerinci bee colonies was sourced from multiple different plant species."
+        },
+        {
+          "name": "D",
+          "content": "In one Kerinci bee colony, a greater proportion of bees returned to their nests with pollen than returned without pollen, whereas the inverse was observed in a second Kerinci bee colony."
+        }
+      ],
+      "correct": "Honey samples from Kerinci bee colonies contained significantly higher concentrations of pollen than honey samples from Kampar bee colonies did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2009, the US state of Montana enacted rate stability regulations (RSRs), constraining insurance companies' latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers' profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Montana, students first collect data on the number of insurers in the state for a few years leading up to and following 2009 and the premium prices for new policies offered by those insurers.</p>",
+      "question": "Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Compare changes over time in the premium price data the students have collected with changes over time in premium prices for policies that were already in effect during the same period in an otherwise similar state that had not enacted RSRs."
+        },
+        {
+          "name": "B",
+          "content": "Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs."
+        },
+        {
+          "name": "C",
+          "content": "Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from Montana for a period beginning several years after 2009."
+        },
+        {
+          "name": "D",
+          "content": "Compare changes over time in the insurer-number data the students have collected with changes over time in insurer-number data from another state that enacted RSRs but not during the same period."
+        }
+      ],
+      "correct": "Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Variously, researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Raymond V. Sidrys's 1976 study, or to glean aspects of cultural identity, as in Dennis Ogburn and colleagues' 2009 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to building stylesâchanges consistent with an influx of people from another culture elsewhere in the Mediterraneanâoccurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.</p>",
+      "question": "Which finding, if true, would most directly weaken Carter and Kilikoglou's argument?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The obsidian used to produce objects at Malia was transported to Crete from the same source elsewhere in the Mediterranean throughout the Middle and Late Bronze Ages."
+        },
+        {
+          "name": "B",
+          "content": "The methods used to produce obsidian objects at Malia during the Middle and Late Bronze Ages were also used by some other Mediterranean cultures in the period."
+        },
+        {
+          "name": "C",
+          "content": "The obsidian-object production method that was most common among other Mediterranean cultures during the Middle and Late Bronze Ages was more efficient than the method used at Malia."
+        },
+        {
+          "name": "D",
+          "content": "Changes to buildings like those that occurred at Malia have not been linked to changes in obsidian-object production methods in other Mediterranean cultures during the Middle and Late Bronze Ages."
+        }
+      ],
+      "correct": "The methods used to produce obsidian objects at Malia during the Middle and Late Bronze Ages were also used by some other Mediterranean cultures in the period.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The presence of other individuals of the same species has been observed to mitigate stress in highly social mammals. To investigate whether this phenomenon, known as social buffering, also occurs in reptiles, researchers led by Chelsea E. Martin monitored stress responses in wild southern Pacific rattlesnakes (<em>Crotalus helleri</em>) in three experimental treatments: when alone, with a rope, and with a companion <em>C. helleri</em>. The researchers compared the percent change between baseline and peak heart rate in response to a (harmless) disturbance, with higher values indicating higher stress levels.</p>",
+      "question": "Which finding, if true, would most directly support the idea that social buffering occurs among <em>C. helleri</em>?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Average peak heart rates were highest among solitary <em>C. helleri</em>, but no differences were observed in average peak heart rates between <em>C. helleri</em> with a companion and <em>C. helleri</em> with a rope."
+        },
+        {
+          "name": "B",
+          "content": "<em>C. helleri</em> with a companion displayed a lower average baseline heart rate and lower average peak heart rate than did solitary <em>C. helleri</em> or <em>C. helleri</em> with a rope."
+        },
+        {
+          "name": "C",
+          "content": "The average percent change in heart rate was lower among <em>C. helleri</em> with a companion than among solitary <em>C. helleri</em> and <em>C. helleri</em> with a rope."
+        },
+        {
+          "name": "D",
+          "content": "Solitary <em>C. helleri</em> had higher average baseline heart rates than did <em>C. helleri</em> in the other treatments, but the average percent change in heart rate was smaller among solitary <em>C. helleri</em> than among <em>C. helleri</em> with a companion."
+        }
+      ],
+      "correct": "The average percent change in heart rate was lower among <em>C. helleri</em> with a companion than among solitary <em>C. helleri</em> and <em>C. helleri</em> with a rope.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/b3e6af8a1c56795b05f11244ca3b24c8.png\" width=\"654\" height=\"235\"></div><p>Mountain summits are often described in terms of their elevation, or height above sea level. But a summit's elevation may not be as good an indication of how high the mountain appears to observers as is the summit's prominence, or its height above its surroundings, and these values can differ significantly. For example, the Indian mountain of ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Saser Kangri III has an elevation of 7,495 meters but a considerably lower prominence of 850 meters."
+        },
+        {
+          "name": "B",
+          "content": "Kangto has a much higher prominence than does Langpo."
+        },
+        {
+          "name": "C",
+          "content": "Kangto has a high prominence but is from a different mountain range than Mount Lakshmi, which has a lower prominence."
+        },
+        {
+          "name": "D",
+          "content": "Sri Kailash has an elevation of 6,932 meters and is considered the highest mountain from the Garhwal Himalaya range."
+        }
+      ],
+      "correct": "Saser Kangri III has an elevation of 7,495 meters but a considerably lower prominence of 850 meters.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Whereas Joan Lockard's 1984 study of captive gorillas reported more right-handedness than left-handedness, Jane Goodall's 1963 study of wild chimpanzees did not. According to a meta-analysis of studies of nonhuman primates, captive populations are more likely to be described as right-handed than wild populations are. Statistical analysis indicates a handedness study would need a minimum of 176 individuals to show a representative result. However, the study by Lockard included a total population of 8, and the study by Goodall included a total population of 8. This suggests that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "neither the study by Lockard nor the study by Goodall provides sufficient evidence to make a meaningful comparison about handedness in primates"
+        },
+        {
+          "name": "B",
+          "content": "the study by Lockard reliably represents handedness in captive primates, but the study by Goodall likely does not reliably represent handedness in wild primates"
+        },
+        {
+          "name": "C",
+          "content": "Goodall likely underestimated the prevalence of right-handedness among the wild chimpanzees in the study"
+        },
+        {
+          "name": "D",
+          "content": "the study by Lockard reliably represents handedness in captive primates but not in wild primates"
+        }
+      ],
+      "correct": "neither the study by Lockard nor the study by Goodall provides sufficient evidence to make a meaningful comparison about handedness in primates",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Interested in how the color of dogs' irises affects human responses to dogs, Akitsugu Konno et al. showed images of 12 dogs' faces to human participants and asked them to rate the dogs' kindness and trustworthiness as well as the likelihood that they would interact with or keep the dogs. The researchers had previously adjusted the images so that each dog was presented in two versions, one with light irises and one with dark irises. They distributed the images such that no participant saw both the light and dark versions of the same dog. Konno et al. found that participants responded more positively to the latter. The study's design allowed the researchers to exclude the possibility that the results ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "may have been different if participants had been able to see the dogs' irises in person instead of only seeing images that included the dogs' irises"
+        },
+        {
+          "name": "B",
+          "content": "reflected a preference on the part of participants for facial features that happened to coincide with dark irises in the dogs depicted in the images"
+        },
+        {
+          "name": "C",
+          "content": "were a function of participants emphasizing the colors of the dogs' irises over the dogs' kindness and trustworthiness when reacting to the images"
+        },
+        {
+          "name": "D",
+          "content": "could be explained by participants having preexisting positive feelings about dogs with dark irises or preexisting negative feelings about dogs with light irises"
+        }
+      ],
+      "correct": "reflected a preference on the part of participants for facial features that happened to coincide with dark irises in the dogs depicted in the images",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Growing as large as three meters in diameter, the leaves of the giant Amazonian waterlily feature a complex network of radiating veins that provide structural ______ in thickness from the center to the edges, these veins allow the leaves to maintain their large size and buoyancy with minimal material, optimizing light capture and photosynthesis.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "support. Decreasing"
+        },
+        {
+          "name": "B",
+          "content": "support, decreasing"
+        },
+        {
+          "name": "C",
+          "content": "support, while decreasing"
+        },
+        {
+          "name": "D",
+          "content": "support decreasing"
+        }
+      ],
+      "correct": "support. Decreasing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Charles Dickens's classic 1850 novel about a young man named David Copperfield has a title that is instantly recognizable to many readers: <em>David Copperfield.</em> Dickens's novel originally had a different ______ while writing and editing, Dickens had planned to call the novel <em>Mag's Diversions</em>.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "title, though;"
+        },
+        {
+          "name": "B",
+          "content": "title, though,"
+        },
+        {
+          "name": "C",
+          "content": "title; though"
+        },
+        {
+          "name": "D",
+          "content": "title, though"
+        }
+      ],
+      "correct": "title, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><em>On Guard</em> is a 1997 photograph by Iranian artist Shirin Neshat. Like many of Neshat's photos, the work features a pair of hands. Clasping a microphone, one hand ______ covered in Persian script, the hands imply an out-of-frame figure on the edge of speaking.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is bare and the other is"
+        },
+        {
+          "name": "B",
+          "content": "bare, the other is"
+        },
+        {
+          "name": "C",
+          "content": "bare and the other"
+        },
+        {
+          "name": "D",
+          "content": "is bare, the other"
+        }
+      ],
+      "correct": "bare and the other",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The exoplanet Pi Mensae d was discovered using an indirect approach to planetary detection, the radial velocity method. Compared to that of the direct imaging method, ______ the effect these exoplanets have on nearby stars.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the detection of distant exoplanets, too dim to be observed in the radial velocity method's vast zone of discovery, is based on"
+        },
+        {
+          "name": "B",
+          "content": "the radial velocity method's zone of discovery is vast, as distant exoplanets too dim to be observed are detected by"
+        },
+        {
+          "name": "C",
+          "content": "the radial velocity method, with its vast zone of discovery, detects exoplanets that are too dim to be observed by"
+        },
+        {
+          "name": "D",
+          "content": "distant exoplanets too dim to be observed are detected within the radial velocity method's vast zone of discovery through"
+        }
+      ],
+      "correct": "the radial velocity method's zone of discovery is vast, as distant exoplanets too dim to be observed are detected by",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the eastern Chinese city of Suzhou, known as a hub for silk manufacturing, a unique tradition of embroidery ______ back over two thousand yearsâone that includes iconic double-sided stitching with different images on each sideâremains popular with modern audiences, preserving the city's cultural heritage.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dates"
+        },
+        {
+          "name": "B",
+          "content": "date"
+        },
+        {
+          "name": "C",
+          "content": "has dated"
+        },
+        {
+          "name": "D",
+          "content": "dating"
+        }
+      ],
+      "correct": "dating",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Giant dust plumes from the Sahara Desert that blow across the Atlantic Ocean can have complex and opposing effects on tropical cyclones. On one hand, the dust can enhance the formation of ice clouds in the cyclone's core, increasing precipitation. ______ the dust can lower sea surface temperatures around the cyclone's core, weakening the storm.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "On the other hand,"
+        },
+        {
+          "name": "D",
+          "content": "Previously,"
+        }
+      ],
+      "correct": "On the other hand,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1908, some 298 years after Galileo Galilei and Simon Marius independently discovered Jupiter's four largest moons (Io, Europa, Ganymede, and Callisto), scientists discovered the moon Pasiphae in orbit around Jupiter. ______ researchers have discovered eighty moons orbiting Jupiter.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To date,"
+        },
+        {
+          "name": "B",
+          "content": "In other words,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Rather,"
+        }
+      ],
+      "correct": "To date,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When ordering the branches of the Colville River system, cartographers tend to begin with the river way's lowest point, the Colville River. ______ hydrologists begin at the top of the river system, with the Siksikpuk River and other tributaries fed by the river way's source, Alaska's De Long Mountains.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In a similar way,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "By contrast,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "By contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Sultanate of Brunei, a Malay sea power based on the northern coast of Borneo that reached its height around 1600 CE, is considered a thalassocracyâ a geopolitical entity whose hegemony resulted from control of the sea rather than of land. Historians classify thalassocracies as distinct from tellurocracies, or land-based powers. ______ the Ottoman Empire (1300s-1900s CE) is known for both land and sea supremacy.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example, tellurocracies have long overpowered their rivals:"
+        },
+        {
+          "name": "B",
+          "content": "Likewise, thalassocracies are sea-based powers:"
+        },
+        {
+          "name": "C",
+          "content": "In other words, empires are classified according to their source of power:"
+        },
+        {
+          "name": "D",
+          "content": "Of course, the distinction is not always so neat:"
+        }
+      ],
+      "correct": "Of course, the distinction is not always so neat:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The farm-size transition hypothesis predicts that economic pressures associated with modernization result in smaller farms amalgamating into larger-scale commercial farms.</li><li>Masters et al. (2013): The average farm size in Asia \"already has or will soon begin to rise\"</li><li>Promkhambut et al. (2023) argue that small rice farms in Thailand have adopted modern farming methods without a significant scaling-up of farm size.</li><li>Promkhambut et al.: \"The persistence of [small] rice farms [in Thailand] does not represent a 'failure' to modernize...or a 'truncated' transition-it is a response to modernization.\"</li></ul></blockquote>",
+      "question": "The student wants to make and support a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Taken together, the studies by Masters et al. and Promkhambut et al. suggest that rice farms in Thailand have responded to the economic pressures associated with modernization by expanding in size."
+        },
+        {
+          "name": "B",
+          "content": "The predicted shift to large-scale commercial farming may not hold true for rice farms in Thailand, where, according to Promkhambut et al., rice farms have remained small as they've modernized."
+        },
+        {
+          "name": "C",
+          "content": "Masters et al. report that the average farm size \"already has or will soon begin to rise\" in Asia, a finding that is consistent with the farm-size transition hypothesis."
+        },
+        {
+          "name": "D",
+          "content": "Although the farm-size transition hypothesis may be applicable to some countries in Asia it is inconsistent with the development of rice farming in Thailand."
+        }
+      ],
+      "correct": "Although the farm-size transition hypothesis may be applicable to some countries in Asia it is inconsistent with the development of rice farming in Thailand.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Melissa Cody is a DinÃ© (Navajo) textile artist known for blending traditional DinÃ© designs (stripes, zigzags, and diamond patterns) with nontraditional elements.</li><li>Cody's work incorporates arrangements of shapes or text inspired by video game graphics and pop culture references.</li><li>Cody: \"I'm a child of '80s video game culture... I grew up with this world of pixelization.\"</li><li>Cody: \"The things we consider tradition now weren't considered tradition when they first came about.\"</li><li>Her tapestry <em>Only Love Can Break Your Heart</em> features pop song lyrics in a blocky digital font over a jagged diamond pattern.</li><li>Her tapestry <em>Walking Off No Water Mesa</em> features rectangular panes revealing a stylized landscape patterned by contrasting colored diamonds.</li></ul></blockquote>",
+      "question": "The student wants to connect a quotation to a particular nontraditional design element in Cody's work. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Cody's tapestry <em>Only Love Can Break Your Heart</em> features a jagged diamond pattern, a traditional design element that \"we consider tradition now.\""
+        },
+        {
+          "name": "B",
+          "content": "The pop song lyrics in a blocky digital font in <em>Only Love Can Break Your Heart</em> reflect Cody's childhood familiarity with blocky video game graphicsâwhat she calls \"this world of pixelization.\""
+        },
+        {
+          "name": "C",
+          "content": "According to Cody, some elements of <em>Walking Off No Water Mesa</em>, such as contrasting colored diamonds, \"weren't considered tradition when they first came about.\""
+        },
+        {
+          "name": "D",
+          "content": "Cody's background as \"a child of '80s video game culture\" factored into her decision to blend traditional and nontraditional design elements in <em>Walking Off No Water Mesa</em>."
+        }
+      ],
+      "correct": "The pop song lyrics in a blocky digital font in <em>Only Love Can Break Your Heart</em> reflect Cody's childhood familiarity with blocky video game graphicsâwhat she calls \"this world of pixelization.\"",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "uuid": "2f91d920-5520-4266-8a2d-a29c925c95c0",
+  "chunk": "RXsZ1ZEf.js",
+  "question_count": 22,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">If<strong> 2<em>x</em> = 10</strong>, what is the value of <strong>4<em>x</em></strong>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "7<br>"
+        },
+        {
+          "name": "B",
+          "content": "10<br>"
+        },
+        {
+          "name": "C",
+          "content": "12<br>"
+        },
+        {
+          "name": "D",
+          "content": "20<br>"
+        }
+      ],
+      "correct": "20<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/83b577cd77108ee94f58b224b018f54c.png\" width=\"651\" height=\"613\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">What is an equation of the graph shown?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>y</em>=<em>x</em>+12<br>"
+        },
+        {
+          "name": "B",
+          "content": "<em>y</em>=-<em>x</em>+12<br>"
+        },
+        {
+          "name": "C",
+          "content": "<em>y</em>=2<em>x</em>+12<br>"
+        },
+        {
+          "name": "D",
+          "content": "<em>y</em>=-2<em>x</em>+12<br>"
+        }
+      ],
+      "correct": "<em>y</em>=-<em>x</em>+12<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/19ec0698395398d527f1db03c8de1589.png\" width=\"206\" height=\"368\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The table shows the exponential relationship between the number of years, , since Hana&nbsp;started training in pole vault, and the estimated height <strong><em>h(x)</em></strong>, in meters, of her best pole&nbsp;vault for that year, Which of the following functions best represents this relationship,where <em><strong>x </strong></em><span class=\"mq-math-mode\" latex-data=\"\\le\"><em><strong><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span></strong></em><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">â¤</span></span></span>&nbsp;&nbsp;<strong><em>4</em></strong>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>h</em>(<em>x</em>)= 1.20(0.25)<sup>x</sup><br>"
+        },
+        {
+          "name": "B",
+          "content": "<em>h</em>(<em>x</em>)= 1.20(1.25)<sup>x</sup><br>"
+        },
+        {
+          "name": "C",
+          "content": "<em>h</em>(<em>x</em>)= 1.25(0.20)<sup>x</sup><br>"
+        },
+        {
+          "name": "D",
+          "content": "<em>h</em>(<em>x</em>)= 1.25(1.20)<sup>x</sup><br>"
+        }
+      ],
+      "correct": "<em>h</em>(<em>x</em>)= 1.25(1.20)<sup>x</sup><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<em></em><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The graph of the function <em><strong>f</strong></em> in the xy-plane, where y= <strong><em>f</em></strong>(<em><strong>x</strong></em>), has x-intercepts of (<strong>-2</strong>, <strong>0</strong>), (<strong>3</strong>, <strong>0</strong>), and (<strong>10,</strong> <strong>0</strong>).</span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which of the following must be true?</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">f(0)= -2</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">f(0)=3</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:15.0000pt\"><span style=\"font-family:'Times New Roman'\">f(10)=0</span></span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">f(2)=0</span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:15.0000pt\"><span style=\"font-family:'Times New Roman'\">f(10)=0</span></span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "&nbsp;<em>x</em><sup>2=</sup>2,601<br>How many distinct real solutions does the given equation have?<br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Zero<br>"
+        },
+        {
+          "name": "B",
+          "content": "Exactly one<br>"
+        },
+        {
+          "name": "C",
+          "content": "Exactly two<br>"
+        },
+        {
+          "name": "D",
+          "content": "Infinitely many<br>"
+        }
+      ],
+      "correct": "Exactly two<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The function <strong><em>P</em>(<em>x</em>)= 533(1.011)<em><sup>x</sup></em>&nbsp;</strong>models the population of a certain town each year from&nbsp;<strong>1951</strong> through <strong>1966</strong>, where<strong> <em>x</em></strong> is the number of years after<strong> 1951</strong>. Which of the following is&nbsp;the best interpretation ofâ<strong><em>P</em>(5)</strong> is approximately equal to <strong>563</strong>\" in this context?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The population of the town is estimated to be approximately <strong>5</strong> greater in 1956than in <strong>1951</strong>.</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The population of the town is estimated to be approximately <strong>563</strong> in <strong>1956</strong>.</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The population of the town is estimated to be approximately <strong>5</strong> times greater in1956 than in <strong>1951</strong>.</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The population of the town is estimated to increase by approximately<strong> 563</strong> every<strong>5 </strong>years between <strong>1951</strong> and <strong>1966</strong></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The population of the town is estimated to be approximately <strong>563</strong> in <strong>1956</strong>.</span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The table shows the distribution of people in a certain city by age group.</span></span><br><span style=\"font-size:20px;\"><img src=\"/images/49501ee224919cd3876f235997d7610a.png\" width=\"716\" height=\"401\"></span><br><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">If a person in this city is selected at random, which of the following is closest to the&nbsp;probability of selecting a person who is greater than 65 years old, given that the person is&nbsp;at least 18 years old?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0.21<br>"
+        },
+        {
+          "name": "B",
+          "content": "0.29<br>"
+        },
+        {
+          "name": "C",
+          "content": "0.33<br>"
+        },
+        {
+          "name": "D",
+          "content": "0.73<br>"
+        }
+      ],
+      "correct": "0.29<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">For a certain rectangular region, the ratio of its length to its width is <strong>10</strong> to <strong>4</strong>. If the width of&nbsp;the rectangular region increases by <strong>7</strong> units, how must the length change to maintain this&nbsp;ratio?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">It must decrease by <strong>7</strong> units.</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">It must increase by <strong>7</strong> units.</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">It must increase by <strong>17.5</strong> units.</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">It must decrease by <strong>17.5</strong> units.</span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">It must increase by <strong>17.5</strong> units.</span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The expression(<em><strong>9x</strong></em><strong>-28)</strong>(<strong>15</strong><em><strong>x</strong></em>+<strong>4</strong>)is equivalent to the expression&nbsp;<em><strong>ax</strong></em><sup>2</sup> + <em><strong>bz</strong></em> +<em><strong> c</strong></em>, where<strong> a, b</strong>, and<strong> c </strong>are constants. What is the value of <strong>b</strong>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "-384",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Rectangles <em><strong>ABCD</strong></em> and <strong><em>EFGH</em></strong> are similar The length of each side of <strong><em>EFG</em></strong> His <strong>6</strong> times the&nbsp;length of the corresponding side of<em><strong> ABCD</strong></em>, The area of <em><strong>ABCD</strong></em> is <strong>96</strong> square units. What is&nbsp;the area, in square units, of<em><strong> EFGH</strong></em>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "16<br>"
+        },
+        {
+          "name": "B",
+          "content": "36<br>"
+        },
+        {
+          "name": "C",
+          "content": "576<br>"
+        },
+        {
+          "name": "D",
+          "content": "3ï¼456<br>"
+        }
+      ],
+      "correct": "3ï¼456<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Data set A: 8, 11, 12,15,21,27</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Data set B: 9,12,13,16,22,<em>h</em></span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Data sets A and B each consist of <strong>6</strong> values as shown, where <em><strong>h</strong></em> is a constant. If the standard&nbsp;deviation of data set A is greater than the standard deviation of data set B, which of the&nbsp;following could be the value of <strong><em>h</em></strong>?</span></span><br></p><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â .23</span></span></span></span></span></span><br></p><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#f5f5f5\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¡.28</span></span></span></span></span></span><br></p><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢.29</span></span></span></span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â  only</span></span></span></span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#f5f5f5\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¡ only</span></span></span></span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢ only</span></span></span></span></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#f5f5f5\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¡ or&nbsp;</span></span></span></span><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢</span></span></span></span></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â  only</span></span></span></span></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/9a5f748b9f4897826862ab824a37a5a6.png\" width=\"654\" height=\"522\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A certain open star cluster contains M-type stars and K-type stars. The estimated total&nbsp;mass of M-type and K-type stars in this open star cluster is <strong>132,778 quettagrams</strong><em><strong>.</strong></em> The&nbsp;graph shown models the possible combinations of the number of M-type stars, , and K&nbsp;type stars, <em>y</em>, that could be in this open star cluster if all the M-type stars have the same&nbsp;estimated mass and all the K-type stars have the same estimated mass. Based on the&nbsp;graph, which of the following is closest to the estimated mass, in quettagrams, of each M-type star in this cluster?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "828<br>"
+        },
+        {
+          "name": "B",
+          "content": "973<br>"
+        },
+        {
+          "name": "C",
+          "content": "52,992<br>"
+        },
+        {
+          "name": "D",
+          "content": "79,786<br>"
+        }
+      ],
+      "correct": "828<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The function <em>f</em>&nbsp;is defined by <em>f</em>(<em>x</em>)=(<em>x</em>-9)(<em>x</em>-6)(<em>x</em>&nbsp;- 5). In the xy-plane,the graph of&nbsp;y= <em>g</em>(<em>x</em>) is the result of&nbsp;translating the graph of <em>y</em>= <em>f</em>(<em>x</em>) up 4units, What is the value of <em>g</em>(0)?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "-266",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">At a depth of <strong><em>h</em></strong> meters below the surface, the estimated total pressure <em><strong>P</strong></em>, in&nbsp;kilopascals <strong>(<em>kPa</em>)</strong>, a diver experienced is given by <strong><em>P</em><sub>1</sub>= 10h + 101</strong>, which is a&nbsp;combination of estimated water pressure and estimated atmospheric pressure. After&nbsp;maintaining a certain depth, the diver descended d additional meters. The estimated total&nbsp;pressure <em><strong>P</strong></em><strong><sub>2</sub>&nbsp;</strong>in <strong><em>kPa</em></strong>, the diver experienced after descending these <em><strong>d </strong></em>additional meters is&nbsp;given by<strong> P<sub>2</sub>= 10d + 311</strong>. Which of the following is the best interpretation of <strong>311 </strong>in this&nbsp;context?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The estimated total pressure, in<strong> <em>kPa</em>,</strong> the diver experienced at a depth of <em><strong>d</strong></em>&nbsp;meters.</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The estimated increase in the total pressure, in <em><strong>kPa</strong></em>, the diver experienced for&nbsp;each increase in the depth by <strong>1</strong>&nbsp;meter.</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The estimated increase in the total pressure, in<em><strong> kPa</strong></em>, the diver experienced for&nbsp;each increase in the depth by <em><strong>d</strong></em> meters.</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "The estimated total pressure, in<strong><em> kPa</em></strong>, the diver experienced when the diver&nbsp;began to descend <em><strong>d </strong></em>additional meters.<br>"
+        }
+      ],
+      "correct": "The estimated total pressure, in<strong><em> kPa</em></strong>, the diver experienced when the diver&nbsp;began to descend <em><strong>d </strong></em>additional meters.<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A circle has diameters <span class=\"mq-math-mode\" latex-data=\"\\overline{AC}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-block-id=\"4\" mathquill-command-id=\"3\"><var mathquill-command-id=\"6\">A</var><var mathquill-command-id=\"7\">C</var></span></span></span>&nbsp; and <span class=\"mq-math-mode\" latex-data=\"BD\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{BD}^{ }\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-block-id=\"40\" mathquill-command-id=\"39\"><var mathquill-command-id=\"42\">B</var><var mathquill-command-id=\"43\">D</var></span></span></span>&nbsp;&nbsp;. The circumference of the circle is 84Ï, and the length&nbsp;of arc<strong><em> DA</em></strong> is<strong> 2 </strong>times the length of arc <em><strong>AB</strong></em>. What is the length of arc <em><strong>BC</strong></em>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "2Ï<br>"
+        },
+        {
+          "name": "B",
+          "content": "14Ï<br>"
+        },
+        {
+          "name": "C",
+          "content": "21Ï<br>"
+        },
+        {
+          "name": "D",
+          "content": "28Ï<br>"
+        }
+      ],
+      "correct": "28Ï<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In triangle <em><strong>XY Z</strong></em>, angle <em><strong>Y</strong></em> is a right angle, the measure of angle <em><strong>Z</strong></em> is <strong>39Â°</strong>, and&nbsp;the length of<strong> </strong></span></span><strong><span class=\"mq-math-mode\" latex-data=\"\\overline{YZ}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"3\" mathquill-block-id=\"4\"><var mathquill-command-id=\"6\">Y</var><var mathquill-command-id=\"7\">Z</var></span></span></span><span>&nbsp;</span></strong><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"> is <strong>22</strong> units. lf the area, in square units, of triangle <em><strong>XY Z</strong></em> can be represented by the expression<strong> <em>k</em> tan 39Â°</strong>, where <em><strong>k</strong></em> is a constant, what is&nbsp;the value of <em><strong>k</strong></em>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "242",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In right triangle <em><strong>RST</strong></em>, the sum of the measures of angle <em><strong>R</strong></em> and angle <em><strong>S</strong></em> is <strong>90</strong> degrees. The&nbsp;value of sin(R) is <span class=\"mq-math-mode\" latex-data=\"\\frac{3\\sqrt{17}}{13}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"9\">3</span><span class=\"mq-non-leaf\" mathquill-command-id=\"10\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.960606);\">â</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"11\"><span mathquill-command-id=\"13\">1</span><span mathquill-command-id=\"14\">7</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">1</span><span mathquill-command-id=\"8\">3</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>&nbsp;, What is the value of cos(S)?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{4\\sqrt{17}}{51}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-numerator\" mathquill-block-id=\"22\"><span mathquill-command-id=\"35\">4</span><span class=\"mq-non-leaf\" mathquill-command-id=\"30\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.960606);\">â</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"31\"><span mathquill-command-id=\"33\">1</span><span mathquill-command-id=\"34\">7</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"23\"><span mathquill-command-id=\"25\">5</span><span mathquill-command-id=\"26\">1</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{4\\sqrt{17}}{51}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-numerator\" mathquill-block-id=\"22\"><span class=\"mq-non-leaf\" mathquill-command-id=\"30\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.960606);\">3â</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"31\"><span mathquill-command-id=\"33\">1</span><span mathquill-command-id=\"34\">7</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"23\">13</span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{4\\sqrt{17}}{51}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-numerator\" mathquill-block-id=\"22\"><span class=\"mq-non-leaf\" mathquill-command-id=\"30\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.960606);\">13â</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"31\"><span mathquill-command-id=\"33\">1</span><span mathquill-command-id=\"34\">7</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"23\"><span mathquill-command-id=\"25\">5</span><span mathquill-command-id=\"26\">1</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\frac{4\\sqrt{17}}{51}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-numerator\" mathquill-block-id=\"22\"><span class=\"mq-non-leaf\" mathquill-command-id=\"30\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.960606);\">3â</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"31\"><span mathquill-command-id=\"33\">1</span><span mathquill-command-id=\"34\">7</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"23\">4</span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span><br>"
+        }
+      ],
+      "correct": "<span class=\"mq-math-mode\" latex-data=\"\\frac{4\\sqrt{17}}{51}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-numerator\" mathquill-block-id=\"22\"><span class=\"mq-non-leaf\" mathquill-command-id=\"30\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.960606);\">3â</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"31\"><span mathquill-command-id=\"33\">1</span><span mathquill-command-id=\"34\">7</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"23\">13</span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span><br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The composition of an animal is defined as the muscles, bones, and fat of the&nbsp;animal. A scientist studied the composition of one young swamp buffalo and&nbsp;determined the buffalo had<strong> 133 </strong>kilograms of muscle, which made up&nbsp;approximately <strong>65.9%</strong> of its composition. Of the remaining composition of&nbsp;this buffalo, approximately <strong>46.2% </strong>was bone, and the remainder was fat.Based on these approximations, to the nearest tenth, how many kilograms of&nbsp;this buffalo's composition was bone?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "31.8",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which of the following expressions has a factor of <em><strong>x</strong></em>&nbsp;+ <strong>2<em>b</em></strong>, where <em><strong>b</strong></em> is a positive integer</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">constant?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em><sup>2</sup>+9<em>x</em>+18<em>b</em></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em><sup>2</sup>+24<em>x</em>+18<em>b</em></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em><sup>2</sup>+30<em>x</em>+18<em>b</em></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em><sup>2</sup>+39<em>x</em>+18<em>b</em></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em><sup>2</sup>+39<em>x</em>+18<em>b</em></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;31(x-<em>n</em>)=31<em>y</em>+31<em>n</em></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">One of the equations in a system of two linear equations is given, where<em><strong> n</strong></em> is a positive&nbsp;constant, The system has no solution. Which equation could be the second equation in this&nbsp;system?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em>-3<em>y</em>=6<em>n</em></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em>+3<em>y</em>=3<em>n</em></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em>+3<em>y</em>=6<em>n</em></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em>-3<em>y</em>=3<em>n</em></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">3<em>x</em>-3<em>y</em>=3<em>n</em></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The cost of renting a piece of equipment is <strong>$64</strong><em><strong>n</strong></em> for the first day and <strong>$32<em>n</em></strong> for each&nbsp;additional day, where <em><strong>n</strong></em> is a positive integer Which of the following functions gives the cost&nbsp;<em><strong>C</strong></em>(<em><strong>x</strong></em>), in dollars, of renting this equipment for <em>x</em>&nbsp;days, where&nbsp;<em>x</em> is a positive integer</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>C</em>(<em>x</em>)=32<em>nx</em> +32<em>n</em></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>C</em>(<em>x</em>)=32<em>nx</em> +64<em>n</em></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>C</em>(<em>x</em>)=64<em>nx</em> +32<em>n</em></span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>C</em>(<em>x</em>)=64<em>nx</em>&nbsp;-32<em>n</em></span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>C</em>(<em>x</em>)=32<em>nx</em> +32<em>n</em></span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In triangle <em><strong>ABC</strong></em> and triangle <strong><em>DEF</em></strong>, sides<em><strong> AB</strong></em> and<em><strong> DE</strong></em> each have a side length of<strong> 6</strong> inches and angles <strong><em>A </em></strong>and <em><strong>D</strong></em> each have an angle measure of <strong>40Â°</strong>. Which of the following additional pieces of information is(are) sufficient to prove whether triangle<em><strong> ABC</strong></em> is congruent to triangle <em><strong>DEF</strong></em>?</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â </span></span></span></span>. The measures of angles <em><strong>B</strong></em> and<em><strong> C</strong></em>&nbsp;are equal.</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#f5f5f5\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¡</span></span></span></span>. The lengths of sides <em><strong>AC</strong></em> and <em><strong>DF</strong></em> are equal.</span></span><br><p class=\"p\" align=\"justify\" style=\"margin-bottom:10px; text-indent:0.0000pt; text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"background:#ffffff\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢</span></span></span></span>. The lengths of sides <em><strong>BC</strong></em>&nbsp;and <em><strong>EF</strong></em> are equal.</span></span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â &nbsp;</span></span></span></span>is sufficient,but&nbsp;<span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â </span></span></span></span><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â &nbsp;</span></span></span></span>and <span style=\"background:#ffffff\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢&nbsp;</span></span></span></span></span>are not.</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "â¡<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">&nbsp;</span></span></span></span>is sufficient,but&nbsp;<span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â &nbsp;</span></span></span></span><span style=\"background:#f5f5f5\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">&nbsp;</span></span></span></span>and <span style=\"background:#ffffff\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢&nbsp;</span></span></span></span></span>are not.</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\"><span style=\"background:#ffffff\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢</span></span></span></span><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">&nbsp;</span></span></span></span>is sufficient,but&nbsp;<span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â &nbsp;</span></span></span></span><span style=\"background:#f5f5f5\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">&nbsp;</span></span></span></span>and </span></span>â¡&nbsp;<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">are not.</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â </span></span></span></span><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â &nbsp;</span></span></span></span>is sufficient and&nbsp;<span style=\"background:#ffffff\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢</span></span></span></span><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">&nbsp;</span></span></span></span>is sufficient,but&nbsp;<span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â  is not.</span></span></span></span></span></span><br>"
+        }
+      ],
+      "correct": "â¡<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">&nbsp;</span></span></span></span>is sufficient,but&nbsp;<span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â &nbsp;</span></span></span></span><span style=\"background:#f5f5f5\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">&nbsp;</span></span></span></span>and <span style=\"background:#ffffff\"><span style=\"background:#ffffff\"><span style=\"color:#333333\"><span style=\"letter-spacing:0.0000pt\"><span style=\"font-style:normal\">â¢&nbsp;</span></span></span></span></span>are not.</span></span><br>",
+      "solution": ""
+    }
+  ]
+}

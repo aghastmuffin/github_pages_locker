@@ -1,0 +1,682 @@
+{
+  "uuid": "3926df58-b496-49f8-807d-ce478d37162e",
+  "chunk": "DUh2S0Gh.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Traditionally, certain features of mosque architecture are nearly ______, such as the mihrab (or niche), which almost all mosques include. But mosques can also be built to reflect a multitude of different architectural styles, as in the case of the Great Mosque of Central Java, which includes elements from the Javanese and Greek revival styles.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "universal"
+        },
+        {
+          "name": "B",
+          "content": "elaborate"
+        },
+        {
+          "name": "C",
+          "content": "illusory"
+        },
+        {
+          "name": "D",
+          "content": "idealized"
+        }
+      ],
+      "correct": "universal",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The dates that archaeologists assign to most of the colossal sculptures of human heads produced by the Olmec civilization of Mesoamerica are necessarily ______. The majority of the sculptures have been moved from their original context, making precise dating impossible.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "uncontroversial"
+        },
+        {
+          "name": "B",
+          "content": "irrelevant"
+        },
+        {
+          "name": "C",
+          "content": "applicable"
+        },
+        {
+          "name": "D",
+          "content": "approximate"
+        }
+      ],
+      "correct": "approximate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>______ traditional descriptions of pollination syndromes (suites of floral traits, such as nectar composition and symmetry, hypothesized to have independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait combinations have led some ecologists to express reservations about the utility of those descriptions.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Discrepancies between"
+        },
+        {
+          "name": "B",
+          "content": "Proclamations of"
+        },
+        {
+          "name": "C",
+          "content": "Recurrences of"
+        },
+        {
+          "name": "D",
+          "content": "Affinities between"
+        }
+      ],
+      "correct": "Discrepancies between",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scientists discovered a 390-million-year-old fossilized forest of <em>Calamophyton</em> trees in modern-day England. The scientists believe the emergence of these <em>Calamophyton</em> forests changed the land significantly. <u>For example, the tree roots would have greatly reduced soil erosion, and the accumulated twigs the trees shed likely created new habitats for animal life.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests that there are likely fossilized <em>Calamophyton</em> forests from before 390 million years ago."
+        },
+        {
+          "name": "B",
+          "content": "It provides two competing views of when the <em>Calamophyton</em> forest likely merged."
+        },
+        {
+          "name": "C",
+          "content": "It illustrates how <em>Calamophyton</em> forests likely changed conditions on the land."
+        },
+        {
+          "name": "D",
+          "content": "It indicates how fast the <em>Calamophyton</em> forest spread."
+        }
+      ],
+      "correct": "It illustrates how <em>Calamophyton</em> forests likely changed conditions on the land.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Louise Erdrich's 1986 novel <em>The Beet Queen</em>. The narrator discusses her relationship with her young niece, Dot. Celestine, the narrator's sister-in-law, is Dotâs mother.</p><blockquote style=\"margin-left: 40px;\"><p>Dot and I had a mental connection, I was sure of it. I understood things about the baby that her mother could not accept.</p><p>For instance, she was never meant to be a baby.</p><p>Dot was as impatient with babyhood as I. She tried at once to grow out of it. Celestine never saw that, because she, and only she, took pleasure in Dotâs helpless softness. Only Celestine was saddened by her daughterâs fierce progress. Day by day, Dot grew stronger. In her shopping-cart stroller she exercised to exhaustion, bouncing for hours to develop her leg muscles.</p></blockquote><p style=\"text-align: right;\">Â©1986 by Louise Erdrich</p>",
+      "question": "Which choice best describes the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To present the narratorâs belief that she understands Dot better than Celestine does."
+        },
+        {
+          "name": "B",
+          "content": "To speculate that when Dot is older, her personality will be like Celestineâs."
+        },
+        {
+          "name": "C",
+          "content": "To discuss what the narrator and Celestine do to amuse Dot."
+        },
+        {
+          "name": "D",
+          "content": "To compare the narratorâs physical appearance to the physical appearance of Celestine."
+        }
+      ],
+      "correct": "To present the narratorâs belief that she understands Dot better than Celestine does.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Adelaide is one of many cities that have installed pontoons or other hardening structures to protect their shorelines against coastal hazards. To assess how birds respond to shoreline hardening and other landscape alterations, Diann Prosser et al. used a tool known as the Index of Waterbird Community Integrity to survey bird communities consisting of sixty-four species, including the tundra swan and the great blue heron, in the Chesapeake Bay on the US East Coast. The researchers concluded that shoreline hardening more negatively affects birds than does land development for uses such as housing.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It introduces a certain technique, mentions the hypothesis of a study into an ecological consequence of that technique, and presents evidence in support of that study's hypothesis."
+        },
+        {
+          "name": "B",
+          "content": "It provides an example of a location that has adopted a particular approach, explains the methodology of a study into an ecological effect of that approach, and describes a finding of that study."
+        },
+        {
+          "name": "C",
+          "content": "It makes a claim about the use of a specific strategy, describes field observations of a consequence of that strategy in a particular ecosystem, and makes a supposition based on those observations."
+        },
+        {
+          "name": "D",
+          "content": "It presents a solution to a commonly occurring problem, summarizes the procedures used by a group of researchers studying the environmental impact of that solution, and notes the significance of the researchersâ findings."
+        }
+      ],
+      "correct": "It provides an example of a location that has adopted a particular approach, explains the methodology of a study into an ecological effect of that approach, and describes a finding of that study.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Women like Dorothy T. Blum made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Blum provided cryptological services for the US Army in the 1940s and then joined the National Security Agency (NSA). She was a pioneer in transitioning the NSA to using computers for cryptanalysis. In this way, Blum and others like her helped make it possible for more womenâsuch as Maureen Baginski, who currently works in intelligence and supports the FBIâto enter the field of cryptology.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Cryptology is a field that focuses primarily on securely managing data."
+        },
+        {
+          "name": "B",
+          "content": "Women such as Dorothy T. Blum and Maureen Baginski have contributed to the field of cryptology."
+        },
+        {
+          "name": "C",
+          "content": "Dorothy T. Blum and Maureen Baginski worked together on an important project in the field of cryptology."
+        },
+        {
+          "name": "D",
+          "content": "Cryptology should be taught more often in schools to encourage more women to enter the field."
+        }
+      ],
+      "correct": "Women such as Dorothy T. Blum and Maureen Baginski have contributed to the field of cryptology.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers who examined data from radio-tagged southern sea otters (<em>Enhydra lutris nereis</em>) identified fitness benefits gained by otters that used tools. By using fixed stones as anvils, tool-using otters gained access to high-quality, hard-shelled prey (e.g., mussels and clams) that they could usually not access through biting alone. Non-tool-using otters foraged abundant, energy-poor, easily extractable prey instead (e.g., snails). Even when easily processed prey were depleted, tool-using otters that processed mussels and clams were thus able to obtain their needed energy resources and to do so without incurring tooth damage.</p>",
+      "question": "What does the text most strongly suggest about southern sea otters in environments where snails, mussels, and clams are present?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Those otters whose diet consists mainly of snails will likely exhibit less tooth damage than will those otters that use tools to consume mussels and clams."
+        },
+        {
+          "name": "B",
+          "content": "Those otters that do not use tools will likely have more robust health than those otters that do use tools."
+        },
+        {
+          "name": "C",
+          "content": "Those otters that do not use tools will likely need to process larger amounts of prey to meet their energy requirements than will those otters that use tools."
+        },
+        {
+          "name": "D",
+          "content": "Those otters that consume mussels and clams without the use of tools will likely spend less time foraging than will those otters that use tools to access the same prey resources."
+        }
+      ],
+      "correct": "Those otters that do not use tools will likely need to process larger amounts of prey to meet their energy requirements than will those otters that use tools.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Over the course of the 1900s, more and more Native Hawaiians spoke English instead of the Hawaiian language. To preserve their language, Native Hawaiian teachers founded the âAha PÅ«nana Leo preschool in 1984. They spoke Hawaiian while teaching, and their Native Hawaiian students were soon able to understand and speak it themselves. The school was a huge success. Eventually it opened locations around Hawaiâi and started teaching Hawaiian to elementary and high school students too. <u>Thanks to âAha PÅ«nana Leo, the number of young people who speak the language has increased.</u></p>",
+      "question": "Which statement, if true, would most directly support the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Besides Native Hawaiians, tens of thousands of people from other Pacific Islander communities live in Hawaiâi today, including over 37,000 Samoans."
+        },
+        {
+          "name": "B",
+          "content": "Fewer than fifty children could speak Hawaiian when âAha PÅ«nana Leo was founded, but now more than 2,000 students at âAha PÅ«nana Leo speak it."
+        },
+        {
+          "name": "C",
+          "content": "Hawaiian is very similar to other languages that are spoken on the Polynesian Islands of the Pacific Ocean, including Tahitian, Samoan, and Maori."
+        },
+        {
+          "name": "D",
+          "content": "Roughly 680,000 Native Hawaiian people lived in the United States in 2020, and a little less than half of them lived in Hawaiâi."
+        }
+      ],
+      "correct": "Fewer than fifty children could speak Hawaiian when âAha PÅ«nana Leo was founded, but now more than 2,000 students at âAha PÅ«nana Leo speak it.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/2991bc6fb45467987e712e521b8d87a6.png\" style=\"width: 650px; height: 374px; display: block; margin: 0 auto;\"></div><p>Lin-Tai Ho and colleagues tracked fish populations in three tide pool-monitoring stations in Taiwan from 1999 to 2018. Although a total of only 31 blackspotted rockskippers were observed at station 3, that was not the lowest count at any station: ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "there were 16 streaky rockskippers observed at station 1."
+        },
+        {
+          "name": "B",
+          "content": "there were 610 streaky rockskippers observed at station 3."
+        },
+        {
+          "name": "C",
+          "content": "there were 16 barred flagtails observed at station 3."
+        },
+        {
+          "name": "D",
+          "content": "there were 50 Cocos frillgobies observed at station 1."
+        }
+      ],
+      "correct": "there were 16 barred flagtails observed at station 3.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/8f80f11a14c7dc75403cce269b2d7aaf.png\" style=\"width: 481px; height: 434px;\"></div><p>Elisabeth PÃ¶tzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Austria, Bulgaria, and Belgium about the number of these species grown in those countries as well as the numbers of insect and fungus species that damage those trees. The researchers concluded that Austria had a greater number of damaging fungus species than either of the other countries did.</p>",
+      "question": "Which choice best describes data from the table that support PÃ¶tzelsberger and colleaguesâ conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Belgium reported 13 damaging fungus species but only 11 damaging insect species."
+        },
+        {
+          "name": "B",
+          "content": "Austria reported 51 damaging fungus species, whereas Bulgaria reported 16 damaging insect species."
+        },
+        {
+          "name": "C",
+          "content": "Bulgaria and Belgium reported 9 and 4 damaging fungus species, respectively, which is far fewer than Austria reported."
+        },
+        {
+          "name": "D",
+          "content": "Austria reported 51 damaging fungus species, which is more than either Bulgaria or Belgium reported."
+        }
+      ],
+      "correct": "Austria reported 51 damaging fungus species, which is more than either Bulgaria or Belgium reported.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><em>The Wonderful Wizard of Oz</em> is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncleâs house in Kansas is remote and solitary, writing that ______</p>",
+      "question": "Which quotation from <em>The Wonderful Wizard of Oz</em> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in Oz, â[Dorothy and her companions] passed through the rest of the forest in safety, and when they came out from its gloom saw before them a steep hill, covered from top to bottom with great pieces of rock.â"
+        },
+        {
+          "name": "B",
+          "content": "in Oz, âDorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have her little girl at home again.â"
+        },
+        {
+          "name": "C",
+          "content": "in Kansas, âDorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmerâs wife.â"
+        },
+        {
+          "name": "D",
+          "content": "in Kansas, âWhen Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.â"
+        }
+      ],
+      "correct": "in Kansas, âWhen Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Carcinization, or the evolution of a crablike body form, has taken place in crustaceans many times over the last 250 million years. Decarcinization has occurred several times as well, even though it involves the loss of traits such as sideways walking that seem to have helped carcinized groups persist in a variety of ecosystems. In a 2021 paper, Joanna Wolfe and team note that many decarcinized groups are extinct and have very few living relativesâsigns that decarcinization might be an âevolutionary dead-end.â But the team also discusses frog crabs, a living decarcinized group with traits suited to dwelling in sediment; fossils show that the group had decarcinized members as far back as the Early Cretaceous. This example suggests that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the evolutionary benefits of a crablike body form are less certain than many studies of carcinization had previously implied."
+        },
+        {
+          "name": "B",
+          "content": "despite having many living relatives, some decarcinized groups did not benefit from decarcinization."
+        },
+        {
+          "name": "C",
+          "content": "representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples."
+        },
+        {
+          "name": "D",
+          "content": "a crablike body form may not be optimal in all cases, with ecological conditions sometimes favoring the persistence of decarcinization."
+        }
+      ],
+      "correct": "a crablike body form may not be optimal in all cases, with ecological conditions sometimes favoring the persistence of decarcinization.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the northern muriqui (<i>Brachyteles hypoxanthus</i>). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "cause other conservationists to adopt a new methodology for counting populations."
+        },
+        {
+          "name": "B",
+          "content": "risk making inaccurate conclusions about the effectiveness of different conservation strategies."
+        },
+        {
+          "name": "C",
+          "content": "benefit from including species beyond the northern muriqui."
+        },
+        {
+          "name": "D",
+          "content": "fail to consider less-well-known conservation approaches for the northern muriqui."
+        }
+      ],
+      "correct": "risk making inaccurate conclusions about the effectiveness of different conservation strategies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mountain goats were made to climb. In addition to having hard hooves that can dig into nearly any groove or ______ mountain goats have slender bodies ideal for scaling nearly ninety-degree cliffs.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "crack, or"
+        },
+        {
+          "name": "B",
+          "content": "crack or"
+        },
+        {
+          "name": "C",
+          "content": "crack"
+        },
+        {
+          "name": "D",
+          "content": "crack,"
+        }
+      ],
+      "correct": "crack,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As an object-oriented computer programming language, Perl is used by coders like Black Girls Code founder Kimberly Bryant to create computer programs by manipulating âobjectsâ (that is, specifically defined variables or combinations of variables) into interacting with each other. Conversely, languages like Scheme, used in software development, ______ object oriented.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is not"
+        },
+        {
+          "name": "B",
+          "content": "are not"
+        },
+        {
+          "name": "C",
+          "content": "was not"
+        },
+        {
+          "name": "D",
+          "content": "has not been"
+        }
+      ],
+      "correct": "are not",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In premodern Europe, one could sail from the east coast of England to the Netherlands or France faster than one could travel by land to England's capital, London. In that era, historian Michael Pye argues in his 2015 book <em>The Edge of the World: A Cultural History of the North Sea and the Transformation of Europe</em>, the North Sea did more to link the various peoples, cultures, and economies on ______ shores than to divide them.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "it's"
+        },
+        {
+          "name": "B",
+          "content": "its"
+        },
+        {
+          "name": "C",
+          "content": "their"
+        },
+        {
+          "name": "D",
+          "content": "they're"
+        }
+      ],
+      "correct": "its",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Creating personasâbrief profiles of imaginary characters that represent key segments of a customer baseâcan help user experience (UX) designers think like and empathize with those using their products. Fictional yet realistic, ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "these personas include specific details (demographics, browsing habits, etc.) that UX designers draw from actual users."
+        },
+        {
+          "name": "B",
+          "content": "specific details that UX designers draw from actual users (demographics, browsing habits, etc.) are included in these personas."
+        },
+        {
+          "name": "C",
+          "content": "UX designers include specific details (demographics, browsing habits, etc.) drawn from actual users in these personas."
+        },
+        {
+          "name": "D",
+          "content": "actual users are the source of the specific details (demographics, browsing habits, etc.) that UX designers include in these personas."
+        }
+      ],
+      "correct": "these personas include specific details (demographics, browsing habits, etc.) that UX designers draw from actual users.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As the exoplanet 17 Scorpii b orbits a star 408 light-years from Earth, the gas giantâs gravity causes the star to wobble. In 2020, astronomers observing the wobbleâindicated by redshifts and blueshifts in the starâs spectral wavelengthsâeventually attributed ______ to the gravitational influence of the previously undetected exoplanet.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "each"
+        },
+        {
+          "name": "B",
+          "content": "these"
+        },
+        {
+          "name": "C",
+          "content": "it"
+        },
+        {
+          "name": "D",
+          "content": "them"
+        }
+      ],
+      "correct": "it",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although the term âballoonomaniaââreferring to the hot-air balloon fad in England and France in the late 1700sâmight suggest that the public as a whole was captivated by the technology, it was not universally ______ whereas many flocked to balloon launches and purchased balloon-themed items ranging from dinnerware to accessories, others dismissed the hot-air balloon as an impractical and dangerous extravagance.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "embraced:"
+        },
+        {
+          "name": "B",
+          "content": "embraced"
+        },
+        {
+          "name": "C",
+          "content": "embraced,"
+        },
+        {
+          "name": "D",
+          "content": "embraced and"
+        }
+      ],
+      "correct": "embraced:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In February 1864, James Johnson joined the US Army. He went on to serve in the 18th New York Cavalry during the US Civil War and, ______ earned a place in US history as one of the warâs few Chinese-born American soldiers.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "usually,"
+        },
+        {
+          "name": "B",
+          "content": "for instance,"
+        },
+        {
+          "name": "C",
+          "content": "in any case,"
+        },
+        {
+          "name": "D",
+          "content": "in doing so,"
+        }
+      ],
+      "correct": "in doing so,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The lack of accessible written sources is a common challenge faced by biographers of pre-nineteenth-century subjects. ______ when writing his biography of Alexander Hamilton (1755-1804), historian Ron Chernow had at his disposal Harold Syrettâs 26-volume, 19,000-document <em>Papers of Alexander Hamilton</em>.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To take one well-known example,"
+        },
+        {
+          "name": "B",
+          "content": "In accordance with this premise,"
+        },
+        {
+          "name": "C",
+          "content": "It thus came as no surprise that,"
+        },
+        {
+          "name": "D",
+          "content": "On the other end of the spectrum,"
+        }
+      ],
+      "correct": "On the other end of the spectrum,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>India Arie is an African American singer and songwriter.</li><li>The media outlet BBC Music has described her music as a âblend of hip hop, soul and folk [that is] as subtle as it [is] inspired.â</li><li>Her acclaimed albums feature many talented musicians.</li><li>Judeth Insel played viola on her first studio album, <em>Acoustic Soul</em> (2001).</li><li>Ricky QuiÃ±ones played guitar on her second studio album, <em>Voyage to India</em> (2002).</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between Judeth Insel and Ricky QuiÃ±ones. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Judeth Insel played on India Arieâs first studio album, <em>Acoustic Soul</em>, which was released one year before her album <em>Voyage to India</em>."
+        },
+        {
+          "name": "B",
+          "content": "Both musicians have played on India Arie albums, but Judeth Insel played viola, whereas Ricky QuiÃ±ones played guitar."
+        },
+        {
+          "name": "C",
+          "content": "<em>Acoustic Soul</em> and <em>Voyage to India</em>, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie."
+        },
+        {
+          "name": "D",
+          "content": "Judeth Insel and Ricky QuiÃ±ones have both lent their musical talents to albums by India Arie."
+        }
+      ],
+      "correct": "Both musicians have played on India Arie albums, but Judeth Insel played viola, whereas Ricky QuiÃ±ones played guitar.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A supercontinent is a single landmass made up of most or all of Earthâs continents.</li><li>Over time, continents merge together to form supercontinents, which then break apart.</li><li>This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.</li><li>Vaalbara was a supercontinent that formed about 3.6 billion years ago.</li><li>Euramerica was a supercontinent that formed about 300 million years ago.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Vaalbara and Euramerica were both supercontinents, single landmasses made up of most or all of Earthâs continents."
+        },
+        {
+          "name": "B",
+          "content": "The supercontinent Euramerica formed long after the supercontinent Vaalbara."
+        },
+        {
+          "name": "C",
+          "content": "Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earthâs continents."
+        },
+        {
+          "name": "D",
+          "content": "Vaalbara formed about 3.6 billion years ago but eventually broke apart."
+        }
+      ],
+      "correct": "The supercontinent Euramerica formed long after the supercontinent Vaalbara.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Grimanesa Amoros is a Peruvian American artist well known for her LED light sculptures.</li><li><em>Uros Island</em> (2011) is from her <em>Uros</em> series of works.</li><li>It is made of smooth multicolored LED domes.</li><li><em>Golden Connection</em> (2013) is from her <em>Huanchaco</em> series of works.</li><li>It is made of entangled blue and white LED tubes.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between <em>Uros Island</em> and <em>Golden Connection</em>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Grimanesa Amoros often employs LED lights in her work, but the smooth LED domes of <em>Uros Island</em> stand in contrast to the tangled LED tubes of <em>Golden Connection</em>."
+        },
+        {
+          "name": "B",
+          "content": "<em>Uros Island</em> and <em>Golden Connection</em> are two LED light sculptures by well-known artist Grimanesa Amoros."
+        },
+        {
+          "name": "C",
+          "content": "In 2011, Grimanesa Amoros debuted <em>Uros Island</em>, a part of her <em>Uros</em> series."
+        },
+        {
+          "name": "D",
+          "content": "Many of Grimanesa Amorosâs sculptures, like <em>Uros Island</em> and <em>Golden Connection</em>, incorporate LED lights in the form of domes or tubes."
+        }
+      ],
+      "correct": "Grimanesa Amoros often employs LED lights in her work, but the smooth LED domes of <em>Uros Island</em> stand in contrast to the tangled LED tubes of <em>Golden Connection</em>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Refrigerants are chemical compounds used in cooling technologies, such as air conditioners.</li><li>Air conditioners can use refrigerants to absorb heat and release cold air.</li><li>The refrigerant dichloromethane is a hydrochlorocarbon (HCC).</li><li>HCCs are composed of the elements hydrogen, chlorine, and carbon.</li><li>The refrigerant tetradecafluorohexane is a perfluorocarbon (PFC).</li><li>PFCs are composed of fluorine and carbon.</li></ul></blockquote>",
+      "question": "The student wants to contrast dichloromethane and tetradecafluorohexane. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Dichloromethane, a hydrochlorocarbon, is composed of hydrogen, chlorine, and carbon; tetradecafluorohexane, a perfluorocarbon, is composed of fluorine and carbon."
+        },
+        {
+          "name": "B",
+          "content": "Dichloromethane and tetradecafluorohexane are chemical compounds used in cooling technologies; the compounds are known as refrigerants."
+        },
+        {
+          "name": "C",
+          "content": "The hydrochlorocarbon dichloromethane and the perfluorocarbon tetradecafluorohexane are both refrigerants that can be used in cooling technologies like air conditioners."
+        },
+        {
+          "name": "D",
+          "content": "Tetradecafluorohexane, a refrigerant, can be used in cooling technologies to absorb heat and release cold air."
+        }
+      ],
+      "correct": "Dichloromethane, a hydrochlorocarbon, is composed of hydrogen, chlorine, and carbon; tetradecafluorohexane, a perfluorocarbon, is composed of fluorine and carbon.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).</li><li>The ACM gives the award for âmajor contributions of lasting importance to computing.â</li><li>It is named after groundbreaking British mathematician Alan Turing.</li><li>Raj Reddy won the award in 1994 for pioneering the development of large-scale artificial intelligence systems.</li></ul></blockquote>",
+      "question": "The student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 1994, Raj Reddy won the A.M. Turing Award for pioneering the development of large-scale artificial intelligence systems."
+        },
+        {
+          "name": "B",
+          "content": "The A.M. Turing Award is given for âmajor contributions of lasting importance to computing.â"
+        },
+        {
+          "name": "C",
+          "content": "The A.M. Turing Award is named for groundbreaking British mathematician Alan Turing."
+        },
+        {
+          "name": "D",
+          "content": "It was in 1994 that Raj Reddy won the A.M. Turing Award."
+        }
+      ],
+      "correct": "The A.M. Turing Award is named for groundbreaking British mathematician Alan Turing.",
+      "solution": ""
+    }
+  ]
+}

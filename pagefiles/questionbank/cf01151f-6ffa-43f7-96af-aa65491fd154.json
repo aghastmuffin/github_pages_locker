@@ -1,0 +1,682 @@
+{
+  "uuid": "cf01151f-6ffa-43f7-96af-aa65491fd154",
+  "chunk": "CWrCVHYF.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The recovery program led by Marisel LÃ³pez-Flores has dramatically increased the population size of the endangered <em>Amazona vittata</em>, the endemic parrot of Puerto Rico. Given that <em>A. vittata</em> corresponds in physiology, behavior, and ecology to endangered <em>Amazona</em> species elsewhere in the Caribbean, the conservation approach developed by LÃ³pez-Flores may be ______ across the genus.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "replicable"
+        },
+        {
+          "name": "B",
+          "content": "comprehensible"
+        },
+        {
+          "name": "C",
+          "content": "observable"
+        },
+        {
+          "name": "D",
+          "content": "redeemable"
+        }
+      ],
+      "correct": "replicable",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although oil shocksâsuch as the 45% rise in oil prices from November 1980 to February 1981âcan strongly affect individual consumers, Gbadebo Oladosu and colleagues have shown that at the level of national economies, their effects are often quite ______ . The effect of recent oil shocks on the gross domestic product of the United States, for example, was only slightly greater than zero.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "persistent"
+        },
+        {
+          "name": "B",
+          "content": "subdued"
+        },
+        {
+          "name": "C",
+          "content": "beneficial"
+        },
+        {
+          "name": "D",
+          "content": "variable"
+        }
+      ],
+      "correct": "subdued",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Steiger Butte Drum, a family ensemble from the Klamath Tribes of the Pacific Northwest, collaborated with composer Michael Gordon to create <i>Natural History</i>, a work featuring traditional drumming and vocals alongside an orchestra and chorus; Steiger Butte Drum's participation is ______ to the piece: members not only contributed to its composition but also must be included in all performances.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "analogous"
+        },
+        {
+          "name": "B",
+          "content": "tangential"
+        },
+        {
+          "name": "C",
+          "content": "integral"
+        },
+        {
+          "name": "D",
+          "content": "subsequent"
+        }
+      ],
+      "correct": "integral",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Susan Glaspellâs 1917 play <i>The People</i>. Oscar, a writer at a newspaper called <i>The People</i>, is writing at a table when a woman enters the office to speak to the editor.</p><blockquote style=\"margin-left: 40px;\"><p>THE WOMAN: This <i>is</i> the office of <i>The People</i>?</p><p>OSCAR: Um-hum.</p><p>THE WOMAN: (<i>Excitedly.</i>) I came to see the author of those wonderful words.</p><p>OSCAR: (<i>Rising.</i>) Which wonderful words?</p><p>THE WOMAN: About moving toward the beautiful distances.</p><p>OSCAR: (<i>Loses interest and returns to his writing.</i>) Oh. Those are Mr. Willsâ wonderful words.</p><p>THE WOMAN: Could I see him?</p><p>OSCAR: He isnât here yet. Heâs just back from California. Wonât be at the office till a little later.</p></blockquote>",
+      "question": "Which choice best states the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To indicate that Oscar had been expecting the woman to come to the office."
+        },
+        {
+          "name": "B",
+          "content": "To suggest that Oscar is annoyed that the womanâs visit has interrupted his work."
+        },
+        {
+          "name": "C",
+          "content": "To depict Oscar as a polite and professional representative of the newspaper."
+        },
+        {
+          "name": "D",
+          "content": "To show Oscarâs brief hope that the woman is fond of his writing."
+        }
+      ],
+      "correct": "To show Oscarâs brief hope that the woman is fond of his writing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><u>Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship.</u> While horizontal gene transfer is common among prokaryotesâsingle-celled organisms, such as the bacteria <i>Comamonas aquatica</i> and <i>Moraxella caviae</i>âit has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.</p>",
+      "question": "Which choice best states the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains a biological process by contrasting it with a somewhat similar process."
+        },
+        {
+          "name": "B",
+          "content": "It explains why a common perception of a biological process is flawed."
+        },
+        {
+          "name": "C",
+          "content": "It proposes a direction for future research into a biological phenomenon."
+        },
+        {
+          "name": "D",
+          "content": "It argues that two biological phenomena are more similar than they may initially appear to be."
+        }
+      ],
+      "correct": "It explains a biological process by contrasting it with a somewhat similar process.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some researchers posit that the species inhabiting the South Pacific island of Grande Terre belong to clades that predate the islandâs split from remnants of the former supercontinent Gondwana around 80 million years ago. A study conducted by Yohan Pillon et al. found, however, that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of <em>Geissois</em> trees on Grande Terre is 7.3 million years; Pillon et al. further found that the crown age of the clade of <em>Geissois</em> trees in the South Pacific generally is also approximately 7.3 million years.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It identifies a discrepancy between a hypothesis some researchers have proposed and related research findings, then explains that discrepancy."
+        },
+        {
+          "name": "B",
+          "content": "It presents a possibility that some researchers have raised, then describes a study that clarifies their reasons for doing so."
+        },
+        {
+          "name": "C",
+          "content": "It explains a view some researchers have advanced, then discusses study results that led them to reconsider that view."
+        },
+        {
+          "name": "D",
+          "content": "It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea."
+        }
+      ],
+      "correct": "It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>In a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. Finding that participantsâ responses indicated that losses have a greater psychological impact than equivalent gains do, the researchers formulated the concept of loss aversion, which has since informed research in fields ranging from cognitive psychology to transportation studies.</p><p><strong>Text 2</strong></p><p>Eyal Ert and Ido Erev conducted an experiment in which two groups of Israeli students were exposed to financial choices that involved potential losses of either relatively minor sums of money, such as 10 Israeli shekels (low-stakes contexts), or more substantial sums, such as 100 Israeli shekels (high-stakes contexts). The researchers concluded that only the latter contexts were associated with loss aversion.</p>",
+      "question": "Based on the texts, how would Ert and Erev (Text 2) most likely respond to Kahneman and Tverskyâs finding (Text 1)?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By observing that researchersâ ability to assess feelings about financial decisions is contingent on gathering adequate data about gains and losses."
+        },
+        {
+          "name": "B",
+          "content": "By agreeing that experimental results support the idea that some people tend to be more cognizant of financial losses than of gains."
+        },
+        {
+          "name": "C",
+          "content": "By disputing Kahneman and Tverskyâs claim that a tendency to place excessive emphasis on financial losses accounts for the loss aversion observed in fields such as cognitive psychology and transportation studies."
+        },
+        {
+          "name": "D",
+          "content": "By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes."
+        }
+      ],
+      "correct": "By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><em>Tracks</em> is a 1988 novel by Ojibwe writer Louise Erdrich. It explores how historical events affect families on a reservation in rural North Dakota. <em>Tracks</em> is typical of Erdrichâs work. Her writing usually focuses on portrayals of everyday life in Ojibwe communities. Yet some of her novels have fantastical plots and take place outside Ojibwe communities. For example, her 2016 novel <em>The Antelope Woman</em> is essentially fantasy fiction, and the otherworldly events in its plot are set in an urban Indigenous community in Minneapolis.</p>",
+      "question": "According to the text, what is one way that The Antelope Woman differs from most of Erdrichâs work?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Its main characters are Ojibwe."
+        },
+        {
+          "name": "B",
+          "content": "It isnât set in a rural Ojibwe community."
+        },
+        {
+          "name": "C",
+          "content": "It has been adapted into a movie."
+        },
+        {
+          "name": "D",
+          "content": "It contains very little dialogue."
+        }
+      ],
+      "correct": "It isnât set in a rural Ojibwe community.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Lin-Manuel Mirandaâs 2015 hip-hop musical <em>Hamilton</em> depicts historical political figure Alexander Hamilton as a self-made man who, through sheer determination, transcends his humble origins to become a key participant in the founding of the United States. This depiction of Hamilton establishes him as a compelling and well-defined protagonist but obscures other facets of the historical personâs views, namely his elitism and mistrust of the democratic politics of some of his contemporaries. In effect, the musicalâs portrayal of Hamilton fails to convey the ideological complexity that a more nuanced portrayal might have suggested.</p>",
+      "question": "The text most strongly suggests that particular aspects of Hamiltonâs political beliefs may have been omitted from the musical in part to achieve which effect?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To suggest why certain contributions by Hamilton to US history have been overlooked."
+        },
+        {
+          "name": "B",
+          "content": "To encourage modern audiences to emulate Hamiltonâs politics."
+        },
+        {
+          "name": "C",
+          "content": "To create an unambiguous thematic presentation of Hamiltonâs life."
+        },
+        {
+          "name": "D",
+          "content": "To challenge the prevailing historical consensus about Hamilton."
+        }
+      ],
+      "correct": "To create an unambiguous thematic presentation of Hamiltonâs life.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/a6436ef8a2b42ce203a3b16edd1c1dfb.png\" width=\"495\" height=\"522\"></div><p>The US Department of Agricultureâs <em>Fruit and Tree Nuts Outlook</em> is a document that covers a variety of subjects, from the causes of reductions in grapefruit supply to the forecast for yields of apple crops. A student studying agricultural economics is consulting a graph in the document that shows the prices for which several types of nuts have been sold by growers in the United States over four growing seasons from 2016 to 2020. The student wishes to determine in which season walnuts reached their lowest price. Consulting the graph, the student finds that this season was the ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "2017/18 season"
+        },
+        {
+          "name": "B",
+          "content": "2016/17 season"
+        },
+        {
+          "name": "C",
+          "content": "2018/19 season"
+        },
+        {
+          "name": "D",
+          "content": "2019/20 season"
+        }
+      ],
+      "correct": "2018/19 season",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/f6cfb60566d756174b41acdfd133a890.png\" width=\"427\" height=\"597\"></div><p>Lin-Tai Ho and colleagues counted fish in a tide pool in Taiwan at several times during the year and found that some species had a significantly higher maximum population count than others. For example, the highest count for the combtooth blenny was 62 individuals in January of 2001, whereas the highest count for the yellowtail sergeant was ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "72 individuals in January of 2001."
+        },
+        {
+          "name": "B",
+          "content": "15 individuals in April of 2001."
+        },
+        {
+          "name": "C",
+          "content": "13 individuals in January of 2001."
+        },
+        {
+          "name": "D",
+          "content": "3 individuals in January of 2001."
+        }
+      ],
+      "correct": "3 individuals in January of 2001.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/14113c297283199af80c7682834ec593.png\" width=\"756\" height=\"203\"></div><p>As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the geographic size of Angola (1,246,700 square kilometers) with its relatively high population of 25,022,000 inhabitants."
+        },
+        {
+          "name": "B",
+          "content": "Angola, which has a high population of 25,022,000 inhabitants and a relatively low density of 20.1 inhabitants/square kilometer, with SÃ£o TomÃ© and PrÃ­ncipe, which has a much lower population and a higher density."
+        },
+        {
+          "name": "C",
+          "content": "Mauritania, which has a low density, with Ethiopia, which has a similar density despite both countries having different geographic sizes."
+        },
+        {
+          "name": "D",
+          "content": "the populations of both SÃ£o TomÃ© and PrÃ­ncipe and Ethiopia in 2015 with their populations in 2010."
+        }
+      ],
+      "correct": "Angola, which has a high population of 25,022,000 inhabitants and a relatively low density of 20.1 inhabitants/square kilometer, with SÃ£o TomÃ© and PrÃ­ncipe, which has a much lower population and a higher density.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Declining fishing technology costs and overexploitation of near-shore fishing grounds have made isolated oceanic reefs, which often lack regulatory protections, increasingly attractive to commercial and sport fishers. A team led by Octavio Aburto-Oropeza surveyed the biomass density and species composition of two isolated reefs: Alacranes, a protected (fishing prohibited) reef 135 kilometers from the Yucatan Peninsula, and Bajos del Norte, an unprotected reef 25 kilometers further out to sea. Species at the highest level of the trophic pyramid constituted 34% of the biomass at Alacranes and 10% of the biomass at Bajos del Norte. Aburto-Oropeza and colleagues attribute this difference to the two reefsâ difference in regulatory status.</p>",
+      "question": "Which finding, if true, would most directly support Aburto-Oropeza and colleaguesâ explanation?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Total biomass at Alacranes is much greater than total biomass at Bajos del Norte, though the reefsâ biomass densities are similar."
+        },
+        {
+          "name": "B",
+          "content": "It is somewhat more expensive for commercial and sport fishers to reach Bajos del Norte than it is to reach Alacranes."
+        },
+        {
+          "name": "C",
+          "content": "Some of the species that compose the highest trophic level at Bajos del Norte are not found at Alacranes."
+        },
+        {
+          "name": "D",
+          "content": "Commercial and sport fishers tend to disproportionately remove species at the highest trophic level."
+        }
+      ],
+      "correct": "Commercial and sport fishers tend to disproportionately remove species at the highest trophic level.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers Eugeni Vidal-Tortosa and Robin Lovelace looked at the relationship between street lighting in a city and peopleâs willingness to ride a bicycle. Their results suggest that poor street lighting can deter new or inexperienced cyclists from riding in a city but has little effect on experienced cyclists. Therefore, increasing the number of streetlights in a city could potentially ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "decrease the number of experienced cyclists riding in the city."
+        },
+        {
+          "name": "B",
+          "content": "increase the number of new or inexperienced cyclists riding in the city."
+        },
+        {
+          "name": "C",
+          "content": "increase the number of experienced cyclists riding in the city."
+        },
+        {
+          "name": "D",
+          "content": "decrease the number of new or inexperienced cyclists riding in the city."
+        }
+      ],
+      "correct": "increase the number of new or inexperienced cyclists riding in the city.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Research into whether floating mats of macroalgae affect the prevalence of microphytobenthos (MPB)âbenthic, or bottom-dwelling, microalgaeâhas produced varying results: Amber Hardison and colleagues determined that macroalgae do not impact MPB, whereas Emilio GarcÃ­a-Robledo and Alfonso Corzo observed that benthic chlorophyll concentrations (a common measure of MPB biomass) decreased in the presence of macroalgae. Hypothesizing that macroalgal mats have a negative effect on MPB biomass, Alice F. Besterman and Michael L. Pace surveyed mudflats in Curlew Bay and other coastal sites in Virginia. Because Besterman and Pace did not find a significant correlation between benthic chlorophyll concentrations and the abundance of macroalgal mats, it can be concluded that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "their hypothesis about the relationship between macroalgae and MPB was not supported and their finding was instead consistent with that of Hardison and colleagues."
+        },
+        {
+          "name": "B",
+          "content": "although this finding was consistent with that of GarcÃ­a-Robledo and Corzo, trends in MPB biomass are likely not a result of stresses caused by macroalgae."
+        },
+        {
+          "name": "C",
+          "content": "differences between their study design and that of GarcÃ­a-Robledo and Corzo likely explain the discrepancy in the two studiesâ findings about the responses of MPB to macroalgal mats."
+        },
+        {
+          "name": "D",
+          "content": "rather than inhibiting chlorophyll production in MPB, as they had hypothesized, macroalgal mats may positively affect chlorophyll production."
+        }
+      ],
+      "correct": "their hypothesis about the relationship between macroalgae and MPB was not supported and their finding was instead consistent with that of Hardison and colleagues.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many ranching terms come from Spanish. For example, the word âstockadeâ (a fence) ______ from the Spanish word <em>estacada</em>, and âcinchâ (a belt) derives from <em>cincho</em>. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican <em>vaqueros</em>, or cowboys.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have derived"
+        },
+        {
+          "name": "B",
+          "content": "were deriving"
+        },
+        {
+          "name": "C",
+          "content": "derive"
+        },
+        {
+          "name": "D",
+          "content": "derives"
+        }
+      ],
+      "correct": "derives",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A voluntary workforce established to make improvements to public lands, parks, and forests across the US, the Civilian Conservation Corps (CCC)âthough widely popularâwas not without its critics. For Aldo Leopold, the CCC was implicated in what ______ âIdle CCC camps,â he wrote, âpresented a widespread temptation to build new and often needless roads.â</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "he viewed as unnecessary development."
+        },
+        {
+          "name": "B",
+          "content": "he viewed as unnecessary development?"
+        },
+        {
+          "name": "C",
+          "content": "did he view as unnecessary development?"
+        },
+        {
+          "name": "D",
+          "content": "did he view as unnecessary development."
+        }
+      ],
+      "correct": "he viewed as unnecessary development.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though it was designated as mission ______ mission was actually the forty-sixth flight under NASAâs Space Shuttle Program.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "STS-45, the"
+        },
+        {
+          "name": "B",
+          "content": "STS-45, and the"
+        },
+        {
+          "name": "C",
+          "content": "STS-45. The"
+        },
+        {
+          "name": "D",
+          "content": "STS-45 the"
+        }
+      ],
+      "correct": "STS-45, the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The epic poem <i>Theogony</i> dates back to the 8th century BCE. Originally ______ in ancient Greek, it has since been translated into other languages.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is written"
+        },
+        {
+          "name": "B",
+          "content": "had been written"
+        },
+        {
+          "name": "C",
+          "content": "written"
+        },
+        {
+          "name": "D",
+          "content": "was written"
+        }
+      ],
+      "correct": "written",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Trade with neighboring civilizations contributed to the success of the Roman Empire, which reigned in the Mediterranean from around 27 BCE to 476 CE. By supplying oil, grapes, and grain to societies that lacked these valuable ______ the Roman Empire grew not only in wealth but also in power and influence.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "items; the"
+        },
+        {
+          "name": "B",
+          "content": "items, the"
+        },
+        {
+          "name": "C",
+          "content": "items the"
+        },
+        {
+          "name": "D",
+          "content": "items. The"
+        }
+      ],
+      "correct": "items, the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In his 2023 collection <em>The Diaspora Sonnets</em>, Filipino American poet Oliver de la Paz leverages the sonnet formâs âdiamond-like quality of precision,â as he describes it. The poems often adhere scrupulously to the formâs centuries-old conventions, such as its characteristic fourteen-line length. In the twelve-line poem âDiaspora Sonnet at the Feeders Before the Freeze,â ______ de la Paz playfully subverts sonnet conventions, the poemâs truncated length conveying a sense of abruptness.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "for example,"
+        },
+        {
+          "name": "B",
+          "content": "similarly,"
+        },
+        {
+          "name": "C",
+          "content": "by contrast,"
+        },
+        {
+          "name": "D",
+          "content": "fittingly,"
+        }
+      ],
+      "correct": "by contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled <em>the match</em> is built between statues at a park in France. ______ appearing as large vases being tossed between statues at the park, it is cleverly placed into its environment, serving as an example of Konradsâs approach.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "There,"
+        },
+        {
+          "name": "B",
+          "content": "Later,"
+        },
+        {
+          "name": "C",
+          "content": "However,"
+        },
+        {
+          "name": "D",
+          "content": "For instance,"
+        }
+      ],
+      "correct": "There,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A wind farm uses turbines to convert wind into electrical power.</li><li>Offshore wind farms tend to produce more electricity than farms on land (onshore).</li><li>Offshore wind farms tend to be more expensive to build and maintain than onshore ones.</li><li>Muppandal Wind Farm is an onshore wind farm in Tamil Nadu, India.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to explain the advantages of onshore wind farms over offshore ones?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Though they donât produce as much electricity as offshore wind farms, onshore farms are usually cheaper to build and maintain."
+        },
+        {
+          "name": "B",
+          "content": "Tamil Nadu, India, is home to Muppandal Wind Farm."
+        },
+        {
+          "name": "C",
+          "content": "Like other wind farms, Muppandal Wind Farm in Tamil Nadu, India, uses turbines to turn wind power into electricity."
+        },
+        {
+          "name": "D",
+          "content": "Whether onshore or offshore, wind farms harness the power of wind to generate electricity."
+        }
+      ],
+      "correct": "Though they donât produce as much electricity as offshore wind farms, onshore farms are usually cheaper to build and maintain.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Wilkie Collinsâs mystery novel <em>The Woman in White</em> first appeared in a London literary magazine.</li><li>The novel was published in forty weekly installments between November 1859 and August 1860.</li><li>Every installment ended with a moment of unresolved suspense.</li><li><em>The Woman in White</em> became extremely popular as readers eagerly anticipated the next weekâs entry.</li><li>The magazineâs sales increased to a record-breaking 100,000 copies per issue.</li></ul></blockquote>",
+      "question": "The student wants to emphasize how popular The Woman in White became when it was first published. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>The Woman in White</em> became so popular that sales of the magazine it appeared in increased to a record-breaking 100,000 copies per issue."
+        },
+        {
+          "name": "B",
+          "content": "Every installment of <em>The Woman in White</em> ended with a moment of unresolved suspense, which led readers to eagerly anticipate the next weekâs entry."
+        },
+        {
+          "name": "C",
+          "content": "Collinsâs novel <em>The Woman in White</em> was published in forty weekly installments between November 1859 and August 1860."
+        },
+        {
+          "name": "D",
+          "content": "<em>The Woman in White</em>, a mystery novel, first appeared in a London literary magazine."
+        }
+      ],
+      "correct": "<em>The Woman in White</em> became so popular that sales of the magazine it appeared in increased to a record-breaking 100,000 copies per issue.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral gypsum has a Mohs scale number of 2.</li><li>The mineral fluorite has a Mohs scale number of 4.</li><li>The mineral quartz has a Mohs scale number of 7.</li></ul></blockquote>",
+      "question": "The student wants to emphasize fluoriteâs Mohs scale number. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Quartz, which has a Mohs scale number of 7, can scratch both gypsum and fluorite."
+        },
+        {
+          "name": "B",
+          "content": "In the Mohs scale of mineral hardness, quartz (7) is ranked higher than gypsum (2)."
+        },
+        {
+          "name": "C",
+          "content": "Fluorite has a Mohs scale number of 4, which means that it is harder than gypsum (2) but softer than quartz (7)."
+        },
+        {
+          "name": "D",
+          "content": "Fluorite, gypsum, and quartz can be ordered by their ability to leave visible scratches on other minerals."
+        }
+      ],
+      "correct": "Fluorite has a Mohs scale number of 4, which means that it is harder than gypsum (2) but softer than quartz (7).",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Stop motion animation (SMA) is a filmmaking technique that involves manipulating characters (puppets, clay figures, etc.) by hand in minute increments.</li><li>Each change in position is meticulously captured in a series of images that, when played back, give the illusion of motion.</li><li>Producer Travis Knight: âItâs a process that dates back to the dawn of cinema, with a charm and a warmth and a beauty that other forms of animation...do not have. And because you effectively get one opportunity to get it right, every shot is a high-wire act.â</li><li>Knight: SMA is âraw and itâs imperfect. Itâs also undeniably human.â</li></ul></blockquote>",
+      "question": "The student wants to emphasize the aesthetic qualities of SMA by quoting Knight. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The handmade, âimperfectâ look of stop motion animation, says Knight, lends this âundeniably humanâ technique a âcharm and a warmth and a beauty.â"
+        },
+        {
+          "name": "B",
+          "content": "As Knight says, âyou effectively get one opportunity to get it rightâ when meticulously capturing the series of images that, when played back, give it the illusion of motion."
+        },
+        {
+          "name": "C",
+          "content": "With its puppets and clay figures, stop motion animation, Knight says, âdates back to the dawn of cinema.â"
+        },
+        {
+          "name": "D",
+          "content": "Stop motion animation is imperfect, making every shot âa high-wire act,â Knight says."
+        }
+      ],
+      "correct": "The handmade, âimperfectâ look of stop motion animation, says Knight, lends this âundeniably humanâ technique a âcharm and a warmth and a beauty.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.</li><li>It is also known as a land bridge.</li><li>The Isthmus of Potidea is located in Greece.</li><li>It connects the Kassandra Peninsula to mainland Greece.</li></ul></blockquote>",
+      "question": "The student wants to provide a specific example of an isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "There is a land bridge in Greece."
+        },
+        {
+          "name": "B",
+          "content": "In Greece, the Kassandra Peninsula is connected to mainland Greece."
+        },
+        {
+          "name": "C",
+          "content": "One example of an isthmus is the Isthmus of Potidea in Greece."
+        },
+        {
+          "name": "D",
+          "content": "An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces of land across an expanse of water."
+        }
+      ],
+      "correct": "One example of an isthmus is the Isthmus of Potidea in Greece.",
+      "solution": ""
+    }
+  ]
+}

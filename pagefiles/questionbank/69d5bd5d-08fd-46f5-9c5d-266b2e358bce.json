@@ -1,0 +1,682 @@
+{
+  "uuid": "69d5bd5d-08fd-46f5-9c5d-266b2e358bce",
+  "chunk": "Dz8AV5PA.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The National Heritage Fellowship was created to ______ exceptional folk and traditional artists in the United States. One artist who received the fellowship, the Kunqu opera singer Hua Wenyi, was chosen for her lifetime contributions to the arts.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "begin"
+        },
+        {
+          "name": "B",
+          "content": "honor"
+        },
+        {
+          "name": "C",
+          "content": "overshadow"
+        },
+        {
+          "name": "D",
+          "content": "distract"
+        }
+      ],
+      "correct": "honor",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from the 1895 poem \"The Song My Paddle Sings\" by Emily Pauline Johnson (Tekahionwake).</p><blockquote style=\"margin-left: 40px;\"><p>West wind blow from your prairie nest,</p><p>Blow from the mountains, blow from the west.</p><p>The sail is <u>idle</u>, the sailor too;</p><p>O! wind of the west, we wait for you</p></blockquote>",
+      "question": "As used in the text, what does the word \"idle\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Inactive"
+        },
+        {
+          "name": "B",
+          "content": "Unsupported"
+        },
+        {
+          "name": "C",
+          "content": "Ridiculous"
+        },
+        {
+          "name": "D",
+          "content": "Untrustworthy"
+        }
+      ],
+      "correct": "Inactive",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Firms in related industries often cluster in an area, as is the case in Blackburn, UK, where many knitted clothing manufacturers as well as footwear manufacturers are located. Some economists assume that the reasons for this are ______ across sectors, but as Giulia Faggio and colleagues show, certain factors influence some industry groupings more strongly than others.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "combined"
+        },
+        {
+          "name": "B",
+          "content": "variable"
+        },
+        {
+          "name": "C",
+          "content": "consistent"
+        },
+        {
+          "name": "D",
+          "content": "artificial"
+        }
+      ],
+      "correct": "consistent",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Text corpora such as the Corpus of Contemporary American English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word \"great\" appears quite often in written English could ______ that assumption with data from a corpus: \"great\" is the sixth most commonly used adjective.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "entail"
+        },
+        {
+          "name": "B",
+          "content": "transpose"
+        },
+        {
+          "name": "C",
+          "content": "refute"
+        },
+        {
+          "name": "D",
+          "content": "substantiate"
+        }
+      ],
+      "correct": "substantiate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><u>In 2014 Leon Green and Fredrik Jutfelt published a study concluding that ocean acidification has a strong effect on the behavior of <i>Scyliorhinus canicula</i>, a species of fish. However, Green and Jutfelt's study relied on a mean sample size of only 7 fish.</u> In a 2022 review of various scientistsâ conclusions about the impacts of ocean acidification on fish behavior, Jeff C. Clements and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A. It lists several traits of Scyliorhinus canicula discovered by Green and Jutfelt while conducting their 2014 study."
+        },
+        {
+          "name": "B",
+          "content": "It emphasizes a detail about where Green and Jutfelt conducted their 2014 study."
+        },
+        {
+          "name": "C",
+          "content": "It presents a criticism of the results reported by Green and Jutfelt in their 2014 study."
+        },
+        {
+          "name": "D",
+          "content": "It states the conclusion reached by Green and Jutfelt in their 2014 study."
+        }
+      ],
+      "correct": "It states the conclusion reached by Green and Jutfelt in their 2014 study.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Can red fescue plants grow on Mars? Can pea plants? <u>You might think the answer to these questions is obviously no</u>, but researchers in Europe recently showed that many common plant species can thrive in soil designed to simulate Martian conditions, as long as water is supplied. In fact, some species actually did better in Martian soil than in Earth soil: 91 percent of red fescue plants grown in simulated Martian soil were alive after 50 days, compared with 86 percent that were when planted in soil from their home planet.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It draws a distinction between the two species discussed in the text."
+        },
+        {
+          "name": "B",
+          "content": "It signals the surprising nature of the findings discussed in the text."
+        },
+        {
+          "name": "C",
+          "content": "It clarifies a potential point of confusion about the hypothesis tested in the study discussed in the text."
+        },
+        {
+          "name": "D",
+          "content": "It acknowledges that readers may object to the method used in the experiment discussed in the text."
+        }
+      ],
+      "correct": "It signals the surprising nature of the findings discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Julia Alvarez's 2000 novel <i>In the Name of SalomÃ©</i>. Camila is the daughter of a famous poet, SalomÃ©, and also writes her own poetry. Max is her brother.</p><blockquote style=\"margin-left: 40px;\"><p>She (Camila) has already sent them (her poems) to Max, who has written back saying that they are \"fabulous.\" He wants to publish them in the Dominican papers with the headline, SALOMÃ LIVES AGAIN, but she has begged him not to, for she is not very sure of them. She has also sent a handful to an old family friend, the poet Juan RamÃ³n JimÃ©nez, and he has been more circumspect, \"Fine line,\" he has written here and there, but the pages are riddled with tiny, penciled suggestions. She knows from her teaching that this is not a good sign, the use of pencil intended to soften the indignity of the corrections.</p></blockquote>",
+      "question": "Based on the text, what is Camila's primary reaction to the feedback she receives from Juan RamÃ³n JimÃ©nez?",
+      "options": [
+        {
+          "name": "A",
+          "content": "She is pleased Juan RamÃ³n JimÃ©nez points out several lines of particular merit in her poems, as she regards him as a talented poet."
+        },
+        {
+          "name": "B",
+          "content": "She is grateful for Juan RamÃ³n JimÃ©nez's reassurance about her work even though he has been very direct in his criticism of it."
+        },
+        {
+          "name": "C",
+          "content": "She is familiar with the approach Juan RamÃ³n JimÃ©nez has taken and is therefore aware that it is meant to be a sensitive way of indicating the faults in her work."
+        },
+        {
+          "name": "D",
+          "content": "She wishes that Juan RamÃ³n JimÃ©nez had higher praise for her poems, and she disagrees with some of the changes he has suggested."
+        }
+      ],
+      "correct": "She is familiar with the approach Juan RamÃ³n JimÃ©nez has taken and is therefore aware that it is meant to be a sensitive way of indicating the faults in her work.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Anthony Trollope's 1855 novel <i>The Warden</i>. Tom Towers is a writer for the newspaper <i>The Jupiter</i>.</p><blockquote style=\"margin-left: 40px;\"><p>It is true that in far-off provinces men did not talk daily of Tom Towers, but they read <i>The Jupiter</i>, and acknowledged that without <i>The Jupiter</i> life was not worth having. This kind of hidden but still conscious glory suited the nature of the man. He loved to sit silent in a corner of his club and listen to the loud chattering of politicians, and to think how they all were in his power; how he could smite the loudest of them, were it worth his while to raise his pen for such a purpose.</p></blockquote>",
+      "question": "What does the text most strongly suggest about Tom Towers?",
+      "options": [
+        {
+          "name": "A",
+          "content": "He flatters himself that his readers take a greater interest in him than in politicians."
+        },
+        {
+          "name": "B",
+          "content": "He has received much praise but tends to overestimate influential people's respect for him."
+        },
+        {
+          "name": "C",
+          "content": "He seeks mainly the admiration of readers in places that are far away."
+        },
+        {
+          "name": "D",
+          "content": "He takes private satisfaction in his capacity to influence public opinion."
+        }
+      ],
+      "correct": "He takes private satisfaction in his capacity to influence public opinion.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/b11254d0bc7295181b47c159302123bf.png\" style=\"width:500px; height:287px;\"></div><p style=\"margin-top:16px; margin-bottom:16px; \">The Cherokee language of the Southeast is one of the most widely spoken Native languages in what is now the continental United States, with approximately 11,470 speakers, according to a 2015 report by the US Census Bureau. Though spoken by fewer people than Cherokee, the Hopi language of the Southwest nonetheless has a population of speakers that numbers in the thousands. The Census Bureau report indicates that in the US, Hopi is spoken by approximately ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1,950 people."
+        },
+        {
+          "name": "B",
+          "content": "11,470 people."
+        },
+        {
+          "name": "C",
+          "content": "6,080 people."
+        },
+        {
+          "name": "D",
+          "content": "1,240 people."
+        }
+      ],
+      "correct": "6,080 people.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/91d8fa8adb54c9698182dc614292c11f.png\" style=\"width:500px; height:258px;\"></div><p style=\"margin-top:16px; margin-bottom:16px; \">Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler, darker mesophotic zone (30 to 150 meters below the surface). However, it isn't clear that all such species will be able to tolerate mesophotic conditions. In 2018, Luiz Rocha and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Agaricia fragilis, because its minimum depth of 10 meters is in the shallow zone."
+        },
+        {
+          "name": "B",
+          "content": "Cycloseris tenuis, because its minimum depth of 1 meter is the shallowest of those listed."
+        },
+        {
+          "name": "C",
+          "content": "Acropora anthocercis, because its maximum depth of 10 meters is furthest from the mesophotic zone."
+        },
+        {
+          "name": "D",
+          "content": "Acropora caroliniana, because its maximum depth of 25 meters is close to but doesn't reach the mesophotic zone."
+        }
+      ],
+      "correct": "Acropora anthocercis, because its maximum depth of 10 meters is furthest from the mesophotic zone.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/a0a816bea3c3a6e5dcec7500837fc701.png\" style=\"width:500px; height:531px;\"></div><p style=\"margin-top:16px; margin-bottom:16px; text-align:justify; color:#000000;\"><i>Hemerocallis</i> sp. plants typically carry a negative electrical charge, while bees and other pollinators tend to accumulate a positive charge. Given that negatively and positively charged objects attract, a research team hypothesized that the difference in charges could attract <i>Hemerocallis</i> sp. stamens to the plants' pollinators. Based on the team's experiments, the hypothesis was well supported for positive charges above a certain threshold. The team found that queen honeybees exceeded that threshold, which suggests that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "red mason bees and paper wasps, with greater maximum charges than queen honeybees have, cannot attract the stamens."
+        },
+        {
+          "name": "B",
+          "content": "paper wasps tend to repel the stamens."
+        },
+        {
+          "name": "C",
+          "content": "red mason bees can also attract the stamens."
+        },
+        {
+          "name": "D",
+          "content": "the threshold positive charge for a pollinator to attract the stamens must be greater than 200 pc."
+        }
+      ],
+      "correct": "red mason bees can also attract the stamens.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Reckoning and Resilience (2022) exhibition at Duke University's Nasher Museum of Art in Durham, North Carolina, is dedicated to the work of thirty North Carolina artists, including Beverly McIver, Ashley Johnson, and Kimberley Pierce Cartwright. <u>Although the Nasher Museum has focused exhibitions entirely on North Carolina artists before, as it did previously in the photography exhibition Across County Lines, the breadth of disciplines in Reckoning and Resilience sets it apart.</u></p>",
+      "question": "Which finding, if true, would most directly support the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Johnson is a North Carolina photographer, as were all of the artists featured in Across County Lines."
+        },
+        {
+          "name": "B",
+          "content": "The Nasher Museum has a world-class collection of contemporary art that includes many paintings and textile pieces from artists both inside and outside North Carolina."
+        },
+        {
+          "name": "C",
+          "content": "McIver is a painter, Johnson is a photographer, and Cartwright is a textile artist."
+        },
+        {
+          "name": "D",
+          "content": "Reckoning and Resilience and Across County Lines were curated to emphasize works that are not owned by the Nasher Museum."
+        }
+      ],
+      "correct": "McIver is a painter, Johnson is a photographer, and Cartwright is a textile artist.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To understand consumer loyalty to specific online retailers, Stevan MilisavljeviÄ and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topicâe.g., statement 13, \"I am eagerly awaiting the delivery of the ordered items,\" was categorized as joyful anticipationâand respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow customers to track those deliveries than if they improve their packaging."
+        },
+        {
+          "name": "B",
+          "content": "additional research is needed with participants from countries of varying level of economic development to determine whether delivery time and tracking are more important than package design to customers broadly."
+        },
+        {
+          "name": "C",
+          "content": "the greater importance assigned to delivery time and tracking than to package design may not be observed if the survey were to be given to a larger group of Serbian participants."
+        },
+        {
+          "name": "D",
+          "content": "customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency."
+        }
+      ],
+      "correct": "additional research is needed with participants from countries of varying level of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Narwhals are shy whales that live in the remote Arctic Ocean. Some of them have a long tusk, like a unicorn horn, with sensitive nerves. Narwhals are known for this tusk, but many actually don't have one and its purpose is unknown. One group of scientists came up with a possible purpose in 2014. The scientists suggested that the tusk may help narwhals determine when water around them is likely to start freezing and become dangerous for them. Marine biologist Kristin Laidre disagrees with that idea, though. She reasons that if the narwhal's tusk serves such an important purpose, then it's most likely that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "more narwhals would have a tusk"
+        },
+        {
+          "name": "B",
+          "content": "narwhals would become less shy over time"
+        },
+        {
+          "name": "C",
+          "content": "fewer marine animals would also have tusks"
+        },
+        {
+          "name": "D",
+          "content": "some narwhals would seek a new habitat"
+        }
+      ],
+      "correct": "more narwhals would have a tusk",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Antonio Martorellâs 2010 woodcut print La Piaya Negra I (Tar Beach I) has been displayed at the Smithsonian American Art ______ features a large collection of contemporary art.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Museum and which"
+        },
+        {
+          "name": "B",
+          "content": "Museum; which"
+        },
+        {
+          "name": "C",
+          "content": "Museum. Which"
+        },
+        {
+          "name": "D",
+          "content": "Museum, which"
+        }
+      ],
+      "correct": "Museum, which",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>According to the original text of the US Constitution, written in 1787, the presidential candidate receiving the second most Electoral College votes becomes vice president. The 12<span style=\"vertical-align: super;\">th</span> amendment, ratified in ______ separated the elections for the two offices.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1804:"
+        },
+        {
+          "name": "B",
+          "content": "1804,"
+        },
+        {
+          "name": "C",
+          "content": "1804"
+        },
+        {
+          "name": "D",
+          "content": "1804â"
+        }
+      ],
+      "correct": "1804,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The city of Algiers, Algeria, is home to an office of the International Criminal Police Organization (Interpol). However, you won't see Interpol agents chasing international criminals in Algiers. Interpol can help with investigations, but only Algerian authorities ______ permitted to make arrests there.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "were being"
+        },
+        {
+          "name": "B",
+          "content": "were"
+        },
+        {
+          "name": "C",
+          "content": "had been"
+        },
+        {
+          "name": "D",
+          "content": "are"
+        }
+      ],
+      "correct": "are",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Elias Canetti of Bulgaria won it; Eyvind Johnson of Sweden won it, too. These are just two examples of the wide range of writers to be granted what is arguably the most prestigious ______ the Nobel Prize in Literature.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "award for a person of letters;"
+        },
+        {
+          "name": "B",
+          "content": "award: for a person of letters"
+        },
+        {
+          "name": "C",
+          "content": "award for a person of letters:"
+        },
+        {
+          "name": "D",
+          "content": "award; for a person of letters."
+        }
+      ],
+      "correct": "award for a person of letters:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Cut, bent, and welded from discarded metal materials, the sculptures of London-based Nigerian artist Sokari Douglas Camp are meant to challenge viewers to consider their own relationships to material ______ her thought provoking works in the 2008 exhibition <i>ARESUVA</i> at the African Regional Summit and Exhibition on Visual Art in Abuja (Nigeria) were no different.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "wastes;"
+        },
+        {
+          "name": "B",
+          "content": "wastes and to"
+        },
+        {
+          "name": "C",
+          "content": "wastes,"
+        },
+        {
+          "name": "D",
+          "content": "wastes"
+        }
+      ],
+      "correct": "wastes;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As behavioral economists, Ai Hisano, a senior lecturer at Kyoto ______ professor at Georgetown University; and Iris Bohnet, a professor at Harvard University, apply insights from psychology to the study of economic issues.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "University, George Akerlof,"
+        },
+        {
+          "name": "B",
+          "content": "University George Akerlof,"
+        },
+        {
+          "name": "C",
+          "content": "University; George Akerlof,"
+        },
+        {
+          "name": "D",
+          "content": "University; George Akerlof;"
+        }
+      ],
+      "correct": "University; George Akerlof,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As of 2017, the US's top tax rate of 48% was lower than the country's Laffer curve peak (76%). To some economists, whether a tax cut will ultimately increase the US's tax revenue is dependent on the country's position on the Laffer curve, a theoretical relationship between tax rates and revenue ______ sketched on a napkin by economist Arthur Laffer in 1974.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "was famously"
+        },
+        {
+          "name": "B",
+          "content": "had famously been"
+        },
+        {
+          "name": "C",
+          "content": "were famously"
+        },
+        {
+          "name": "D",
+          "content": "famously"
+        }
+      ],
+      "correct": "famously",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>F. Julius LeMoyne's home in Pennsylvania was one of dozens of stops on the underground railroad (the network of people and places that some enslaved people used to escape to freedom). The word \"underground\" may lead one to assume that LeMoyne kept his antislavery views a secret. ______ his views were quite well known.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Additionally."
+        },
+        {
+          "name": "C",
+          "content": "As a result,"
+        },
+        {
+          "name": "D",
+          "content": "On the contrary."
+        }
+      ],
+      "correct": "On the contrary.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Despite its great distance from Earthâit is 840 light-years awayâthe star Gamma Velorum is one of the brightest stars in the sky, ranking 30th. Although not as bright as Gamma Velorum, the star Alkaid also ranks among the 50 brightest stars (40th, to be exact). ______ Alkaid's brightness is likely due to the star's relative proximity: Alkaid is only 100 light-years from Earth.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Indeed,"
+        },
+        {
+          "name": "B",
+          "content": "Granted,"
+        },
+        {
+          "name": "C",
+          "content": "As a result,"
+        },
+        {
+          "name": "D",
+          "content": "Similarly,"
+        }
+      ],
+      "correct": "Granted,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a 2022 analysis of 200 terms, researchers found a broad pattern of valence-dependent mutation for which negative words saw a faster rate of cognate replacementâ______ the rate at which a word will be replaced over time with a noncognate form. Adjectives (e.g., \"negative\") saw the largest effect; nouns (e.g., \"victim\"), meanwhile, saw the smallest.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "likewise,"
+        },
+        {
+          "name": "B",
+          "content": "that is,"
+        },
+        {
+          "name": "C",
+          "content": "in addition,"
+        },
+        {
+          "name": "D",
+          "content": "for example,"
+        }
+      ],
+      "correct": "that is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral talc has a Mohs scale number of 1.</li><li>The mineral calcite has a Mohs scale number of 3.</li><li>The mineral orthoclase has a Mohs scale number of 6.</li></ul></blockquote>",
+      "question": "The student wants to emphasize calciteâs Mohs scale number. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Calcite has a Mohs scale number of 3, which means that it is harder than talc (1) but softer than orthoclase (6)."
+        },
+        {
+          "name": "B",
+          "content": "In the Mohs scale of mineral hardness, orthoclase (6) is ranked higher than talc (1)."
+        },
+        {
+          "name": "C",
+          "content": "Orthoclase, which has a Mohs scale number of 6, can scratch both talc and calcite."
+        },
+        {
+          "name": "D",
+          "content": "Calcite, talc, and orthoclase can be ordered by their ability to leave visible scratches on other minerals."
+        }
+      ],
+      "correct": "Calcite has a Mohs scale number of 3, which means that it is harder than talc (1) but softer than orthoclase (6).",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The United States has designated more than 500 areas National Wildlife Refuges (NWRs).</li><li>Some NWRs were established specifically to protect endangered species.</li><li>The Bear Valley NWR is a 4,200-acre area in Oregon.</li><li>It was established to protect the endangered bald eagle.</li><li>The Moapa Valley NWR is a 32-acre area in Nevada.</li><li>It was established to protect the endangered Moapa dace.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The US has designated more than 500 areas NWRs, including the Bear Valley NWR in Oregon."
+        },
+        {
+          "name": "B",
+          "content": "Some NWRs, such as Nevadaâs Moapa Valley, were established specifically to protect endangered species."
+        },
+        {
+          "name": "C",
+          "content": "While the Bear Valley NWR extends across a 4,200-acre area, the Moapa Valley NWR encompasses only 32 acres."
+        },
+        {
+          "name": "D",
+          "content": "Both the Bear Valley NWR and the Moapa Valley NWR were established to protect endangered species."
+        }
+      ],
+      "correct": "Both the Bear Valley NWR and the Moapa Valley NWR were established to protect endangered species.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>India Arie is an African American singer and songwriter.</li><li>The media outlet BBC Music has described her music as a \"blend of hip hop, soul and folk [that is] as subtle as it [is] inspired.\"</li><li>Her first studio album, <i>Acoustic Soul</i>, was released in 2001.</li><li>It features the song \"Back to the Middle.\"</li><li>Avery Johnson played bass on the album.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to specify Avery Johnsonâs contribution to India Arieâs music?",
+      "options": [
+        {
+          "name": "A",
+          "content": "India Arie is an African American singer and songwriter whose music has been described as a blend of hip hop, soul and folk [that is] as subtle as it [is] inspired."
+        },
+        {
+          "name": "B",
+          "content": "Acoustic Soul, India Arieâs first studio album, features Avery Johnson."
+        },
+        {
+          "name": "C",
+          "content": "Featuring the song âBack to the Middle,â Acoustie Soul is India Arieâs first studio album."
+        },
+        {
+          "name": "D",
+          "content": "Avery Johnson played bass on India Arieâs 2001 album Acoustic Soul."
+        }
+      ],
+      "correct": "Avery Johnson played bass on India Arieâs 2001 album Acoustic Soul.",
+      "solution": ""
+    }
+  ]
+}

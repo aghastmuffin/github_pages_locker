@@ -1,0 +1,682 @@
+{
+  "uuid": "986a38a2-7ec7-4431-b87a-1d0c366595d6",
+  "chunk": "DPKEsiHw.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>A rising author of children’s books spoke at a recent publishing conference about what motivated her to pursue a career in children’s literature. The presenter credited much of her inspiration to ______ Elease Southerland’s work in <em>Let the Lion Eat Straw</em>, which was among the presenter’s favorite books as a child.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "an affinity for"
+        },
+        {
+          "name": "B",
+          "content": "a stipulation about"
+        },
+        {
+          "name": "C",
+          "content": "an ambivalence toward"
+        },
+        {
+          "name": "D",
+          "content": "a complacency about"
+        }
+      ],
+      "correct": "an affinity for",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Art Institute of Chicago houses nearly 300,000 works from around the world. Museum visitors looking to ______ their art-viewing experience should turn to Chicago’s streets, where they can find works ranging from Magdalena Abakanowicz’s sculpture <i>Agora</i> at Grant Park to Justus Roe’s mural <i>Standing Wave</i> on South State Street.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "mitigate"
+        },
+        {
+          "name": "B",
+          "content": "satisfy"
+        },
+        {
+          "name": "C",
+          "content": "provoke"
+        },
+        {
+          "name": "D",
+          "content": "supplement"
+        }
+      ],
+      "correct": "supplement",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The people inhabiting the Ice Age sites now known as Shuidonggou 2 and Potočka Cave likely began wearing clothing as a defense against the cold, but Ian Gilligan et al. argue that as clothing became ______, its purpose shifted from the purely practical. Once wearing clothing turned into a widespread, familiar practice, differences in clothes could take on social and cultural significance.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "divisive"
+        },
+        {
+          "name": "B",
+          "content": "provisional"
+        },
+        {
+          "name": "C",
+          "content": "ubiquitous"
+        },
+        {
+          "name": "D",
+          "content": "feasible"
+        }
+      ],
+      "correct": "ubiquitous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Alice Wong’s 2022 memoir <i>Year of the Tiger: An Activist’s Life</i>. Wong has just described her tendency to procrastinate when she has a writing deadline.</p><blockquote style=\"margin-left: 40px;\">In the middle of these distractions, a vibe will emerge, a point I want to make, a phrase, a hook, a title for a story, an image. A connection or epiphany can happen while watching or reading something brilliant. By doing “nothing” and daydreaming, I am actually <u>composing</u>, even if words don’t immediately materialize.</blockquote><p style=\"text-align: right;\">©2022 by Alice Wong</p>",
+      "question": "Based on the text, what does Wong most likely mean when she states that she is “composing”?",
+      "options": [
+        {
+          "name": "A",
+          "content": "She is deceiving herself about her true feelings about a subject."
+        },
+        {
+          "name": "B",
+          "content": "She is engaging in an important part of her writing process."
+        },
+        {
+          "name": "C",
+          "content": "She is gathering sources of information to use in her writing."
+        },
+        {
+          "name": "D",
+          "content": "She is being soothed by immersing herself in creative works by other people."
+        }
+      ],
+      "correct": "She is engaging in an important part of her writing process.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some researchers posit that the species inhabiting the South Pacific island of Grande Terre belong to clades that predate the island’s split from remnants of the former supercontinent Gondwana around 80 million years ago. A study conducted by Michael A. Sundue et al. found, however, that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of <i>Grammitis</i> ferns on Grande Terre is 8.5 million years; Sundue et al. further found that the crown age of the clade of <i>Grammitis</i> ferns in the South Pacific generally is approximately 10.0 million years.</p>",
+      "question": "Which choice best describes the overall structure of the text? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "It presents a possibility that some researchers have raised, then describes a study that clarifies their reasons for doing so."
+        },
+        {
+          "name": "B",
+          "content": "It explains a view some researchers have advanced, then discusses study results that led them to reconsider that view."
+        },
+        {
+          "name": "C",
+          "content": "It identifies a discrepancy between a hypothesis some researchers have proposed and related research findings, then explains that discrepancy."
+        },
+        {
+          "name": "D",
+          "content": "It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea."
+        }
+      ],
+      "correct": "It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Anne Spencer’s 1922 poem “Translation.”</p><p style=\"margin-left: 40px;\">We trekked into a far country,<br>My friend and I.<br>Our deeper content was never spoken,<br>But each knew all the other said.<br>He told me how calm his soul was laid<br>By the lack of <u>anvil and strife.</u><br>“The wooing kestrel,” I said, “mutes his mating-note<br>To please the harmony of this sweet silence.”</p>",
+      "question": "Which choice best describes the function of the reference to “anvil and strife” in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It symbolizes the speaker’s friend’s view that meaningful work and social engagement are core components of a fulfilling life."
+        },
+        {
+          "name": "B",
+          "content": "It illustrates how the speaker and her friend can feel a close connection even though they do not talk about their feelings."
+        },
+        {
+          "name": "C",
+          "content": "It emphasizes an opposition between nature and the relationship of the speaker and her friend."
+        },
+        {
+          "name": "D",
+          "content": "It represents a strong contrast to the speaker’s friend’s current experience of tranquility."
+        }
+      ],
+      "correct": "It represents a strong contrast to the speaker’s friend’s current experience of tranquility.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The scenario of a dwarf mongoose engaging in territorial conflict with an outgroup dwarf mongoose illustrates a major dimension of social life across animal species, from the solitary to those with complex sociality: <u>intraspecific contact with perceived outsiders.</u> Though one prominent hypothesis posits that sophisticated cognitive adaptations are primarily driven by the demands of various behaviors within established social groups (e.g., cooperative response to predation), interactions with same-species outsiders arguably contribute comparably by favoring nuanced analysis (e.g., evaluation of relative physical status).</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It establishes that perceiving an individual of the same species as an outsider exemplifies the kind of analysis mentioned later in the text."
+        },
+        {
+          "name": "B",
+          "content": "It identifies a particular type of social interaction whose relevance to higher cognition in animals is the overall focus of the text."
+        },
+        {
+          "name": "C",
+          "content": "It narrows the text’s focus from the full complement of social life dimensions across species to one applicable to only a subset of species."
+        },
+        {
+          "name": "D",
+          "content": "It defines a scientific term central to the text’s discussion of the role of complex sociality in driving cognitive adaptations in animals."
+        }
+      ],
+      "correct": "It identifies a particular type of social interaction whose relevance to higher cognition in animals is the overall focus of the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>For decades, ornithologists assumed that if they saw a singing white-eyed vireo—a bird species found in temperate North America—they must be observing a male. That’s because birdsong has long been considered a male trait; researchers have argued that singing enables males to attract mates and claim territory.</p><p><strong>Text 2</strong><br>Recent evidence shows that a female white-eyed vireo is as capable of song as a male is. In fact, Karan J. Odom and colleagues found evidence of female song in 71% of the 323 species they examined. They claim that the historical mischaracterization of birdsong as a male trait is largely the result of bias: much of the research ornithologists have carried out has been near universities in the temperate northern hemisphere, where female birdsong is less common than it is in the tropics.</p>",
+      "question": "Based on the texts, how would Odom and colleagues (Text 2) most likely respond to the view of birdsong presented in Text 1? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "They would claim that other factors than mate attraction and territorial defense have driven the evolution of singing in male birds."
+        },
+        {
+          "name": "B",
+          "content": "They would underscore that male songbirds in temperate zones are likely using their songs for different purposes than are male songbirds in the tropics."
+        },
+        {
+          "name": "C",
+          "content": "They would argue that it was influenced by the kinds of study sites researchers tended to select."
+        },
+        {
+          "name": "D",
+          "content": "They would suggest that it reflects a tendency to study male birds rather than female birds."
+        }
+      ],
+      "correct": "They would argue that it was influenced by the kinds of study sites researchers tended to select.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although notorious for its strict formal requirements, the sonnet is nevertheless represented by such wide-ranging examples as Maggie Anderson’s “Sonnet for Her Labor” and Tyehimba Jess’s “Millie and Christine McCoy”—poems that differ remarkably in subject, rhythm, and structure. It may seem counterintuitive that the sonnet—ostensibly rigid and timeworn—could accommodate such variety, but poet Carl Phillips contends that the form invites experimentation: when a genre’s conventions are as recognizable as those of the sonnet, the opportunity to subvert them is especially irresistible.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although Anderson’s and Jess’s sonnets are both widely celebrated for their striking originality, most modern examples of the form are generally regarded as conventional."
+        },
+        {
+          "name": "B",
+          "content": "As a form, the sonnet encourages a surprising amount of variety, even though certain characteristics associated with it suggest this would be unlikely."
+        },
+        {
+          "name": "C",
+          "content": "That the sonnet remains as popular as it is today is unexpected, given that many of the features associated with the form have long since seemed antiquated to readers."
+        },
+        {
+          "name": "D",
+          "content": "Although the sonnet is now recognized for the way it facilitates experimentation, there was a long period in its history in which very little innovation occurred."
+        }
+      ],
+      "correct": "As a form, the sonnet encourages a surprising amount of variety, even though certain characteristics associated with it suggest this would be unlikely.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Economist Gabriel Zucman finds that 8% of worldwide household wealth is held in tax havens (territories such as Singapore with low tax rates for investors who reside outside those territories). Zucman also finds that use of tax havens differs between countries—they are rarely used by investors living in Japan, while many investors who utilize tax havens reside in Saudi Arabia or Greece. Philosopher Ingrid Robeyns disapproves of the use of tax havens as a method of tax avoidance that, though legally permissible, nonetheless helps investors to sidestep payment toward government upkeep.</p>",
+      "question": "Based on the text, what does Zucman’s research suggest about investors residing in Japan? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "They are engaging in investment practices that Robeyns would acknowledge as beneficial because they are legally permissible."
+        },
+        {
+          "name": "B",
+          "content": "They are less likely than investors residing in Saudi Arabia to store wealth in Singapore."
+        },
+        {
+          "name": "C",
+          "content": "They are more likely than residents of Singapore to utilize investment strategies that might yield greater returns but that might also result in greater losses."
+        },
+        {
+          "name": "D",
+          "content": "They are more likely than residents of Greece to engage in tax avoidance."
+        }
+      ],
+      "correct": "They are less likely than investors residing in Saudi Arabia to store wealth in Singapore.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/0371a5a820f6f41b93dd7edfd6d89b6d.png\" style=\"width: 480px; height: 527px;\"></div><p>Terrestrial plants typically carry a negative electrical charge, while hummingbirds and other pollinators tend to accumulate a positive charge. A team of researchers therefore hypothesized that electrostatic attraction (mutual attraction between objects with opposite charges) might enhance pollen transmission between plants and their pollinator species. The team’s experiments showed that the maximum positive charge of foraging honeybees is sufficiently high to facilitate electrostatic pollen transfer, a finding that suggests that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the text? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "houseflies should demonstrate the opposite tendency."
+        },
+        {
+          "name": "B",
+          "content": "Anna’s hummingbirds should also demonstrate this capacity."
+        },
+        {
+          "name": "C",
+          "content": "the minimum positive charge necessary for a pollinator to induce electrostatic attraction must be greater than 100 p"
+        },
+        {
+          "name": "D",
+          "content": "Anna’s hummingbirds and houseflies, having greater maximum charges than foraging honeybees have, should not demonstrate this capacity."
+        }
+      ],
+      "correct": "Anna’s hummingbirds should also demonstrate this capacity.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In medieval England, jugglers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery, thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the fifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as politely addressing the audience, extensive use of simple rhyming (allowing for easy memorization), and requests for tips (payment) from listeners.</p>",
+      "question": "Which statement, if true, would most strongly support Wade’s argument?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The three pieces in question contain references that presume that the audience is familiar with Brackonwet and other small villages near where Heege lived."
+        },
+        {
+          "name": "B",
+          "content": "Features like simple rhyming also occur in other texts from the period that were widely read but are not known to have been performed for live audiences."
+        },
+        {
+          "name": "C",
+          "content": "Heege’s collection contains the earliest examples of the three pieces in question, but each of those pieces occurs in other manuscript collections compiled after Heege’s."
+        },
+        {
+          "name": "D",
+          "content": "Traveling minstrels are thought to have performed mainly for elite audiences, and other parts of Heege’s collection reflect his interest in works with popular appeal."
+        }
+      ],
+      "correct": "The three pieces in question contain references that presume that the audience is familiar with Brackonwet and other small villages near where Heege lived.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services YouTube Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the implementation of the restriction reduced the overall number of users of the streaming service"
+        },
+        {
+          "name": "B",
+          "content": "restrictions on the amount of music that can be streamed may actually suppress users’ interest in owning music"
+        },
+        {
+          "name": "C",
+          "content": "most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited, ad-free listening"
+        },
+        {
+          "name": "D",
+          "content": "consumers are unlikely to purchase physical copies of music that is readily available through streaming"
+        }
+      ],
+      "correct": "restrictions on the amount of music that can be streamed may actually suppress users’ interest in owning music",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Exclusively inhabiting tropical countries such as Senegal, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, Sophie Moittié and colleagues studied zoo chimpanzees in Italy and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that occur in those locations. They found that chimpanzees’ vitamin D levels were significantly lower in winter than in summer and appeared unaffected by oral supplementation of vitamin D administered by zookeepers. Moittié and colleagues point out, however, that supplementation was rare, highly varied, and poorly tracked, and therefore they caution against concluding that ______</p>",
+      "question": "Which choice most logically completes the text? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "vitamin D levels among zoo chimpanzees in Italy and other mid-latitude countries likely show different seasonal patterns than do vitamin D levels among wild chimpanzees in Senegal and other tropical countries."
+        },
+        {
+          "name": "B",
+          "content": "the lack of an observed effect of supplemental vitamin D on zoo chimpanzees in Italy and other mid-latitude countries may reflect shortcomings in the data rather than actual ineffectiveness."
+        },
+        {
+          "name": "C",
+          "content": "providing zoo chimpanzees in Italy and other mid-latitude countries with supplemental vitamin D has no promise as a strategy for offsetting winter reductions in their vitamin D levels."
+        },
+        {
+          "name": "D",
+          "content": "winter reductions in UVB irradiance in Italy and other mid-latitude countries can contribute to variations in zoo chimpanzees’ vitamin D levels."
+        }
+      ],
+      "correct": "providing zoo chimpanzees in Italy and other mid-latitude countries with supplemental vitamin D has no promise as a strategy for offsetting winter reductions in their vitamin D levels.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In an analysis of medieval urbanization in Pisa, Greifswald, and other European settlements, researchers drew on modern urban scaling theory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship would have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration—drivers of urban agglomeration—the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "although there tends to be a positive relationship between population size and development of core urban areas for both medieval settlements and modern cities, social institutions likely limited the rate at which population density increased in medieval settlements."
+        },
+        {
+          "name": "B",
+          "content": "despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas."
+        },
+        {
+          "name": "C",
+          "content": "the social and economic dynamics that affect urban agglomeration were likely much different in medieval settlements than in modern cities, despite the similarity across time in population density patterns."
+        },
+        {
+          "name": "D",
+          "content": "the constraining influence of hierarchical medieval institutions likely had a significant effect on individuals in some social groupings but little to no effect on members of other social groupings."
+        }
+      ],
+      "correct": "despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a chemical equation, converting between the mass of the reactants and the mass of the product requires knowing each component’s molar mass, a quantification of the average mass of the atoms in a compound. The gaseous ______ has a molar mass of 162.15 g/mol.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "compound, quindoxin (C₈H₆N₂O₂),"
+        },
+        {
+          "name": "B",
+          "content": "compound quindoxin (C₈H₆N₂O₂)"
+        },
+        {
+          "name": "C",
+          "content": "compound quindoxin (C₈H₆N₂O₂),"
+        },
+        {
+          "name": "D",
+          "content": "compound, quindoxin (C₈H₆N₂O₂)"
+        }
+      ],
+      "correct": "compound quindoxin (C₈H₆N₂O₂)",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 19th-century Bengal, cowry shells were used as a commodity currency. By using specific goods like cowry shells as common units of exchange, commodity currency economies streamline trade, which is why they often replaced barter economies. Barter economies eschew ______ that requires what economist W.S. Jevons deems a “double coincidence of wants”—in other words, each trading party must want precisely what the other has.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "currency, in favor of a direct trade system"
+        },
+        {
+          "name": "B",
+          "content": "currency—in favor of a direct trade system"
+        },
+        {
+          "name": "C",
+          "content": "currency in favor of a direct trade system"
+        },
+        {
+          "name": "D",
+          "content": "currency, in favor of a direct trade system,"
+        }
+      ],
+      "correct": "currency in favor of a direct trade system",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In economics, soybeans are considered a commodity because they are essentially interchangeable, “essentially” being a word that admits a degree of latitude. In 2021, researchers J. Shorish, M. Stephenson, and M. Zargham devised a mathematical model of fungibility (interchangeability) that would account for such variation. Distinguishing “exactly the same” and “nearly the same” commodities—whether crops, lumber, or precious metals— ______ among their primary aims.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "were"
+        },
+        {
+          "name": "B",
+          "content": "was"
+        },
+        {
+          "name": "C",
+          "content": "having been"
+        },
+        {
+          "name": "D",
+          "content": "being"
+        }
+      ],
+      "correct": "was",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In recent years, the English writer Mary Ann Browne (1812–1845), whose poetry was widely read during her lifetime, has been rediscovered by contemporary audiences—a resurgence of interest that is largely due to literary scholars such as Adriana Craciun, whose work ______ the richness of Browne’s poems and the poet’s historical importance to the Romantic literary movement encourages a broader rethinking of British Romanticism itself.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "highlights"
+        },
+        {
+          "name": "B",
+          "content": "highlighting"
+        },
+        {
+          "name": "C",
+          "content": "has highlighted"
+        },
+        {
+          "name": "D",
+          "content": "is highlighting"
+        }
+      ],
+      "correct": "highlighting",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The extensive impact that polymeric nanoparticles (PNPs) have had on medicine belies their minuscule size, the nanoparticles typically ______ from only 100 to 300 billionths of a meter.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "range"
+        },
+        {
+          "name": "B",
+          "content": "can range"
+        },
+        {
+          "name": "C",
+          "content": "ranging"
+        },
+        {
+          "name": "D",
+          "content": "will range"
+        }
+      ],
+      "correct": "ranging",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Since 1941, the South Side Community Art Center in Chicago, Illinois, has cultivated a multigenerational community of Black creatives—from writer Gwendolyn Brooks, to musician Nat King Cole, to visual artists like Allen Stringfellow and Frank Hayden, ______ it has garnered a reputation as a hub of Black art and culture in Chicago.</p>",
+      "question": "Which choice completes the text with the most logical transition? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "accordingly,"
+        },
+        {
+          "name": "B",
+          "content": "on the other hand,"
+        },
+        {
+          "name": "C",
+          "content": "nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "periodically,"
+        }
+      ],
+      "correct": "accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>For several centuries after the birth of opera in sixteenth-century Florence, Italian remained the default language in which most opera scores were written. ______ opera singers today, such as the soprano Pretty Yende, encounter a wide range of Italian terms—from <em>furioso</em> (furiously) to <em>affrettando</em> (at a hurried tempo)—when following many eighteenth-century opera scores.</p>",
+      "question": "Which choice completes the text with the most logical transition? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Thus,"
+        },
+        {
+          "name": "C",
+          "content": "Lastly,"
+        },
+        {
+          "name": "D",
+          "content": "Granted,"
+        }
+      ],
+      "correct": "Thus,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At Storm King Art Center, an outdoor sculpture park in New York, Herbert Ferber’s <em>Konkapot II</em> is exposed to rain, snow, heat, and humidity. ______ it remains in good condition due to its material: Ferber’s sculpture is made of corrosion-resistant steel.</p>",
+      "question": "Which choice completes the text with the most logical transition? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "As a result,"
+        },
+        {
+          "name": "B",
+          "content": "That said,"
+        },
+        {
+          "name": "C",
+          "content": "In addition,"
+        },
+        {
+          "name": "D",
+          "content": "On the contrary,"
+        }
+      ],
+      "correct": "That said,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Known as an “empire on which the sun never sets,” the Spanish Empire once controlled portions of five continents. Its legacy can still be seen, and heard, in the Spanish-speaking nation of Cuba, which gained its independence from Spain in the nineteenth century. ______ a former colony’s tie to the Spanish Empire is so tenuous that Spanish is seldom spoken there; an example is Sardinia, which ceased to be part of the empire in 1720.</p>",
+      "question": "Which choice completes the text with the most logical transition? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "Sometimes,"
+        },
+        {
+          "name": "B",
+          "content": "On the other hand,"
+        },
+        {
+          "name": "C",
+          "content": "At the same time,"
+        },
+        {
+          "name": "D",
+          "content": "In addition,"
+        }
+      ],
+      "correct": "On the other hand,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A U-shaped curve in a river channel is called a meander.</li><li>A meander forms when water erodes sediment from one side of the riverbank and redeposits that sediment on the opposite side.</li><li>Meanders will gradually change shape and migrate downstream over time.</li><li>A river with high sinuosity has many meanders, and a river with low sinuosity has few.</li><li>The Willapa River in the United States has high sinuosity.</li></ul></blockquote>",
+      "question": "The student wants to identify what causes meanders. Which choice most effectively uses relevant information from the notes to accomplish this goal? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "The erosion and redepositing of sediment from one side of a riverbank to the other forms meanders, or curves, over time."
+        },
+        {
+          "name": "B",
+          "content": "High sinuosity is caused by the formation of many meanders, or curves, in a riverbank over time."
+        },
+        {
+          "name": "C",
+          "content": "Over time, many meanders have formed in the Willapa River, a river in the United States with high sinuosity."
+        },
+        {
+          "name": "D",
+          "content": "The meanders in the Willapa River will change shape and shift downstream over time."
+        }
+      ],
+      "correct": "The erosion and redepositing of sediment from one side of a riverbank to the other forms meanders, or curves, over time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Modern Pueblo tribal nations were preceded by the Ancestral Puebloan civilization, which occupied parts of the southwestern US until approximately 1600 CE.</li><li>Keet Seel in northeastern Arizona is a former Ancestral Puebloan settlement inhabited from approximately 1250–1300 CE.</li><li>It was constructed in a natural cliff alcove and had multistory adobe and stone buildings.</li><li>These buildings had cube-shaped, contiguous rooms that surrounded kivas.</li><li>Kivas are round rooms typically used for ceremonial purposes and as gathering spaces.</li></ul></blockquote>",
+      "question": "The student wants to provide a detailed overview of the structures at Keet Seel. Which choice most effectively uses relevant information from the notes to accomplish this goal? ",
+      "options": [
+        {
+          "name": "A",
+          "content": "Located in northeastern Arizona, Keet Seel was designed with kivas, round rooms that were typically used for ceremonial purposes and as gathering spaces."
+        },
+        {
+          "name": "B",
+          "content": "Keet Seel, whose structures were built by Ancestral Puebloans in northeastern Arizona, was inhabited from approximately 1250–1300 CE."
+        },
+        {
+          "name": "C",
+          "content": "Constructed in a natural cliff alcove, Keet Seel’s multistory adobe and stone buildings featured round rooms called kivas surrounded by cube-shaped, contiguous rooms."
+        },
+        {
+          "name": "D",
+          "content": "The Ancestral Puebloans used adobe and stone in the construction of Keet Seel in northeastern Arizona."
+        }
+      ],
+      "correct": "Constructed in a natural cliff alcove, Keet Seel’s multistory adobe and stone buildings featured round rooms called kivas surrounded by cube-shaped, contiguous rooms.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral calcite has a Mohs scale number of 3.</li><li>The mineral apatite has a Mohs scale number of 5.</li><li>The mineral quartz has a Mohs scale number of 7.</li></ul></blockquote>",
+      "question": "The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Based on their Mohs scale numbers, quartz (7) is harder than apatite (5), and apatite is harder than calcite (3)."
+        },
+        {
+          "name": "B",
+          "content": "Any mineral with a Mohs number of 7, like quartz, can scratch a mineral with a Mohs number of 5, like apatite."
+        },
+        {
+          "name": "C",
+          "content": "Quartz can leave visible scratches on calcite, which is why quartz has a higher number than calcite on the Mohs scale of mineral hardness."
+        },
+        {
+          "name": "D",
+          "content": "The Mohs scale can be used to order calcite, quartz, and apatite by their ability to scratch other minerals."
+        }
+      ],
+      "correct": "Any mineral with a Mohs number of 7, like quartz, can scratch a mineral with a Mohs number of 5, like apatite.",
+      "solution": ""
+    }
+  ]
+}

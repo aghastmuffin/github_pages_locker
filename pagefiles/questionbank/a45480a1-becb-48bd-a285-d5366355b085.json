@@ -1,0 +1,682 @@
+{
+  "uuid": "a45480a1-becb-48bd-a285-d5366355b085",
+  "chunk": "DTccOEBl.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p><i>Farmhouse Interior</i>, painted in the realist style by Jan Hendrik Weissenbruch, depicts a peasant woman knitting at a table while a cat sits underneath. The realists' emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Pierre-Auguste Cot, which instead ______ their subjectsâ positive traits, altering subjects to appear more beautiful or heroic than they actually were.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rectify"
+        },
+        {
+          "name": "B",
+          "content": "counteract"
+        },
+        {
+          "name": "C",
+          "content": "magnify"
+        },
+        {
+          "name": "D",
+          "content": "apprehend"
+        }
+      ],
+      "correct": "magnify",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Cacao was domesticated in South America. Its physical structure is no longer identical to the structure of the wild plant it is descended from. Maize (corn) also ______ its wild ancestor. That ancestor plant had a few small kernels. Indigenous people in Mexico carefully bred the crop until it had numerous fleshy kernels.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "varies from"
+        },
+        {
+          "name": "B",
+          "content": "helps with"
+        },
+        {
+          "name": "C",
+          "content": "reacts to"
+        },
+        {
+          "name": "D",
+          "content": "argues with"
+        }
+      ],
+      "correct": "varies from",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The collectibles market is one of the most difficult segments of the consumer economy to ______. Few economists would have predicted, for example, that the prices of vintage Teenage Mutant Ninja Turtles action figures would soar in the 2010s, but soar they did.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "monitor"
+        },
+        {
+          "name": "B",
+          "content": "avoid"
+        },
+        {
+          "name": "C",
+          "content": "forecast"
+        },
+        {
+          "name": "D",
+          "content": "exchange"
+        }
+      ],
+      "correct": "forecast",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Chengdu, China, was named a City of Gastronomy by UNESCO in 2010, a title that ______ that Chengdu has a unique and vibrant food culture worthy of celebration.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "renounces"
+        },
+        {
+          "name": "B",
+          "content": "discovers"
+        },
+        {
+          "name": "C",
+          "content": "complains"
+        },
+        {
+          "name": "D",
+          "content": "denotes"
+        }
+      ],
+      "correct": "denotes",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Louise Erdrichâs 1986 novel <i>The Beet Queen</i>. Celestine takes her infant daughter with her to the butcher shop where she makes sausages.</p><blockquote style=\"margin-left: 40px;\"><p>Sometimes Celestine turned around and met the direct gaze of her daughter, a look so penetrating that Celestineâs breath caught. She dropped the spice, the string, the knife she was using, and took the girl up in her arms, ready for her to speak as if a spell had suddenly lifted. When the baby flexed her entire body and struggled to free herself, Celestine put her down. No matter how thorough Celestineâs exhaustion, no matter how little sleep sheâd had, there was a nerve of excitement running through each hour.</p></blockquote><p style=\"text-align: right;\">Â©1986 by Louise Erdrich</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To show that Celestine enjoys imagining her daughterâs future life."
+        },
+        {
+          "name": "B",
+          "content": "To explain how Celestineâs coworkers bond with her daughter."
+        },
+        {
+          "name": "C",
+          "content": "To portray Celestineâs excitement about her daughter."
+        },
+        {
+          "name": "D",
+          "content": "To imply that Celestine is dissatisfied with her job."
+        }
+      ],
+      "correct": "To portray Celestineâs excitement about her daughter.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1940, John H. Sengstacke founded the National Newspaper Publishers Association to support Black-owned papers. Sengstackeâs accomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National Association of Black Journalists, which was founded in Washington, DC, in 1975 to support Black media professionals and honor people like Sengstacke.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It introduces the history of an organization honoring Black journalists, then suggests how that organization might recruit more members."
+        },
+        {
+          "name": "B",
+          "content": "It summarizes a theory about journalism, then explains how a journalistic practice has changed over time."
+        },
+        {
+          "name": "C",
+          "content": "It describes the career of a well-known figure in Black journalism, then compares that career to one of a figure who is lesser known."
+        },
+        {
+          "name": "D",
+          "content": "It mentions a specific achievement in Black journalistic history, then describes an organization dedicated to upholding that history."
+        }
+      ],
+      "correct": "It mentions a specific achievement in Black journalistic history, then describes an organization dedicated to upholding that history.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though Vasily Grossmanâs novel <i>Stalingrad</i> is considered inferior to his later work <i>Everything Flows</i>, some critics praise it despite an arduous writing process required to satisfy Soviet censors (Jordan Penney in <i>PopMatters</i> called <i>Stalingrad</i> âpowerfulâ). Of the novelâs eleven drafts, the second is inexplicably missing, the sixth closely hews to Soviet orthodoxy, and published versions most resemble the fifth. The English editionâs translators culled material from unpublished drafts and published Russian versions to create a comprehensive edition.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It notes a novelâs critical reception, addresses the complicated history of the novelâs development, and suggests how that history informed the work of the novelâs English translators."
+        },
+        {
+          "name": "B",
+          "content": "It describes a novel whose critical reputation has declined over time, explains the cause of that decline, and reports the effort of translators to rehabilitate a work they believe has been unjustly ignored."
+        },
+        {
+          "name": "C",
+          "content": "It mentions a novel whose quality critics do not agree on, discusses obstacles that make it difficult to determine what the best version of that novel might be, and offers a reason why some critics find a translation of the novel to be superior to the original."
+        },
+        {
+          "name": "D",
+          "content": "It refers to a novel that has several different published and unpublished versions, identifies characteristics that have led critics to prefer one version to others, and tells how translators justified their choice to bring one particular version of the novel into another language."
+        }
+      ],
+      "correct": "It notes a novelâs critical reception, addresses the complicated history of the novelâs development, and suggests how that history informed the work of the novelâs English translators.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Vehicle transmissions and many other widely used mechanical systems have moving parts that rub or slide against one another, creating friction. This friction increases energy consumption and causes wear, which decreases the stability and life span of the system. Using carbon nanotubes and oil, Jun Qu and colleagues at a US Department of Energy lab have created a coating for moving parts that reduces friction to the point where it is almost nonexistent. The new coating is suitable for common applications, unlike other approaches that require special conditions.</p>",
+      "question": "What does the text most strongly suggest about the coating created by Qu and colleagues?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is unlikely to reduce wear in mechanical systems that have multiple moving parts."
+        },
+        {
+          "name": "B",
+          "content": "It is unlikely to be widely used because it can be applied only under special conditions."
+        },
+        {
+          "name": "C",
+          "content": "It can likely be used to reduce energy consumption and wear in vehicle transmissions and other common mechanical systems."
+        },
+        {
+          "name": "D",
+          "content": "It can likely improve the energy consumption of certain mechanical systems but not of vehicle transmissions."
+        }
+      ],
+      "correct": "It can likely be used to reduce energy consumption and wear in vehicle transmissions and other common mechanical systems.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Probabilistic models generate predictions based on outcomes of analogous past events, but even as these models project likely outcomes, they implicitly acknowledge that lower-frequency events may occur instead. Because they accommodate multiple potential outcomes, such models may seem incompatible with causal determinismâthe view that particular outcomes are inevitable given certain preconditions. But complete foreknowledge of relevant conditions is generally unavailable, suggesting that a state of uncertainty ultimately prevails in which outcomes can be predicted but not definitively foretold.</p>",
+      "question": "What does the text most strongly imply about the relationship between probabilistic models and causal determinism?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The predictive use of probabilistic models can be reconciled with acceptance of causal determinism because causal determinism does not necessarily entail the existence of absolute certainty."
+        },
+        {
+          "name": "B",
+          "content": "The predictive use of probabilistic models represents a rejection of causal determinism because such models associate a single event with multiple potential outcomes."
+        },
+        {
+          "name": "C",
+          "content": "Probabilistic models reflect the influence of causal determinism because their predictions of future outcomes are informed by concrete information about past events."
+        },
+        {
+          "name": "D",
+          "content": "Probabilistic models can be understood as compatible with causal determinism only when their predictions of future events overwhelmingly favor one potential outcome."
+        }
+      ],
+      "correct": "The predictive use of probabilistic models can be reconciled with acceptance of causal determinism because causal determinism does not necessarily entail the existence of absolute certainty.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Burt Kotler and colleagues found to be negatively associated with foraging by greater Egyptian gerbils but Eduardo FernÃ¡ndez-Duque and colleagues found to be positively associated with foraging by Azaraâs night monkeys. This discrepancy is explicable in terms of OFT: the monkeys' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the gerbils.</p>",
+      "question": "Information in the text best supports which statement about OFT?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It may be weakened by the finding that the costs and benefits associated with a particular ecological circumstance vary by species."
+        },
+        {
+          "name": "B",
+          "content": "It can explain why some species act in accordance with cost-benefit trade-offs and others do not."
+        },
+        {
+          "name": "C",
+          "content": "It can account for observations of different species responding differently to similar ecological circumstances."
+        },
+        {
+          "name": "D",
+          "content": "It tends to allow for a better understanding of the benefits of ecological circumstances than the costs of those circumstances."
+        }
+      ],
+      "correct": "It can account for observations of different species responding differently to similar ecological circumstances.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>High-speed rail (HSR) systems have trains that move at much higher speeds than traditional trains. HSR is expanding in Norway, Japan, and many other countries around the world. The United States, however, has been slow to build HSR systems. Researchers surveyed United States residents about their attitudes toward HSR. <u>The researchers claim that this survey reveals that there is strong support for building more HSR lines in the United States.</u></p>",
+      "question": "Which quotation from a survey respondent would best illustrate the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âI prefer riding buses instead of taking trains because buses travel to more locations.â"
+        },
+        {
+          "name": "B",
+          "content": "âI have traveled on high-speed rail lines in Norway but not in Japan.â"
+        },
+        {
+          "name": "C",
+          "content": "âI think high-speed rail is wonderful. The United States needs to build more high-speed rail lines.â"
+        },
+        {
+          "name": "D",
+          "content": "âI believe that the United States has enough high-speed rail lines. It should invest in airports instead.â"
+        }
+      ],
+      "correct": "âI think high-speed rail is wonderful. The United States needs to build more high-speed rail lines.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/98c1ad8db25e583db766bb5ddae9512f.png\" width=\"248\" height=\"166\"></div><p>Elisabeth PÃ¶tzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Austria, Poland, and Hungary about the number of these species grown in those countries as well as the numbers of insect and fungus species that damage those trees. The researchers concluded that Austria had a greater number of damaging fungus species than either of the other countries did.</p>",
+      "question": "Which choice best describes data from the table that support PÃ¶tzelsberger and colleaguesâ conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Austria reported 51 damaging fungus species, which is more than either Poland or Hungary reported."
+        },
+        {
+          "name": "B",
+          "content": "Poland and Hungary reported 10 and 1 damaging fungus species, respectively, which is far fewer than Austria reported."
+        },
+        {
+          "name": "C",
+          "content": "Austria reported 51 damaging fungus species, whereas Poland reported 105 damaging insect species."
+        },
+        {
+          "name": "D",
+          "content": "Hungary reported 18 damaging fungus species but only 13 damaging insect species."
+        }
+      ],
+      "correct": "Austria reported 51 damaging fungus species, which is more than either Poland or Hungary reported.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Life Among the Paiutes</i> is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins. In the work, Winnemucca explicitly indicates when and how she is shifting the focus of the narrative, as when she writes, ______ </p>",
+      "question": "Which quotation from <i>Life Among the Paiutes</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âNothing, happened during the day, and after awhile mother told us not to say a word about why we left, for grandpa might get mad with us.â"
+        },
+        {
+          "name": "B",
+          "content": "âMy dear readers, such is the respect my people have for their chiefs.â"
+        },
+        {
+          "name": "C",
+          "content": "âBut how can I describe the scene that followed? Some of you, dear readers, can imagine.â"
+        },
+        {
+          "name": "D",
+          "content": "âI will now stop writing about myself and family and tribe customs, and tell about the wars, and the causes of the wars. I will jump over about six years.â"
+        }
+      ],
+      "correct": "âI will now stop writing about myself and family and tribe customs, and tell about the wars, and the causes of the wars. I will jump over about six years.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/52fd4f5fc388c32d6f4f00da58f8655b.png\" width=\"698\" height=\"137\"></div><p>Studies have found that when looking at other peopleâs eyes, humans tend to perceive dilated pupils positively and constricted pupils negatively. Noting that a dark irisâthe colored portion surrounding the pupilâis hard to distinguish from the black of the pupil (and thereby affects the pupilâs apparent size) and that many domestic dogs have dark irises, Akitsugu Konno et al. showed close-up images of dogsâ faces to human participants and asked them to rate the dogsâ traits and their own attitudes toward the dogs. Their findings suggest that ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "differences in dogsâ pupil size may elicit a stronger response in humans than differences in peopleâs pupil size do, as participantsâ responses to the images when dogsâ pupils were actually large were indistinguishable from participantsâ responses when dogsâ pupils only appeared to be large due to iris color."
+        },
+        {
+          "name": "B",
+          "content": "iris color in domestic dogs may be an adaptation to elicit positive responses from humans, as participants responded more negatively to images of dogs whose iris colors can make pupils appear large than they did to images of dogs without such iris colors."
+        },
+        {
+          "name": "C",
+          "content": "humansâ responses to pupil size in other people may extend to dogs, as participants responded more positively to images of dogs whose iris colors were likely to make their pupils appear large than they did to images of dogs whose iris colors were unlikely to have that effect."
+        },
+        {
+          "name": "D",
+          "content": "humans may not be as sensitive to pupil size in dogs as they are to pupil size in other people, as participantsâ responses to the images show no relationship to differences in the shade of dogsâ irises that could affect how large the dogsâ pupils appear to be."
+        }
+      ],
+      "correct": "humansâ responses to pupil size in other people may extend to dogs, as participants responded more positively to images of dogs whose iris colors were likely to make their pupils appear large than they did to images of dogs whose iris colors were unlikely to have that effect.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The hwamei and other fruit-eating bird species introduced to the Hawaiian island of Oahu in the last 150 years have recently been found to spread seeds from the fruits of forest plants native to Oahu that are at risk of extinction, such as the kolea lau nui tree. Many of these vulnerable plant species rely on the activity of fruit-eating birds to help spread the plants' seeds in the wild. All fruit-eating bird species native to Oahu have gone extinct, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hwameis and other non-native birds play an important role that used to be filled by birds that were native to Oahu."
+        },
+        {
+          "name": "B",
+          "content": "non-native birds, such as the hwamei, will also be at risk of extinction if they lose access to kolea lau nui trees."
+        },
+        {
+          "name": "C",
+          "content": "populations of hwameis and other non-native birds will probably soon experience rapid growth."
+        },
+        {
+          "name": "D",
+          "content": "non-native birds, such as the hwamei, now spread more seeds from the kolea lau nui tree than birds native to Oahu did in the past."
+        }
+      ],
+      "correct": "hwameis and other non-native birds play an important role that used to be filled by birds that were native to Oahu.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Maria Ines Cordeiro is the director of the National Library of Portugal in Lisbon. In this role, Cordeiro ______ the libraryâs collections, which feature a large number of works by celebrated Portuguese writers.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "having overseen"
+        },
+        {
+          "name": "B",
+          "content": "oversees"
+        },
+        {
+          "name": "C",
+          "content": "to oversee"
+        },
+        {
+          "name": "D",
+          "content": "overseeing"
+        }
+      ],
+      "correct": "oversees",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The epic poem <i>The Tale of Genji</i> dates back to the 11th century. Originally ______ in classical Japanese, it has since been translated into other languages.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is written"
+        },
+        {
+          "name": "B",
+          "content": "was written"
+        },
+        {
+          "name": "C",
+          "content": "written"
+        },
+        {
+          "name": "D",
+          "content": "had been written"
+        }
+      ],
+      "correct": "written",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though it was designated as mission ______ mission was actually the ninety-sixth flight under NASA's Space Shuttle Program.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "STS-103, and the"
+        },
+        {
+          "name": "B",
+          "content": "STS-103. The"
+        },
+        {
+          "name": "C",
+          "content": "STS-103 the"
+        },
+        {
+          "name": "D",
+          "content": "STS-103, the"
+        }
+      ],
+      "correct": "STS-103, the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The grammar of the Gujarati language includes several noun cases common to most Indo-Aryan ______ the locative case, for instance, indicates that an action is occurring at, on, or near a particular noun.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "languages, such as"
+        },
+        {
+          "name": "B",
+          "content": "languages,"
+        },
+        {
+          "name": "C",
+          "content": "languages;"
+        },
+        {
+          "name": "D",
+          "content": "languages; such as"
+        }
+      ],
+      "correct": "languages;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The transit method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the super Earth TRAPPIST-1 b; at 352 light-years away, the super Earth Kepler-102 f; and, as of 2023, over 4,000 other exoplanets that are too far away and dim to be observed directly.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Earth, at 41 light-years away,"
+        },
+        {
+          "name": "B",
+          "content": "Earth: at 41 light-years away,"
+        },
+        {
+          "name": "C",
+          "content": "Earth at 41 light-years away:"
+        },
+        {
+          "name": "D",
+          "content": "Earth at 41 light-years away,"
+        }
+      ],
+      "correct": "Earth: at 41 light-years away,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Tacettin Diker is well known for his work as a puppeteer. ______ he specializes in shadow puppetry. This style of puppetry involves holding a figure in front of a light source to project a shadow onto a translucent screen.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In particular,"
+        },
+        {
+          "name": "B",
+          "content": "By contrast,"
+        },
+        {
+          "name": "C",
+          "content": "By doing so,"
+        },
+        {
+          "name": "D",
+          "content": "Second,"
+        }
+      ],
+      "correct": "In particular,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Portuguese researcher Isabel C.F.R. Ferreira reports that the caffeic acid in cauliflower mushrooms benefits the mushroom by combating harmful molecules called free radicals. ______ Ferreira suggests that the acid can promote cellular health in humans, who also experience free radical damage.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Moreover,"
+        },
+        {
+          "name": "C",
+          "content": "Conversely,"
+        },
+        {
+          "name": "D",
+          "content": "Rather,"
+        }
+      ],
+      "correct": "Moreover,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In economics, sugar is considered a soft commodity, while copper and crude oil are considered hard commodities. The categorical distinction between soft and hard commodities lies not in the productsâ strength or durability but in their origin: the former type is grown or farmed, while the latter is mined or drilled. ______ pine lumber is as much a soft commodity as sugar, despite its decidedly sturdier composition.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Though it is grown from the earth,"
+        },
+        {
+          "name": "B",
+          "content": "In a notable exception to this rule,"
+        },
+        {
+          "name": "C",
+          "content": "By this definition,"
+        },
+        {
+          "name": "D",
+          "content": "Summarizing this principle,"
+        }
+      ],
+      "correct": "By this definition,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A copyright prevents a bookâs contents from being reproduced (published) without permission from the copyright holder.</li><li>When a bookâs copyright expires, the book enters the public domain and can be legally reproduced by anyone.</li><li><i>Billy Budd, Sailor</i> is a novella by Herman Melville.</li><li>It entered the public domain in 2020.</li><li><i>The Common Reader</i> is an essay collection by Virginia Woolf.</li><li>It entered the public domain in 2021.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the order in which Billy Budd, Sailor and The Common Reader entered the public domain. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Billy Budd, Sailor</i>, a novella by Herman Melville, and <i>The Common Reader</i>, an essay collection by Virginia Woolf, are both in the public domain."
+        },
+        {
+          "name": "B",
+          "content": "The year was 2021, and the copyrights to <i>Billy Budd, Sailor</i> and <i>The Common Reader</i> had finally expired."
+        },
+        {
+          "name": "C",
+          "content": "<i>Billy Budd, Sailor</i>, a novella by Herman Melville, entered the public domain in 2020, with Virginia Woolf's essay collection <i>The Common Reader</i> following in 2021."
+        },
+        {
+          "name": "D",
+          "content": "Though they once were copyrighted works, <i>Billy Budd, Sailor</i> and <i>The Common Reader</i> are now in the public domain."
+        }
+      ],
+      "correct": "<i>Billy Budd, Sailor</i>, a novella by Herman Melville, entered the public domain in 2020, with Virginia Woolf's essay collection <i>The Common Reader</i> following in 2021.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes.</p><blockquote style=\"margin-left: 40px;\"><ul><li>During the Industrial Revolution (from the mid-1700s to the mid-1800s), the number of people living in urban areas of the UK grew substantially (30%).</li><li>Urbanization occurred as large segments of the countryâs rural population relocated to cities to support the burgeoning manufacturing industry.</li><li>The industrial city of Manchester, England, experienced the most population growth (2,000%).</li><li>A comparison of a 1746 map of Manchester with maps of the city from the late 1800s reflects the cityâs expansion.</li><li>According to historian Donna Sherman, these maps present âa powerful visual representation of the transformation of Manchesterâs landscape.â</li></ul></blockquote>",
+      "question": "The student wants to connect the quotation from Sherman to the increase in the UKâs urban population during the Industrial Revolution. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Sherman claims that maps of Industrial Revolution-era Manchester, England, present âa powerful visual representation of the transformation of Manchester's landscapeâ during a time period in which the UK experienced a substantial (2,000%) increase in population."
+        },
+        {
+          "name": "B",
+          "content": "Rural populations relocating to cities like Manchester created a phenomenon that Sherman describes as âa powerful visual representationâ of how the UK transformed during the Industrial Revolution."
+        },
+        {
+          "name": "C",
+          "content": "Sherman claims that period maps of the UK present âa powerful visual representationâ of how the country's rural landscape was transformed by population shifts during the Industrial Revolution."
+        },
+        {
+          "name": "D",
+          "content": "The sizeable growth in the UKâs urban population during the Industrial Revolution is reflected in before-and-after maps that present, in Sherman's view, âa powerful visual representationâ of how the increase transformed Manchester."
+        }
+      ],
+      "correct": "The sizeable growth in the UKâs urban population during the Industrial Revolution is reflected in before-and-after maps that present, in Sherman's view, âa powerful visual representationâ of how the increase transformed Manchester.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).</li><li>The ACM gives the award for âmajor contributions of lasting importance to computing.â</li><li>It is named after groundbreaking British mathematician Alan Turing.</li><li>Frances E. Allen won the award in 2006 for seminal contributions to optimizing compiler techniques.</li></ul></blockquote>",
+      "question": "The student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The A.M. Turing Award is given for âmajor contributions of lasting importance to computing.â"
+        },
+        {
+          "name": "B",
+          "content": "The A.M. Turing Award is named for groundbreaking British mathematician Alan Turing."
+        },
+        {
+          "name": "C",
+          "content": "It was in 2006 that Frances E. Allen won the A.M. Turing Award."
+        },
+        {
+          "name": "D",
+          "content": "In 2006, Frances E. Allen won the A.M. Turing Award for seminal contributions to optimizing compiler techniques."
+        }
+      ],
+      "correct": "The A.M. Turing Award is named for groundbreaking British mathematician Alan Turing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Isaac Bashevis Singer was an acclaimed writer.</li><li>His first published work of fiction was a short story.</li><li>It was called âGimpel the Fool.â</li><li>It first appeared in <i>The Partisan Review</i> in 1953.</li></ul></blockquote>",
+      "question": "The student wants to identify the title of Isaac Bashevis Singerâs first published short story. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Acclaimed writer Isaac Bashevis Singerâs first published work of fiction was a short story."
+        },
+        {
+          "name": "B",
+          "content": "Isaac Bashevis Singerâs first published short story was called âGimpel the Fool.â"
+        },
+        {
+          "name": "C",
+          "content": "In 1953, a short story by Isaac Bashevis Singer appeared in The Partisan Review."
+        },
+        {
+          "name": "D",
+          "content": "Isaac Bashevis Singerâs first published work of fiction appeared in 1953."
+        }
+      ],
+      "correct": "Isaac Bashevis Singerâs first published short story was called âGimpel the Fool.â",
+      "solution": ""
+    }
+  ]
+}

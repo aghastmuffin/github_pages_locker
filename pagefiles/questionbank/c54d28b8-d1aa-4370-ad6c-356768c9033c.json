@@ -1,0 +1,682 @@
+{
+  "uuid": "c54d28b8-d1aa-4370-ad6c-356768c9033c",
+  "chunk": "kVjDwdjc.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p><i>The Song of the Lark,</i> painted in the realist style by Jules Breton, depicts a barefoot peasant woman pausing in the fields at sunset and emphasizes accuracy in its portrayal of the experiences of ordinary working people. This style largely ______ the conventions of the romantic style evident in many paintings by Charles Gleyre, which instead accentuated their subjectsâ positive traits by, for example, placing them in staged settings with expensive-looking decorations and presenting them with smooth, unblemished skin.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rejected"
+        },
+        {
+          "name": "B",
+          "content": "extended"
+        },
+        {
+          "name": "C",
+          "content": "imitated"
+        },
+        {
+          "name": "D",
+          "content": "epitomized"
+        }
+      ],
+      "correct": "rejected",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though studies of the effect of high altitude on blood chemistry are ______, the effect on blood chemistry of living in locations below sea level, such as the California towns of Brawley and Thermal, has received comparatively little notice.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "preliminary"
+        },
+        {
+          "name": "B",
+          "content": "copious"
+        },
+        {
+          "name": "C",
+          "content": "equivocal"
+        },
+        {
+          "name": "D",
+          "content": "sporadic"
+        }
+      ],
+      "correct": "copious",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Authors like Elena Poniatowska contributed to the outpouring of Mexican literature in the years following the Mexican Revolution, which lasted from 1910â1920. Works from this period make up an ______ proportion of what is considered the canon of Mexican literature, but nineteenth-century writers like Rafael Delgado should be considered just as integral to the Mexican literary canon.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "unspecified"
+        },
+        {
+          "name": "B",
+          "content": "overlooked"
+        },
+        {
+          "name": "C",
+          "content": "erratic"
+        },
+        {
+          "name": "D",
+          "content": "outsized"
+        }
+      ],
+      "correct": "outsized",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A speaker at a recent children's book publishing conference noted that, while many authors do excellent work, in her mind, no one has ever ______ Mildred Pitts Walter's work as the author of <i>Justin and the Best Biscuits in the World</i>: there is no better example of the form, according to the speaker.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "convened"
+        },
+        {
+          "name": "B",
+          "content": "cited"
+        },
+        {
+          "name": "C",
+          "content": "eclipsed"
+        },
+        {
+          "name": "D",
+          "content": "augmented"
+        }
+      ],
+      "correct": "eclipsed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Writer Lydia Davis observed that while traditional literary forms, such as the poem, are recognizable as such even as they evolve, there are more ______ forms that might, for example, borrow elements from both fables and realist narratives to make something unconventional. Davis's own very short literary pieces arguably fit in this category, since they straddle the line between prose and poetry.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dispersed"
+        },
+        {
+          "name": "B",
+          "content": "amorphous"
+        },
+        {
+          "name": "C",
+          "content": "neutral"
+        },
+        {
+          "name": "D",
+          "content": "customary"
+        }
+      ],
+      "correct": "amorphous",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Beth Shapiro and other researchers studying the history of organisms have long utilized ancient DNAâDNA recovered from ancient organic material that has been preserved under natural conditions. However, Nicolas Dussex and colleaguesâ 2021 study of the evolutionary trajectory of the kÄkÄpÅ parrot <i>(Strigops habroptilus)</i> instead relied on historical DNAâgenomic data incidentally preserved in specimens that are housed in natural history collectionsâthus capitalizing on the research potential offered by a vast but hitherto relatively underutilized source of insight into the biological past.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It compares two distinct methods of analyzing genomic data, then explains why the second method is relatively underused."
+        },
+        {
+          "name": "B",
+          "content": "It describes two different approaches used by researchers, then emphasizes how promising one of those approaches is."
+        },
+        {
+          "name": "C",
+          "content": "It summarizes previous research on a topic, then illustrates how a group of scientists used a new method to challenge findings produced by that research."
+        },
+        {
+          "name": "D",
+          "content": "It provides an overview of a technique traditionally used by scientists, then asserts that an alternative technique is superior to it."
+        }
+      ],
+      "correct": "It describes two different approaches used by researchers, then emphasizes how promising one of those approaches is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Steve Carterâs award-winning play <i>Eden</i> was produced in 1976 by the groundbreaking Negro Ensemble Company (NEC). NEC cofounder Douglas Turner Ward, who worked as an actor, director, and playwright, had met actor and producer Robert Hooks while they were performing in a 1960 touring production of Lorraine Hansberryâs play <i>A Raisin in the Sun</i>. Together, they envisioned a theater company that would nurture and showcase the work of Black theater professionals. Since NECâs founding in 1967, its workshops and performances have given Black playwrights, including Carter, a forum for their compelling stories.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It depicts the meeting of a group of Black theater professionals and then acknowledges the obstacles they faced in their attempts to establish a theater company."
+        },
+        {
+          "name": "B",
+          "content": "It outlines the similarities between two plays and then considers how these plays were important to the founding of a theater company."
+        },
+        {
+          "name": "C",
+          "content": "It refers to the production of a play and then examines the theater company responsible for that production."
+        },
+        {
+          "name": "D",
+          "content": "It summarizes the impact of two plays by Black playwrights and then details the history of the theater company that produced them."
+        }
+      ],
+      "correct": "It refers to the production of a play and then examines the theater company responsible for that production.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><b>Text 1</b><br>Edward P. Jonesâs 2003 novel <i>The Known World</i>, a compelling exploration of history and humanity set in Virginia during the 1840s, has been described as historical fiction. While itâs inarguable that Jonesâs book takes place in the past rather than in his own time, <i>The Known World</i> is much richer and more complicated than the mere re-creation of the past suggested by the term âhistorical fiction.â</p><p><b>Text 2</b><br>Some literary critics dismiss historical fiction as a shallow genre in which writers show off their knowledge of period details rather than tell meaningful stories. But historical fiction can be used to explore profound themes and complex charactersâin fact, many writers find that writing about the past gives them a creative freedom theyâd lack if they wrote about the present.</p>",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the claim about <em>The Known World</em> advanced by the author of Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By arguing that Jones displays a thorough knowledge of historical details in <em>The Known World</em>."
+        },
+        {
+          "name": "B",
+          "content": "By claiming that the author of Text 1 has underestimated the richness and complexity of <em>The Known World</em>."
+        },
+        {
+          "name": "C",
+          "content": "By conceding that the genre of historical fiction contains many works that are less sophisticated than <em>The Known World</em> is."
+        },
+        {
+          "name": "D",
+          "content": "By asserting that dissatisfaction with describing <em>The Known World</em> as historical fiction reflects a misunderstanding of the genre."
+        }
+      ],
+      "correct": "By asserting that dissatisfaction with describing <em>The Known World</em> as historical fiction reflects a misunderstanding of the genre.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Since its completion in 2014, Bosco Verticale (Vertical Forest)âa pair of residential towers in Milan, Italy, covered by vegetationâhas become a striking symbol of environmental sustainability in architecture. Stefano Boeri intended his design, which features balconies that are home to hundreds of trees, to serve as a model for promoting urban biodiversity. However, the concept has faced skepticism: critics note that although the trees used in Bosco Verticale were specifically cultivated for the project, it's too early to tell if they can thrive in this unusual setting.</p>",
+      "question": "According to the text, why are some critics skeptical of the concept behind Bosco Verticale?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Some essential aspects of Bosco Verticaleâs design are difficult to adapt to locations other than Milan."
+        },
+        {
+          "name": "B",
+          "content": "The plant life on Bosco Verticale ended up being less varied than Boeri had envisioned it would be."
+        },
+        {
+          "name": "C",
+          "content": "The construction of Bosco Verticale was no less environmentally damaging than the construction of more conventional buildings is."
+        },
+        {
+          "name": "D",
+          "content": "It is unclear whether Bosco Verticale can support the plant life included in its design."
+        }
+      ],
+      "correct": "It is unclear whether Bosco Verticale can support the plant life included in its design.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To understand how Paleolithic artists navigated dark caves, archaeologist Ma Angeles Medina-Alcaide and her team tested different lighting methods in a cave in Spain using replicas of artifacts found in European caves with art. They used three different Paleolithic light sourcesâtorches, animal-fat lamps, and fireplacesâdetermining that each likely had a specific purpose. For instance, the team learned that the animal-fat lamps were less useful than torches while walking because the lamps didnât illuminate the cave floor.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Medina-Alcaide and her teamâs study demonstrated that fireplaces were essential to the creators of Paleolithic cave art."
+        },
+        {
+          "name": "B",
+          "content": "Medina-Alcaide and her team discovered that Paleolithic cave artists in Spain used animal-fat lamps more often than they used torches."
+        },
+        {
+          "name": "C",
+          "content": "Medina-Alcaide and her team were reluctant to draw many conclusions from their study because of the difficulty they had replicating light sources based on known artifacts."
+        },
+        {
+          "name": "D",
+          "content": "Medina-Alcaide and her team tested Paleolithic light sources and learned some details about how Paleolithic artists traveled within dark caves."
+        }
+      ],
+      "correct": "Medina-Alcaide and her team tested Paleolithic light sources and learned some details about how Paleolithic artists traveled within dark caves.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><div style=\"margin: 0 auto; display: inline-block;\"><table style=\"border-collapse: collapse; border: 1px solid #000; margin: 0 auto;\"><thead><tr><th style=\"border: 1px solid #000; padding: 6px; text-align: center;\">Measure</th><th style=\"border: 1px solid #000; padding: 6px; text-align: center;\">Mean rating for participants aware of taking a placebo</th><th style=\"border: 1px solid #000; padding: 6px; text-align: center;\">Mean rating for participants in the control group</th></tr></thead><tbody><tr><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">Global improvement</td><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">5.0</td><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">3.9</td></tr><tr><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">Symptom severity reduction</td><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">92.00</td><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">46.00</td></tr><tr><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">Quality of life improvement</td><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">11.4</td><td style=\"border: 1px solid #000; padding: 6px; text-align: center;\">5.4</td></tr></tbody></table></div></div><p>To test whether a medication is effective, scientists compare outcomes for patients taking it and patients taking a placebo (a medically inactive substance). Patients normally arenât told theyâre receiving a placebo, but a research team conducted a study to see if there might be a medical benefit to telling them. The team used various measures to evaluate participants, with higher ratings indicating greater well-being in each measure. Compared to the mean ratings after 21 days for participants in the control group, the mean ratings for participants who were aware of taking a placebo _____</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ranged from 5.0 to 92.00, indicating that well-being varied widely from participant to participant."
+        },
+        {
+          "name": "B",
+          "content": "were lower for two measures, with the rating for only one measure indicating greater well-being for these participants."
+        },
+        {
+          "name": "C",
+          "content": "ranged from 3.9 to 46.00, with no rating indicating greater well-being in any measure for these participants."
+        },
+        {
+          "name": "D",
+          "content": "were higher for all three measures, indicating greater overall well-being for these participants."
+        }
+      ],
+      "correct": "were higher for all three measures, indicating greater overall well-being for these participants.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Lady Gregory's 1904 play <i>Spreading the News</i>. Jack Smith and Bartley Fallon have encountered each other at the local fair.</p><blockquote style=\"margin-left: 40px;\"><p>JACK: It isn't to the fair I came myself, but up to the Five Acre Meadow I'm going, where I have a contract for the hay. Weâll get a share of it into tramps [drying stacks] to-day.</p><p>BARTLEY: You will not get it into tramps to-day. The rain will be down on it by evening, and on myself too. It's seldom I ever started on a journey but the rain would come down on me before I'd find any place of shelter.</p><p>JACK: If it didn't itself, Bartley, it is my belief you would carry a leaky pail on your head in place of a hat, that way you'd not be without some cause of complaining.</p></blockquote>",
+      "question": "Based on the text, what does Jack most likely believe about Bartley?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Bartley is worried that Jack is unaware of the coming rain."
+        },
+        {
+          "name": "B",
+          "content": "Bartley will be able to help Jack with cutting the hay."
+        },
+        {
+          "name": "C",
+          "content": "Bartley is a poor judge of the weather."
+        },
+        {
+          "name": "D",
+          "content": "Bartley will find fault with any situation."
+        }
+      ],
+      "correct": "Bartley will find fault with any situation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ultra-pasteurized milk and raw milk are substitutable products, meaning that one product can be used for the same purpose as the other, whereas tortilla chips and salsa are complementary products, meaning that they serve different purposes but are typically used together. Alicia Grasby et al. investigated whether substitutability and complementarity influence consumersâ purchasing of extended brandsâproducts of different types sold under the same brand nameâby comparing purchases of extended-brand products that are substitutable with those that are complementary. They concluded that although complementarity appears to benefit extended brands more than substitutability does on average, this may be due to an outlier in the complementary product data.</p>",
+      "question": "Which finding, if true, would most directly support the conclusion put forward by Grasby et al.?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although consumers were more likely to purchase complementary extended brands than substitutable extended brands, the difference in purchasing probability reduced to zero when tortilla chips and salsa were removed from consideration."
+        },
+        {
+          "name": "B",
+          "content": "Although consumers purchased complementary extended brands more frequently than substitutable extended brands, removing ultra-pasteurized milk and raw milk from the data led to an equal purchasing frequency of complementary and substitutable products."
+        },
+        {
+          "name": "C",
+          "content": "Although consumers were about equally likely to purchase complementary extended brands and substitutable extended brands, removing tortilla chips and salsa from the data increased the likelihood that consumers would purchase complementary extended brands."
+        },
+        {
+          "name": "D",
+          "content": "Although consumers purchased substitutable extended brands more often than complementary ones, the removal of ultra-pasteurized milk and raw milk from the data caused the two product types to be purchased at equal rates."
+        }
+      ],
+      "correct": "Although consumers were more likely to purchase complementary extended brands than substitutable extended brands, the difference in purchasing probability reduced to zero when tortilla chips and salsa were removed from consideration.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Norway, which, according to international indices, has relatively strong democratic institutions and low intranational income inequality, experienced an inflation rate of 3.55% in 2016, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.86% that year. Such comparisons have engendered speculation that by diluting control over the economy, democratic institutions inhibit statesâ ability to counteract inflationary pressures. To test this possibility systematically, Raj Desai et al. examined democratic strength, intranational inequality, and inflation in more than 100 countries, finding that democratic strength, if associated with inequality, restrains inflationary pressures, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the factors that contributed to Norwayâs elevated inflation rate relative to Cameroonâs have less to do with the countriesâ political institutions than with the countriesâ levels of income inequality."
+        },
+        {
+          "name": "B",
+          "content": "speculations about the relative inability of democratic institutions to counteract inflation are based on measures that tend to exaggerate the levels of inflation in strongly democratic countries such as Norway."
+        },
+        {
+          "name": "C",
+          "content": "it would be a mistake to treat the relative inflation rates of Norway and Cameroon as indicative of an inherent shortcoming in democratic institutions with regard to control over inflation."
+        },
+        {
+          "name": "D",
+          "content": "the difference between Norway and Cameroon with regard to democratic institution strength may have been greater in 2016 than was represented by international indices."
+        }
+      ],
+      "correct": "it would be a mistake to treat the relative inflation rates of Norway and Cameroon as indicative of an inherent shortcoming in democratic institutions with regard to control over inflation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Matthew A. Wale and colleagues found in a 2013 study of shore crabs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of arthropods showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for arthropods. Therefore, the results of the meta-analysis suggest that ____</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the difference found in the study conducted by Matthew A. Wale and colleagues was likely larger than the average difference for studies of shore crabs included in the meta-analysis."
+        },
+        {
+          "name": "B",
+          "content": "the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for arthropods."
+        },
+        {
+          "name": "C",
+          "content": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of arthropods did."
+        },
+        {
+          "name": "D",
+          "content": "the studies in the meta-analysis that examined arthropods were more likely than those that examined birds to specify whether the observed effects were detrimental."
+        }
+      ],
+      "correct": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of arthropods did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Included in <i>Second Sight: the Paradox of Vision in Contemporary Art,</i> a 2018 group exhibition at the Bowdoin College Museum of Art in Brunswick, Maine, was the work of artist Lorna Simpson, who is best known for her multimedia artworks that juxtapose images of African American women with text fragments. Her work challenges conventional notions of race, gender, history, and ______ she is credited with expanding the horizons of conceptual photographic art.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "memory and"
+        },
+        {
+          "name": "B",
+          "content": "memory, and"
+        },
+        {
+          "name": "C",
+          "content": "memory"
+        },
+        {
+          "name": "D",
+          "content": "memory,"
+        }
+      ],
+      "correct": "memory, and",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Uruguayâs 1985 constitution contains one of the six constitutional features that enhance judicial independence, as identified by legal scholars James Melton and Tom Ginsburg. Since 1985, such de jure judicial independence has become more prevalent among ______ Polandâs constitution contains three such features.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "constitutions enacted in 1997;"
+        },
+        {
+          "name": "B",
+          "content": "constitutions, enacted in 1997;"
+        },
+        {
+          "name": "C",
+          "content": "constitutions, enacted in 1997,"
+        },
+        {
+          "name": "D",
+          "content": "constitutions; enacted in 1997,"
+        }
+      ],
+      "correct": "constitutions; enacted in 1997,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Minerals can be classified by how much light passes through them. For example, all (or almost all) light passes through painite, which is classified as ______ only some light to pass through, trona is instead classified as translucent.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "transparent allowing"
+        },
+        {
+          "name": "B",
+          "content": "transparent and allowing"
+        },
+        {
+          "name": "C",
+          "content": "transparent, allowing"
+        },
+        {
+          "name": "D",
+          "content": "transparent. Allowing"
+        }
+      ],
+      "correct": "transparent. Allowing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>According to a 2017 analysis by economist Jacob Lundberg, Japanâs top tax rate of 60% was lower than the countryâs Laffer curve peak (68%). To some economists, whether a tax cut will ultimately increase Japanâs tax revenue is dependent on the countryâs position on the Laffer curve. A theoretical relationship between tax rates and revenues, the curve is named for the US ______ Arthur Laffer.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "economist"
+        },
+        {
+          "name": "B",
+          "content": "economistâ"
+        },
+        {
+          "name": "C",
+          "content": "economist:"
+        },
+        {
+          "name": "D",
+          "content": "economist,"
+        }
+      ],
+      "correct": "economist",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With one in Canada and another in Japan, the observatory sites that form the Super Dual Auroral Radar ______ or superDARN, as space physicists like Nozomu Nishitani call itânumber nearly five dozen. Located across the globe, the radars track meteor echoes and other geospace phenomena.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Network,"
+        },
+        {
+          "name": "B",
+          "content": "Network:"
+        },
+        {
+          "name": "C",
+          "content": "Network"
+        },
+        {
+          "name": "D",
+          "content": "Networkâ"
+        }
+      ],
+      "correct": "Networkâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>American abstract artist Richard ______ his installations to make passersby keenly aware of how oneâs movements are affected by the physical features of oneâs environment, assembles large-scale steel plates into sculptures that dominate the outdoor spaces they occupy.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Serra is intending"
+        },
+        {
+          "name": "B",
+          "content": "Serra, intends"
+        },
+        {
+          "name": "C",
+          "content": "Serra, intending"
+        },
+        {
+          "name": "D",
+          "content": "Serra intends"
+        }
+      ],
+      "correct": "Serra, intending",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With their distinctive cone shapes and steeply sloping sides, the volcanoes Maungarei (New Zealand) and Harunasan (Japan) may look similar from afar. Tehnuka Ilanko and other volcanologists, ______ can tell by how each was formed that Maungarei is a cinder cone volcano, while Harunasan is a composite volcano.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in addition,"
+        },
+        {
+          "name": "B",
+          "content": "therefore,"
+        },
+        {
+          "name": "C",
+          "content": "for example,"
+        },
+        {
+          "name": "D",
+          "content": "though."
+        }
+      ],
+      "correct": "though.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a 1984 study by Koerth et al., the researchers determined the ratio of three different plant subtypes within the diet of pronghorns: graminoids, forbs, and browse. ______ that is, the researchers determined the relative quantities of the plants the animal consumed.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "Next,"
+        },
+        {
+          "name": "C",
+          "content": "By contrast,"
+        },
+        {
+          "name": "D",
+          "content": "That is,"
+        }
+      ],
+      "correct": "That is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Antonio Stradivari (1644-1737) made about 1,000 violins in his lifetime.</li><li>Musicians prize his Stradivarius violins for their famed sound quality.</li><li>Many of the 500 or so that exist today are named for a previous owner.</li><li>The Jules Falk Stradivarius is named for Jules Falk, an American violinist.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to explain how the Jules Falk Stradivarius got its name?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Jules Falk was an American violinist."
+        },
+        {
+          "name": "B",
+          "content": "Of the 1,000 or so violins Antonio Stradivari made, only about 500 exist today."
+        },
+        {
+          "name": "C",
+          "content": "Designed by Antonio Stradivari, Stradivarius violins in the Jules Falk are renowned for their quality."
+        },
+        {
+          "name": "D",
+          "content": "The Jules Falk Stradivarius is named after its former owner, Jules Falk."
+        }
+      ],
+      "correct": "The Jules Falk Stradivarius is named after its former owner, Jules Falk.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Grimanesa Amoros is a Peruvian American artist.</li><li>She is well known for her large-scale LED light sculptures.</li><li><i>Argentum</i> debuted in 2018 at the Bronx Museum of the Arts in New York City, New York.</li><li>It is made of iridescent multicolored LED domes.</li><li>It occupies 253 cubic feet of space.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize when and where Argentum debuted?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As is common of Grimanesa Amorosâs sculptures, the iridescent multicolored LED domes of Argentum cut an imposing 253-cubic foot figure when the plece debuted."
+        },
+        {
+          "name": "B",
+          "content": "Artist Grimanesa Amoros often works with light in her sculptures which tend to be large in scale."
+        },
+        {
+          "name": "C",
+          "content": "In 2018, Grimanesa Amoros debuted Argentum in New York City, New York."
+        },
+        {
+          "name": "D",
+          "content": "Grimanesa Amoros is a Peruvian American artist who often works with LED light in her large-scale sculptures, such as Argentum 2018."
+        }
+      ],
+      "correct": "In 2018, Grimanesa Amoros debuted Argentum in New York City, New York.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Calida Garcia Rawles is an African American painter.</li><li>She is known for her large-scale, hyperrealistic paintings depicting African American figures in water.</li><li>The painting <i>Lightness of Being I</i> (24Ã30 in) depicts a young man with his arms outstretched floating on the right side of the canvas.</li><li><i>Lost in the Shuffle</i> (36Ã24 in) depicts two young men with their arms outstretched floating in the bottom left and upper right corners of the canvas.</li><li>She paints the water with vivid blue colors, including sky blue and indigo.</li><li>The mood in the paintings is calm.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize the location of the figures in Lost in the Shuffle?",
+      "options": [
+        {
+          "name": "A",
+          "content": "At 36 by 24 inches, Rawlesâs Lost in the Shuffle is even larger than the sizable 24-by-30-inch painting Lightness of Being."
+        },
+        {
+          "name": "B",
+          "content": "Rawles captures the water in paintings such as Lightness of Being and Lost in the Shuffle in vivid hues of sky blue and indigo."
+        },
+        {
+          "name": "C",
+          "content": "In Rawlesâs painting Lost in the Shuffle, two young men are depicted in the bottom left and upper right corners of the canvas."
+        },
+        {
+          "name": "D",
+          "content": "While the number of figures may differ, constant among Rawlesâs hyperrealistic works in the calm mood that the paintings evoke."
+        }
+      ],
+      "correct": "In Rawlesâs painting Lost in the Shuffle, two young men are depicted in the bottom left and upper right corners of the canvas.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>YnÃ©s MexÃ­a was a Mexican American botanist.</li><li>Between 1917 and 1938, she collected over 150,000 botanical samples throughout the Americas.</li><li>She collected a sample of <i>Trixis antimenorrhoea</i> in Minas Gerais, Brazil, on June 26, 1930.</li><li>She collected a sample of <i>Stephanomeria thurberi</i> in Chihuahua, Mexico, on May 27, 1929.</li><li>These specimens are members of the Asteraceae family.</li><li>They can now be viewed online at the C.V. Starr Virtual Herbarium.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize when she collected both of the samples?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Thousands of botanical samples collected by YnÃ©s MexÃ­a can now be found in one place: online at the C.V. Starr Virtual Herbarium."
+        },
+        {
+          "name": "B",
+          "content": "While both specimens collected by YnÃ©s MexÃ­a are members of the same family, Trixis antimenorrkoea was found in Minas Gerais and Stephanomeria thurberi was found in Chihuahua."
+        },
+        {
+          "name": "C",
+          "content": "On June 26 in 1930, YnÃ©s MexÃ­a added a new specimen to her growing collection of botanical samples: Trixis antimenorrkoea of the Asteraceae family."
+        },
+        {
+          "name": "D",
+          "content": "YnÃ©s MexÃ­a collected a sample of Trixis antimenorrkoea in June of 1930, after collecting tephanomeria thurberi in May of 1929."
+        }
+      ],
+      "correct": "YnÃ©s MexÃ­a collected a sample of Trixis antimenorrkoea in June of 1930, after collecting tephanomeria thurberi in May of 1929.",
+      "solution": ""
+    }
+  ]
+}

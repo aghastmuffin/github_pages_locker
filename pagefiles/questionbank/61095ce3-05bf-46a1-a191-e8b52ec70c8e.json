@@ -1,0 +1,682 @@
+{
+  "uuid": "61095ce3-05bf-46a1-a191-e8b52ec70c8e",
+  "chunk": "CtoAHA2R.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Nancy Bird-Walton, who was an aviation pioneer, undoubtedly accomplished much, but to gain a lasting place in our historical memory, there is little that can ______ being the first to do something. For example, people will always remember that Krystyna Chojnowska-Liskiewicz was the first woman to sail solo around the world.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "fluctuate with"
+        },
+        {
+          "name": "B",
+          "content": "constrain within"
+        },
+        {
+          "name": "C",
+          "content": "prevail over"
+        },
+        {
+          "name": "D",
+          "content": "overreach by"
+        }
+      ],
+      "correct": "prevail over",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to banking records located in nations in Africa, such as Tunisia, and Eastern Europe, such as Poland.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "sanction"
+        },
+        {
+          "name": "B",
+          "content": "postulate"
+        },
+        {
+          "name": "C",
+          "content": "ameliorate"
+        },
+        {
+          "name": "D",
+          "content": "rationalize"
+        }
+      ],
+      "correct": "ameliorate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 2010s, the price of vintage Barbie dolls rose dramatically, which had the counterintuitive effect of ______ demand: buyers who hadn't previously wanted to purchase old dolls thronged the market, believing prices would continue to rise and the dolls could be resold later at a profit.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "satisfying"
+        },
+        {
+          "name": "B",
+          "content": "exploiting"
+        },
+        {
+          "name": "C",
+          "content": "capitalizing"
+        },
+        {
+          "name": "D",
+          "content": "eliciting"
+        }
+      ],
+      "correct": "eliciting",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Philosopher Ingrid Robeyns argues for the principle of limitarianismâthat there should be a limit on the wealth a person possesses. Critics of limitarianism respond that it is ______ since it would require cooperation between governments in economic policy, a goal that is likely unachievable.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "perfunctory"
+        },
+        {
+          "name": "B",
+          "content": "utopian"
+        },
+        {
+          "name": "C",
+          "content": "punitive"
+        },
+        {
+          "name": "D",
+          "content": "viable"
+        }
+      ],
+      "correct": "utopian",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The fact that publications by George Washington University economist Graciela Laura Kaminsky, who studies international finance, are so frequently cited in other scholars' work ______ the usefulness of her research for her peersâother economists clearly find her studies valuable for their own scholarship.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "belies"
+        },
+        {
+          "name": "B",
+          "content": "forestalls"
+        },
+        {
+          "name": "C",
+          "content": "underscores"
+        },
+        {
+          "name": "D",
+          "content": "overshadows"
+        }
+      ],
+      "correct": "underscores",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Shedding light on the thermal biology of fungi, research by RadamÃ©s Cordero et al. indicates that certain mushrooms (including <i>Amanita muscaria</i> and species from the genus <i>Thelephora</i>) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi's fruiting bodies and root-like hyphae: <u>temperature reductions were observed in the air immediately surrounding the mushrooms.</u> Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team's prototype lowered the air temperature in a controlled environment by 10Â°C in forty minutes.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It provides empirical evidence to bolster the claim made earlier in the text that certain fungal species maintain a hypothermic state."
+        },
+        {
+          "name": "B",
+          "content": "It identifies an unexpected observation that motivated the study of evaporative cooling in fungi that is discussed earlier in the text."
+        },
+        {
+          "name": "C",
+          "content": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of fungal thermal biology."
+        },
+        {
+          "name": "D",
+          "content": "It presents a tangential finding about thermoregulation in certain fungal species that the experiment described later in the text was designed to explain."
+        }
+      ],
+      "correct": "It establishes a finding central to the text's discussion of a practical application resulting from the team's study of fungal thermal biology.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Algeria, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by approximately three-fourths between 2000 and 2019; such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Rasmus Heltberg's study of fuel use in Ghana shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the stability of the local electrical grid.</p>",
+      "question": "Which choice best describes the function of the information about Algeria in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes a trend that the text goes on to suggest has a similar cause as a seemingly unrelated trend observed in Ghana."
+        },
+        {
+          "name": "B",
+          "content": "It illustrates the kind of phenomenon that the text goes on to suggest is frequently but inadequately accounted for by the energy ladder."
+        },
+        {
+          "name": "C",
+          "content": "It provides an example of a type of change that the text goes on to suggest is poorly suited for evaluating whether the energy ladder is a viable model."
+        },
+        {
+          "name": "D",
+          "content": "It introduces a finding that the text goes on to suggest can be explained in two different ways that are equally compelling."
+        }
+      ],
+      "correct": "It illustrates the kind of phenomenon that the text goes on to suggest is frequently but inadequately accounted for by the energy ladder.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Mexico City, Mexico, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 562 respondents from Mexico City, 77.6% indicated that they use the city's parks, and of the 938 respondents from Fortaleza, 35.7% indicated using city parks. Given that the percentage of Mexico City respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.</p>",
+      "question": "The text makes which point about the difference between the proportions of Mexico City residents and Fortaleza residents using parks?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It could be due to inaccuracies in the survey results."
+        },
+        {
+          "name": "B",
+          "content": "It was much larger than the researchers conducting the study expected."
+        },
+        {
+          "name": "C",
+          "content": "It is caused by something other than the parks' proximity to city residents."
+        },
+        {
+          "name": "D",
+          "content": "It was calculated using sources that predate the survey."
+        }
+      ],
+      "correct": "It is caused by something other than the parks' proximity to city residents.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The bird species <i>Microbates collaris</i> (the collared gnatwren) shares some territory in French Guiana with <i>Thamnomanes caesius</i> (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded <i>T. caesius</i> alarm calls and played them in the vicinity of wild <i>M. collaris</i>. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that <i>M. collaris</i> associates <i>T. caesius</i> alarm calls with danger.</p>",
+      "question": "Which finding, if true, would most directly support Martinez and colleagues' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In some instances, <i>M. collaris</i> froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds."
+        },
+        {
+          "name": "B",
+          "content": "Other bird species than <i>M. collaris</i> also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played <i>T. caesius</i> alarm calls."
+        },
+        {
+          "name": "C",
+          "content": "Martinez and colleagues played alarm calls from different <i>T. caesius</i> individuals and observed no significant variation in the responses of <i>M. collaris</i>."
+        },
+        {
+          "name": "D",
+          "content": "When Martinez and colleagues played control sounds of random noise in the vicinity of <i>M. collaris</i>, the birds displayed no reaction."
+        }
+      ],
+      "correct": "When Martinez and colleagues played control sounds of random noise in the vicinity of <i>M. collaris</i>, the birds displayed no reaction.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A student is writing a research paper on the history of irrigation in the southwestern United States, situating the development of Lake Sabrina (a man-made body of water created in Inyo County, California, in 1908) in a larger historical context. The student claims that some modern-day irrigation methods used in southwestern states, such as California, Arizona, and New Mexico, have a lineage that long predates the completion of Lake Sabrina.</p>",
+      "question": "Which quotation from a historian best supports the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"Sprinkler irrigation systems, which were developed in the late 20th century, are a convenient technique of irrigating that makes use of machinery in order to spray water in all directions. Many areas of the Southwestern United States are currently irrigated by this method.\""
+        },
+        {
+          "name": "B",
+          "content": "\"The importance of the development of irrigation infrastructure in the American Southwest today cannot be overstated, since it is the most common means of conveying water for food production.\""
+        },
+        {
+          "name": "C",
+          "content": "\"In the decades following the Second World War, irrigation of arid areas for agriculture increased to such a degree that it now accounts for roughly 70% of the world's water usage.\""
+        },
+        {
+          "name": "D",
+          "content": "\"The irrigation system developed by the Hohokam people in what is now central Arizona in the 7th century CE was simple but made use of hydraulic engineering design principles that are still utilized by today's engineers.\""
+        }
+      ],
+      "correct": "\"The irrigation system developed by the Hohokam people in what is now central Arizona in the 7th century CE was simple but made use of hydraulic engineering design principles that are still utilized by today's engineers.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/da9313d2ea86b561955f4ad80de71f9e.png\" width=\"411\" height=\"321\"></div><p>Neuroscientist Kiyohito ligaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P6 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "P6 would derive more aesthetic pleasure from abstract paintings than from cubist paintings."
+        },
+        {
+          "name": "B",
+          "content": "P6's rating for abstract and cubist paintings would equal one another."
+        },
+        {
+          "name": "C",
+          "content": "P6's ratings for abstract and cubist paintings would differ from one another."
+        },
+        {
+          "name": "D",
+          "content": "P6 would derive less aesthetic pleasure from abstract paintings than from cubist paintings."
+        }
+      ],
+      "correct": "P6's ratings for abstract and cubist paintings would differ from one another.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Enelton Fagnani, JosÃ© Roberto Guimara, and Pedro SÃ©rgio Fadini did not find this correlation in a study conducted in Brazil, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Heidi PyhtilÃ¤ and colleagues in Finland, showed similar results to the North American studies, while few have produced results similar to those of Fagnani, Guimara, and Fadini's study, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the hypothesis that the positive association is particular to North America is correct."
+        },
+        {
+          "name": "B",
+          "content": "there were circumstances unique to PyhtilÃ¤ and colleagues' study that impeded accurate measurements of mercury levels."
+        },
+        {
+          "name": "C",
+          "content": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water."
+        },
+        {
+          "name": "D",
+          "content": "levels of dissolved organic carbon and mercury in bodies of fresh water are both much higher in Brazil than elsewhere."
+        }
+      ],
+      "correct": "dissolved organic carbon and mercury levels do typically rise and fall together in fresh water.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Chelsea Wood et al. tracked temperature-driven changes in the abundance of <i>Gonocerca</i> sp. (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), <i>Gyrodactylus</i> sp. (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies."
+        },
+        {
+          "name": "B",
+          "content": "any advantages that the transmission strategy used by three host CLPs may have conferred did not completely offset the negative effects of other temperature-driven factors on CLP abundance."
+        },
+        {
+          "name": "C",
+          "content": "directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs."
+        },
+        {
+          "name": "D",
+          "content": "as the number of host species involved in a parasite's transmission increases, the parasite is better protected against rising temperatures."
+        }
+      ],
+      "correct": "any advantages that the transmission strategy used by three host CLPs may have conferred did not completely offset the negative effects of other temperature-driven factors on CLP abundance.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Lidia Eva Wysocki and colleagues found in a 2006 study of common carp. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of fish showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for fish. Therefore, the results of the meta-analysis suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the studies in the meta-analysis that examined fish were more likely than those that examined birds to specify whether the observed effects were detrimental."
+        },
+        {
+          "name": "B",
+          "content": "the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for fish."
+        },
+        {
+          "name": "C",
+          "content": "the difference found in the study conducted by Lidia Eva Wysocki and colleagues was likely larger than the average difference for studies of common carp included in the meta-analysis."
+        },
+        {
+          "name": "D",
+          "content": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did."
+        }
+      ],
+      "correct": "some studies of birds found larger effects of exposure to anthropogenic noise than some studies of fish did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although the epic poem <i>The Divine Comedy</i> dates back to the 14th century, ______ compelling narrative still captivates readers today.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "their"
+        },
+        {
+          "name": "B",
+          "content": "they're"
+        },
+        {
+          "name": "C",
+          "content": "it's"
+        },
+        {
+          "name": "D",
+          "content": "its"
+        }
+      ],
+      "correct": "its",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Most sand is beige because of deposits of gray- and tan-hued minerals, such as quartz and feldspar. The sand at Tangsi Beach in Indonesia is a more unusual ______ deposits of crushed coral and other organic matter lend the sand a unique pink hue.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "shade, though;"
+        },
+        {
+          "name": "B",
+          "content": "shade, though,"
+        },
+        {
+          "name": "C",
+          "content": "shade, though"
+        },
+        {
+          "name": "D",
+          "content": "shade; though"
+        }
+      ],
+      "correct": "shade, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The poem \"The Rites for Cousin Vit,\" which was published in 1949, contains three signature elements of Gwendolyn Brooks's poetic ______ compressed lines infused with bursts of vivid imagery; syncopated rhythms, largely inspired by the blues tradition; and a keen attention to everyday life in Brooks's South Side Chicago neighborhood.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "style, terse,"
+        },
+        {
+          "name": "B",
+          "content": "style. Terse,"
+        },
+        {
+          "name": "C",
+          "content": "style; terse,"
+        },
+        {
+          "name": "D",
+          "content": "style: terse,"
+        }
+      ],
+      "correct": "style: terse,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Neoclassical economic models assume that people consistently make rational economic decisions, but Laura Gee of Tufts University makes no such assumption; behavioral economists such as Gee, whose research focuses on charitable giving, ______ that economic decision-making can in fact be highly irrational.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "contend"
+        },
+        {
+          "name": "B",
+          "content": "contends"
+        },
+        {
+          "name": "C",
+          "content": "is contending"
+        },
+        {
+          "name": "D",
+          "content": "has contended"
+        }
+      ],
+      "correct": "contend",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While the greater adjutant (<i>Leptoptilos dubius</i>) can be found in places like the Central Tanintharyi Coast in Myanmar and the Chhep Wildlife Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife ______ is on the front lines of conservation efforts to bring adjutants back from near extinction.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "biologist, Dr. Purnima Devi Barman,"
+        },
+        {
+          "name": "B",
+          "content": "biologist: Dr. Purnima Devi Barman"
+        },
+        {
+          "name": "C",
+          "content": "biologist Dr. Purnima Devi Barman"
+        },
+        {
+          "name": "D",
+          "content": "biologist, Dr. Purnima Devi Barman"
+        }
+      ],
+      "correct": "biologist Dr. Purnima Devi Barman",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Roman historian Sallust's <i>Bellum Catilinae</i>, a chronicle of a coup attempt, is an extant work: it can still be read. By contrast, lost works like Sallust's history of the Roman Republic, <i>Histories</i>âno copy of which existsâ______ known to antiquarians only through references in extant works.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have become"
+        },
+        {
+          "name": "B",
+          "content": "becomes"
+        },
+        {
+          "name": "C",
+          "content": "has become"
+        },
+        {
+          "name": "D",
+          "content": "is becoming"
+        }
+      ],
+      "correct": "have become",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Beatriz Romero is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Romero's contributions, the telescope is now positioned near the Sun-Earth L2 Lagrange point, almost one million miles beyond Earth's orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By contrast,"
+        },
+        {
+          "name": "B",
+          "content": "Therefore,"
+        },
+        {
+          "name": "C",
+          "content": "Secondly,"
+        },
+        {
+          "name": "D",
+          "content": "Similarly,"
+        }
+      ],
+      "correct": "By contrast,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Edge modeling and kitbashing, methods used by digital artists to create three-dimensional elements for video games, typically require software to process geometric shapes numbering in the thousands. ______ These approaches are more economical than surface model methods, which require more powerful and expensive processors to manage polygons numbering in the millions.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Instead,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "Specifically,"
+        },
+        {
+          "name": "D",
+          "content": "As such,"
+        }
+      ],
+      "correct": "As such,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Beginning in her days at Vassar College in 1905, lawyer and activist Inez Milholland was an advocate for various social causes: worker's rights, racial justice, prison reform, and more. ______ her advocacy work would catapult her to national prominence, most notably when, astride a white horse and garbed in a flowing cape, she led the 1913 Women's Suffrage Procession in Washington, DC, thereby becoming the face of the US suffrage movement.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As such,"
+        },
+        {
+          "name": "B",
+          "content": "Ultimately,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Similarly,"
+        }
+      ],
+      "correct": "Ultimately,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The total solar eclipse of June 16, 345 CE, was the ninth-longest total eclipse before the Dark Agesâ7 minutes, 17 seconds long. Another memorable solar eclipse occurred on October 2, 480 BCE, but unlike the 345 CE eclipse, the 480 BCE eclipse was annular. ______ the Moon didn't cover the Sun completely, instead creating an annulus, or \"ring of fire.\"</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "That is,"
+        },
+        {
+          "name": "B",
+          "content": "Nonetheless,"
+        },
+        {
+          "name": "C",
+          "content": "Meanwhile,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "That is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mason Neck National Wildlife Refuge (NWR) is a protected natural area in Virginia.</li><li>It encompasses 2,276 acres.</li><li>It was established to safeguard the habitat of the bald eagle, an endangered species.</li><li>The Mason Neck NWR is managed by the US Fish &amp; Wildlife Service.</li><li>The US Fish &amp; Wildlife Service limits human activities in the area.</li></ul></blockquote>",
+      "question": "The student wants to indicate the size of the Mason Neck NWR. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Mason Neck NWR is a protected natural area managed by the US Fish &amp; Wildlife Service, which limits human activities there."
+        },
+        {
+          "name": "B",
+          "content": "A protected natural area, the Mason Neck NWR encompasses 2,276 acres of land in Virginia."
+        },
+        {
+          "name": "C",
+          "content": "The Mason Neck NWR is a natural area in Virginia, home to the bald eagle."
+        },
+        {
+          "name": "D",
+          "content": "Home to the bald eagle, Virginia's Mason Neck NWR is managed by the US Fish &amp; Wildlife Service."
+        }
+      ],
+      "correct": "A protected natural area, the Mason Neck NWR encompasses 2,276 acres of land in Virginia.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Spruce Tree House is an Ancestral Puebloan dwelling site located in southwestern Colorado.</li><li>It was built under a rock overhang and inhabited from approximately 1200-1280 CE.</li><li>The overhanging rock ledges offered protection from heavy rain and snow.</li><li>Ansel Hall is an Ancestral Puebloan dwelling site located in southwestern Colorado.</li><li>It was built on relatively flat terrain and inhabited from approximately 1050-1160 CE.</li><li>This level surface allowed for the construction of large terraced buildings.</li></ul></blockquote>",
+      "question": "The student wants to explain an advantage of the Spruce Tree House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Since it was built under a rock overhang, Spruce Tree House was naturally protected from heavy rain and snow."
+        },
+        {
+          "name": "B",
+          "content": "The location of Spruce Tree House, an Ancestral Puebloan dwelling site in southwestern Colorado, provided an advantage to its inhabitants."
+        },
+        {
+          "name": "C",
+          "content": "Located in southwestern Colorado, Spruce Tree House is an Ancestral Puebloan dwelling site that was inhabited from approximately 1200-1280 CE."
+        },
+        {
+          "name": "D",
+          "content": "The relatively flat terrain on which Spruce Tree House was built allowed for the construction of large terraced buildings."
+        }
+      ],
+      "correct": "Since it was built under a rock overhang, Spruce Tree House was naturally protected from heavy rain and snow.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Kepler's first law of planetary motion states that the orbit of a planet around the Sun is an ellipse.</li><li>The law also states that, in an elliptical orbit, the object being orbited is one of the ellipse's foci.</li><li>Kepler's laws of planetary motion also apply to natural satellites (e.g., moons).</li><li>Tethys is a moon of Saturn that orbits the planet in 1.89 Earth days on average.</li><li>Tethys's orbit is elliptical.</li></ul></blockquote>",
+      "question": "The student wants to provide an explanation and example of Kepler's first law of planetary motion. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Saturn's moon Tethys completes an orbit in 1.89 Earth days on average, a clear example of Kepler's first law of planetary motion, which describes the elliptical orbit of planets."
+        },
+        {
+          "name": "B",
+          "content": "Tethys's orbit of Saturn is elliptical, demonstrating Kepler's first law of planetary motion, which describes the elliptical orbits of planets but applies to moons as well."
+        },
+        {
+          "name": "C",
+          "content": "Kepler's first law of planetary motion, which describes the orbits of Saturn and other planets in the solar system, states that the object being orbited is one of the ellipse's foci."
+        },
+        {
+          "name": "D",
+          "content": "Kepler's first law of planetary motion states that the orbit of a planet around the Sun is an ellipse: for example, planetary satellites orbit their planets in an elliptical fashion."
+        }
+      ],
+      "correct": "Tethys's orbit of Saturn is elliptical, demonstrating Kepler's first law of planetary motion, which describes the elliptical orbits of planets but applies to moons as well.",
+      "solution": ""
+    }
+  ]
+}

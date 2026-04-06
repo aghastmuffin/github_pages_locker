@@ -1,0 +1,682 @@
+{
+  "uuid": "92bd954b-0e12-4b86-bc5f-d64490221af2",
+  "chunk": "BmYbPsp4.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from John Matheus's 1925 novel <i>Fog</i>. The story happens in a city where heavy fog has set in.</p><blockquote style=\"margin-left: 40px;\"><p>The little conductor stood on tiptoe in an effort to keep one hand on the signal rope, craning his neck in a vain and dissatisfied endeavor to pierce the miasma of the fog. The motorman chafed in his box, thinking of the drudging lot of the laboring man. He <u>registered</u> discontent.</p></blockquote>",
+      "question": "As used in the text, what does the word âregisteredâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "enrolled"
+        },
+        {
+          "name": "B",
+          "content": "valued"
+        },
+        {
+          "name": "C",
+          "content": "disregarded"
+        },
+        {
+          "name": "D",
+          "content": "displayed"
+        }
+      ],
+      "correct": "displayed",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>ä»¥ä¸æå­èéèªçº¦ç¿°ã»é©¬ä¿®æ¯ 1925 å¹´çå°è¯´ãé¾ããæäºåçå¨ä¸åº§æµé¾å¼¥æ¼«çåå¸ã<br>å°ä¸ªå­å®ç¥¨åè¸®èµ·èå°ï¼åªåç¨ä¸åªææä½ä¿¡å·ç»³ï¼ä¼¸é¿èå­ï¼å¾å³åä¸æ»¡å°è¯å¾ç©¿éè¿é¾æ°ãå¸æºå¨é©¾é©¶å®¤éç¦èºä¸å®ï¼æ³çå³å·¥ä»¬è¾è¦çå½è¿ãä»æµé²åºä¸æ»¡æç»ªã<br>å¨æä¸­ï¼âregisteredâ ä¸è¯ææ¥è¿ä»¥ä¸åªä¸ªææï¼<br><strong>è§£æ</strong>ï¼<br>æä¸­æè¿°å¸æºå¿éæ³çå³å·¥è¾è¦ï¼ç¶å âregistered discontentâ ï¼ç»åè¯­å¢æ¯è¯´å¸æºè¡¨ç°åºãæµé²åºä¸æ»¡æç»ªï¼ registerææµé²è¡¨ç°åºçææã<br><ul><li><strong>A éé¡¹ âenrolledâ</strong>&nbsp;ï¼æææ¯ âç»è®°ï¼æ³¨åâ ï¼ä¸æä¸­è¡¨è¾¾ç âæµé²åºï¼æç»ªï¼â ææä¸ç¬¦ã</li><li><strong>B éé¡¹ âvaluedâ</strong>&nbsp;ï¼æä¸º âéè§ï¼çè§â ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>C éé¡¹ âdisregardedâ</strong>&nbsp;ï¼æ¯ âå¿½è§ï¼ä¸çä¼â çææï¼ååæé»è¾ä¸ç¬¦ã</li><li><strong>D éé¡¹ âdisplayedâ</strong>&nbsp;ï¼è¡¨ç¤º âå±ç¤ºï¼è¡¨ç°åºâ ï¼âdisplayed discontentâ å³ âè¡¨ç°åºä¸æ»¡â ï¼ç¬¦ååæè¯­å¢ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ Dã<br>æä¸­ç«è½¦å¸æºå¯¹ç°ç¶ä¸æ»¡ï¼âregisteredâ å¨æ­¤å¤åºè¡¨ç¤º âè¡¨ç°åºâ ä¸æ»¡ï¼ææ¥è¿ âdisplayedâ çææã<br>æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from John Matheus's 1925 novel <i>Fog</i>. The story happens in a city where heavy fog has set in.</p><blockquote style=\"margin-left: 40px;\"><p>The little conductor stood on tiptoe in an effort to keep one hand on the signal rope, craning his neck in a vain and dissatisfied endeavor to pierce the miasma of the fog. The motorman chafed in his box, thinking of the drudging lot of the laboring man. He <u>registered</u> discontent.</p></blockquote>",
+      "question": "As used in the text, what does the word âregisteredâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "enrolled"
+        },
+        {
+          "name": "B",
+          "content": "valued"
+        },
+        {
+          "name": "C",
+          "content": "disregarded"
+        },
+        {
+          "name": "D",
+          "content": "displayed"
+        }
+      ],
+      "correct": "displayed",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>ä»¥ä¸æå­èéèªçº¦ç¿°ã»é©¬ä¿®æ¯ 1925 å¹´çå°è¯´ãé¾ããæäºåçå¨ä¸åº§æµé¾å¼¥æ¼«çåå¸ã<br>å°ä¸ªå­å®ç¥¨åè¸®èµ·èå°ï¼åªåç¨ä¸åªææä½ä¿¡å·ç»³ï¼ä¼¸é¿èå­ï¼å¾å³åä¸æ»¡å°è¯å¾ç©¿éè¿é¾æ°ãå¸æºå¨é©¾é©¶å®¤éç¦èºä¸å®ï¼æ³çå³å·¥ä»¬è¾è¦çå½è¿ãä»æµé²åºä¸æ»¡æç»ªã<br>å¨æä¸­ï¼âregisteredâ ä¸è¯ææ¥è¿ä»¥ä¸åªä¸ªææï¼<br><strong>è§£æ</strong>ï¼<br>æä¸­æè¿°å¸æºå¿éæ³çå³å·¥è¾è¦ï¼ç¶å âregistered discontentâ ï¼ç»åè¯­å¢æ¯è¯´å¸æºè¡¨ç°åºãæµé²åºä¸æ»¡æç»ªï¼ registerææµé²è¡¨ç°åºçææã<br><ul><li><strong>A éé¡¹ âenrolledâ</strong>&nbsp;ï¼æææ¯ âç»è®°ï¼æ³¨åâ ï¼ä¸æä¸­è¡¨è¾¾ç âæµé²åºï¼æç»ªï¼â ææä¸ç¬¦ã</li><li><strong>B éé¡¹ âvaluedâ</strong>&nbsp;ï¼æä¸º âéè§ï¼çè§â ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>C éé¡¹ âdisregardedâ</strong>&nbsp;ï¼æ¯ âå¿½è§ï¼ä¸çä¼â çææï¼ååæé»è¾ä¸ç¬¦ã</li><li><strong>D éé¡¹ âdisplayedâ</strong>&nbsp;ï¼è¡¨ç¤º âå±ç¤ºï¼è¡¨ç°åºâ ï¼âdisplayed discontentâ å³ âè¡¨ç°åºä¸æ»¡â ï¼ç¬¦ååæè¯­å¢ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ Dã<br>æä¸­ç«è½¦å¸æºå¯¹ç°ç¶ä¸æ»¡ï¼âregisteredâ å¨æ­¤å¤åºè¡¨ç¤º âè¡¨ç°åºâ ä¸æ»¡ï¼ææ¥è¿ âdisplayedâ çææã<br>æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although fewer companies trade their stocks on the Tehran Stock Exchange in Tehran, Iran, than on the stock exchanges in London, Mumbai, or Tokyo, the Tehran Stock Exchange has the advantage of focusing on local companies and thus reflecting economic circumstances that are ______ Iran. This sensitivity to unique, rapidly evolving local conditions benefits the companies and investors alike.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "irrelevant to"
+        },
+        {
+          "name": "B",
+          "content": "prohibitive in"
+        },
+        {
+          "name": "C",
+          "content": "distinctive to"
+        },
+        {
+          "name": "D",
+          "content": "unchanging in"
+        }
+      ],
+      "correct": "distinctive to",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>å°½ç®¡å¨ä¼æå¾·é»å°è¯å¸äº¤ææè¿è¡è¡ç¥¨äº¤æçå¬å¸æ°éï¼æ¯å¨ä¼¦æ¦ãå­ä¹°æä¸äº¬è¯å¸äº¤ææäº¤æçå¬å¸æ°éå°ï¼ä½å¾·é»å°è¯å¸äº¤ææçä¼å¿å¨äºèç¦æ¬å°å¬å¸ï¼ä»èåæ åº____ä¼æçç»æµæåµãè¿ç§å¯¹ç¬ç¹ä¸å¿«éååçæ¬å°æåµçæææ§ï¼ä½¿å¬å¸åæèµèé½åçã<br><strong>è§£æ</strong>ï¼<br><ul><li><strong>A éé¡¹ âirrelevant toâ</strong>&nbsp;ï¼æææ¯ âä¸â¦â¦ æ å³â ãå¦æç»æµæåµä¸ä¼ææ å³ï¼å°±æ æ³ä½ç°å¾·é»å°è¯å¸äº¤ææèç¦æ¬å°å¬å¸çä¼å¿ï¼ä¸ç¬¦åè¯­å¢ã</li><li><strong>B éé¡¹ âprohibitive inâ</strong>&nbsp;ï¼è¡¨ç¤º âå¨â¦â¦ æ¹é¢ç¦æ­¢æ§çï¼æå¶æ§çâ ãæä¸­æ²¡ææåç»æµæåµå¨ä¼ææ¯ç¦æ­¢æ§ææå¶æ§ç¸å³åå®¹ï¼è¯¥éé¡¹ä¸åéã</li><li><strong>C éé¡¹ âdistinctive toâ</strong>&nbsp;ï¼æä¸º âä¸ºâ¦â¦ æç¹æçâ ãå¾·é»å°è¯å¸äº¤ææèç¦æ¬å°å¬å¸ï¼è½åæ åºä¼æç¹æçç»æµæåµï¼ç¬¦åæä¸­ âç¬ç¹çæ¬å°æåµâ è¿ä¸è¡¨è¿°ï¼é»è¾åçã</li><li><strong>D éé¡¹ âunchanging inâ</strong>&nbsp;ï¼æææ¯ âå¨â¦â¦ æ¹é¢ä¸åçâ ãä½æä¸­æå°æ¬å°æåµæ¯ âå¿«éååçâ ï¼è¯¥éé¡¹ä¸åæçç¾ã</li></ul>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ Cã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Caracas, Venezuela, and of Fortaleza, Brazil, were surveyed about parks in their cities. Of the 1,043 respondents from Caracas, 44.7% indicated that they use the city's parks, and of the 938 respondents from Fortaleza, 35.7% indicated using city parks. <u>It may be tempting to assume the difference is due to different levels of access to parks:</u> however, given that the percentage of Caracas respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It introduces a counterexample to the scenario described earlier in the text."
+        },
+        {
+          "name": "B",
+          "content": "It provides context to help understand the scope of the researchers' survey."
+        },
+        {
+          "name": "C",
+          "content": "It marks a shift from a discussion of the researchersâ conclusion to a discussion of their methods."
+        },
+        {
+          "name": "D",
+          "content": "It presents a potential explanation for the team's findings that the text goes on to refute."
+        }
+      ],
+      "correct": "It presents a potential explanation for the team's findings that the text goes on to refute.",
+      "solution": "<strong>ç¿»è¯</strong>ï¼<br>å¨ç±³å¡ã»Rã»è«å°ãä¸¹å°¼å°ã»Aã»ç½å¾·éæ ¼æ¯ååäºå¼å±çä¸é¡¹ç ç©¶ä¸­ï¼å¯¹å§åçæå æå æ¯åå·´è¥¿ç¦å¡è±è¨çå±æ°è¿è¡äºå³äºåå¸å¬å­çè°æ¥ãå¨æ¥èªå æå æ¯ç 1043 ååè®¿èä¸­ï¼44.7% çäººè¡¨ç¤ºä¼ä½¿ç¨åå¸å¬å­ï¼å¨æ¥èªç¦å¡è±è¨ç 938 ååè®¿èä¸­ï¼35.7% çäººè¡¨ç¤ºä¼ä½¿ç¨åå¸å¬å­ã<u>äººä»¬å¯è½ä¼å¾åäºè®¤ä¸ºè¿ç§å·®å¼æ¯ç±äºå¬å­å¯è¾¾æ§ä¸åé æç</u>ï¼ç¶èï¼é´äºå æå æ¯æ¥åç§°å±ä½å¨è·ç¦»å¬å­æ­¥è¡ 10 åéèå´åçåè®¿èæ¯ä¾è¿ä½äºç¦å¡è±è¨çåè®¿èï¼ä»é æ´è¿çè·ç¦»å¹¶ä¸è½è§£éå¬å­ä½¿ç¨æåµçå·®å¼ã<br><strong>é¢ç®ç¿»è¯</strong>ï¼<br>4. ä»¥ä¸åªä¸ªéé¡¹æè½æè¿°æä¸­åçº¿é¨åå¨æ´ä½ææ¬ä¸­çä½ç¨ï¼<br><strong>è§£æ</strong>ï¼<br><ul><li>åçº¿å¥æåºä¸ç§å¯è½çè§£éï¼å³è®¤ä¸ºä¸¤ä¸ªåå¸å¬å­ä½¿ç¨æ¯ä¾å·®å¼æ¯å¬å­å¯è¾¾æ§ä¸åå¯¼è´çï¼ä½åæéè¿å¯¹æ¯å±ä½å¨å¬å­éè¿çåè®¿èæ¯ä¾ï¼è¯´æä»é è·ç¦»è¿ä¸è½è§£éå·®å¼ï¼ä¹å°±æ¯å¯¹åçº¿å¥çè§£éè¿è¡äºåé©³ã</li><li><strong>A éé¡¹</strong>ï¼åçº¿å¥ä¸æ¯åä¾ï¼åä¾æ¯ç¨æ¥åé©³æä¸ªè§ç¹çå·ä½äºä¾ï¼è¿éåªæ¯ä¸ç§åè®¾çè§£éï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>B éé¡¹</strong>ï¼åçº¿å¥æ²¡ææä¾å³äºç ç©¶èå´çèæ¯ä¿¡æ¯ï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>C éé¡¹</strong>ï¼æä¸­æ²¡æä»ç ç©¶ç»è®ºè½¬åç ç©¶æ¹æ³çè®¨è®ºï¼è¯¥éé¡¹éè¯¯ã</li><li><strong>D éé¡¹</strong>ï¼åç¡®æåºåçº¿å¥åç°äºä¸ç§å¯¹ç ç©¶ç»æçæ½å¨è§£éï¼ä¸åæè¿è¡äºåé©³ï¼ç¬¦åææã</li></ul><br>ç»¼ä¸ï¼æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "The following text is adapted from Anton Chekhov's 1899 play <i>Uncle Vanya</i>. Professor Serebrakoff retires and moves to his country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays the professor as being someone unable to adjust to living at the country estate, as is evident when ______",
+      "question": "Which quotation from Uncle Vanya most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Professor Serebrakoff says, \"I am a book-worm and a scholar, and am unfamiliar with practical affairs. I cannot, I find, dispense with the help of well-informed people.\""
+        },
+        {
+          "name": "B",
+          "content": "Professor Serebrakoff says to Helena, \"My darling, don't leave me alone with [Vanya]. He will begin lecture me.\""
+        },
+        {
+          "name": "C",
+          "content": "Professor Serebrakoff says to Helena, \"I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness(the cottage), condemned to see the same stupid people from morning till night and listen to their futile conversations.\""
+        },
+        {
+          "name": "D",
+          "content": "Vanya says to Professor Serebrakoff, \"You write on art without knowing anything about it. Those books of yours which I used to admire are not worth one copper kopeck. You are a hoax!\""
+        }
+      ],
+      "correct": "Professor Serebrakoff says to Helena, \"I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness(the cottage), condemned to see the same stupid people from morning till night and listen to their futile conversations.\"",
+      "solution": "A éé¡¹ä¸­ææè¯´èªå·±æ¯ä¹¦è«åå­¦èï¼ä¸çæå®éäºå¡ï¼æ²¡æä½ç°å¯¹ä¹¡æçæ´»çéåºï¼<br>B éé¡¹ä¸­ææè®©æµ·ä¼¦å¨ä¸è¦çä¸ä»åä¸å°¼äºåç¬ç¸å¤ï¼æ²¡æä½ç°å¯¹ä¹¡æçæ´»çéåºï¼<br>C éé¡¹ä¸­ææè¯´èªå·±ä¹ æ¯äºå¾ä¹¦é¦åè®²å ï¼ç°å¨å´èº«å¤ä¹¡æï¼ä½ç°äºå¯¹ä¹¡æçæ´»çä¸éåºï¼<br>D éé¡¹æ¯ä¸å°¼äºå¯¹ææçæè´£ï¼æ²¡æä½ç°ææå¯¹ä¹¡æçæ´»çéåºã<br>æ­£ç¡®ç­æ¡æ¯ Cã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Jerome K. Jerome's 1889 novel <i>Three Men in a Boat</i>.</p><blockquote style=\"margin-left: 40px;\"><p>We are creatures of the sun, we men and women. We love light and life. That is why we crowd into the towns and cities, and the country grows more and more deserted every year. In the sunlightâin the daytime, when Nature is alive and busy all around us, we like the open hillsides and the deep woods well enough: but in the night, when our Mother Earth has gone to sleep, and left us waking, oh! the world seems so lonesome, and we get frightened, like children in a silent house. Then we sit and sob, and long for the gas-lit streets, and the sound of human voices, and the answering throb of human life.</p></blockquote>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To indicate that crowded areas can cause people to feel as though they are children again."
+        },
+        {
+          "name": "B",
+          "content": "To caution people not to be so quick to dismiss the natural beauty that can be found in rural areas."
+        },
+        {
+          "name": "C",
+          "content": "To address common traits that motivates many people to choose to live in urban environments."
+        },
+        {
+          "name": "D",
+          "content": "To illustrate the idea that most people tend to prefer hillsides in the country to certain aspects of towns and cities."
+        }
+      ],
+      "correct": "To address common traits that motivates many people to choose to live in urban environments.",
+      "solution": "A éé¡¹ âè¡¨ææ¥æ¤çå°åºä¼è®©äººä»¬æè§èªå·±åå­©å­ä¸æ ·âï¼<br>B éé¡¹ âåè¯«äººä»¬ä¸è¦è½»æå¿½è§ä¹¡æå°åºè½åç°çèªç¶ç¾âï¼<br>C éé¡¹ âéè¿°ä¿ä½¿è®¸å¤äººéæ©çæ´»å¨åå¸ç¯å¢ä¸­çå±åç¹å¾âï¼<br>D éé¡¹ âè¯´æå¤§å¤æ°äººå¨æäºæ¹é¢æ´å¾åäºä¹¡æçå±±å¡èä¸æ¯åéååå¸âã<br>æä¸­å¼ºè°äººä»¬ç­ç±åæåçæ´»ï¼æä»¥æ¶å¥åéï¼C éé¡¹ç¬¦åææã<br>æ­£ç¡®ç­æ¡æ¯ Cã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Falcons and horses can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of falcons and horses than that of octopuses or squid.</p>",
+      "question": "Which choice best describes the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Cuttlefish eyes are much more complex than those of falcons or horses."
+        },
+        {
+          "name": "B",
+          "content": "Wardill's team designed 3D glasses for cuttlefish."
+        },
+        {
+          "name": "C",
+          "content": "Before completing their study, Wardill's team thought that cuttlefish have 3D vision, but horses may not."
+        },
+        {
+          "name": "D",
+          "content": "The finding of Wardill's team's study suggests like falcons and horses, cuttlefish may also have 3D vision."
+        }
+      ],
+      "correct": "The finding of Wardill's team's study suggests like falcons and horses, cuttlefish may also have 3D vision.",
+      "solution": "A éé¡¹ âä¹è´¼çç¼çæ¯çé¹°æé©¬çç¼çå¤æå¾å¤âï¼æä¸­æªæåç¼çå¤æç¨åº¦çæ¯è¾ï¼<br>B éé¡¹ âæ²è¿ªå°çå¢éä¸ºä¹è´¼è®¾è®¡äº 3D ç¼éâï¼æä¸­æ²¡ææå°è®¾è®¡ 3D ç¼éè¿ä¸åå®¹ï¼<br>C éé¡¹ âå¨å®æç ç©¶ä¹åï¼æ²è¿ªå°çå¢éè®¤ä¸ºä¹è´¼æ 3D è§è§ï¼ä½é©¬å¯è½æ²¡æâï¼æä¸­å¹¶æ²¡æè¿æ ·çè¡¨è¿°ï¼<br>D éé¡¹ âæ²è¿ªå°å¢éçç ç©¶ç»æè¡¨æï¼åçé¹°åé©¬ä¸æ ·ï¼ä¹è´¼å¯è½ä¹æ 3D è§è§âï¼ç¬¦åæç« ä¸»è¦åå®¹ã<br>æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as White House Counsel Chuck Colson and White House Counsel John Dean. But Nixon's legacy is complex: he has been praised for his role in creating the Environmental Protection Agency, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Chuck Colson and John Dean were significant figures in the presidency of Richard Nixon."
+        },
+        {
+          "name": "B",
+          "content": "Richard Nixon is commonly linked with an infamous historical event, but this overshadows some of his notable achievements."
+        },
+        {
+          "name": "C",
+          "content": "Some of Richard Nixon's policies influenced the policies of later presidential administrations."
+        },
+        {
+          "name": "D",
+          "content": "Richard Nixon's reputation is primarily due to the actions of his associates."
+        }
+      ],
+      "correct": "Richard Nixon is commonly linked with an infamous historical event, but this overshadows some of his notable achievements.",
+      "solution": "A éé¡¹ âæ¥åã»ç§å°æ£®åçº¦ç¿°ã»è¿ªæ©æ¯çæ¥å¾·ã»å°¼åæ¾æ»ç»ä»»æåçéè¦äººç©âï¼æä¸­è½æåäºäººï¼ä½è¿ä¸æ¯ä¸»è¦ææ³ï¼<br>B éé¡¹ âçæ¥å¾·ã»å°¼åæ¾éå¸¸ä¸ä¸ä¸ªè­åæ­èçåå²äºä»¶èç³»å¨ä¸èµ·ï¼ä½è¿æ©çäºä»çä¸äºæ¾èæå°±âï¼ç¬¦åæç« ä¸»è¦åå®¹ï¼æ¢æå°äºæ°´é¨äºä»¶ï¼åæå°äºä»çæ­£é¢æå°±ï¼<br>C éé¡¹ âçæ¥å¾·ã»å°¼åæ¾çä¸äºæ¿ç­å½±åäºåæ¥æ»ç»ä»»æçæ¿ç­âï¼æä¸­è½ææåï¼ä½ä¸æ¯ä¸»è¦å¨å¼ºè°æ¿ç­å½±åï¼<br>D éé¡¹ âçæ¥å¾·ã»å°¼åæ¾çå£°èªä¸»è¦å½å äºä»çååçè¡ä¸ºâï¼ä¸ç¬¦åæç« ä¸»æ¨ã<br>æ­£ç¡®ç­æ¡æ¯ Bã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Cane</i> is a 1923 novel by Jean Toomer. In one portion of the novel, Toomer uses figurative language to connect the narrator's urban environment of Washington, DC, and the rural South of the narrator's past, writing ______</p>",
+      "question": "Which quotation from <i>Cane</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âThe [train] engines of this valley have a whistle, the echoes of which sound like iterated gasps and sobs. I always think of them as crude music.â"
+        },
+        {
+          "name": "B",
+          "content": "âAnd when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].â"
+        },
+        {
+          "name": "C",
+          "content": "âI sang, with a strange quiver in my voice, a promise-song.â"
+        },
+        {
+          "name": "D",
+          "content": "âThe young trees had not outgrown their boxes then. V Street [in Washington, DC] was lined with them.â"
+        }
+      ],
+      "correct": "âAnd when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].â",
+      "solution": "A éé¡¹æè¿°äºå±±è°·ä¸­çç«è½¦å¼æå£°ï¼æ²¡æä½ç°åå¸ä¸ä¹¡æçèç³»ï¼<br>B éé¡¹æå°å½é£ä»åæ¹å¹æ¥ï¼æä¹¡çåå£¤åè¥æ²çéµé¨è½å¨åçé¡¿ç¹åºçè¡éä¸ï¼ä½ç°äºåæ¹ä¹¡æä¸åçé¡¿ç¹åºåå¸çèç³»ï¼<br>C éé¡¹æè¿°å±æ­çææ¯ï¼æ²¡æä½ç°åå¸ä¸ä¹¡æçèç³»ï¼<br>D éé¡¹æè¿°å¹´è½»çæ æ²¡æé¿è¿ç®±å­ï¼V è¡æåçè¿äºæ ï¼æ²¡æä½ç°åå¸ä¸ä¹¡æçèç³»ã<br>æ­£ç¡®ç­æ¡æ¯ Bã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many believe that lullabies, characterized by their less steady beat, contain some acoustic features that are universally calming to infants. In a study, Constance M. Bainbridge and colleagues played both a lullaby sung in the Western Nahuatl language and a non-lullaby sung in the Serbian language to a group of infants. The researchers also measured the infants' heart rates, as a reduced heart rate is considered a measure of relaxation. They claim that the lullaby did indeed relax the infants.</p>",
+      "question": "Which finding, if true, would most directly support Bainbridge and colleagues claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The heart rates of infants in the study were more irregular during the lullabies than during non-lullabies."
+        },
+        {
+          "name": "B",
+          "content": "Parents of infants in the study chose the lullaby over the non-lullaby when asked which song they Infants' use to calm their child."
+        },
+        {
+          "name": "C",
+          "content": "Infantsâ heart rates were substantially lower during the lullaby than during the non-lullaby."
+        },
+        {
+          "name": "D",
+          "content": "Both the song in Western Nahuatl and the song in Serbian were sung by a female singer."
+        }
+      ],
+      "correct": "Infantsâ heart rates were substantially lower during the lullaby than during the non-lullaby.",
+      "solution": "A éé¡¹ âç ç©¶ä¸­å©´å¿å¨å¬æç¯®æ²æ¶çå¿çæ¯å¬éæç¯®æ²æ¶æ´ä¸è§åâï¼è¿ä¸æç¯®æ²è½è®©å©´å¿æ¾æ¾çè¯´æ³ç¸æï¼<br>B éé¡¹ âç ç©¶ä¸­å©´å¿çç¶æ¯å¨è¢«é®åç¨ä»ä¹æ­æ¥å®æå­©å­æ¶éæ©äºæç¯®æ²èééæç¯®æ²âï¼è¿æ¯ç¶æ¯çä¸»è§éæ©ï¼å¹¶éç´æ¥è¯æ®ï¼<br>C éé¡¹ âå©´å¿å¨å¬æç¯®æ²æ¶çå¿çææ¾ä½äºå¬éæç¯®æ²æ¶âï¼è¿ç´æ¥æ¯æäºæç¯®æ²è½è®©å©´å¿æ¾æ¾ï¼å¿çéä½ï¼çè¯´æ³ï¼<br>D éé¡¹ âè¥¿é¨çº³ç¦éè¯­åå¡å°ç»´äºè¯­çæ­æ²é½æ¯ç±å¥³æ§æ­ææ¼å±çâï¼ä¸æç¯®æ²çå®ææææ å³ã<br>æ­£ç¡®ç­æ¡æ¯ Cã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Contributions of Three Key Industries to Oklahoma Economy in 2017</p><div style=\"text-align: center;\"><img src=\"/images/1a4e6b8c2827b9587bf848f59fd3f132.png\" width=\"413\" height=\"154\"></div><p>The Cherokee Nation, the Seminole Nation, and the more than thirty other tribes in Oklahoma operate numerous businesses and collectively generate billions of dollars in revenue. In fact, when the tribes' economic activity is regarded as a single industry, its contribution to the Oklahoma economy in 2017 ______</p>",
+      "question": "Which choice uses data from the table to most effectively complete the comparison?",
+      "options": [
+        {
+          "name": "A",
+          "content": "surpassed the contribution made by administration/waste but fell short of that made by real estate."
+        },
+        {
+          "name": "B",
+          "content": "exceeded the contribution made by both administration/waste and real estate."
+        },
+        {
+          "name": "C",
+          "content": "was greater than the contribution made by real estate but equal to that made by administration/waste."
+        },
+        {
+          "name": "D",
+          "content": "was lower than the contribution made by either administration/waste or real estate."
+        }
+      ],
+      "correct": "surpassed the contribution made by administration/waste but fell short of that made by real estate.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapesânarrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)âshowed that for large vortices, fish with intermediate heads would be better able than narrow-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than narrow-headed fish to detect obstructions that create large vortices.</p>",
+      "question": "Which finding, if true, would most directly support the second research team's hypothesis?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed lake sturgeon (<i>Acipenser fulvescens</i>) bumped into obstructions more often than the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) did."
+        },
+        {
+          "name": "B",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the lake sturgeon (<i>Acipenser fulvescens</i>), which has a relatively narrow head, bumped into more than half of the obstructions."
+        },
+        {
+          "name": "C",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) bumped into the obstructions more often than other specimens of the same fish did."
+        },
+        {
+          "name": "D",
+          "content": "A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) avoided more than half of the obstructions."
+        }
+      ],
+      "correct": "A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed lake sturgeon (<i>Acipenser fulvescens</i>) bumped into obstructions more often than the intermediate-headed dusky smooth-hound (<i>Mustelus canis</i>) did.",
+      "solution": "A éé¡¹ âä¸é¡¹å¨ä½è½è§åº¦æ¡ä»¶ä¸ä½¿ç¨äº§çå¤§æ¼©æ¶¡çéç¢ç©è¿è¡çç ç©¶åç°ï¼çªå¤´çæ¹é²ï¼Acipenser fulvescensï¼æ¯ä¸­å¤´çç°æé²¨ï¼Mustelus canisï¼æ´é¢ç¹å°æå°éç¢ç©ãâï¼è¿ç´æ¥æ¯æäºä¸­å¤´é±¼å¨ä½è½è§åº¦ä¸æ´è½æ¢æµéç¢ç©çåè®¾ï¼<br>B éé¡¹ âä¸é¡¹å¨ä½è½è§åº¦æ¡ä»¶ä¸ä½¿ç¨äº§çå¤§æ¼©æ¶¡çéç¢ç©è¿è¡çç ç©¶åç°ï¼æ¹é²ï¼Acipenser fulvescensï¼ï¼å¤´ç¸å¯¹è¾çªï¼æå°è¶è¿ä¸åçéç¢ç©ãâï¼è¿åªè¯´æäºçªå¤´é±¼çæåµï¼æ²¡æä¸ä¸­å¤´é±¼å¯¹æ¯ï¼<br>C éé¡¹ âä¸é¡¹å¨ä½è½è§åº¦æ¡ä»¶ä¸ä½¿ç¨äº§çå¤§æ¼©æ¶¡çéç¢ç©è¿è¡çç ç©¶åç°ï¼ä¸äºä¸­å¤´çç°æé²¨ï¼Mustelus canisï¼æ¯åä¸ç§é±¼çå¶ä»ä¸ªä½æ´é¢ç¹å°æå°éç¢ç©ãâï¼æ²¡æä¸çªå¤´é±¼å¯¹æ¯ï¼<br>D éé¡¹ âä¸é¡¹å¨ä½è½è§åº¦æ¡ä»¶ä¸ä½¿ç¨äº§çå¤§æ¼©æ¶¡çéç¢ç©è¿è¡çç ç©¶åç°ï¼ä¸­å¤´çç°æé²¨ï¼Mustelus canisï¼é¿å¼äºè¶è¿ä¸åçéç¢ç©ãâï¼æ²¡æä¸çªå¤´é±¼å¯¹æ¯ã<br>æ­£ç¡®ç­æ¡æ¯ Aã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\"><img src=\"/images/cae9cc95b61a92910d9c39f3ede4149f.png\" width=\"322\" height=\"319\"></p><p>In a college course on urban affairs, a student asserts that increased traffic congestion in the 1990s in the United States was present both in very large cities such as New York City, New York, and smaller areas such as Albuquerque, New Mexico, Jacksonville, Florida, and Boise, Idaho; though those smaller areas may have been less affected by traffic congestion than very large cities, this congestion also worsened in them over time.</p>",
+      "question": "Which choice best describes data from the graph that support the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In at least one of the four urban areas shown, the amount of traffic delay was less than 20 hours per commuter per year at one point between 1990 and 2000."
+        },
+        {
+          "name": "B",
+          "content": "While the annual number of hours of traffic delay per commuter was always lower in the Boise, Idaho, area than in the New York City, New York, area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period."
+        },
+        {
+          "name": "C",
+          "content": "Even though the amount of traffic delay per commuter per year was greater in the Albuquerque, New Mexico, area than in the New York City, New York, area throughout the period from 1990 to 2000, the amounts were nearly identical in 1996."
+        },
+        {
+          "name": "D",
+          "content": "In 1992, the amount of traffic delay in the New York City, New York, area was less than 30 hours per commuter per year."
+        }
+      ],
+      "correct": "While the annual number of hours of traffic delay per commuter was always lower in the Boise, Idaho, area than in the New York City, New York, area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period.",
+      "solution": "A éé¡¹ âå¨ 1990 å¹´å° 2000 å¹´ä¹é´ï¼è³å°æä¸ä¸ªåä¸ªåå¸åºåæ¾ç¤ºäº¤éå»¶è¯¯éæ¯éå¤èæ¯å¹´å°äº 20 å°æ¶ãâï¼ä¸å¾è¡¨ä¸ç¬¦ï¼å¾è¡¨ä¸­ååå¸äº¤éå»¶è¯¯éé½è¶è¿ 20 å°æ¶ï¼<br>B éé¡¹ âè½ç¶ 1990 å¹´å° 2000 å¹´æé´ï¼ç±è¾¾è·å·åä¼è¥¿æ¯éå¤èæ¯å¹´çäº¤éå»¶è¯¯å°æ¶æ°æ»æ¯ä½äºçº½çº¦å¸ï¼ä½å¨æ­¤æé´è¿ä¸¤ä¸ªå°åºçäº¤éå»¶è¯¯éé½å¨ä¸åãâï¼ç¬¦åå¾è¡¨æ°æ®ï¼çº½çº¦å¸ååä¼è¥¿çäº¤éå»¶è¯¯éé½å¨å¢å ï¼<br>C éé¡¹ âå°½ç®¡ 1990 å¹´å° 2000 å¹´æé´ï¼æ°å¢¨è¥¿å¥å·é¿å°ä¼¯ååºæ¯éå¤èæ¯å¹´çäº¤éå»¶è¯¯éå¤§äºçº½çº¦å¸ï¼ä½å¨ 1996 å¹´è¿ä¸¤ä¸ªå°åºçéå ä¹ç¸åãâï¼å¾è¡¨ä¸­å¹¶æ²¡ææ¾ç¤º 1996 å¹´ä¸¤èå ä¹ç¸åï¼<br>D éé¡¹ â1992 å¹´ï¼çº½çº¦å¸æ¯éå¤èæ¯å¹´çäº¤éå»¶è¯¯éå°äº 30 å°æ¶ãâï¼å¾è¡¨ä¸­ 1992 å¹´çº½çº¦å¸äº¤éå»¶è¯¯éè¶è¿ 30 å°æ¶ã<br>æ­£ç¡®ç­æ¡æ¯ Bã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Ranking of Environmental and Sociocultural Benefits of Urban Agriculture (scale of 1 to 25; 1=highest)</p><p style=\"text-align: center;\"><img src=\"/images/88b937b5c21619ed7a98a71263d99a8f.png\" width=\"585\" height=\"180\"></p><p>Esther Sanye-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italyâleaders of urban agriculture projects, stakeholders in urban agriculture (e. g., food researchers and urban farming associations), and the general publicâto compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The researchers used these ratings to rank the services for each group, with a conclusion that both stakeholders and general public regard the improvement of attitudes and outlooks as important benefit of urban agriculture.</p>",
+      "question": "Which choice best describes data in the table that support the city planner's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The improvement of physical health was ranked lower for the general public than it was for project leaders."
+        },
+        {
+          "name": "B",
+          "content": "The provision of raw materials was ranked higher for the general public than was the improvement of attitudes and outlooks."
+        },
+        {
+          "name": "C",
+          "content": "The improvement of attitudes and outlooks was ranked higher for stakeholders than it was for the general public."
+        },
+        {
+          "name": "D",
+          "content": "The improvement of attitudes and outlooks was ranked higher for the general public than were the other four services."
+        }
+      ],
+      "correct": "The improvement of attitudes and outlooks was ranked higher for the general public than were the other four services.",
+      "solution": "A éé¡¹ âæ®éå¬ä¼å¯¹èº«ä½å¥åº·æ¹åçè¯çº§ä½äºé¡¹ç®é¢å¯¼èâï¼<br>B éé¡¹ âæ®éå¬ä¼å¯¹åææä¾åºçè¯çº§é«äºæåº¦åè§å¿µçæ¹åâï¼<br>C éé¡¹ âå©çç¸å³èå¯¹æåº¦åè§å¿µæ¹åçè¯çº§é«äºæ®éå¬ä¼âï¼<br>D éé¡¹ âæ®éå¬ä¼å¯¹æåº¦åè§å¿µæ¹åçè¯çº§é«äºå¶ä»åé¡¹æå¡âã<br>æ ¹æ®è¡¨æ ¼ï¼æ®éå¬ä¼å¯¹æåº¦åè§å¿µæ¹åçè¯çº§ä¸º 4ï¼é«äºå¶ä»åé¡¹æå¡ï¼é£ç©ä¾åº 8ãåææä¾åº 15ãèº«ä½å¥åº·æ¹å 7ãæ±¡æå¢å¼º 12ï¼ï¼D éé¡¹æ­£ç¡®ã<br>æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like many other fruit-eating birds on the Hawaiian island of Oahu, the red-whiskered bulbul helps forest plants spread by dropping seeds from the plants' fruits in different spots (a process called seed dispersal). Ecologists have found that fruit-eating birds disperse some seeds from native plants at risk of extinction in the wild, such as the lapalapa tree. However, the birds disperse a higher number of seeds from nightblooming jessamine shrubs and other non-native plants with large populations, likely because there are so many more of those plants for them to choose from. Therefore, it isn't surprising that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On Oahu, the rate of population increase is higher for non-native plants than it is for vulnerable native forest plants, like lapalapa trees."
+        },
+        {
+          "name": "B",
+          "content": "Night-blooming jessamine shrubs and other non-native forest plants only recently began to outnumber native forest plants in the wild."
+        },
+        {
+          "name": "C",
+          "content": "On Oahu, native plants, such as the lapalapa tree, are already growing in most of the spots where red-whiskered bulbuls would be likely to drop plant seeds on Oahu."
+        },
+        {
+          "name": "D",
+          "content": "The lapalapa tree and the night-blooming jessamine shrub are the plant species most in danger of going extinct in the wild."
+        }
+      ],
+      "correct": "On Oahu, the rate of population increase is higher for non-native plants than it is for vulnerable native forest plants, like lapalapa trees.",
+      "solution": "A éé¡¹ âå¨ç¦è¡å²ï¼éæ¬åæ¤ç©çç§ç¾¤å¢é¿çé«äºæ¬åçèå¼±æ£®ææ¤ç©ï¼å¦ææå¸æ ãâï¼ä¸åææå°é¸æ´å¤å°ä¼ æ­éæ¬åæ¤ç©ç§å­ç¸å¼åºï¼é»è¾è¿è´¯ï¼<br>B éé¡¹ âå¤é´å¼è±çèèçæ¨åå¶ä»éæ¬åæ£®ææ¤ç©åªæ¯æè¿æå¼å§å¨éå¤æ°éè¶è¿æ¬åæ¤ç©ãâï¼æä¸­æªæåæ°éè¶è¿æ¬åæ¤ç©çæ¶é´é®é¢ï¼<br>C éé¡¹ âå¨ç¦è¡å²ï¼æ¬åæ¤ç©ï¼å¦ææå¸æ ï¼å·²ç»å¨å¤§å¤æ°çº¢å´ç¸æé¸å¯è½æè½æ¤ç©ç§å­çå°æ¹çé¿ãâï¼ä¸åæé»è¾ä¸ç¬¦ï¼<br>D éé¡¹ âææå¸æ åå¤é´å¼è±çèèçæ¨æ¯å¨éå¤ææç­ç»å±é©çæ¤ç©ç§ç±»ãâï¼æä¸­åªæå°ææå¸æ æç­ç»å±é©ï¼æªæåèèçæ¨ã<br>æ­£ç¡®ç­æ¡æ¯ Aã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Cut, bent, and welded from discarded metal materials, the sculptures of London-based Nigerian artist Sokari Douglas Camp are meant to challenge viewers to consider their own relationships to material ______ her thought provoking works in the 1993 exhibition <i>Steel Clothes</i> and <i>Ornamentation</i> at the Redfern Gallery in London were no different.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "wastes;"
+        },
+        {
+          "name": "B",
+          "content": "wastes and to"
+        },
+        {
+          "name": "C",
+          "content": "wastes,"
+        },
+        {
+          "name": "D",
+          "content": "wastes"
+        }
+      ],
+      "correct": "wastes;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A recipient of the Othmer Gold Medal and the Davy Medal from the Royal Society, ______ known as femtochemistry when he devised an optical spectroscopy technique that allowed researchers to study ultrafast chemical reactions occurring within molecules.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the result of chemist Ahmed Zewail's expansion of the limits of measurability was the introduction of a new scientific discipline"
+        },
+        {
+          "name": "B",
+          "content": "the introduction of a new scientific discipline by chemist Ahmed Zewail led to the expansion of the limits of measurability"
+        },
+        {
+          "name": "C",
+          "content": "the limits of measurability were expanded by chemist Ahmed Zewail who introduced a new scientific discipline"
+        },
+        {
+          "name": "D",
+          "content": "chemist Ahmed Zewail expanded the limits of measurability and introduced a new scientific discipline"
+        }
+      ],
+      "correct": "chemist Ahmed Zewail expanded the limits of measurability and introduced a new scientific discipline",
+      "solution": "A éé¡¹ âåå­¦å®¶è¾åè¿å¾·ã»æ³½ç»´å°å¯¹å¯æµéæéçæ©å±çç»ææ¯å¼å¥äºä¸é¨æ°çç§å­¦å­¦ç§âï¼è¡¨è¿°è¾ä¸ºå¤æåæ··ä¹±ï¼<br>B éé¡¹ âåå­¦å®¶è¾åè¿å¾·ã»æ³½ç»´å°å¼å¥çä¸é¨æ°çç§å­¦å­¦ç§å¯¼è´äºå¯æµéæéçæ©å±âï¼é»è¾ä¸ç¬¦ååæï¼<br>C éé¡¹ âå¯æµéæéè¢«åå­¦å®¶è¾åè¿å¾·ã»æ³½ç»´å°æ©å±äºï¼ä»å¼å¥äºä¸é¨æ°çç§å­¦å­¦ç§âï¼è¡¨è¿°è¾å¤æï¼<br>D éé¡¹ âåå­¦å®¶è¾åè¿å¾·ã»æ³½ç»´å°æ©å±äºå¯æµéæéå¹¶å¼å¥äºä¸é¨æ°çç§å­¦å­¦ç§âï¼ç®æ´æäºå°è¡¨è¾¾äºåæçææï¼ç¬¦åè¯­æ³è§èã<br>æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Amur River, which is 2,714 miles long, ______ into the Sea of Okhotsk.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "flow"
+        },
+        {
+          "name": "B",
+          "content": "flows"
+        },
+        {
+          "name": "C",
+          "content": "have flowed"
+        },
+        {
+          "name": "D",
+          "content": "are flowing"
+        }
+      ],
+      "correct": "flows",
+      "solution": "<p>A éé¡¹ âflowâ æ¯å¨è¯åå½¢ï¼ä¸ç¬¦åä¸»è¯­ä¸ºåæ°çæåµï¼<br>B éé¡¹ âflowsâ æ¯å¨è¯ âflowâ çç¬¬ä¸äººç§°åæ°å½¢å¼ï¼ç¬¦åè¯­æ³ï¼<br>C éé¡¹ âhave flowedâ æ¯ç°å¨å®ææ¶ï¼ä¸ç¬¦åè¯­å¢ï¼<br>D éé¡¹ âare flowingâ æ¯ç°å¨è¿è¡æ¶ï¼ä¸ç¬¦åè¯­å¢ã<br>æ­£ç¡®ç­æ¡æ¯ Bã</p>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>What is the origin of the word âpessimismâ? Interestingly, ______ It first appears in a letter by English author Samuel Taylor Coleridge.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "it was invented by an author."
+        },
+        {
+          "name": "B",
+          "content": "it was invented by an author?"
+        },
+        {
+          "name": "C",
+          "content": "wasn't it invented by an author."
+        },
+        {
+          "name": "D",
+          "content": "was it invented by an author."
+        }
+      ],
+      "correct": "it was invented by an author.",
+      "solution": "A éé¡¹ âit was invented by an author.â æ¯éè¿°å¥ï¼ç¬¦åè¯­æ³ï¼<br>B éé¡¹ âit was invented by an author?â æ¯çé®å¥ï¼ä¸ç¬¦åï¼<br>C éé¡¹ âwasn't it invented by an author.â æ¯åä¹çé®å¥ï¼ä¸ç¬¦åï¼<br>D éé¡¹ âwas it invented by an author.â æ¯çé®å¥ï¼ä¸ç¬¦åã<br>æ­£ç¡®ç­æ¡æ¯ Aã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>After much debate, ______ finally made a decision: the judges for the 1974 Nobel Prize in Literature would award Eyvind Johnson of Sweden with that year's prize âfor a narrative art, far-seeing in lands and ages, in the service of freedom.â</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "you"
+        },
+        {
+          "name": "B",
+          "content": "it"
+        },
+        {
+          "name": "C",
+          "content": "anyone"
+        },
+        {
+          "name": "D",
+          "content": "they"
+        }
+      ],
+      "correct": "they",
+      "solution": "A éé¡¹ âyouâï¼ä½ ï¼ä½ ä»¬ï¼ä¸ç¬¦åè¯­å¢ï¼<br>B éé¡¹ âitâï¼å®ï¼æ¯åæ°ï¼ä¸ç¬¦åï¼<br>C éé¡¹ âanyoneâï¼ä»»ä½äººï¼ä¸ç¬¦åè¯­å¢ï¼<br>D éé¡¹ âtheyâï¼ä»ä»¬ï¼æ¯å¤æ°ï¼ç¬¦åæä»£è¯å§ä»¬çè¯­å¢ã<br>æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Today, the Michelin Guide is widely known as the arbiter of fine dining, with its coveted 3-star rating being awarded to top restaurants like Xin Rong Ji in Beijing. However, few know the guide started as a marketing gimmick in 1900, when brothers Andre and Edouard Michelin sought to increase profits for their tire company by encouraging their customers to ______ their cars across France, visiting the guideâs recommended hotels and restaurants along the way.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "drive."
+        },
+        {
+          "name": "B",
+          "content": "drive"
+        },
+        {
+          "name": "C",
+          "content": "drive:"
+        },
+        {
+          "name": "D",
+          "content": "drive;"
+        }
+      ],
+      "correct": "drive",
+      "solution": "A éé¡¹ âdrive.âï¼å¥ç¹å¤ä½ï¼ï¼<br>B éé¡¹ âdriveâï¼å¨è¯åå½¢ï¼ç¬¦åè¯­æ³ï¼ï¼<br>C éé¡¹ âdrive:âï¼åå·å¤ä½ï¼ï¼<br>D éé¡¹ âdrive;âï¼åå·å¤ä½ï¼ã<br>æ­£ç¡®ç­æ¡æ¯ Bã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Pinon Chapter is one of the 110 chapters of the Navajo Nation (<i>Naabeeho Bincihdsdzo</i>). The chapter, known as <i>Be'ek'id Bas Ahoodzdni</i> in the Navajo language (<i>Dine Bizaad</i>), was the subject of a profile ______ in the Navajo Times on December 12, 2013.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " appearing"
+        },
+        {
+          "name": "B",
+          "content": " appears"
+        },
+        {
+          "name": "C",
+          "content": " has appeared"
+        },
+        {
+          "name": "D",
+          "content": " appeared"
+        }
+      ],
+      "correct": " appearing",
+      "solution": "A éé¡¹ âappearingâï¼ç°å¨åè¯å½¢å¼ï¼ä½åç½®å®è¯­ï¼ç¬¦åè¯­æ³ï¼ï¼<br>B éé¡¹ âappearsâï¼å¨è¯ç¬¬ä¸äººç§°åæ°å½¢å¼ï¼ä¸ç¬¦åè¯­æ³ï¼ï¼<br>C éé¡¹ âhas appearedâï¼ç°å¨å®ææ¶ï¼ä¸ç¬¦åè¯­æ³ï¼ï¼<br>D éé¡¹ âappearedâï¼è¿å»å¼ï¼ä¸ç¬¦åè¯­æ³ï¼ã<br>æ­£ç¡®ç­æ¡æ¯ Aã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Writer Silvia Moreno-Garciaâs love of short fiction began when she read a collection of Edgar Allan Poe stories as a child, and she later would become a prolific short story writer herself, publishing pieces like âIn the Detailsâ (2015) and âTo See Pedro Infanteâ (2014). Yet she's best ______ especially since her 2020 novel <i>Mexican Gothic</i> reached the New York Times Best Sellers listâas a novelist.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "known"
+        },
+        {
+          "name": "B",
+          "content": "known:"
+        },
+        {
+          "name": "C",
+          "content": "knownâ"
+        },
+        {
+          "name": "D",
+          "content": "known;"
+        }
+      ],
+      "correct": "knownâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1931, scientists first isolated a sample of the steroid hormone <i>androsterone</i>, which they knew existed in animalsâand, they assumed, only in animals. ______ researchers would find <i>androsterone</i> in Swiss cheese plants (<i>Monstera deliciosa</i>), but this discovery wouldn't come until decades later.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Eventually,"
+        },
+        {
+          "name": "C",
+          "content": "In other words,"
+        },
+        {
+          "name": "D",
+          "content": "Earlier,"
+        }
+      ],
+      "correct": "Eventually,",
+      "solution": "A éé¡¹ âFor example,âï¼ä¾å¦ï¼ç¨äºä¸¾ä¾ï¼è¿éä¸éç¨ï¼<br>B éé¡¹ âEventually,âï¼æç»ï¼è¡¨ç¤ºæ¶é´ä¸çæ¨ç§»ï¼ç¬¦åé»è¾ï¼<br>C éé¡¹ âIn other words,âï¼æ¢å¥è¯è¯´ï¼ç¨äºè§£éè¯´æï¼è¿éä¸éç¨ï¼<br>D éé¡¹ âEarlier,âï¼æ©äºæ¶åï¼ä¸ææä¸ç¬¦ã<br>æ­£ç¡®ç­æ¡æ¯ Bã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The first documented use of the English word âmuzzleâ is attributed to poet Geoffrey Chaucer's 1385 work <i>The Knight's Tale</i>. However, Chaucer didn't write in Modern English; ______ he wrote in what we now call Middle English, which was commonly used during the period.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": " as a result,"
+        },
+        {
+          "name": "B",
+          "content": " similarly,"
+        },
+        {
+          "name": "C",
+          "content": " rather,"
+        },
+        {
+          "name": "D",
+          "content": " finally,"
+        }
+      ],
+      "correct": " rather,",
+      "solution": "A éé¡¹ âas a result,âï¼ç»æï¼ç¨äºè¡¨ç¤ºå æå³ç³»ï¼è¿éä¸éç¨ï¼<br>B éé¡¹ âsimilarly,âï¼åæ ·å°ï¼ç¨äºè¡¨ç¤ºç¸ä¼¼æåµï¼è¿éä¸éç¨ï¼<br>C éé¡¹ ârather,âï¼èæ¯ï¼ç¨äºè¡¨ç¤ºè½¬æåçº æ­£ï¼ç¬¦åé»è¾ï¼<br>D éé¡¹ âfinally,âï¼æç»ï¼ç¨äºè¡¨ç¤ºé¡ºåºï¼è¿éä¸éç¨ã<br>æ­£ç¡®ç­æ¡æ¯ Cã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Jean-Michel Basquiat was an American artist who produced more than two thousand drawings and paintings.</li><li>His work <i>Thin in the Old</i> was completed in 1986 and sold at auction in 2020.</li><li><i>Thin in the Old</i> is composed of acrylic, oil, and paper collage on wood and measures 3,028 square inches in area.</li><li>His work <i>Victor</i> was completed in 1987 and sold at auction in 2017.</li><li><i>Victor</i> is composed of acrylic, oil stick, and crayon on canvas and measures 9,432 square inches in area.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize how the two works are similar?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Composed by artist Jean-Michel Basquiat in 1986 and 1987, respectively, both <i>Thin in the Old</i> and <i>Victor</i> use acrylic paint as a medium."
+        },
+        {
+          "name": "B",
+          "content": "Artist Jean-Michel Basquiat completed <i>Thin in the Old</i> in 1986, and <i>Victor</i> followed in 1987."
+        },
+        {
+          "name": "C",
+          "content": "Artist Jean-Michel Basquiat's work <i>Thin in the Old</i> is composed of acrylic, oil, and paper collage, while <i>Victor</i> is composed of acrylic, oil stick, and crayon."
+        },
+        {
+          "name": "D",
+          "content": "Between artist Jean-Michel Basquiat's works <i>Victor</i> and <i>Thin in the Old</i>, the former is the larger of the two."
+        }
+      ],
+      "correct": "Composed by artist Jean-Michel Basquiat in 1986 and 1987, respectively, both <i>Thin in the Old</i> and <i>Victor</i> use acrylic paint as a medium.",
+      "solution": "A éé¡¹ âåå«ç±èºæ¯å®¶è®© - ç±³æ­å°ã»å·´æ¯å¥ç¹å¨ 1986 å¹´å 1987 å¹´åä½ï¼ãç¦èå¤´ãåãç»´åå¤ãé½ä½¿ç¨ä¸ç¯é¸æ¶æä½ä¸ºåªä»ãâï¼å¼ºè°äºä¸¤ä»¶ä½ååä½æ¶é´æ¥è¿ä¸é½ä½¿ç¨ä¸ç¯é¸æ¶æï¼<br>B éé¡¹ âèºæ¯å®¶è®© - ç±³æ­å°ã»å·´æ¯å¥ç¹å¨ 1986 å¹´å®æäºãç¦èå¤´ãï¼ãç»´åå¤ãå¨ 1987 å¹´å®æãâï¼åªæå°äºåä½æ¶é´ï¼æ²¡æå¼ºè°ç¸ä¼¼ä¹å¤ï¼<br>C éé¡¹ âèºæ¯å®¶è®© - ç±³æ­å°ã»å·´æ¯å¥ç¹çä½åãç¦èå¤´ãç±ä¸ç¯é¸ãæ²¹åçº¸æ¼è´´ææï¼èãç»´åå¤ãç±ä¸ç¯é¸ãæ²¹ç»æ£åè¡ç¬ææãâï¼ä¾§éäºææçä¸åï¼<br>D éé¡¹ âå¨èºæ¯å®¶è®© - ç±³æ­å°ã»å·´æ¯å¥ç¹çä½åãç»´åå¤ãåãç¦èå¤´ãä¸­ï¼åèé¢ç§¯æ´å¤§ãâï¼ä¾§éäºå¤§å°æ¯è¾ã<br>æ­£ç¡®ç­æ¡æ¯ Aã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral talc has a Mohs scale number of 1.</li><li>The mineral fluorite has a Mohs scale number of 4.</li><li>The mineral topaz has a Mohs scale number of 8.</li></ul></blockquote>",
+      "question": "The student wants to compare the hardness of talc and topaz. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Topaz can leave visible scratches on fluorite, which is why topaz has a higher number than fluorite on the Mohs scale of mineral hardness."
+        },
+        {
+          "name": "B",
+          "content": "The Mohs scale of mineral hardness can be used to order fluorite, talc, and topaz by their ability to scratch other minerals."
+        },
+        {
+          "name": "C",
+          "content": "A mineral with a Mohs number of 4, like fluorite, is harder than one with a Mohs number of 1, like talc."
+        },
+        {
+          "name": "D",
+          "content": "Topaz can leave visible scratches on talc, which means that topaz is harder than talc."
+        }
+      ],
+      "correct": "Topaz can leave visible scratches on talc, which means that topaz is harder than talc.",
+      "solution": "A éé¡¹ âé»çè½å¨è¤ç³ä¸çä¸å¯è§åçï¼è¿å°±æ¯ä¸ºä»ä¹é»çå¨è«æ°ç¡¬åº¦æ åº¦ä¸çæ°å¼æ¯è¤ç³é«ãâï¼æ²¡ææ¶åæ»ç³ï¼<br>B éé¡¹ âè«æ°ç¡¬åº¦æ åº¦å¯æ ¹æ®ç¿ç©å®æ¦å¶ä»ç¿ç©çè½åå¯¹è¤ç³ãæ»ç³åé»çè¿è¡æåºãâï¼æ²¡æå·ä½æ¯è¾æ»ç³åé»çï¼<br>C éé¡¹ âè«æ°ç¡¬åº¦å¼ä¸º 4 çç¿ç©ï¼å¦è¤ç³ï¼æ¯è«æ°ç¡¬åº¦å¼ä¸º 1 çç¿ç©ï¼å¦æ»ç³ï¼æ´ç¡¬ãâï¼æ²¡æç´æ¥æ¯è¾æ»ç³åé»çï¼<br>D éé¡¹ âé»çè½å¨æ»ç³ä¸çä¸å¯è§åçï¼è¿æå³çé»çæ¯æ»ç³ç¡¬ãâï¼ç´æ¥å©ç¨ç¬è®°ä¸­çåçæ¯è¾äºæ»ç³åé»ççç¡¬åº¦ã<br>æ­£ç¡®ç­æ¡æ¯ Dã<br>"
+    }
+  ]
+}

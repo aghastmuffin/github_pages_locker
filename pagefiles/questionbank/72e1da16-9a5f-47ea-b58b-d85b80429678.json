@@ -1,0 +1,682 @@
+{
+  "uuid": "72e1da16-9a5f-47ea-b58b-d85b80429678",
+  "chunk": "DS92mdxG.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the Kocatepe Mosque, which incorporates elements from the Neoclassical Ottoman and modern styles, will also include several of these standard features.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "an unprecedented"
+        },
+        {
+          "name": "B",
+          "content": "an embellished"
+        },
+        {
+          "name": "C",
+          "content": "an imposing"
+        },
+        {
+          "name": "D",
+          "content": "a quintessential"
+        }
+      ],
+      "correct": "a quintessential",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The influence of William Shakespeare's writings is clear in a vast range of subsequent literary works and is similarly ______ in many works in other media, from fine art (such as Richard Kindersley's sculpture <i>The Seven Ages of Man</i>) to popular music (such as the band the Lumineersâ song \"Ophelia\").</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "subtle"
+        },
+        {
+          "name": "B",
+          "content": "unusual"
+        },
+        {
+          "name": "C",
+          "content": "excessive"
+        },
+        {
+          "name": "D",
+          "content": "apparent"
+        }
+      ],
+      "correct": "apparent",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Apollo Moon landings (1969-1972) brought atmospheric sensors and mirrors to measure the distance from Earth to the Moon and produced large amounts of data, much of which was stored on technologies that are now obsolete. A data-transfer project is working to ______ these data so that the information is available to researcher Tom Murphy, who is investigating drift in the orbit of the Moon.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "simplify"
+        },
+        {
+          "name": "B",
+          "content": "improve"
+        },
+        {
+          "name": "C",
+          "content": "salvage"
+        },
+        {
+          "name": "D",
+          "content": "amend"
+        }
+      ],
+      "correct": "salvage",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Charles Dickens's 1861 novel <i>Great Expectations</i>. The narrator is taking a walk near his home on a damp morning.</p><blockquote style=\"margin-left: 40px;\">On every rail and gate, wet lay clammy, and the marsh mist was so thick, that the wooden finger on the post directing people to our villageâa direction which they never <u>accepted</u>, for they never came thereâwas invisible to me until I was quite close under it.</blockquote>",
+      "question": "As used in the text, what does the word \"accepted\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "followed"
+        },
+        {
+          "name": "B",
+          "content": "permitted"
+        },
+        {
+          "name": "C",
+          "content": "approved"
+        },
+        {
+          "name": "D",
+          "content": "changed"
+        }
+      ],
+      "correct": "followed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In factories, humans and robots often work together. A research team ran an experiment to find out how working with robots affects relationships between human coworkers. The experiment included teams working together to make electric motor parts. <u>One type of team included only humans and the other type included both humans and robots</u>. Participants were paid for their work and were asked about their willingness to share their earnings with their human teammates. Participants from teams with robots were more likely to share with each other than participants from teams with only humans were.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It states the results of the experiment discussed in the text."
+        },
+        {
+          "name": "B",
+          "content": "It indicates the question that the study discussed in the text was meant to answer."
+        },
+        {
+          "name": "C",
+          "content": "It illustrates a problem that inspired the study discussed in the text."
+        },
+        {
+          "name": "D",
+          "content": "It explains an important part of the design of the experiment discussed in the text."
+        }
+      ],
+      "correct": "It explains an important part of the design of the experiment discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The synthesis of novel superheavy elements, such as meitnerium (Mt), has led theorists to consider the feasibility of synthesizing all possible chemical compounds. In 2022, Guillermo Restrepo calculated the historical rates at which newly discovered compounds have entered the scientific literature, expanding the \"chemical space.\" <u>Using a conservative estimate of the number of viable compounds and assuming a doubling of the historical pace of discovery</u>, Restrepo found that under these hypothetical conditions, all potential compounds could be synthesized and documented by 2050.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It makes a comparison between the past and current rates at which new chemical compounds have entered the scientific literature."
+        },
+        {
+          "name": "B",
+          "content": "It introduces information that helps explain why the synthesis of superheavy elements has rapidly expanded the chemical space."
+        },
+        {
+          "name": "C",
+          "content": "It provides details about the qualification later in the sentence regarding the prospect of cataloging the full range of possible chemical compounds."
+        },
+        {
+          "name": "D",
+          "content": "It emphasizes the point implicitly made earlier in the text that human inefficiency is the primary constraint on the expansion of the chemical space."
+        }
+      ],
+      "correct": "It provides details about the qualification later in the sentence regarding the prospect of cataloging the full range of possible chemical compounds.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Despite potential independent confirmation, the apparent detection in 2020 of phosphine (PH<sub>3</sub>)âa gas that on Earth almost exclusively derives from biological sourcesâin Venus's cloud deck remains controversial, in part because Venus is thought to be uninhabitable. To evaluate such a finding's plausibility, William Bains et al. modeled multiple abiotic PH<sub>3</sub> pathways, including geochemical, atmospheric, and photochemical reactions, but none adequately explain the observed levels of PH<sub>3</sub>. If Venusian PH<sub>3</sub> does exist, it would indicate insufficiencies in the current consensus on Venus's chemistry.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It compares the levels of a particular gas on Venus and Earth, sketches the chemical processes that account for differences in these levels, and then addresses some of the practical challenges of studying the presence of this gas on Venus more closely."
+        },
+        {
+          "name": "B",
+          "content": "It explains why the consensus view of a particular gas in Venus's atmosphere has recently become controversial, expands on a scientific team's reasons for questioning that consensus, and then suggests that future observations of Venus's atmosphere will likely be needed to settle the controversy."
+        },
+        {
+          "name": "C",
+          "content": "It outlines recent efforts to confirm the presence of a particular gas in Venus's atmosphere, summarizes a research team's evaluations of those effortsâ methodological shortcomings, and then explains why that team remains skeptical of the gas's future detection."
+        },
+        {
+          "name": "D",
+          "content": "It introduces an expected observation of a particular gas in Venus's atmosphere, presents an effort to investigate possible mechanisms that could explain that observation, and then notes an implication of that investigation's findings."
+        }
+      ],
+      "correct": "It introduces an expected observation of a particular gas in Venus's atmosphere, presents an effort to investigate possible mechanisms that could explain that observation, and then notes an implication of that investigation's findings.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>What is a city? The answer depends on where you live! Many countries define an area as a city based on how many people live there. However, not every country uses the same numbers. Albania defines a city as an area with a population of at least 400, while Greece defines a city as having a minimum population of 10,000. Some countries even define cities using other factors, like the number of buildings in the area.</p>",
+      "question": "Which choice best states the main topic of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "What some people enjoy about cities."
+        },
+        {
+          "name": "B",
+          "content": "The number of small towns in Albania."
+        },
+        {
+          "name": "C",
+          "content": "How different countries define what a city is."
+        },
+        {
+          "name": "D",
+          "content": "The country of Greece."
+        }
+      ],
+      "correct": "How different countries define what a city is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Stores often play background music to create a pleasant shopping experience. Based on a survey, Amir Manzoor found that such music was linked to reduced enjoyment among customers. Manzoor thinks that one explanation for this result is that the surveyed customers may have wanted to finish their shopping as quickly as possible. They therefore weren't focused on enjoying the experience. It's possible that background music could improve the experience of other customers whose main goal is to have a good time while they shop.</p>",
+      "question": "Based on the text, which research question was Manzoor's study most likely intended to answer?",
+      "options": [
+        {
+          "name": "A",
+          "content": "What genres of music do customers prefer to listen to while they are shopping?"
+        },
+        {
+          "name": "B",
+          "content": "Does the volume of a store's background music affect how much time customers spend in the store?"
+        },
+        {
+          "name": "C",
+          "content": "Do customers spend more money when shopping for music in stores or online?"
+        },
+        {
+          "name": "D",
+          "content": "How does the use of background music in stores affect customers' shopping experience?"
+        }
+      ],
+      "correct": "How does the use of background music in stores affect customers' shopping experience?",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Given the immense scope of space, the search for extraterrestrial life is almost necessarily concentrated on the exoplanets deemed to have the most plausible chance of successâtypically, atmosphere-bearing terrestrial planets orbiting within a certain range of their stars (termed the habitable zone). Claiming that Earth experienced a long transition from single-lid to plate tectonics that accelerated the emergence and evolution of complex organisms, researchers Robert J. Stern and Taras V. Gerya hold that consideration of tectonics, an often overlooked factor, could help further narrow the search for advanced extraterrestrial species.</p>",
+      "question": "Based on the text, what do Stern and Gerya most likely believe about the development of complex life on exoplanets?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is probably more dependent on the presence of plate tectonics than on orbital distance from a host star or the presence of an atmosphere."
+        },
+        {
+          "name": "B",
+          "content": "It is unlikely unless the transition from single-lid to plate tectonics occurs before the acquisition of a lasting atmosphere."
+        },
+        {
+          "name": "C",
+          "content": "It is more likely to occur on habitable zone planets with atmospheres and plate tectonics than on otherwise similar planets that lack plate tectonics."
+        },
+        {
+          "name": "D",
+          "content": "It is more likely to occur if habitable zone planets with atmospheres transition from single-lid to plate tectonics late in their history than if they transition early in their history."
+        }
+      ],
+      "correct": "It is more likely to occur on habitable zone planets with atmospheres and plate tectonics than on otherwise similar planets that lack plate tectonics.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img height=\"303\" src=\"/images/881f04cb55931d29ce2f9f7f699e4591.png\" width=\"526\"></div><p>A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The first task in this investigation is to determine how the decline in Australia compares to that in other countries. The student finds that ______ </p>",
+      "question": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "though the decline in number of hours worked in Australia was less than that in Norway and Mexico, it was greater than that in Colombia."
+        },
+        {
+          "name": "B",
+          "content": "though the decline in number of hours worked in Australia was not as great as that in Norway, it was greater than that in Colombia and Mexico."
+        },
+        {
+          "name": "C",
+          "content": "the percent decrease in hours worked was greater in Australia than it was in Norway, Colombia, or Mexico."
+        },
+        {
+          "name": "D",
+          "content": "while the number of hours worked rose in Australia between 1950 and 2017, it declined in Norway, Colombia, and Mexico."
+        }
+      ],
+      "correct": "though the decline in number of hours worked in Australia was not as great as that in Norway, it was greater than that in Colombia and Mexico.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Cane</i> is a 1923 novel by Jean Toomer. In the novel, Toomer mentions a road in rural Georgia called Dixie Pike and describes it as having a deep connection to a faraway place, writing, ______ </p>",
+      "question": "Which quotation from <i>Cane</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"And when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].\""
+        },
+        {
+          "name": "B",
+          "content": "\"The Dixie Pike has grown from a goat path in Africa.\""
+        },
+        {
+          "name": "C",
+          "content": "\"From down the railroad track, the chug-chug of a gas engine announces that the repair gang is coming home.\""
+        },
+        {
+          "name": "D",
+          "content": "\"One evening I walked up the [Dixie] Pike on purpose, and stopped to say hello [to Fern].\""
+        }
+      ],
+      "correct": "\"The Dixie Pike has grown from a goat path in Africa.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Man-Made World: Or, Our Androcentric Culture</i> is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ______</p>",
+      "question": "Which quotation from <i>The Man-Made World: Or, Our Androcentric Culture</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"If [the family is the unit of the state]âwhy not run the state on that basis?\""
+        },
+        {
+          "name": "B",
+          "content": "\"Our humanness is seen to lie not so much in what we are individually, as in our relations to one another.\""
+        },
+        {
+          "name": "C",
+          "content": "\"We do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbageânor incite the cabbage to [imitate] the corn. We nourish both, to its best growthâand are the richer.\""
+        },
+        {
+          "name": "D",
+          "content": "\"That every child on earth shall have right conditions to make the best growth possible to it; that every citizen, from birth to death, shall have a chance to learn all he or she can [absorb], to develop every power that is in them.\""
+        }
+      ],
+      "correct": "\"We do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbageânor incite the cabbage to [imitate] the corn. We nourish both, to its best growthâand are the richer.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/c9cfff1fbf719ca8edeab66c14fba3a3.png\" height=\"331\" width=\"586\"></div><p><i>Drosophila</i> (fruit flies) have generation times of 10-12 days, so seasonal changes in rainfall and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as <i>D. robusta</i> and <i>D.</i> ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the average monthly low temperature was lower in May than in June."
+        },
+        {
+          "name": "B",
+          "content": "the average female wing centroid size was 2.02 mm in July but was 2.31 mm in June."
+        },
+        {
+          "name": "C",
+          "content": "the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table."
+        },
+        {
+          "name": "D",
+          "content": "the average male wing centroid size was smaller in May than in July."
+        }
+      ],
+      "correct": "the average male wing centroid size was smaller in May than in July.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Coffee farming around the world has changed greatly over time. Originally, coffee plants grew in the shade of tropical forests. Today coffee is often grown without shade cover. This is because full-sun coffee farms can produce more coffee beans. But the lack of trees on such farms means a lack of spaces for many species of birds to roost. Therefore, compared with full-sun coffee farms, shaded farms tend to ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "be home to a more diverse range of birds."
+        },
+        {
+          "name": "B",
+          "content": "have better soil quality."
+        },
+        {
+          "name": "C",
+          "content": "have fewer problems with insects and other pests."
+        },
+        {
+          "name": "D",
+          "content": "experience generally milder weather conditions."
+        }
+      ],
+      "correct": "be home to a more diverse range of birds.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Choreographers George Balanchine and Martha Graham both contributed sections to the dance piece <i>Episodes</i>, which premiered at New York's City Center of Music and Drama in 1959. This cross-genre collaboration brought together the distinct features of Balanchine's neoclassical ballet and Graham's modern ______ the stylistic diversity and creative innovation within the dance world.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dance. Which showcased"
+        },
+        {
+          "name": "B",
+          "content": "dance. Showcasing"
+        },
+        {
+          "name": "C",
+          "content": "dance, showcasing"
+        },
+        {
+          "name": "D",
+          "content": "dance, it showcased"
+        }
+      ],
+      "correct": "dance, showcasing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As jazz singer Sarah Vaughan honed her vocal abilitiesâacquiring a sophisticated timbre and precise control over pitch, dynamics, and ______ she earned comparisons to opera icon Leontyne Price, one of her personal heroes. The comparisons highlight how Vaughan, a jazz star, had transcended genre boundaries with her singing prowess.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "vibrato:"
+        },
+        {
+          "name": "B",
+          "content": "vibratoâ"
+        },
+        {
+          "name": "C",
+          "content": "vibrato,"
+        },
+        {
+          "name": "D",
+          "content": "vibrato"
+        }
+      ],
+      "correct": "vibratoâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the book <i>A Theory of Harmony</i> (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the bvi6 chord for the lll7 chord while ______ chord is a given chord's opposite can be determined using a music visualization tool called the circle of fifths.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "improvising which"
+        },
+        {
+          "name": "B",
+          "content": "improvising. Which"
+        },
+        {
+          "name": "C",
+          "content": "improvising and which"
+        },
+        {
+          "name": "D",
+          "content": "improvising, which"
+        }
+      ],
+      "correct": "improvising. Which",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Dating to around 1500, the Unicorn Tapestries are seven large tapestries depicting a unicorn hunt that hang in The Cloisters, a museum of medieval art in New York City. Attempting to explain the tapestriesâ symbolism, art historian and former Cloisters head curator Margaret B. ______ that while some have interpreted the tapestries as a Christian allegory, unicorns in that era were typically featured in secular rather than religious contexts.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Freeman, who noted"
+        },
+        {
+          "name": "B",
+          "content": "Freeman, noted"
+        },
+        {
+          "name": "C",
+          "content": "Freeman, noting"
+        },
+        {
+          "name": "D",
+          "content": "Freeman noted"
+        }
+      ],
+      "correct": "Freeman noted",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In her <i>Silueta</i> sculpture series, the Cuban American artist Ana ______ to access what she called an âomnipresent female force,â utilized a variety of natural materials to create outlinesâor silhouettesâof her own body.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Mendieta had hoped"
+        },
+        {
+          "name": "B",
+          "content": "Mendieta hoped"
+        },
+        {
+          "name": "C",
+          "content": "Mendieta was hoping"
+        },
+        {
+          "name": "D",
+          "content": "Mendieta, hoping"
+        }
+      ],
+      "correct": "Mendieta, hoping",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Because of its bulky body, the world's first airplane, the 1903 Wright Flyer, was not very aerodynamic. Modern planes, like the Northrop F-5 jet, have much sleeker, more streamlined bodies. ______ they are much more aerodynamic.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Easily,"
+        },
+        {
+          "name": "C",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "For this reason,"
+        }
+      ],
+      "correct": "For this reason,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>KCUW-LP is a Native-run radio station broadcasting from the Umatilla Indian Reservation in Oregon. In 2004, Loris Taylor wanted to make sure that stations like KCUW-LP continued to thrive. ______ she founded Native Public Media, a support system for Native radio stations that now includes around sixty stations.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "B",
+          "content": "In reality,"
+        },
+        {
+          "name": "C",
+          "content": "Thus,"
+        },
+        {
+          "name": "D",
+          "content": "Conversely,"
+        }
+      ],
+      "correct": "Thus,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1845, the United States District Court for the state of Iowa was established. Initially, the courtâs jurisdiction was a single district that encompassed the entire state, but as Iowaâs population grew, this single district began to struggle to serve the needs of everyone in the state. ______ the courtâs jurisdiction was subdivided into two districts, each with its own district court.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ultimately,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "Additionally,"
+        }
+      ],
+      "correct": "Ultimately,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Highpointers Club is a hiking club.</li><li>One of the main goals among club members is to reach the highest points in all fifty US states.</li><li>Those who achieve this are called 50 Completers.</li><li>In Suk Han became a 50 Completer on November 15, 2013.</li><li>The highest point in Wisconsin is Timms Hill, at 1,951 ft.</li><li>The highest point in Wyoming is Gannett Peak, at 13,809 ft.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to explain the 50 Completers hiking challenge to a new audience?",
+      "options": [
+        {
+          "name": "A",
+          "content": "If you are looking for a new hiking challenge, consider joining the Highpointers Club, as did In Suk Han, a hiker who successfully reached the highest point in every US state."
+        },
+        {
+          "name": "B",
+          "content": "Not until after you have reached the highest points in all fifty US statesâincluding Timms Hill in Wisconsin and Gannett Peak in Wyomingâcan you include yourself among the 50 Completers of the Highpointers Club."
+        },
+        {
+          "name": "C",
+          "content": "On November 15, 2013, In Suk Han finally completed the feat of reaching the highest point in all fifty US states, including Timms Hill in Wisconsin and Gannett Peak in Wyoming."
+        },
+        {
+          "name": "D",
+          "content": "Hikers aiming to count themselves among the 50 Completers must reach not only Timms Hill but also Gannett Peak."
+        }
+      ],
+      "correct": "Not until after you have reached the highest points in all fifty US statesâincluding Timms Hill in Wisconsin and Gannett Peak in Wyomingâcan you include yourself among the 50 Completers of the Highpointers Club.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><li>The Great Salt Lake in Utah is one of the world's saltiest bodies of water.</li><li>The northern portion of the lake has a higher concentration of salt than the southern portion.</li><li>Crustaceans called <i>Artemia franciscana</i> live in the southern portion.</li><li>Bacteria called <i>Coccochloris</i> live in the southern portion.</li></blockquote>",
+      "question": "The student wants to emphasize a difference between <i>Artemia franciscana</i> and <i>Coccochloris</i>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Artemia franciscana</i> and <i>Coccochloris</i> are different types of organisms: <i>Artemia franciscana</i> are crustaceans, whereas <i>Coccochloris</i> are bacteria."
+        },
+        {
+          "name": "B",
+          "content": "The northern portion of the Great Salt Lake has a higher concentration of salt than does the southern portion."
+        },
+        {
+          "name": "C",
+          "content": "<i>Artemia franciscana</i> are crustaceans that live in the southern portion of the Great Salt Lake."
+        },
+        {
+          "name": "D",
+          "content": "<i>Artemia franciscana</i> and <i>Coccochloris</i> both live in the Great Salt Lake's southern portion."
+        }
+      ],
+      "correct": "<i>Artemia franciscana</i> and <i>Coccochloris</i> are different types of organisms: <i>Artemia franciscana</i> are crustaceans, whereas <i>Coccochloris</i> are bacteria.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Moapa Valley National Wildlife Refuge (NWR) is a protected natural area in Nevada.</li><li>It encompasses 32 acres.</li><li>The Moapa Valley NWR was established to safeguard the habitat of the Moapa dace, an endangered species.</li><li>The Moapa Valley NWR is managed by the US Fish &amp; Wildlife Service.</li><li>The US Fish &amp; Wildlife Service limits human activities in the area.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the role the US Fish & Wildlife Service plays in safeguarding the habitat of the Moapa dace. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By limiting human activities in the Moapa Valley NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the Moapa dace."
+        },
+        {
+          "name": "B",
+          "content": "Human activities are limited in the Moapa Valley NWR, a protected natural area in Nevada."
+        },
+        {
+          "name": "C",
+          "content": "The 32-acre Moapa Valley NWR was established to safeguard the habitat of the Moapa dace, an endangered species."
+        },
+        {
+          "name": "D",
+          "content": "Home to the Moapa dace, the Moapa Valley NWR is located in Nevada, where it encompasses 32 acres."
+        }
+      ],
+      "correct": "By limiting human activities in the Moapa Valley NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the Moapa dace.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>The Incarnations</i> (2015) is an epistolary novel by English author Susan Barker.</li><li>Epistolary novels are novels written primarily as a series of fictional documents.</li><li>These documents can be letters, journal entries, newspaper clippings, and more.</li><li><i>The Incarnations</i> consists primarily of letters. The letters are sent between a taxi driver named Wang Jun and a mysterious woman.</li></ul></blockquote>",
+      "question": "The student wants to provide an example of an epistolary novel. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 2015, English author Susan Barker published a novel of letters sent between a taxi driver named Wang Jun and a mysterious woman."
+        },
+        {
+          "name": "B",
+          "content": "Consisting primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman, Susan Barker's <i>The Incarnations</i> is an epistolary novel."
+        },
+        {
+          "name": "C",
+          "content": "It was Susan Barker who published the novel <i>The Incarnations</i> in 2015."
+        },
+        {
+          "name": "D",
+          "content": "An epistolary novel is a novel written primarily as a series of fictional documents, such as letters, journal entries, or newspaper clippings."
+        }
+      ],
+      "correct": "Consisting primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman, Susan Barker's <i>The Incarnations</i> is an epistolary novel.",
+      "solution": ""
+    }
+  ]
+}

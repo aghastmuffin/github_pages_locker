@@ -1,0 +1,682 @@
+{
+  "uuid": "c39b24c5-b805-4b9b-a609-e68df8471f04",
+  "chunk": "CG9-4H46.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Yone Noguchi's 1914 memoir <i>The Story of Yone Noguchi</i>. Noguchi is returning home after eleven years abroad.</p><blockquote style=\"margin-left: 40px;\">I reached Tsushima, my native town, at evening. I frightened my old father at the station, who was actually trying to <u>find</u> me among some other people. There is no wonder that he could not recognise me; I must have changed a great deal.</blockquote>",
+      "question": "As used in the text, what does the word \"find\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Discredit"
+        },
+        {
+          "name": "B",
+          "content": "Reveal"
+        },
+        {
+          "name": "C",
+          "content": "Affect"
+        },
+        {
+          "name": "D",
+          "content": "Locate"
+        }
+      ],
+      "correct": "Locate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The ______ Stacey Lee's book <i>Outrun the Moon</i> has been very positive. Many reviewers have praised the book, and it won the Asian Pacific American Award for Literature.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "confusion about"
+        },
+        {
+          "name": "B",
+          "content": "inspiration for"
+        },
+        {
+          "name": "C",
+          "content": "reception of"
+        },
+        {
+          "name": "D",
+          "content": "neglect of"
+        }
+      ],
+      "correct": "reception of",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A speaker at a recent children's book publishing conference noted that, while many illustrators do excellent work, in her mind, no one has ever ______ Kathleen Atkins Wilson's work as the illustrator of <i>The Origin of Life on Earth: An African Creation Myth</i>: there is no better example of the form, according to the speaker.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "convened"
+        },
+        {
+          "name": "B",
+          "content": "eclipsed"
+        },
+        {
+          "name": "C",
+          "content": "augmented"
+        },
+        {
+          "name": "D",
+          "content": "cited"
+        }
+      ],
+      "correct": "eclipsed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Song of the Lark</i>, painted in the realist style by Jules Breton, depicts a barefoot peasant woman pausing in the fields at sunset and emphasizes accuracy in its portrayal of the experiences of ordinary working people. This style largely ______ the conventions of the romantic style evident in many paintings by Charles Gleyre, which instead accentuated their subjects' positive traits by, for example, placing them in staged settings with expensive looking decorations and presenting them with smooth, unblemished skin.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rejected"
+        },
+        {
+          "name": "B",
+          "content": "imitated"
+        },
+        {
+          "name": "C",
+          "content": "extended"
+        },
+        {
+          "name": "D",
+          "content": "epitomized"
+        }
+      ],
+      "correct": "rejected",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the early days of television in the 1940s, many people thought that US television programs would rely on the financial support of ad agencies and commercial sponsors, much like radio did. But advertisers hesitated to jump into a new space, <u>particularly at a time when the manufacturing of new television sets was stalled due to the US's involvement in World War II</u>. Broadcasters, like the National Broadcasting Company (NBC), needed to persuade advertisers to support their programming despite not knowing whether there would be a robust television audience to begin with.</p>",
+      "question": "Which choice best describes the function of the underlined phrase in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains why a type of television programming was popular at the time."
+        },
+        {
+          "name": "B",
+          "content": "It compares the beginnings of radio programming with the beginnings of television programming in the United States."
+        },
+        {
+          "name": "C",
+          "content": "It describes how broadcasters attempted to convince advertisers to support television."
+        },
+        {
+          "name": "D",
+          "content": "It identifies a specific reason behind some advertisers' hesitance to support television."
+        }
+      ],
+      "correct": "It identifies a specific reason behind some advertisers' hesitance to support television.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Armando Palacio Valdes's short story \"The Love of Clotilde.\" Originally published in Spanish in 1884, in the story, Don JerÃ³nimo is a financial supporter of artists in the theater.</p><blockquote style=\"margin-left: 40px;\">Any youth from the provinces who arrived in Madrid with a drama in his pocket could take <u>no surer road</u> to seeing it produced than that which led to the home of Don JerÃ³nimo. One and all, he received them with open arms, the good and the bad alike. There is no denying that, since he was rather brusque in his ways, he never spared the young authors who asked his advice and read him their productions, but criticized vigorously even to the verge of insult.</blockquote>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests that Don JerÃ³nimo does not enjoy financially supporting playwrights."
+        },
+        {
+          "name": "B",
+          "content": "It creates a contrast between the reputation of a young playwright and that of Don JerÃ³nimo."
+        },
+        {
+          "name": "C",
+          "content": "It emphasizes the degree to which Don JerÃ³nimo's support is consequential for inexperienced playwrights."
+        },
+        {
+          "name": "D",
+          "content": "It explains Don JerÃ³nimo's view of the quality of theatrical works of the time."
+        }
+      ],
+      "correct": "It emphasizes the degree to which Don JerÃ³nimo's support is consequential for inexperienced playwrights.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Dubautia latifolia</i> is a species in a family of plants <u>known collectively as the silversword alliance</u>, all of which grow only on the Hawaiian Islands. Members of this alliance exhibit extraordinary range of phenotypes, with some species maturing into vines and others into shrubs and trees. All species in the alliance descended from a single ancestral tarweed plant that arrived on the islands around 5 million years ago. The tarweed's descendants diversified into distinct species as they adapted to live in the wide variety of habitats found on the Hawaiian Islands.</p>",
+      "question": "Which choice best describes the function of the underlined phrase in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It supplies the name used to refer to a group of related plant species."
+        },
+        {
+          "name": "B",
+          "content": "It lists species from a family of plants found only on the Hawaiian Islands."
+        },
+        {
+          "name": "C",
+          "content": "It explains why <i>Dubautia latifolia</i> is unique among members of the silversword alliance."
+        },
+        {
+          "name": "D",
+          "content": "It provides the common name for the <i>Dubautia latifolia</i> plant."
+        }
+      ],
+      "correct": "It supplies the name used to refer to a group of related plant species.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mexican textile artist Victoria Villasana weaves stories of triumph, using her unique method of applying colorful yarn to photographs of people. In some works, Villasana focuses on celebrating cultural icons who are people of color, as she does in her depiction of musician and composer Nina Simone. However, in other works, Villasana honors ordinary people, as she does in her captivating portrayal of a woman making tortillas. Villasana sees both of these approaches as ways of depicting the power and interconnectedness of all people.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Villasana's works focus on recognizing both famous and everyday examples of human strength and connection."
+        },
+        {
+          "name": "B",
+          "content": "Villasana began her artistic career by painting portraits of famous people and then transitioned to depicting everyday people instead."
+        },
+        {
+          "name": "C",
+          "content": "Villasana's depiction of Nina Simone receives more attention from scholars than her depiction of a woman making tortillas does."
+        },
+        {
+          "name": "D",
+          "content": "Villasana's portrayal of a woman making tortillas focuses more on human connection than it does on human resilience."
+        }
+      ],
+      "correct": "Villasana's works focus on recognizing both famous and everyday examples of human strength and connection.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Community science involves professional scientists collaborating with members of the public to study a topic. This approach to research can promote community engagement by providing youth with learning experiences outside of the classroom. It's also very effective because it greatly increases the amount of data that can be collected, such as when biologist Grace Herzel and colleagues studied butterfly wing patterns and their relation to behavior and used findings reported by hundreds of students and community members in northwestern Arkansas.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A community science approach allows researchers to collect significantly more data even though it's unlikely to have much of an effect on learning outside the classroom."
+        },
+        {
+          "name": "B",
+          "content": "Grace Herzel and colleagues used a community science approach in their butterfly research and were surprised at the effect this had on learning outside the classroom."
+        },
+        {
+          "name": "C",
+          "content": "A community science approach can increase learning outside the classroom and generate large amounts of data, benefiting both communities and researchers."
+        },
+        {
+          "name": "D",
+          "content": "A community science approach can benefit communities by increasing learning outside the classroom, but it's less likely to help researchers obtain accurate data."
+        }
+      ],
+      "correct": "A community science approach can increase learning outside the classroom and generate large amounts of data, benefiting both communities and researchers.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/98110f3ca7d5311f0abdf73e9dd8460a.jpg\" style=\"width: 500px; height: 229px;\"></div><p>Biologists Christina Zdenek, Damian Candusso, and their team exposed various snakes to airborne sound and recorded whether they moved toward or away from the sound. The table shows the results for three of the snakes observed in the study. Based on the table, a student concludes that Glory and Squishy behaved similarly in the sound trials.</p>",
+      "question": "Which choice best describes data from the table that support the student's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Dorsal Girl and Glory both moved toward the sound."
+        },
+        {
+          "name": "B",
+          "content": "Squishy moved toward the sound, while Dorsal Girl moved away from it."
+        },
+        {
+          "name": "C",
+          "content": "Squishy moved toward the sound, while Glory moved away from it."
+        },
+        {
+          "name": "D",
+          "content": "Glory and Squishy both moved away from the sound."
+        }
+      ],
+      "correct": "Glory and Squishy both moved away from the sound.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Among the most visited art museums in the world, the Museo del Prado in Madrid had approximately 3.5 million visitors in 2019. The Museo del Prado also offers virtual tours that art lovers can view online for free. Although there were initial concerns that people who viewed the virtual tours would then consider an in-person visit unnecessary, museum administrators claim that their surveys of in-person visitors show that those concerns were unjustified.</p>",
+      "question": "Which statement, if true, would most directly support the administrators' claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Most surveyed visitors to the Museo del Prado indicated that they were unaware of the virtual tours before their first in-person visit."
+        },
+        {
+          "name": "B",
+          "content": "Most surveyed visitors to the Museo del Prado indicated that they lived somewhere other than Madrid."
+        },
+        {
+          "name": "C",
+          "content": "Many surveyed visitors to the Museo del Prado indicated that the virtual tours convinced them to plan an in-person visit."
+        },
+        {
+          "name": "D",
+          "content": "Many surveyed visitors to the Museo del Prado indicated that they would likely view the virtual tours in order to reminisce about their in-person visit."
+        }
+      ],
+      "correct": "Many surveyed visitors to the Museo del Prado indicated that the virtual tours convinced them to plan an in-person visit.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Age of Innocence</i> is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera; in the audience is May Welland, with whom he is romantically involved. Newland visualizes the details of a future with May: ______</p>",
+      "question": "Which quotation from <em>The Age of Innocence</em> best illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"[May] dropped her eyes to the immense bouquet of lilies-of-the-valley on her knee, and Newland Archer saw her white-gloved finger-tips touch the flowers softly.\""
+        },
+        {
+          "name": "B",
+          "content": "\"Newland Archer, leaning against the wall at the back of the club box [where his seat was], turned his eyes from the stage and scanned the opposite side of the house.\""
+        },
+        {
+          "name": "C",
+          "content": "\"Though there was already talk...of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music].\""
+        },
+        {
+          "name": "D",
+          "content": "\"Already [Newland's] imagination, leaping ahead of the engagement ring, the betrothal kiss and the [wedding] march from Lohengrin, pictured [May] at his side.\""
+        }
+      ],
+      "correct": "\"Already [Newland's] imagination, leaping ahead of the engagement ring, the betrothal kiss and the [wedding] march from Lohengrin, pictured [May] at his side.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the white-headed langur (<i>Trachypithecus poliocephalus</i>). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "risk making inaccurate conclusions about the effectiveness of different conservation strategies."
+        },
+        {
+          "name": "B",
+          "content": "cause other conservationists to adopt a new methodology for counting populations."
+        },
+        {
+          "name": "C",
+          "content": "benefit from including species beyond the white-headed langur."
+        },
+        {
+          "name": "D",
+          "content": "fail to consider less-well-known conservation approaches for the white-headed langur."
+        }
+      ],
+      "correct": "risk making inaccurate conclusions about the effectiveness of different conservation strategies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The musical <i>Hadestown</i> was produced off Broadway in New York in 2016. A revised version of the musical premiered on Broadway in 2019, in a larger production. In a review of the Broadway production, theater critic Jesse Green enthusiastically praised the musical's storytelling. However, Green also explained that he had seen the earlier version of <i>Hadestown</i> in 2016 and had found the storytelling to be very confusing. This suggests that in Green's view, ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Hadestown</i> improved greatly between 2016 and its premiere on Broadway."
+        },
+        {
+          "name": "B",
+          "content": "<i>Hadestown</i> should have had a larger production in 2019 than it actually did."
+        },
+        {
+          "name": "C",
+          "content": "the 2019 version of <i>Hadestown</i> was less enjoyable than the 2016 version."
+        },
+        {
+          "name": "D",
+          "content": "the 2016 version of <i>Hadestown</i> had fewer storytelling problems than the 2019 version did."
+        }
+      ],
+      "correct": "<i>Hadestown</i> improved greatly between 2016 and its premiere on Broadway.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Biochemists I. Sam Saguy and Fli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks dahibara aludam and paneer pakora, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food's fat content. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the crispier the crust will be when frying is completed."
+        },
+        {
+          "name": "B",
+          "content": "the less the fat content is increased through frying."
+        },
+        {
+          "name": "C",
+          "content": "the slower the crust will lose its permeability."
+        },
+        {
+          "name": "D",
+          "content": "the higher the temperature must be to fry the food."
+        }
+      ],
+      "correct": "the less the fat content is increased through frying.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Water boils at around 212Â°F at sea level, but in Butte, Montana (elevation: 5,538 feet above sea level), it boils at around 202Â°F. Food writer J. Kenji LÃ³pez-Alt, who explores the science behind cooking, ______ that lower boiling points at higher elevations \"can wreak all sorts of havoc on recipes.\"</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "are explaining"
+        },
+        {
+          "name": "B",
+          "content": "explains"
+        },
+        {
+          "name": "C",
+          "content": "explain"
+        },
+        {
+          "name": "D",
+          "content": "have explained"
+        }
+      ],
+      "correct": "explains",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a chemical reaction, the value known as molar mass helps convert between the mass of the reactants and the mass of the product. The gaseous ______ have molar masses of 150.21 and 16.04 g/mol, respectively.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "compounds, thymol and methane"
+        },
+        {
+          "name": "B",
+          "content": "compounds, thymol and methane,"
+        },
+        {
+          "name": "C",
+          "content": "compounds thymol and methane"
+        },
+        {
+          "name": "D",
+          "content": "compounds thymol and methane,"
+        }
+      ],
+      "correct": "compounds thymol and methane",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With the short drama <i>Kaashkiamcshoo</i>, Cree director Chantelle Marie Anderson joined the growing number of Indigenous women adding their voices to North American ______ film, a selection of the Native Women in Film Festival, is about a woman exploring her MÃ©tis identity.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "cinema her"
+        },
+        {
+          "name": "B",
+          "content": "cinema and her"
+        },
+        {
+          "name": "C",
+          "content": "cinema. Her"
+        },
+        {
+          "name": "D",
+          "content": "cinema, her"
+        }
+      ],
+      "correct": "cinema. Her",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Working with equipment designed for a billionths of a meter scale, ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "synthesized selenium nanoparticles used to target harmful cells in the body without damaging other cells have been created by nanoengineers."
+        },
+        {
+          "name": "B",
+          "content": "nanoengineers have synthesized selenium nanoparticles that are used to target harmful cells in the body without damaging other cells."
+        },
+        {
+          "name": "C",
+          "content": "nanoengineers' synthesized selenium nanoparticles are used to target harmful cells in the body without damaging other cells."
+        },
+        {
+          "name": "D",
+          "content": "selenium nanoparticles that have been synthesized by nanoengineers are used to target harmful cells in the body without damaging other cells."
+        }
+      ],
+      "correct": "nanoengineers have synthesized selenium nanoparticles that are used to target harmful cells in the body without damaging other cells.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Just as the Cavendish balance in physics is named not after its first inventor but after the natural philosopher who further developed the device, so too does the Chernoff bound in probability theory take its name from a ______ who was not the first to identify the mathematical bound.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "polymathâin this case, Herman Chernoffâ"
+        },
+        {
+          "name": "B",
+          "content": "polymath: in this case, Herman Chernoff,"
+        },
+        {
+          "name": "C",
+          "content": "polymathâin this case, Herman Chernoff,"
+        },
+        {
+          "name": "D",
+          "content": "polymath in this case, Herman Chernoff,"
+        }
+      ],
+      "correct": "polymathâin this case, Herman Chernoffâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The parks of Austin, Texas, seem to be making people happier. In 2022, a team of researchers ______ to find connections between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from various sites in Austin. The team found that posts from the city's parks contained more words associated with happiness than did the other posts.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "were hoping"
+        },
+        {
+          "name": "B",
+          "content": "hoped"
+        },
+        {
+          "name": "C",
+          "content": "was hoping"
+        },
+        {
+          "name": "D",
+          "content": "hoping"
+        }
+      ],
+      "correct": "hoping",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Guard cells are specialized cells that are part of a plant's pores. These cells help regulate the amount of carbon dioxide a plant takes in. ______ they help regulate a plant's water loss.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Previously,"
+        },
+        {
+          "name": "B",
+          "content": "Additionally,"
+        },
+        {
+          "name": "C",
+          "content": "In conclusion,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "Additionally,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Helike, one of the eighty known moons of Jupiter, is designated as Jupiter XLV (\"XLV\" means \"45\"). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ______ that Helike is the forty-fifth moon from Jupiter in terms of proximity.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "however,"
+        },
+        {
+          "name": "B",
+          "content": "finally,"
+        },
+        {
+          "name": "C",
+          "content": "then,"
+        },
+        {
+          "name": "D",
+          "content": "moreover,"
+        }
+      ],
+      "correct": "then,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Los Ajos-La Madera Mountains are a mountain range located in northwestern Mexico.</li><li>The range is one of the dozens of \"sky islands\" in the southwestern US and northwestern Mexico.</li><li>A sky island is an isolated mountain range whose environment differs drastically from that of the surrounding lowlands.</li><li>The US Forest Service (USFS) said, \"The mountains are 'islands' surrounded by deserts that are 'seas'\"</li><li>The USFS said, \"Each sky island is a unique ecosystem.\"</li></ul></blockquote>",
+      "question": "The student wants to provide an example of a sky island. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In the southwestern US and northwestern Mexico, there are dozens of sky islands: isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands."
+        },
+        {
+          "name": "B",
+          "content": "The USFS considers each of the sky islands, whose environments differ drastically from that of the surrounding lowlands, to be a \"unique ecosystem.\""
+        },
+        {
+          "name": "C",
+          "content": "There are dozens of sky islands in the southwestern US and northwestern Mexico, such as the Los Ajos-La Madera Mountains."
+        },
+        {
+          "name": "D",
+          "content": "Sky islands are isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands; as the USFS puts it, \"the mountains are 'islands' surrounded by deserts that are 'seas'.\""
+        }
+      ],
+      "correct": "There are dozens of sky islands in the southwestern US and northwestern Mexico, such as the Los Ajos-La Madera Mountains.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Generally, an object will heat up when twisted.</li><li>The twisting of an object is known as torsion.</li><li>A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.</li><li>When a 3-millimeter-thick sample of thermoplastic polyurethane (TPU) fiber was twisted, its average surface temperature increased by 6Â°C.</li><li>When a 4-millimeter-thick sample of styrene-ethylene-butylene-styrene (SEBS) rubber fiber was twisted, its average surface temperature increased by 3.5Â°C.</li></ul></blockquote>",
+      "question": "The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Twisting an object will generally cause its temperature to increase, a process known as torsional heating."
+        },
+        {
+          "name": "B",
+          "content": "In 2019, researchers studied the effect of torsional heating on various fibers, including samples of SEBS rubber and TPU."
+        },
+        {
+          "name": "C",
+          "content": "When the fibers were twisted as part of the 2019 study, the surface temperature of both samples increased."
+        },
+        {
+          "name": "D",
+          "content": "The SEBS rubber sample used in the 2019 study was thicker than the TPU sample."
+        }
+      ],
+      "correct": "The SEBS rubber sample used in the 2019 study was thicker than the TPU sample.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Grimanesa Amoros is a Peruvian American artist well known for her LED light sculptures.</li><li>Her sculpture <i>Uras Horse</i> is made of smooth multicolored LED domes.</li><li>It occupies 250 cubic feet of space.</li><li>Her sculpture <i>Golden Connection</i> is made of entangled blue and white LED tubes.</li><li>It occupies 100,000 cubic feet of space.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between <i>Uras Horse</i> and <i>Golden Connection</i>. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Uras Horse</i> is an LED light sculpture made by Grimanesa Amoros, as is <i>Golden Connection</i>."
+        },
+        {
+          "name": "B",
+          "content": "The smooth LED domes of Grimanesa Amoros's <i>Uras Horse</i> stand in contrast to the tangled LED tubes of <i>Golden Connection</i>."
+        },
+        {
+          "name": "C",
+          "content": "Grimanesa Amoros is the artist behind <i>Uras Horse</i>âa sculpture made of smooth multicolored LED domes."
+        },
+        {
+          "name": "D",
+          "content": "At 100,000 cubic feet in size, Grimanesa Amoros's <i>Golden Connection</i> cuts a larger figure than the 250 cubic-foot <i>Uras Horse</i>."
+        }
+      ],
+      "correct": "<i>Uras Horse</i> is an LED light sculpture made by Grimanesa Amoros, as is <i>Golden Connection</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Researchers in a 2021 study wanted to determine the rate at which 17 languages conveyed both information and syllables.</li><li>They calculated the bits of information conveyed per second (the IR, or information rate).</li><li>The IR was found to be approximately consistent across the 17 languages (an average of 39 bits per second).</li><li>They calculated the number of syllables spoken per second (the SR, or syllable rate).</li><li>Spanish had the second fastest SR (7.7 syllables per second).</li><li>Vietnamese had the sixteenth fastest SR (5.3 syllables per second).</li></ul></blockquote>",
+      "question": "The student wants to present an overview of the study's findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Researchers found that information was conveyed more quickly in Spanish, at 7.7 syllables per second, than in Vietnamese, at 5.3 syllables per second."
+        },
+        {
+          "name": "B",
+          "content": "The 2021 study determined the information rate (IR) of 17 languages in bits of information conveyed per second."
+        },
+        {
+          "name": "C",
+          "content": "Though some of the languages differed in number of syllables spoken per second, all 17 conveyed information at roughly the same rate."
+        },
+        {
+          "name": "D",
+          "content": "Vietnamese had the sixteenth fastest syllable rate, lower than that of Spanish, which had the second-fastest; however Spanish had the lower information rate of the two."
+        }
+      ],
+      "correct": "Though some of the languages differed in number of syllables spoken per second, all 17 conveyed information at roughly the same rate.",
+      "solution": ""
+    }
+  ]
+}

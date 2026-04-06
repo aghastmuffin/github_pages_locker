@@ -1,0 +1,682 @@
+{
+  "uuid": "674ffab0-a86b-4262-b738-111e283b774c",
+  "chunk": "Cy237lsw.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Mark Twain's 1876 novel <i>The Adventures of Tom Sawyer</i>. Tom, a child, has been told by his aunt to paint their house's fence.</p><blockquote style=\"margin-left: 40px;\">Tom appeared on the sidewalk with a bucket of whitewash and a long-handled brush. He <u>surveyed</u> the fence, and all gladness left him and a deep melancholy settled down upon his spirit. Thirty yards of board fence nine feet high.</blockquote>",
+      "question": "As used in the text, what does the word \"surveyedâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Promoted"
+        },
+        {
+          "name": "B",
+          "content": "Organized"
+        },
+        {
+          "name": "C",
+          "content": "Transformed"
+        },
+        {
+          "name": "D",
+          "content": "Examined"
+        }
+      ],
+      "correct": "Examined",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though Vasily Grossman's novel <i>Stalingrad</i> is not as beloved as his later work <i>Life and Fate</i>, some critics commend it despite its mangling by Soviet censors: Luke Harding in <i>The Guardian</i> called it \"one of the great novels of the twentieth century.\" Several draft versions have been ______ , and translators consulted those drafts when working on what they hoped would be a definitive English edition.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "assigned"
+        },
+        {
+          "name": "B",
+          "content": "hypothesized"
+        },
+        {
+          "name": "C",
+          "content": "debunked"
+        },
+        {
+          "name": "D",
+          "content": "preserved"
+        }
+      ],
+      "correct": "preserved",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Writer Lydia Davis observed that while ______ literary forms, such as the novel, are recognizable as such even as they evolve, there are path-breaking âintergenericâ forms that might, for example, use elements of both fiction and essays to create something unclassifiable. The late-period pieces of James Tate arguably fit in this category, since they straddle the line between prose and poetry.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "established"
+        },
+        {
+          "name": "B",
+          "content": "ambiguous"
+        },
+        {
+          "name": "C",
+          "content": "innovative"
+        },
+        {
+          "name": "D",
+          "content": "elusive"
+        }
+      ],
+      "correct": "established",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Analysis of preserved plants cataloged in the United States Virtual Herbarium indicates that rising temperatures correlate with earlier leaf production, but such specimens represent only brief moments in plantsâ overall development. ______ this research with studies involving live plants would enable a fuller understanding of how these observed changes affect plant fitness.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Foregrounding"
+        },
+        {
+          "name": "B",
+          "content": "Complementing"
+        },
+        {
+          "name": "C",
+          "content": "Categorizing"
+        },
+        {
+          "name": "D",
+          "content": "Anticipating"
+        }
+      ],
+      "correct": "Complementing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>One challenge faced by researchers studying global urbanization is that different countries have different definitions of what constitutes an urban settlement. Many countries define urban settlements based on the number of people living in them. However, countries do not all use the same number to define an urban settlement; for example, Iceland uses a minimum population of 200, while Mali uses 30,000. Other countries use a combination of population and other factors, like the number of buildings in the area. This variation makes it difficult for researchers to compare aspects of urbanization in different countries.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To compare the urban populations of two different countries."
+        },
+        {
+          "name": "B",
+          "content": "To explain why researchers are interested in studying global urbanization."
+        },
+        {
+          "name": "C",
+          "content": "To illustrate a problem faced by researchers studying global urbanization."
+        },
+        {
+          "name": "D",
+          "content": "To object to a method that some countries use to classify different types of settlements."
+        }
+      ],
+      "correct": "To illustrate a problem faced by researchers studying global urbanization.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In their study of fossils of the extinct arthropod <i>Mollisonia symmetrica</i>, Javier Ortega-HernÃ¡ndez, Rudy Lerosey-Aubril, and team reported some obvious indications of <i>M. symmetrica</i>'s nervous systemâfor example, nerves extending into the animal's body parts. Most intriguingly, they also saw signs of what might be a synganglion, a brain-like nerve mass, in the animal's head. This is an exciting possibility; without evidence of a synganglion, we can't tell exactly how <i>M. symmetrica</i> relates to mosquitoes, slipper lobsters, and other arthropods.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To describe <i>M. symmetrica</i> and the way nerves extending into the animal's body parts functioned."
+        },
+        {
+          "name": "B",
+          "content": "To question whether the fossils the team studied were actually of <i>M. symmetrica</i>."
+        },
+        {
+          "name": "C",
+          "content": "To discuss a significant feature that may have been found in a study of <i>M. symmetrica</i> fossils."
+        },
+        {
+          "name": "D",
+          "content": "To argue that <i>M. symmetrica</i> may have been more similar to mosquitoes than to slipper lobsters."
+        }
+      ],
+      "correct": "To discuss a significant feature that may have been found in a study of <i>M. symmetrica</i> fossils.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Charles Fuller's critically acclaimed play <i>The Brownsville Raid</i> was produced in 1976 by the groundbreaking Negro Ensemble Company (NEC). NEC cofounder Douglas Turner Ward, who worked as an actor, director, and playwright, had met actor and producer Robert Hooks while they were performing in a 1960 touring production of Lorraine Hansberry's play <i>A Raisin in the Sun</i>. Together, they envisioned a theater company that would nurture and showcase the work of Black theater professionals. <u>Since NEC's founding in 1967, its workshops and performances have given Black playwrights, including Fuller, a forum for their compelling stories.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It provides additional information about a person mentioned in the text."
+        },
+        {
+          "name": "B",
+          "content": "It emphasizes the ongoing significance of the theater company discussed in the text."
+        },
+        {
+          "name": "C",
+          "content": "It illustrates the widespread influence of a play discussed earlier in the text."
+        },
+        {
+          "name": "D",
+          "content": "It explains the circumstances that led to the formation of the theater company discussed in the text."
+        }
+      ],
+      "correct": "It emphasizes the ongoing significance of the theater company discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the Greek village of Pyrgi, the buildings are embellished with <i>xysta</i>, a traditional design featuring rows upon rows of carved geometric shapes on the facades of buildings. Deeply rooted in Pyrgi's cultural history and handed down over generations, the techniques used for creating these precise patterns involve mathematical principles and tools, such as compasses and rulers. Studying the history of <i>xysta</i>, therefore, has given researchers an understanding of how mathematics has been used in this region dating to the medieval period.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Research on techniques used to construct <i>xysta</i> has helped reveal the role of mathematics in the culture of Pyrgi."
+        },
+        {
+          "name": "B",
+          "content": "There is more academic interest in the tools the Pyrgi people use to construct <i>xysta</i> than in the appearance of <i>xysta</i>."
+        },
+        {
+          "name": "C",
+          "content": "The people of Pyrgi constructed <i>xysta</i> on their buildings to show an appreciation for mathematics."
+        },
+        {
+          "name": "D",
+          "content": "The construction of <i>xysta</i> on buildings was first completed in the village of Pyrgi during the medieval period."
+        }
+      ],
+      "correct": "Research on techniques used to construct <i>xysta</i> has helped reveal the role of mathematics in the culture of Pyrgi.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Online surveys are a common tool researchers use to collect information. These surveys are usually designed for use on personal computers (PCs), but more people are using smartphones to complete them than they are PCs. This shift in device usage may change how participants interact with online surveys. When researchers Jean Philippe DÃ©cieux and Philipp E. Sischka investigated, they found that PC users were more likely to multitask while taking surveys than smartphone users were, but PC users were also more likely to complete the surveys.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "People are choosing to take online surveys on smartphones more often than they are on PCs because smartphones are convenient."
+        },
+        {
+          "name": "B",
+          "content": "A study shows that the type of device people use to complete online surveys affects how they interact with these surveys."
+        },
+        {
+          "name": "C",
+          "content": "Researchers prefer online surveys to other ways of collecting information because they think online survey results are more reliable."
+        },
+        {
+          "name": "D",
+          "content": "Researchers are investigating why survey completion rates are higher on PCs than they are on smartphones, despite increased multitasking on PCs."
+        }
+      ],
+      "correct": "A study shows that the type of device people use to complete online surveys affects how they interact with these surveys.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Memoirs of Elleanor Eldridge</i> is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors suggest that many memoirs of renowned people aren't particularly straightforward or candid, writing, ______ </p>",
+      "question": "Which quotation from <i>Memoirs of Elleanor Eldridge</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"There is often a kind of [deceptive] light, playing around such [famous] names, calculated to dazzle and mislead, by their false lustre, until the eye can no longer receive the pure light of Truth, or the mind appreciate real excellence, or intrinsic worth.\""
+        },
+        {
+          "name": "B",
+          "content": "\"It should not be considered essential to the interest and value of biography, that its subject be of exalted rank, or illustrious name.\""
+        },
+        {
+          "name": "C",
+          "content": "\"How careful ought we to be to speak nothing but the truth, even in regard to the most trifling circumstances; and not only so, but to be well assured that what we suppose to be true, is truth, before we receive it as such.\""
+        },
+        {
+          "name": "D",
+          "content": "\"Then let no one turn with too much [fussiness], from the simple story of the humble Elleanor, though it may contain few, or none, of the thrilling charms of poetry and passion.\""
+        }
+      ],
+      "correct": "\"There is often a kind of [deceptive] light, playing around such [famous] names, calculated to dazzle and mislead, by their false lustre, until the eye can no longer receive the pure light of Truth, or the mind appreciate real excellence, or intrinsic worth.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Andrea Sommese, Akos PogÃ¡ny, and team investigated head-tilting behavior in a group of forty dogs, which included thirty-four typical dogs from five different breeds (including Enzo, a whippet) and six dogs that had previously demonstrated giftedness at learning words, all of which were border collies. The researchers recorded the dogsâ head-tilting behavior in response to requests to fetch a toy that had been introduced early in the study. They found that all six gifted dogs tilted their heads at least some of the time when asked to retrieve the toy by name, while the typical dogs almost never tilted their heads. After reviewing the study, a student concludes that a tendency to tilt their heads is a characteristic trait of all border collies.</p>",
+      "question": "Which finding from the study, if true, would most directly challenge the student's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The typical dogs that tilted their heads appeared to be processing the meaning of the requests."
+        },
+        {
+          "name": "B",
+          "content": "The border collies successfully fetched the toy more often than the dogs of other breeds did."
+        },
+        {
+          "name": "C",
+          "content": "The majority of dogs in the typical group were border collies."
+        },
+        {
+          "name": "D",
+          "content": "Most of the gifted dogs tilted their heads to the same side in each trial."
+        }
+      ],
+      "correct": "The majority of dogs in the typical group were border collies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Cane</i> is a 1923 novel by Jean Toomer. In the novel, Toomer mentions a road in rural Georgia called Dixie Pike and describes it as having a deep connection to a faraway place, writing, ______</p>",
+      "question": "Which quotation from <i>Cane</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âIf it were dusk, then [Fern's eyes would] wait for the search-light of the evening train which you could see miles up the track before it flared across the Dixie Pike, close to her home.â"
+        },
+        {
+          "name": "B",
+          "content": "âAnd when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].â"
+        },
+        {
+          "name": "C",
+          "content": "âThe Dixie Pike has grown from a goat path in Africa.â"
+        },
+        {
+          "name": "D",
+          "content": "âI leave the men around the stove to follow [Carma] with my eyes down the red dust road.â"
+        }
+      ],
+      "correct": "âThe Dixie Pike has grown from a goat path in Africa.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/58145a5208fa810fc4e31bbeb953771e.png\" style=\"width: 600px; height: 359px;\"></div><p>Myoglobin (Mb) is a protein that primarily aids in oxygen storage and diffusion across the mitochondrial membrane in cardiac muscle cells; these are necessary functions in aerobic organisms, including teleost fish. Carrying out these functions typically requires Mb to be expressed at high levels, evidenced by red heart tissue. The table shows the average Mb levels and their standard deviations (indicating how dispersed the Mb levels of individual fish are in relation to the average) of three teleost fish species, as calculated by Daniel J. Macqueen et al. Based on the data, the researchers concluded that for some teleost species, oxygen storage and diffusion may occur with negligible assistance from Mb.</p>",
+      "question": "Which choice most effectively uses data from the table to support Macqueen et al.'s conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Greater average Mb levels in a certain species were associated with greater variance in Mb levels among individuals of that species."
+        },
+        {
+          "name": "B",
+          "content": "On average, <i>B. coracoideus</i> had higher Mb levels in their cardiac tissue than <i>C. chitala</i> and <i>P. buchholzi</i> had."
+        },
+        {
+          "name": "C",
+          "content": "<i>P. buchholzi</i> had very low Mb levels in their cardiac tissue."
+        },
+        {
+          "name": "D",
+          "content": "Less variation in Mb levels was observed among <i>P. buchholzi</i> individuals than among <i>B. coracoideus</i> and <i>C. chitala</i> individuals."
+        }
+      ],
+      "correct": "<i>P. buchholzi</i> had very low Mb levels in their cardiac tissue.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Coffee farming around the world has changed greatly over time. Originally, coffee plants grew in the shade of tropical forests. Today coffee is often grown without shade cover. This is because full-sun coffee farms can produce more coffee beans. But the lack of trees on such farms means a lack of spaces for many species of birds to roost. Therefore, compared with full-sun coffee farms, shaded farms tend to ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "experience generally milder weather conditions."
+        },
+        {
+          "name": "B",
+          "content": "have fewer problems with insects and other pests."
+        },
+        {
+          "name": "C",
+          "content": "be home to a more diverse range of birds."
+        },
+        {
+          "name": "D",
+          "content": "have better soil quality."
+        }
+      ],
+      "correct": "be home to a more diverse range of birds.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Zooarchaeologist OphÃ©lie Lebrasseur and her team examined a fox skeleton discovered in 1991 at an archaeological site alongside artifacts of human habitation (like spear points) in central Argentina. Lebrasseur et al. determined that the fox was <i>Dusicyon avus</i>, an extinct species resembling a jackal, and radiocarbon dating placed the fox at the site at the same time as human inhabitants. (Indeed, the inhabitants may have deliberately buried the fox.) In addition, while wild foxes have a diet entirely made of meat, isotopic signatures of the skeleton's teeth indicated that the fox's diet, like that of the humans, was partly composed of plant material. Lebrasseur et al. therefore concluded that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the fox had a diet more similar to that of jackals than to that of wild foxes."
+        },
+        {
+          "name": "B",
+          "content": "the humans who were alive at the same time as the fox most likely ate more meat than the fox did."
+        },
+        {
+          "name": "C",
+          "content": "the humans who were alive at the same time as the fox hunted using the spears whose points were also found at the site."
+        },
+        {
+          "name": "D",
+          "content": "the fox may have been a companion animal of the humans who inhabited the site at the same time."
+        }
+      ],
+      "correct": "the fox may have been a companion animal of the humans who inhabited the site at the same time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Cycads are palmlike plants with cones. ______ plants were abundant throughout the Mesozoic Era (66 to 252 million years ago).</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "These"
+        },
+        {
+          "name": "B",
+          "content": "That"
+        },
+        {
+          "name": "C",
+          "content": "This"
+        },
+        {
+          "name": "D",
+          "content": "Each"
+        }
+      ],
+      "correct": "These",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The theory of plate tectonics explains how large pieces of Earth's crust, called tectonic plates, move and interact. According to the theory, the movement of tectonic plates forms ______ creates volcanoes, and causes earthquakes.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "mountains;"
+        },
+        {
+          "name": "B",
+          "content": "mountains"
+        },
+        {
+          "name": "C",
+          "content": "mountains,"
+        },
+        {
+          "name": "D",
+          "content": "mountains:"
+        }
+      ],
+      "correct": "mountains,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Philosopher Gottlob Frege (1848â1925) explored how multiple names can be used to refer to the same object or person yet still have different meanings. For instance, the fictional character Clark Kent and his alter ego Superman are the same person, yet the two personas are distinct. For Frege, this raises further questions about how ______ </p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "can we hold contradictory beliefs about a single thing."
+        },
+        {
+          "name": "B",
+          "content": "we can hold contradictory beliefs about a single thing."
+        },
+        {
+          "name": "C",
+          "content": "we can hold contradictory beliefs about a single thing?"
+        },
+        {
+          "name": "D",
+          "content": "can we hold contradictory beliefs about a single thing?"
+        }
+      ],
+      "correct": "we can hold contradictory beliefs about a single thing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Choreographers George Balanchine and Martha Graham both contributed sections to the dance piece <i>Episodes</i>, which premiered at New York's City Center of Music and Drama in 1959. This cross-genre collaboration brought together the distinct features of Balanchine's neoclassical ballet and Graham's modern ______ the stylistic diversity and creative innovation within the dance world.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dance, showcasing"
+        },
+        {
+          "name": "B",
+          "content": "dance, it showcased"
+        },
+        {
+          "name": "C",
+          "content": "dance. Which showcased"
+        },
+        {
+          "name": "D",
+          "content": "dance. Showcasing"
+        }
+      ],
+      "correct": "dance, showcasing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In her <i>Silueta</i> sculpture series, the Cuban American artist Ana ______ to access what she called an âomnipresent female force,â utilized a variety of natural materials to create outlinesâor silhouettesâof her own body.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Mendieta, hoping"
+        },
+        {
+          "name": "B",
+          "content": "Mendieta hope"
+        },
+        {
+          "name": "C",
+          "content": "Mendieta had hoped"
+        },
+        {
+          "name": "D",
+          "content": "Mendieta was hoping"
+        }
+      ],
+      "correct": "Mendieta, hoping",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The United Nationsâ Trade and Development organization divides exports into five key categories: food items, agricultural materials, fuels, ores and raw metals, and manufactured goods (i.e., most nonfood goods made by machinery or by hand). In 2022, the majority (77 percent) of Malta's exports were manufactured goods. ______ integrated circuits, medicines, and postage stamps were its top exports.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In a broader sense,"
+        },
+        {
+          "name": "B",
+          "content": "Within this category,"
+        },
+        {
+          "name": "C",
+          "content": "In the future,"
+        },
+        {
+          "name": "D",
+          "content": "Despite this majority,"
+        }
+      ],
+      "correct": "Within this category,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Barium is one of a variety of potentially useful trace elements contained in the chemical-rich brine that remains after seawater is purified through desalination. However, routine extraction of barium and other such elements from brine is not yet technologically or economically feasible. ______ most trace elements have only been extracted from seawater on an experimental basis.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Finally,"
+        },
+        {
+          "name": "B",
+          "content": "Similarly,"
+        },
+        {
+          "name": "C",
+          "content": "In doing so,"
+        },
+        {
+          "name": "D",
+          "content": "To date,"
+        }
+      ],
+      "correct": "To date,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A synthesis reaction is a type of chemical reaction.</li><li>In a synthesis reaction, two or more substances combine to form a new substance.</li><li>When sodium and chloride combine, they form a substance called sodium chloride.</li><li>This substance is more commonly known as table salt.</li></ul></blockquote>",
+      "question": "The student wants to define the term âsynthesis reaction.â Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "When sodium and chloride combine, they form a substance commonly known as table salt."
+        },
+        {
+          "name": "B",
+          "content": "The substance sodium chloride, also known as table salt, is formed by a chemical reaction."
+        },
+        {
+          "name": "C",
+          "content": "A new substance is formed when a chemical reaction combines sodium and chloride."
+        },
+        {
+          "name": "D",
+          "content": "A synthesis reaction is a chemical reaction in which two or more substances combine to form a new substance."
+        }
+      ],
+      "correct": "A synthesis reaction is a chemical reaction in which two or more substances combine to form a new substance.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Highpointers Club is a hiking club.</li><li>One of the main goals among club members is to reach the highest points in all fifty US states.</li><li>Those who achieve this are called 50 Completers.</li><li>In Suk Han became a 50 Completer on November 15, 2013.</li><li>The highest point in West Virginia is Spruce Knob, at 4,863 ft.</li><li>The highest point in Colorado is Mount Elbert, at 14,440 ft.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to explain the 50 Completers hiking challenge to a new audience?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Hikers aiming to count themselves among the 50 Completers must reach not only West Virginia's Spruce Knob but also the even higher peak of Mount Elbert in Colorado."
+        },
+        {
+          "name": "B",
+          "content": "Not until after you have reached the highest points in all fifty US statesâincluding Spruce Knob in West Virginia and Mount Elbert in Coloradoâcan you include yourself among the 50 Completers of the Highpointers Club."
+        },
+        {
+          "name": "C",
+          "content": "If you are looking for a new hiking challenge, consider joining the Highpointers Club, as did In Suk Han, a hiker who successfully reached the highest point in every US state."
+        },
+        {
+          "name": "D",
+          "content": "On November 15, 2013, In Suk Han finally completed the feat of reaching the highest point in all fifty US states, including Spruce Knob in West Virginia and Mount Elbert in Colorado."
+        }
+      ],
+      "correct": "Not until after you have reached the highest points in all fifty US statesâincluding Spruce Knob in West Virginia and Mount Elbert in Coloradoâcan you include yourself among the 50 Completers of the Highpointers Club.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Epistolary novels are novels written primarily as a series of fictional documents, typically letters.</li><li>Sometimes, the documents are journal entries, newspaper clippings, and more.</li><li><i>Hyperion</i> (1797) is an epistolary novel by German author Friedrich HÃ¶lderlin.</li><li>It consists primarily of letters sent between a Greek hermit named Hyperion and his friend Bellarmin.</li><li><i>Absolutely Normal Chaos</i> (1990) is an epistolary novel by US author Sharon Creech.</li><li>It consists primarily of journal entries written by a student during her summer vacation.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two novels. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While the novel <i>Hyperion</i> consists primarily of letters, the novel <i>Absolutely Normal Chaos</i> consists primarily of journal entries."
+        },
+        {
+          "name": "B",
+          "content": "<i>Hyperion</i> and <i>Absolutely Normal Chaos</i> are epistolary novels, which means they are written primarily as a series of documents."
+        },
+        {
+          "name": "C",
+          "content": "Some epistolary novels consist primarily of journal entries, but most, like Friedrich HÃ¶lderlin's <i>Hyperion</i>, consist primarily of letters."
+        },
+        {
+          "name": "D",
+          "content": "Both Friedrich HÃ¶lderlin and Sharon Creech have written epistolary novels."
+        }
+      ],
+      "correct": "While the novel <i>Hyperion</i> consists primarily of letters, the novel <i>Absolutely Normal Chaos</i> consists primarily of journal entries.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Ellicott Slough National Wildlife Refuge (NWR) is a protected natural area in California.</li><li>It encompasses 139 acres.</li><li>The Ellicott Slough NWR was established to safeguard the habitat of the Santa Cruz long-toed salamander, an endangered species.</li><li>The Ellicott Slough NWR is managed by the US Fish &amp; Wildlife Service.</li><li>The US Fish &amp; Wildlife Service limits human activities in the area.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the role the US Fish & Wildlife Service plays in safeguarding the habitat of the Santa Cruz long-toed salamander. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By limiting human activities in the Ellicott Slough NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the Santa Cruz long-toed salamander."
+        },
+        {
+          "name": "B",
+          "content": "The 139-acre Ellicott Slough NWR was established to safeguard the habitat of the Santa Cruz long-toed salamander, an endangered species."
+        },
+        {
+          "name": "C",
+          "content": "Human activities are limited in the Ellicott Slough NWR, a protected natural area in California."
+        },
+        {
+          "name": "D",
+          "content": "The Santa Cruz long-toed salamander is an endangered species whose habitat is protected within the Ellicott Slough National Wildlife Refuge, a 139-acre natural area in California."
+        }
+      ],
+      "correct": "By limiting human activities in the Ellicott Slough NWR, the US Fish &amp; Wildlife Service safeguards the habitat of the Santa Cruz long-toed salamander.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Henry W. Sobel is a US particle physicist.</li><li>Particle physicists study subatomic particles.</li><li>Neutrinos are some of the least understood subatomic particles.</li><li>Neutrinos were first discovered in the mid-twentieth century.</li><li>Sobel is known for his research on neutrino oscillations.</li></ul></blockquote>",
+      "question": "The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The research done on neutrino oscillations exemplifies the work particle physicists do to advance our understanding of subatomic particles."
+        },
+        {
+          "name": "B",
+          "content": "Particle physicist Henry W. Sobel is known for his research on neutrino oscillations."
+        },
+        {
+          "name": "C",
+          "content": "By studying neutrino oscillations â to name just one example â particle physicists can learn more about neutrinos."
+        },
+        {
+          "name": "D",
+          "content": "Neutrinos are a type of subatomic particle that particle physicists are still trying to understand."
+        }
+      ],
+      "correct": "Particle physicist Henry W. Sobel is known for his research on neutrino oscillations.",
+      "solution": ""
+    }
+  ]
+}

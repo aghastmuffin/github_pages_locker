@@ -1,0 +1,682 @@
+{
+  "uuid": "91ff0c6a-268b-4d8b-9642-b9fb25a907b4",
+  "chunk": "FfRwC4xt.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Smartphones and other small electronic devices tend to use batteries that can't be easily taken out and swapped for new ones. Environmental policy researcher Jean-Pierre Schweitzer warns that when these internal batteries stop working, the devices are usually thrown away, becoming harmful ______.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "advice"
+        },
+        {
+          "name": "B",
+          "content": "waste"
+        },
+        {
+          "name": "C",
+          "content": "rewards"
+        },
+        {
+          "name": "D",
+          "content": "positions"
+        }
+      ],
+      "correct": "waste",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Kenneth Grahame's 1908 novel <i>The Wind in the Willows.</i> The Mole has been found by a friend after getting lost in the woods. It is beginning to snow.</p><blockquote style=\"margin-left: 40px;\">The Mole saw the wood that had been so dreadful to him in quite a changed aspect. Holes, hollows, pools, pitfalls, and other menaces to the wayfarer were vanishing fast, and a gleaming carpet was springing up everywhere, that looked too <u>delicate</u> to be trodden upon by rough feet.</blockquote>",
+      "question": "As used in the text, what does the word \"delicate\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Generous"
+        },
+        {
+          "name": "B",
+          "content": "Fragile"
+        },
+        {
+          "name": "C",
+          "content": "Accurate"
+        },
+        {
+          "name": "D",
+          "content": "Empty"
+        }
+      ],
+      "correct": "Fragile",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Jean Batten, who was the first person to fly between England and New Zealand solo, and Ynes Mexia, who was the first to discover the botanical genus <i>Mexianthus</i>, are ensured lasting places in our historical memory. No matter what others may do in the future, nobody can ever ______ the standing of these women as the first to accomplish these feats.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "undermine"
+        },
+        {
+          "name": "B",
+          "content": "imply"
+        },
+        {
+          "name": "C",
+          "content": "extend"
+        },
+        {
+          "name": "D",
+          "content": "promote"
+        }
+      ],
+      "correct": "undermine",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Whatever the general attitude toward Madeline Anderson's 1970 film <i>I Am Somebody</i> and Reginald Hudlin's 1990 film <i>House Party</i> when they were initially released, both films now tend to be regarded quite ______. In 2018, for example, critics for the <i>New York Times</i> praised the former as âgalvanizing\" and the latter as \"exuberant.â</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Favorably"
+        },
+        {
+          "name": "B",
+          "content": "skeptically"
+        },
+        {
+          "name": "C",
+          "content": "neutrally"
+        },
+        {
+          "name": "D",
+          "content": "strangely"
+        }
+      ],
+      "correct": "Favorably",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To evaluate their ideas about environmental conditions in the Pliocene epoch, paleontologists must turn to ______ evidence. Only material objectsâsuch as the fossil remains of the individual known as AL, 200-1, discovered in Ethiopia in 1975âcan show whether a particular idea about the Pliocene is defensible.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Physical"
+        },
+        {
+          "name": "B",
+          "content": "Convenient"
+        },
+        {
+          "name": "C",
+          "content": "Creative"
+        },
+        {
+          "name": "D",
+          "content": "Inconclusive"
+        }
+      ],
+      "correct": "Physical",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Joseph A. Walker's award-winning play <i>The River Niger</i> was produced in 1972 by the groundbreaking Negro Ensemble Company (NEC). NEC cofounder Douglas Turner Ward, <u>who worked as an actor, director, and playwright,</u> had met actor and producer Robert Hooks while they were performing in a 1960 touring production of Lorraine Hansberry's play <i>A Raisin in the Sun</i>. Together, they envisioned a theater company that would nurture and showcase the work of Black theater professionals. Since NEC's founding in 1967, its workshops and performances have given Black playwrights, including Walker, a forum for their compelling stories.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It illustrates the importance of an organization mentioned in the text."
+        },
+        {
+          "name": "B",
+          "content": "It compares the achievements of two people discussed later in the text."
+        },
+        {
+          "name": "C",
+          "content": "It argues against the claim made earlier in the text."
+        },
+        {
+          "name": "D",
+          "content": "It provides additional information about a person discussed in the text."
+        }
+      ],
+      "correct": "It provides additional information about a person discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Burt Kotler and colleagues showed that high moonlight intensity inhibits the activity of the greater Egyptian gerbil (<i>Gerbillus pyramidum</i>), a finding explicable in terms of benefits and costs: greater lunar intensity may not enable the gerbils to increase foraging success enough to offset the higher chance of detection by predatory foxes or owls. Though many other nocturnal mammals respond to lunar intensity variations similarly to greater Egyptian gerbils, Mohol bushbabies (<i>Galago moholi</i>) display the opposite pattern, as their <u>heavy reliance on visual foraging</u> results in a different balance of reward and risk.</p>",
+      "question": "Which choice best describes the function of the reference to \"heavy reliance on visual foraging\" in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It emphasizes an attribute of Mohol bushbabies that enables them to respond to lunar intensity variations more rapidly than greater Egyptian gerbils and many other nocturnal mammals do."
+        },
+        {
+          "name": "B",
+          "content": "It identifies a characteristic of Mohol bushbabies that explains why they do not reduce their activity under high lunar intensity like greater Egyptian gerbils and many other nocturnal mammals do."
+        },
+        {
+          "name": "C",
+          "content": "It describes a behavioral pattern displayed by Mohol bushbabies that is inconsistent with how they would be expected to respond to high lunar intensity based on benefits and costs."
+        },
+        {
+          "name": "D",
+          "content": "It presents a trait of Mohol bushbabies that serves as evidence for the assertion that greater Egyptian gerbils are not the only nocturnal mammals whose activity is inhibited by high lunar intensity."
+        }
+      ],
+      "correct": "It identifies a characteristic of Mohol bushbabies that explains why they do not reduce their activity under high lunar intensity like greater Egyptian gerbils and many other nocturnal mammals do.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<h4>Text 1</h4>\n<p>Isaac Asimov, author of <em>The Caves of Steel</em> and <em>The Stars, Like Dust</em>, is highly regarded despite his mediocre writing style. His prose is workmanlike; <u>his characters are flat</u> and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imaginationâeven if people read his books only for the ideas, they will have plenty to consider.</p>\n<h4>Text 2</h4>\n<p>Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel <em>Foundation</em> consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don't matter. Thus his lack of characterization is central to his thematic aims.</p>",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the description of Asimov's characters in the underlined portion of Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Asimov's characterizations would have been richer if he had possessed a deeper understanding of history."
+        },
+        {
+          "name": "B",
+          "content": "The flatness of Asimov's characters is a feature of <em>The Caves of Steel</em> and <em>The Stars, Like Dust</em> but not of <em>Foundation</em>."
+        },
+        {
+          "name": "C",
+          "content": "The flatness of Asimov's characters should not necessarily be considered a flaw in his writing."
+        },
+        {
+          "name": "D",
+          "content": "Asimov's characterizations would have been more believable if his writing had discussed fewer ideas."
+        }
+      ],
+      "correct": "The flatness of Asimov's characters should not necessarily be considered a flaw in his writing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Sea otters and other animals, though, have busted the myth that tool use is limited to certain primates. Inventively, sea otters use stationary anvil stones to break open mollusk shells. Woodpecker finches also get creative. They use cactus spines to pry insects from hiding places.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Animals find it difficult to use objects as tools."
+        },
+        {
+          "name": "B",
+          "content": "Unlike primates, sea otters are exceptionally skillful at using different tools."
+        },
+        {
+          "name": "C",
+          "content": "Contrary to long-held beliefs, primates aren't the only animals to use tools."
+        },
+        {
+          "name": "D",
+          "content": "There are many myths about tool use that researchers are starting to challenge."
+        }
+      ],
+      "correct": "Contrary to long-held beliefs, primates aren't the only animals to use tools.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/356002f15dffa8c9d5315b6a7cc2e186.png\" width=\"616\" height=\"357\"></div>\n<p>A student is writing a paper on the global rise of the home video game industry during the 1980s. The student wants to know the release year of the video game <i>Zelda ll: The Adventure of Link</i>, developed by Nintendo EAD. The student finds that this game was released in ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1982."
+        },
+        {
+          "name": "B",
+          "content": "1987."
+        },
+        {
+          "name": "C",
+          "content": "1984."
+        },
+        {
+          "name": "D",
+          "content": "1988."
+        }
+      ],
+      "correct": "1987.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A film studies student is researching early 20th-century film serials, which consisted of individual episodes of a single long story that were shown weekly in theaters. <i>Clancy of the Mounted</i> is a 1933 serial that, over its 12 episodes, kept its audience interested with the suspense and drama that are typical of the northern adventure genre. The student, however, claims that ultimately audiences of the time preferred resolution and closure over ongoing tension.</p>",
+      "question": "Which finding, if true, would most directly support the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The 12th episode of <i>Clancy of the Mounted</i> was the most expensive episode of the series to produce."
+        },
+        {
+          "name": "B",
+          "content": "The 12th episode of <i>Clancy of the Mounted</i> was viewed by more people than was any previous episode in the series."
+        },
+        {
+          "name": "C",
+          "content": "Modern critics generally regard the first episode as the best installment of <i>Clancy of the Mounted</i>."
+        },
+        {
+          "name": "D",
+          "content": "Audiences at the time considered <i>Clancy of the Mounted</i> to belong to a genre other than the northern adventure genre."
+        }
+      ],
+      "correct": "The 12th episode of <i>Clancy of the Mounted</i> was viewed by more people than was any previous episode in the series.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Treasure Island</i> is an 1883 novel by Robert Louis Stevenson. When the narrator was a child, his father ran a hotel. A mysterious sailor came to stay at the hotel. The narrator was frightened of the sailor, as can be seen when the narrator says, ______</p>",
+      "question": "Which quotation from <i>Treasure Island</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âHow [the sailor] haunted my dreams, I need scarcely tell you. On stormy nights, when the wind shook the four corners of the house and the surf roared along the cove and up the cliffs, I would see him in a thousand forms, and with a thousand diabolical expressions.â"
+        },
+        {
+          "name": "B",
+          "content": "âI remember [the sailor] as if it were yesterday, as he came plodding to the inn door, his sea chest following behind him in a hand-barrow.â"
+        },
+        {
+          "name": "C",
+          "content": "â[The sailor] was a very silent man by custom. All day he hung round the cove or upon the cliffs with a brass telescope.â"
+        },
+        {
+          "name": "D",
+          "content": "âAll the time he lived with us [the sailor] made no change whatever in his dress but to buy some stockings from a hawker. One of the [corners] of his hat having fallen down, he let it hang from that day forth, though it was a great annoyance when it blew.â"
+        }
+      ],
+      "correct": "âHow [the sailor] haunted my dreams, I need scarcely tell you. On stormy nights, when the wind shook the four corners of the house and the surf roared along the cove and up the cliffs, I would see him in a thousand forms, and with a thousand diabolical expressions.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Students in a biology class investigated why individual house mice (<i>Mus musculus</i>) can differ from one another in their susceptibility to cataracts in old age. The students compared wild-type mice and knockout mice, which are mice with specific genes deactivated, when mice of each type were raised in similar naturalistic environments and periodically tested for cataracts. Finding that knockout mice with the gene <i>Aasdh</i> deactivated tended to develop cataracts more frequently than did wild-type mice, the students concluded that differences in cataract frequency among house mice in nature are solely attributable to variations in the level of expression of <i>Aasdh</i>.</p>",
+      "question": "Which finding, if true, would most directly weaken the students' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Some wild-type mice were very similar to the knockout mice with regard to cataract frequency but showed a wide variety of levels of expression of <i>Aasdh</i>."
+        },
+        {
+          "name": "B",
+          "content": "The level of expression of <i>Aasdh</i> does not appear to affect the functioning of any other genes in house mice."
+        },
+        {
+          "name": "C",
+          "content": "A sampling of house mice captured in natural settings shows that individual mice can differ from one another in the level of expression of <i>Aasdh</i>."
+        },
+        {
+          "name": "D",
+          "content": "The mice with <i>Aasdh</i> deactivated were identical to the wild type mice except with regard to cataract frequency."
+        }
+      ],
+      "correct": "Some wild-type mice were very similar to the knockout mice with regard to cataract frequency but showed a wide variety of levels of expression of <i>Aasdh</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Narwhals are shy whales that live in the remote Arctic Ocean. Some of them have a long tusk, like a unicorn horn, with sensitive nerves. Narwhals are known for this tusk, but many actually don't have one and its purpose is unknown. One group of scientists came up with a possible purpose in 2014. The scientists suggested that the tusk may help narwhals determine when water around them is likely to start freezing and become dangerous for them. Marine biologist Kristin Laidre disagrees with that idea, though. She reasons that if the narwhal's tusk serves such an important purpose, then it's most likely that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "some narwhals would seek a new habitat."
+        },
+        {
+          "name": "B",
+          "content": "more narwhals would have a tusk."
+        },
+        {
+          "name": "C",
+          "content": "fewer marine animals would also have tusks."
+        },
+        {
+          "name": "D",
+          "content": "narwhals would become less shy over time."
+        }
+      ],
+      "correct": "more narwhals would have a tusk.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Over 600 languages are spoken in New York City in addition to English - one can find Bartangi spoken in the neighborhood of Yorkville, or Ghale in Jackson Heights. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City's borough of Queens) and in Chinatown, in the borough of Manhattan. New immigrants from north China, where Mandarin is the primary first language, tend to settle in Queens, while new immigrants from south China, where many people speak Cantonese or Fuzhounese as a first language, tend to settle in Manhattan. It can therefore be inferred that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "languages tend to change more rapidly in areas where many languages are spoken than in areas where few languages are spoken."
+        },
+        {
+          "name": "B",
+          "content": "correlations in a country between languages and regions where they are spoken can replicate themselves in a new country to which the original country's citizens emigrate."
+        },
+        {
+          "name": "C",
+          "content": "languages spoken by immigrant peoples can differ significantly in vocabulary and pronunciation from those same languages in their country of origin."
+        },
+        {
+          "name": "D",
+          "content": "there is a positive correlation between the physical size of a country and the number of languages spoken in that country."
+        }
+      ],
+      "correct": "correlations in a country between languages and regions where they are spoken can replicate themselves in a new country to which the original country's citizens emigrate.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>F. Scott Fitzgerald's 1920 novel <i>This Side of Paradise</i> contains elements drawn from Fitzgerald's own lifeâthere are many parallels between the experiences of the novel's protagonist, Amory Blaine, and those of Fitzgerald, and as a result <i>This Side of Paradise</i> is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, as it may lead readers to believe that Fitzgerald merely fictionalized true events, which, in an artistic field where creativity and inventiveness are prized, can suggest that ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>This Side of Paradise</i> is less of an imaginative achievement than it actually is."
+        },
+        {
+          "name": "B",
+          "content": "Fitzgerald should not have claimed that <i>This Side of Paradise</i> is based on real events."
+        },
+        {
+          "name": "C",
+          "content": "critics disagree about whether <i>This Side of Paradise</i> shows greater originality than works without autobiographical elements."
+        },
+        {
+          "name": "D",
+          "content": "the real-world counterparts of other characters in <i>This Side of Paradise</i> are hard to identify."
+        }
+      ],
+      "correct": "<i>This Side of Paradise</i> is less of an imaginative achievement than it actually is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Completed in 1886, Vincent van Gogh's drawing <i>Behind the Hedge</i> is less well known than his ______ it is still considered by scholars to be an important work.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "paintings, but"
+        },
+        {
+          "name": "B",
+          "content": "paintings, "
+        },
+        {
+          "name": "C",
+          "content": "paintings"
+        },
+        {
+          "name": "D",
+          "content": "paintings but"
+        }
+      ],
+      "correct": "paintings, but",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On the other hand, Kansas City International Airport, which ______ located in Kansas City, Missouri, saw an overall increase in departing passengers over the same time period, from 4,891,704 total passengers to 5,759,138.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is"
+        },
+        {
+          "name": "B",
+          "content": "are"
+        },
+        {
+          "name": "C",
+          "content": "were"
+        },
+        {
+          "name": "D",
+          "content": "have been"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When Anglo and African Americans moved West in the nineteenth century to begin cattle ranching, they learned the trade from Spanish-speaking Mexican vaqueros (cowboys). This is why many ranching terms come from ______ English word âlasso\" (a rope) comes from the Spanish word lazo, and âcinch\" (a belt) comes from cincho.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Spanish. The "
+        },
+        {
+          "name": "B",
+          "content": "Spanish (the "
+        },
+        {
+          "name": "C",
+          "content": "Spanish the "
+        },
+        {
+          "name": "D",
+          "content": "Spanish? The"
+        }
+      ],
+      "correct": "Spanish. The ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The fact that many even-toed ungulates, including the Bawean deer (<i>Axis kuhlii</i>) and the south Andean deer (<i>Hippocamelus bisulcus</i>), meet the population criteria for endangered status validates the need for interventions that can prevent ______ from joining the ranks of the extinct.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the animal"
+        },
+        {
+          "name": "B",
+          "content": "these animals"
+        },
+        {
+          "name": "C",
+          "content": "this animal's"
+        },
+        {
+          "name": "D",
+          "content": "these animals'"
+        }
+      ],
+      "correct": "these animals",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Water boils at around 212Â°F at sea level, but in Questa, New Mexico (elevation: 7,461 feet above sea level), it boils at around 198Â°F. Food writer J. Kenji LÃ³pez-Alt, who explores the science behind cooking, ______ that lower boiling points at higher elevations \"can wreak all sorts of havoc on recipes.\"</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Explains"
+        },
+        {
+          "name": "B",
+          "content": "are explaining"
+        },
+        {
+          "name": "C",
+          "content": "Explain"
+        },
+        {
+          "name": "D",
+          "content": "have explained"
+        }
+      ],
+      "correct": "Explains",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While not the case with dimples, some inherited observable traits, or phenotypes, can change because of a variety of factors. ______ eye color can change because of age.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Finally,"
+        },
+        {
+          "name": "C",
+          "content": "Conversely,"
+        },
+        {
+          "name": "D",
+          "content": "In any case,"
+        }
+      ],
+      "correct": "For example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Just as the state of New York has a designated state flower, tree, and bird, it also has a state soil: Honeoye soil. Honeoye is a fitting choice for state soil, in large part because it can be found in abundance across the state. ______ it plays an important role in New York's agricultural industry and is used to grow a variety of crops, like corn and soybeans.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "At that time."
+        },
+        {
+          "name": "B",
+          "content": "Alternatively,"
+        },
+        {
+          "name": "C",
+          "content": "Conversely,"
+        },
+        {
+          "name": "D",
+          "content": "Moreover,"
+        }
+      ],
+      "correct": "Moreover,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Roughly once an hour, a torrent of boiling water shoots up 100 feet or more from Yellowstone's Old Faithful geyser before plunging back to the surfaceâa cycle seemingly inhospitable to life. ______ as microbiologist Eric Boyd attests, âthe geyser is...almost like a cradle for biodiversity,\" home to numerous bacteria species that thrive in its sulfurous waters.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Thus,"
+        },
+        {
+          "name": "B",
+          "content": "Still,"
+        },
+        {
+          "name": "C",
+          "content": "Specifically,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "Still,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Impact craters occur when a large object collides with Earth at high speeds.</li><li>Examples of such objects include comets and meteorites.</li><li>Newporte is an impact crater in the United States.</li><li>Researchers have determined that it was formed less than 500 million years ago.</li><li>The crater has a diameter of approximately 3.2 km.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize the size of the crater?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Long ago, a crater now known as Newporte was created when a large object collided with Earth."
+        },
+        {
+          "name": "B",
+          "content": "Impact craters, like Newporte in the United States, are formed when a massive object collides with Earth, creating depressions in the land."
+        },
+        {
+          "name": "C",
+          "content": "Researchers have investigated the formation of Newporte, an ancient impact crater measuring 3.2 km in diameter located in the United States."
+        },
+        {
+          "name": "D",
+          "content": "When a large object struck what is now the United States less than 500 million years ago, it created Newporte, a massive crater measuring 3.2 km in diameter."
+        }
+      ],
+      "correct": "When a large object struck what is now the United States less than 500 million years ago, it created Newporte, a massive crater measuring 3.2 km in diameter.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>\"Raymond's Run\" is a short story.</li><li>It was written by African American author Toni Cade Bambara.</li><li>It was first published in her book <i>Gorilla, My Love</i> in 1972.</li><li>It is told from a first person perspective.</li><li>It takes place in Harlem.</li></ul></blockquote>",
+      "question": "The student wants to indicate where the short story takes place. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âRaymond's Run\" takes place in Harlem."
+        },
+        {
+          "name": "B",
+          "content": "âRaymond's Run\" was written by Toni Cade Bambara."
+        },
+        {
+          "name": "C",
+          "content": "\"Raymond's Run\" was published in <i>Gorilla, My Love</i>."
+        },
+        {
+          "name": "D",
+          "content": "âRaymond's Run\" is told from a first person perspective."
+        }
+      ],
+      "correct": "âRaymond's Run\" takes place in Harlem.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The green iguana is a species of reptile.</li><li>It can be found in Central America and Brazil.</li><li>The green iguana primarily eats leaves and fruit.</li><li>It has an average length of 4.8 feet.</li></ul></blockquote>",
+      "question": "The student wants to specify the average length of the green iguana. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The green iguana is a reptile that primarily eats leaves and fruit."
+        },
+        {
+          "name": "B",
+          "content": "One species of reptile found in Brazil primarily eats leaves and fruit."
+        },
+        {
+          "name": "C",
+          "content": "The green iguana can be found in Central America."
+        },
+        {
+          "name": "D",
+          "content": "The green iguana has an average length of 4.8 feet."
+        }
+      ],
+      "correct": "The green iguana has an average length of 4.8 feet.",
+      "solution": ""
+    }
+  ]
+}

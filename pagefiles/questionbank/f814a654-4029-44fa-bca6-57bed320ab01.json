@@ -1,0 +1,682 @@
+{
+  "uuid": "f814a654-4029-44fa-bca6-57bed320ab01",
+  "chunk": "SGg2UKNa.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Some cities track pedestrian activity to map their sidewalks, but this method often <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> sidewalks few pedestrians use, resulting in incomplete maps. Maryam Hosseini and her team found that a computer program trained to identify sidewalks in aerial images of Boston could also accurately identify sidewalks in aerial images of Philadelphia and even distinguished between concrete and granite.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "neglects"
+        },
+        {
+          "name": "B",
+          "content": "oversees"
+        },
+        {
+          "name": "C",
+          "content": "approves"
+        },
+        {
+          "name": "D",
+          "content": "detects"
+        }
+      ],
+      "correct": "neglects",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The tendency to group authors together into distinct literary movements often encourages literary scholars to ______ subtleties in an author's style. Those studying the works of William Ellery Channing, for instance, may inadvertently overlook nuances in his work by focusing only on the most obvious ways in which his style corresponds to transcendentalism.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "discount"
+        },
+        {
+          "name": "B",
+          "content": "scrutinize"
+        },
+        {
+          "name": "C",
+          "content": "magnify"
+        },
+        {
+          "name": "D",
+          "content": "denounce"
+        }
+      ],
+      "correct": "discount",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 2010s, the price of vintage She-Ra action figures rose dramatically, which had the counter-intuitive effect of ______ demand: buyers who hadn't previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "exploiting"
+        },
+        {
+          "name": "B",
+          "content": "engendering"
+        },
+        {
+          "name": "C",
+          "content": "appraising"
+        },
+        {
+          "name": "D",
+          "content": "monetizing"
+        }
+      ],
+      "correct": "engendering",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With a shell that measured 1.7 meters, the extinct mollusk <i>Parapuzosia seppenradensis</i> is the largest ammonite in the fossil record. Ever since fossilized remains of this species were discovered in 1895, scientists have been perplexed by its size. After examining 154 ammonite fossils including some of <i>P. seppenradensis</i> from Montana and <i>Parapuzosia leptophylla</i> (a smaller ammonite species) from England, paleontologist Christina Ifrim, Andrew S. Gale, and colleagues concluded that <i>P. seppenradensis</i> may have evolved from <i>P. leptophylla</i> and gradually increased in size as larger ammonites were better able to escape being preyed on by mosasaurs.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It states a long-standing scientific assumption and then shows how recent research has overturned that assumption."
+        },
+        {
+          "name": "B",
+          "content": "It describes a scientific mystery and then discusses a research team's attempt to solve that mystery."
+        },
+        {
+          "name": "C",
+          "content": "It compares fossils found in Montana and England and then points out which of those fossils provides more information."
+        },
+        {
+          "name": "D",
+          "content": "It notes the discovery of a new ammonite species and then remarks on the importance of that discovery."
+        }
+      ],
+      "correct": "It describes a scientific mystery and then discusses a research team's attempt to solve that mystery.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar KÃ¶hlin's study of fuel use in Ethiopia shows how reductive this model is, however: <u>although income of course constrained fuel choice</u>, several circumstances, including the local availability of different fuel sources, influenced decisions.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It anticipates a potential objection to the description of a model that the text provides."
+        },
+        {
+          "name": "B",
+          "content": "It admits the superficial plausibility of an assumption that the text presents as lacking any empirical support."
+        },
+        {
+          "name": "C",
+          "content": "It acknowledges the role played by a factor whose importance the text suggests has been overstated."
+        },
+        {
+          "name": "D",
+          "content": "It concedes that a finding may not appear to support the main view that the text advances."
+        }
+      ],
+      "correct": "It acknowledges the role played by a factor whose importance the text suggests has been overstated.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>Isaac Asimov, author of <i>Robots and Empire</i> and <i>I, Robot</i>, is highly regarded despite his mediocre writing style. His prose is workmanlike; <u>his characters are flat</u> and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imaginationâeven if people read his books only for the ideas, they will have plenty to consider.</p><p><strong>Text 2</strong><br>Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel <i>Foundation</i> consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don't matter. Thus his lack of characterization is central to his thematic aims.</p>",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the description of Asimov's characters in the underlined portion of Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The flatness of Asimov's characters is a feature of <i>Robots and Empire</i> and <i>I, Robot</i> but not of <i>Foundation</i>."
+        },
+        {
+          "name": "B",
+          "content": "Asimov's characterizations would have been more believable if his writing had discussed fewer ideas."
+        },
+        {
+          "name": "C",
+          "content": "Asimov's characterizations would have been richer if he had possessed a deeper understanding of history."
+        },
+        {
+          "name": "D",
+          "content": "The flatness of Asimov's characters should not necessarily be considered a flaw in his writing."
+        }
+      ],
+      "correct": "The flatness of Asimov's characters should not necessarily be considered a flaw in his writing.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Joel Brown and colleagues showed that high moonlight intensity inhibits the activity of the Arizona pocket mouse (<i>Perognathus amplus</i>), a finding explicable in terms of benefits and costs: greater lunar intensity may not enable the mice to increase foraging success enough to offset the higher chance of detection by predatory owls or hawks. Though many other nocturnal mammals respond to lunar intensity variations similarly to Arizona pocket mice, Azara's night monkeys (<i>Aotus azarae</i>) display the opposite pattern, as their heavy reliance on visual foraging results in a different balance of reward and risk.</p>",
+      "question": "Based on the text, why do Azara's night monkeys respond to high lunar intensity differently than Arizona pocket mice do?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In such conditions, the chance of detection by predators declines for Azara's night monkeys but rises for Arizona pocket mice."
+        },
+        {
+          "name": "B",
+          "content": "Although the risks of activity in such conditions are greater for Azara's night monkeys than they are for Arizona pocket mice, the rewards are also greater for Azara's night monkeys."
+        },
+        {
+          "name": "C",
+          "content": "In such conditions, the costs of activity are lower relative to the benefits of activity for Azara's night monkeys than they are for Arizona pocket mice."
+        },
+        {
+          "name": "D",
+          "content": "Due to their heavy reliance on visual foraging, Azara's night monkeys experience a reduction in their foraging success in such conditions, whereas Arizona pocket mice experience no change in their foraging success."
+        }
+      ],
+      "correct": "In such conditions, the costs of activity are lower relative to the benefits of activity for Azara's night monkeys than they are for Arizona pocket mice.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><strong>Composition, Processing History, and Fracture Toughness of Five  HEAs</strong></p>\n<table style=\"border-collapse: collapse; width: 100%;\">\n  <thead>\n    <tr>\n      <th style=\"border: 1px solid black; text-align: center; padding: 8px;\">HEA identification<br>number</th>\n      <th style=\"border: 1px solid black; text-align: center; padding: 8px;\">Composition (%)</th>\n      <th style=\"border: 1px solid black; text-align: center; padding: 8px;\">Processing history</th>\n      <th style=\"border: 1px solid black; text-align: center; padding: 8px;\">Fracture toughness (megapascals times the<br>square root of crack length)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">1</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">aluminum (10.53), boron (5.26), cobalt (10.53), chromium (10.53), copper (10.53), iron (10.53), molybdenum (10.53), nickel (10.53), silicon (10.53), titanium (10.53)</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">laser solidification</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">50.90</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">5</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">cobalt (20), chromium (20), iron (20), manganese (20), nickel (20)</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">arc melting, cold forging, cross rolling, and annealing</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">217.00</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">15</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">cobalt (33.33), chromium (33.33), nickel (33.33)</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">arc melting, homogenization, cold forging, cross rolling, and annealing</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">265.20</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">18</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">molybdenum (25), niobium (25), tantalum (25), tungsten (25)</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">arc melting and homogenization</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">2.10</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">25</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">aluminum (1.07), carbon (46.78), cobalt (1.07), chromium (1.07), copper (1.07), iron (1.07), nickel (1.07), tungsten (46.78)</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">spark plasma sintering</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 8px;\">10.41</td>\n    </tr>\n  </tbody>\n</table>\n<p><em>Composition values may not add up to 100 due to rounding.</em></p><br><p>High-entropy alloys (HEAs) have been observed to vary considerably in their resistance to crack propagation, a quality denoted as fracture toughness. It has been proposed that high levels of fracture toughness in HEAs are due to the use of arc melting during processing, <u>but data on HEAs compiled by engineer Xuesong Fan challenge that proposal and raise the possibility of an alternative explanation.</u></p>",
+      "question": "Which choice best describes data from the table that support the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "HEA 18 was processed using arc melting but has low fracture toughness, and there appears to be a positive association between the proportion of an HEA that consists of cobalt, chromium and nickel and an HEA's fracture toughness."
+        },
+        {
+          "name": "B",
+          "content": "HEA 1 was not processed using arc melting but has relatively high fracture toughness, and there appears to be no association between the proportion of an HEA that consists of iron and an HEA's fracture toughness."
+        },
+        {
+          "name": "C",
+          "content": "HEA 15 was processed using arc melting and has the highest fracture toughness, whereas HEA 25 was not processed using arc melting and has relatively low fracture toughness."
+        },
+        {
+          "name": "D",
+          "content": "HEA 5 was processed using arc melting but has relatively low fracture toughness, and the HEA with the lowest fracture toughness is the only HEA that contains niobium or tantalum."
+        }
+      ],
+      "correct": "HEA 18 was processed using arc melting but has low fracture toughness, and there appears to be a positive association between the proportion of an HEA that consists of cobalt, chromium and nickel and an HEA's fracture toughness.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Neurobiologists Laura Cuaya, RaÃºl HernÃ¡ndez-Perez, and colleagues investigated the language detection abilities of eighteen dogs. The researchers monitored the brain activity of Grog (a border collie), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of <i>The Little Prince</i> being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn't resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that differences in dogs' anatomical features may affect their ability to distinguish speech from nonspeech.</p>",
+      "question": "Which finding from the study, if true, would most directly support the team's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The pattern of brain activity that long-headed dogs showed when hearing the scrambled recording was different from the pattern of brain activity that short-headed dogs showed when hearing the language they were accustomed to."
+        },
+        {
+          "name": "B",
+          "content": "Compared with shorter-headed dogs, longer-headed dogs showed a greater difference in brain activity when hearing either Spanish or Hungarian than when hearing the scrambled recording."
+        },
+        {
+          "name": "C",
+          "content": "Compared with shorter-headed dogs, longer-headed dogs showed a greater difference in brain activity when hearing the language they were accustomed to than when hearing the other language."
+        },
+        {
+          "name": "D",
+          "content": "Long-headed dogs accustomed to hearing Spanish tended to show more brain activity when hearing Spanish than long-headed dogs accustomed to hearing Hungarian showed when hearing Hungarian."
+        }
+      ],
+      "correct": "Compared with shorter-headed dogs, longer-headed dogs showed a greater difference in brain activity when hearing either Spanish or Hungarian than when hearing the scrambled recording.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Percentages of Form 4720s Filed and Total Penalties Assessed on Private Foundations, by Taxable Activity, 2003</p><div style=\"text-align: center;\"><img alt=\"A bar chart shows percentages of Form 4720s filed and total penalties assessed on private foundations in 2003. For self-dealing, it's 29% of forms and 54% of penalties. For failure to meet minimum charitable distribution, it's 55% of forms and 34% of penalties. For taxable expenditures, it's 16% of forms and 12% of penalties.\" src=\"/images/cd5fd91c314936a93e6ef7997ef3ed6f.png\" style=\"width: 360px; height: 378px;\"></div><p>While US public charities, like Kaiser Foundation Hospitals, must file Form 990 yearly with the IRS, private foundations, such as the David and Lucile Packard Foundation, must file a different form, 990-PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay penalty taxes on the money involved. Prohibited activities for private foundations include \"self-dealing\" (conducting activities that benefit foundation insiders), making taxable expenditures such as outlays for lobbying, and failing to cross a required threshold in making charitable distributions from income.</p>",
+      "question": "The data in the graph best support which conclusion about organizations that filed Form 4720 in 2003?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Those that failed to meet the minimum charitable distribution requirement must have paid higher penalties, on average, than those organizations that filed Form 990 but also filed Form 4720 for the same reason did."
+        },
+        {
+          "name": "B",
+          "content": "Those that engaged in self-dealing must have paid higher penalties, on average, than those that failed to meet the minimum charitable distribution requirement did."
+        },
+        {
+          "name": "C",
+          "content": "Those that engaged in self-dealing and those that had taxable expenditures collectively paid a greater portion of the total penalty than those that failed to meet the minimum charitable distribution requirement did."
+        },
+        {
+          "name": "D",
+          "content": "Those that failed to meet the minimum charitable distribution requirement filed a majority of the forms but did not pay a majority of the penalties."
+        }
+      ],
+      "correct": "Those that engaged in self-dealing must have paid higher penalties, on average, than those that failed to meet the minimum charitable distribution requirement did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scholars cite <i>Mr. President</i>, the 1946 novel by Guatemalan author Miguel Angel Asturias, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devicesâoften borrowed from the folkloric traditions of Indigenous and colonial societies in the Americasâare deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including Olga Tokarczuk, <u>whose 1996 novel <i>Primeval and Other Times</i> resembles classic magical realist novels in its juxtaposition of literary realism with folklore namely, that of Poland.</u></p>",
+      "question": "Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âThe logic of the realistic plot of <i>Primeval and Other Times</i> is repeatedly and productively disrupted by the presence of imagery and situations drawn from Polish folklore.â"
+        },
+        {
+          "name": "B",
+          "content": "âAlthough Polish folklore clearly informs the style and occasionally antirealistic plot of <i>Primeval and Other Times</i>, the novel also shows the inarguable influence of the magical realist tradition of Latin America.â"
+        },
+        {
+          "name": "C",
+          "content": "âLike many works in the Latin American magical realist tradition, <i>Primeval and Other Times</i> is indebted to antirealistic elements in the folkloric tradition of Poland.â"
+        },
+        {
+          "name": "D",
+          "content": "âWhile <i>Primeval and Other Times</i> alternates between realistic and antirealistic modes of representation, details suggesting the influence of Polish folklore nevertheless occur throughout the novel.â"
+        }
+      ],
+      "correct": "âThe logic of the realistic plot of <i>Primeval and Other Times</i> is repeatedly and productively disrupted by the presence of imagery and situations drawn from Polish folklore.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>All stainless steel contains varying amounts of iron, carbon, and corrosionâinhibiting chromium. However, ferritic stainless steel, often used for induction cookers, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 300 series, often used for storage containers, and the 200 series, which has less nickel and more manganese than the 300 series and is used for indoor architecture. Thus, stainless steel used to manufacture storage containers will have ____</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "similar magnetic properties to stainless steel used to manufacture induction cookers."
+        },
+        {
+          "name": "B",
+          "content": "a concentration of manganese greater than 10.5%, while stainless steel used to manufacture indoor architecture will not."
+        },
+        {
+          "name": "C",
+          "content": "a face-centered cubic crystalline structure, while stainless steel used to manufacture induction cookers will not."
+        },
+        {
+          "name": "D",
+          "content": "a lower percentage of nickel in its composition than stainless steel used to manufacture induction cookers will."
+        }
+      ],
+      "correct": "a face-centered cubic crystalline structure, while stainless steel used to manufacture induction cookers will not.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As complex life cycle parasites, <i>Lecithaster sp.</i> and <i>Capillaria parophrysi</i> require multiple host species throughout their development. Extrapolating from parasite counts on Pacific herring and seven other fish species collected from Puget Sound from 1880 to 2019, Chelsea Wood et al. found that the abundance of three-host parasites, such as <i>Lecithaster sp.</i>, negatively correlated with rising average annual sea temperatures; the abundance of two-host parasites, such as <i>C. parophrysi</i>, was largely stable. Noting that fish and other marine vertebrates are especially vulnerable to climate change, Wood et al. observed that all three-host parasites in the study depend on at least two vertebrate species, while all two-host parasites depend on only one, suggesting that <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "although <i>Lecithaster sp.</i> and <i>C. parophrysi</i> both require Pacific herring as a host, <i>C. parophrysi</i> was more adversely affected by warming driven changes in the Pacific herring population than <i>Lecithaster sp.</i> was."
+        },
+        {
+          "name": "B",
+          "content": "population size and density of the eight fish species examined in the study were likely largely unaffected by rising sea temperatures."
+        },
+        {
+          "name": "C",
+          "content": "warming-induced population changes among Puget Sound vertebrates may have suppressed some parasite populations, but there were no changes among the eight studied host species that affected two-host parasite abundance."
+        },
+        {
+          "name": "D",
+          "content": "a parasite's sensitivity to warming temperatures is negatively correlated with the number of unique vertebrate species it depends on throughout its life cycle."
+        }
+      ],
+      "correct": "warming-induced population changes among Puget Sound vertebrates may have suppressed some parasite populations, but there were no changes among the eight studied host species that affected two-host parasite abundance.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When Belgium joined Interpolâthe International Criminal Police ______ in 1923, the Belgian Federal Police gained access to the combined resources of law enforcement agencies from around the globe.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Organizationâ"
+        },
+        {
+          "name": "B",
+          "content": "Organization,"
+        },
+        {
+          "name": "C",
+          "content": "Organization"
+        },
+        {
+          "name": "D",
+          "content": "Organization:"
+        }
+      ],
+      "correct": "Organizationâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Released in 1996, the AMD K5 microchip contained a single CPU, or core, to execute commands. The invention of the dual-core chip in the early 2000s led to a seismic shift in processing power. Since then, the average processing power of microchipsâwhose cores can number in the dozens, hundreds, or even thousandsâ______ drastically.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "has improved"
+        },
+        {
+          "name": "B",
+          "content": "have improved"
+        },
+        {
+          "name": "C",
+          "content": "have been improving"
+        },
+        {
+          "name": "D",
+          "content": "are improving"
+        }
+      ],
+      "correct": "has improved",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Should Italy cut taxes? As of 2017, Italy's top tax rate (55%) was lower than the highest point on the country's Laffer curve, placing Italy below the threshold for a tax cut. A theoretical relationship between tax rates and revenues, <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> in 1974.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Arthur Laffer, an economist, famously made a sketch of the curve on a napkin"
+        },
+        {
+          "name": "B",
+          "content": "economist Arthur Laffer famously sketched the curve on a napkin"
+        },
+        {
+          "name": "C",
+          "content": "the curve was famously sketched on a napkin by economist Arthur Laffer"
+        },
+        {
+          "name": "D",
+          "content": "a napkin was famously used by economist Arthur Laffer to sketch the curve on"
+        }
+      ],
+      "correct": "the curve was famously sketched on a napkin by economist Arthur Laffer",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2018, Slovak photographer MÃ¡ria SvarbovÃ¡ exhibited her work for audiences across the ___________ vivid pastel colors, overexposed tones, and mirrorlike symmetry to evoke a Socialist-era aesthetic, her photos captivated viewers from South Korea to Portugal.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "world utilizing"
+        },
+        {
+          "name": "B",
+          "content": "world and utilizing"
+        },
+        {
+          "name": "C",
+          "content": "world, utilizing"
+        },
+        {
+          "name": "D",
+          "content": "world. Utilizing"
+        }
+      ],
+      "correct": "world. Utilizing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The mycorrhizal association between alder trees and <i>Paxillus panuoides</i>, a fungus commonly referred to as oyster roll-rim, is well ______ sharing nutrients via fungal hyphae and the host tree's roots, the organisms form a kind of social system more commonly associated with animals than plants: a community.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "documented"
+        },
+        {
+          "name": "B",
+          "content": "documented:"
+        },
+        {
+          "name": "C",
+          "content": "documented;"
+        },
+        {
+          "name": "D",
+          "content": "documented,"
+        }
+      ],
+      "correct": "documented;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Proto-Indo-Europeanâa protolanguage, or ancestral language of a family of descendant (daughter) languagesâis said to be the common ancestor of all Indo-European languages. This is a hypothetical ______ Proto-Indo-European is only postulated, its characteristics being inferred from the linguistic properties of its 448 daughters.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "designation however"
+        },
+        {
+          "name": "B",
+          "content": "designation. However,"
+        },
+        {
+          "name": "C",
+          "content": "designation; however,"
+        },
+        {
+          "name": "D",
+          "content": "designation, however;"
+        }
+      ],
+      "correct": "designation, however;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Brazil, in 2014. The event, which is held every four years, has expanded greatly since it was played in Italy in 1934. <u>______</u> the World Cup included only 16 teams, most from Europe and the Americas.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On the other hand,"
+        },
+        {
+          "name": "B",
+          "content": "As a result,"
+        },
+        {
+          "name": "C",
+          "content": "Then,"
+        },
+        {
+          "name": "D",
+          "content": "Similarly,"
+        }
+      ],
+      "correct": "Then,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In his 2016 poem \"Orphan,\" Blas Falconer explores Teresita FernÃ¡ndez's sculpture <i>Nocturnal (Horizon Line)</i>, a work that features horizontal bands of granite. ______ Falconer participates in a tradition dating back to Homer's <i>Iliad</i>: that of <i>ekphrasis</i>, poetry that engages with visual art.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "In doing so,"
+        },
+        {
+          "name": "C",
+          "content": "That said,"
+        },
+        {
+          "name": "D",
+          "content": "Conversely,"
+        }
+      ],
+      "correct": "In doing so,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Most solar eclipses from long ago have been forgotten, but not all. <u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u> scholars still discuss an eclipse that occurred on May 17, 2231 BCE. That's because it was the fifth-longest total eclipse before the Dark Agesâ7 minutes, 21 seconds long.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Next,"
+        },
+        {
+          "name": "B",
+          "content": "Regardless,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "In summary,"
+        }
+      ],
+      "correct": "For example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Sue is the nickname of a dinosaur fossil specimen housed at the Field Museum of Natural History.</li><li>The Field Museum of Natural History is located in Chicago, Illinois.</li><li>Sue is a member of the genus <i>Tyrannosaurus</i>.</li><li>Thomas is the nickname of a dinosaur fossil specimen housed at the Natural History Museum of Los Angeles County.</li><li>The Natural History Museum of Los Angeles County is located in Los Angeles, California.</li><li>Thomas is a member of the genus <i>Tyrannosaurus</i>.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the two specimens. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The dinosaur fossil specimens Sue and Thomas are both members of the genus <i>Tyrannosaurus</i>."
+        },
+        {
+          "name": "B",
+          "content": "While Sue is housed at the Field Museum of Natural History, Thomas is housed at the Natural History Museum of Los Angeles County."
+        },
+        {
+          "name": "C",
+          "content": "The Field Museum of Natural History, where Sue is housed, is located in Chicago, Illinois."
+        },
+        {
+          "name": "D",
+          "content": "Thomas is the nickname of a <i>Tyrannosaurus</i> fossil specimen housed at the Natural History Museum of Los Angeles County in Los Angeles, California."
+        }
+      ],
+      "correct": "The dinosaur fossil specimens Sue and Thomas are both members of the genus <i>Tyrannosaurus</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<blockquote style=\"margin-left: 40px;\">\n<ul>\n<li>Author H. P. Lovecraft wrote a number of horror stories.</li>\n<li>Designer Richard Launius created a board game based on these stories.</li>\n<li>The game is called <i>Arkham Horror</i>.</li>\n<li>It was released in 2005.</li>\n</ul>\n</blockquote>",
+      "question": "The student wants to indicate when the board game was released. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The board game <i>Arkham Horror</i> was designed by Richard Launius."
+        },
+        {
+          "name": "B",
+          "content": "The board game <i>Arkham Horror</i> was released in 2005."
+        },
+        {
+          "name": "C",
+          "content": "The board game <i>Arkham Horror</i> is based on horror stories."
+        },
+        {
+          "name": "D",
+          "content": "The board game <i>Arkham Horror</i> is based on the writing of H.P. Lovecraft."
+        }
+      ],
+      "correct": "The board game <i>Arkham Horror</i> was released in 2005.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In a 2010 study, Clark and Tilman found that the presence of plant litter had a negative effect on seedling emergence.</li><li>The study was conducted in a grassland setting in the United States.</li><li>In a 2002 study, Stammel et al, found that the presence of plant litter had a negative effect on seedling emergence.</li><li>The study was conducted in a grassland setting in Germany.</li><li>Seedling emergence is when a seedling sprouts above ground and begins photosynthesis.</li></ul></blockquote>",
+      "question": "The student wants to make a generalization about research on plant litter. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Studies have found that the presence of plant litter can have a negative effect on seedling emergence."
+        },
+        {
+          "name": "B",
+          "content": "Clark and Tilman found that plant litter in a grassland setting in the United States had a negative effect on seedling emergence."
+        },
+        {
+          "name": "C",
+          "content": "In studies by both Clark and Tilman (2010) and Stammel et al. (2002), a negative effect was found."
+        },
+        {
+          "name": "D",
+          "content": "Seedling emergence, which is when a seedling sprouts above ground and begins photosynthesis, has been the focus of past research."
+        }
+      ],
+      "correct": "Studies have found that the presence of plant litter can have a negative effect on seedling emergence.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Jean-Michel Basquiat was an American artist who produced more than two thousand drawings and paintings.</li><li>Most of his works were completed in New York City in the 1980s.</li><li>His work <i>Untitled</i> (<i>Pollo Frito</i>) was completed in 1982.</li><li>The work is composed of acrylic, oil, and enamel on canvas and measures 60 inches by 120.5 inches.</li><li><i>Untitled</i> (<i>Pollo Frito</i>) was purchased by a private collection for $25.7 million in a 2018 auction.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize the scope of Basquiat's work?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Untitled</i> (<i>Pollo Frito</i>) is just one of more than two thousand drawings and paintings completed by American artist Jean-Michel Basquiat."
+        },
+        {
+          "name": "B",
+          "content": "Though artist Jean-Michel Basquiat completed most of his two thousand-plus drawings in the 1980s, his work <i>Untitled (Pollo Frito</i>) is composed of acrylic, oil, and enamel on canvas."
+        },
+        {
+          "name": "C",
+          "content": "Decades after artist Jean-Michel Basquiat completed his 1982 work <i>Untitled (Pollo Frito</i>), a private collection purchased it for $25.7 million."
+        },
+        {
+          "name": "D",
+          "content": "At a 2018 auction, artist Jean-Michel Basquiat's <i>Untitled (Pollo Frito</i>), composed of acrylic, oil, and enamel on canvas, sold for $25.7 million."
+        }
+      ],
+      "correct": "<i>Untitled</i> (<i>Pollo Frito</i>) is just one of more than two thousand drawings and paintings completed by American artist Jean-Michel Basquiat.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Zim Smith Mid-County Trail is located in New York.</li><li>It is one of more than 2,000 disused railroad corridors in the US that have been converted into public trails since the 1960s.</li><li>Such trails are known as rail trails.</li><li>The Union Pacific Railroad Trail in Nevada is parallel to an active railway, the Union Pacific Railroad.</li><li>It is one of approximately 400 trails in the US that share a right-of-way with an active rail line.</li><li>Such trails are known as rails-with-trails.</li></ul></blockquote>",
+      "question": "The student wants to make a generalization about rails-with-trails. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In the US, trails have been constructed from disused railroad corridors as well as on property parallel to active rail lines."
+        },
+        {
+          "name": "B",
+          "content": "In the US, trails that share a right-of-way with an active rail line are less common than some other types of railway trails."
+        },
+        {
+          "name": "C",
+          "content": "The Union Pacific Railroad Trail in Nevada is one of approximately 400 US trails that share a right-of-way with an active rail line."
+        },
+        {
+          "name": "D",
+          "content": "Since the 1960s, thousands of public trails in the US have been created from disused railroad corridors."
+        }
+      ],
+      "correct": "In the US, trails that share a right-of-way with an active rail line are less common than some other types of railway trails.",
+      "solution": ""
+    }
+  ]
+}

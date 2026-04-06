@@ -1,0 +1,1625 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SATSuite Viewer</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mathquill@0.10.1/build/mathquill.css">
+  <style>
+    :root {
+      --bg: #f2f6fc;
+      --ink: #0f172a;
+      --muted: #46566e;
+      --line: #d6e2f1;
+      --card: #ffffff;
+      --brand: #0b5fd3;
+      --brand-2: #0847a4;
+      --good: #137a2f;
+      --pill: #e9f1ff;
+      --danger: #bd2a2a;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 8% 12%, #dbe9ff 0, #dbe9ff 16%, transparent 16%),
+        radial-gradient(circle at 92% 88%, #e7f3ff 0, #e7f3ff 22%, transparent 22%),
+        var(--bg);
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 1150px;
+      margin: 0 auto;
+      padding: 20px 14px 30px;
+    }
+
+    .shell {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(5, 55, 132, 0.08);
+      padding: 16px;
+    }
+
+    .topbar {
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    .muted {
+      color: var(--muted);
+      margin: 0;
+      font-size: 14px;
+    }
+
+    .link-btn,
+    button {
+      border: 1px solid var(--brand-2);
+      background: linear-gradient(180deg, var(--brand), var(--brand-2));
+      color: #fff;
+      border-radius: 10px;
+      padding: 9px 12px;
+      font-weight: 700;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    button.secondary,
+    .link-btn.secondary {
+      background: #fff;
+      color: var(--brand);
+      border-color: #a7bfe3;
+    }
+
+    button:disabled {
+      opacity: 0.55;
+      cursor: not-allowed;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin: 14px 0 10px;
+    }
+
+    .control {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    label {
+      font-weight: 700;
+      font-size: 13px;
+    }
+
+    input[type="text"],
+    select {
+      border: 1px solid #b5c8e4;
+      border-radius: 9px;
+      padding: 9px 10px;
+      font-size: 15px;
+      width: 100%;
+    }
+
+    .toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 14px;
+      font-weight: 700;
+      min-height: 40px;
+    }
+
+    .toggle input {
+      margin: 0;
+    }
+
+    .status {
+      min-height: 20px;
+      font-size: 14px;
+      color: var(--muted);
+      margin: 4px 0 10px;
+    }
+
+    .status.error {
+      color: var(--danger);
+      font-weight: 700;
+    }
+
+    .meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .count-pill {
+      background: var(--pill);
+      color: #0a3f8f;
+      border: 1px solid #bdd2f2;
+      border-radius: 999px;
+      padding: 5px 10px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .pager {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .page-info {
+      min-width: 120px;
+      text-align: center;
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .questions {
+      display: grid;
+      gap: 12px;
+    }
+
+    .q-card {
+      border: 1px solid #d6e3f5;
+      border-radius: 12px;
+      padding: 12px;
+      background: #fcfeff;
+    }
+
+    .q-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 6px;
+    }
+
+    .q-title {
+      margin: 0;
+      font-size: 17px;
+    }
+
+    .type-pill {
+      border-radius: 999px;
+      border: 1px solid #b8cdee;
+      background: #f2f7ff;
+      padding: 3px 9px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #23446f;
+      text-transform: uppercase;
+    }
+
+    .snippet {
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .q-block {
+      border: 1px solid #dae7f7;
+      border-radius: 10px;
+      padding: 10px;
+      margin-top: 8px;
+      overflow-x: auto;
+      white-space: pre-wrap;
+    }
+
+    .q-block.question-main {
+      border-color: #9ebcf0;
+      border-left: 4px solid #2b78dc;
+      background: #f4f8ff;
+    }
+
+    .q-block.answer-key {
+      border-color: #bbd8c7;
+      background: #f3fbf6;
+    }
+
+    .q-label {
+      margin-top: 10px;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #38567f;
+    }
+
+    .q-block table {
+      max-width: 100%;
+    }
+
+    .opts {
+      list-style: none;
+      margin: 8px 0 0;
+      padding: 0;
+      display: grid;
+      gap: 7px;
+    }
+
+    .opt {
+      border: 1px solid #cddbf0;
+      border-radius: 9px;
+      padding: 8px 10px;
+      background: #fff;
+      display: grid;
+      grid-template-columns: 28px 1fr;
+      gap: 8px;
+      align-items: start;
+    }
+
+    .opt-letter {
+      font-weight: 700;
+      color: #2f486b;
+    }
+
+    .mcq-choice {
+      display: grid;
+      grid-template-columns: 18px 1fr;
+      gap: 8px;
+      align-items: start;
+      width: 100%;
+    }
+
+    .mcq-choice input {
+      margin-top: 3px;
+    }
+
+    .opt-text {
+      white-space: pre-wrap;
+    }
+
+    .opt.correct {
+      border-color: #98d4ae;
+      background: #effaf3;
+    }
+
+    .answer-check {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .answer-input {
+      flex: 1;
+      min-width: 220px;
+      border: 1px solid #b5c8e4;
+      border-radius: 9px;
+      padding: 9px 10px;
+      font-size: 14px;
+    }
+
+    .feedback {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .feedback.good {
+      color: var(--good);
+    }
+
+    .feedback.bad {
+      color: var(--danger);
+    }
+
+    .jump-wrap {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .jump-wrap label {
+      margin: 0;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .jump-wrap select {
+      min-width: 220px;
+    }
+
+    .q-card.selected {
+      border-color: #81b4ff;
+      box-shadow: 0 0 0 2px rgba(11, 95, 211, 0.15);
+    }
+
+    details {
+      margin-top: 10px;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: #2d4f76;
+    }
+
+    @media (max-width: 860px) {
+      .controls {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 580px) {
+      .controls {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="shell">
+      <div class="topbar">
+        <div>
+          <h1>SATSuite Question Viewer</h1>
+          <p class="muted">Loads SATSuite instructor qbanks and displays extracted questions.</p>
+        </div>
+        <a class="link-btn secondary" href="page.html">Back to Main Page</a>
+      </div>
+
+      <div class="controls">
+        <div class="control">
+          <label for="source-select">Source</label>
+          <select id="source-select">
+            <option value="math">Math</option>
+            <option value="english">English</option>
+          </select>
+        </div>
+
+        <div class="control">
+          <label for="search-input">Search Question Text</label>
+          <input id="search-input" type="text" placeholder="Search stem or stimulus">
+        </div>
+
+        <div class="control">
+          <label>&nbsp;</label>
+          <label class="toggle" for="show-rationale">
+            <input id="show-rationale" type="checkbox">
+            <span>Show Rationales</span>
+          </label>
+        </div>
+
+        <div class="control">
+          <label>&nbsp;</label>
+          <label class="toggle" for="show-answers">
+            <input id="show-answers" type="checkbox">
+            <span>Show Answer Keys</span>
+          </label>
+        </div>
+
+        <div class="control">
+          <label>&nbsp;</label>
+          <button id="reload-btn" type="button">Reload Source</button>
+        </div>
+      </div>
+
+      <p id="status" class="status"></p>
+
+      <div class="meta-row">
+        <span id="count-pill" class="count-pill">0 questions</span>
+        <div class="jump-wrap">
+          <label for="question-jump">Question</label>
+          <select id="question-jump"></select>
+        </div>
+        <div class="pager">
+          <button id="prev-page" class="secondary" type="button">Previous</button>
+          <span id="page-info" class="page-info">Page 1 / 1</span>
+          <button id="next-page" class="secondary" type="button">Next</button>
+        </div>
+      </div>
+
+      <section id="questions" class="questions"></section>
+    </section>
+  </main>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathquill@0.10.1/build/mathquill.js"></script>
+  <script>
+    const PAGE_SIZE = 20;
+    let MQ_STATIC;
+
+    const SOURCE_MAP = {
+      math: "./questionbank/satsuite_instructor_qbank_math.json",
+      english: "./questionbank/satsuite_instructor_qbank_english.json",
+    };
+
+    const view = {
+      allQuestions: [],
+      filtered: [],
+      page: 1,
+      source: "math",
+      selectedQuestion: null,
+    };
+
+    const el = {
+      sourceSelect: document.getElementById("source-select"),
+      searchInput: document.getElementById("search-input"),
+      showRationale: document.getElementById("show-rationale"),
+      showAnswers: document.getElementById("show-answers"),
+      reloadBtn: document.getElementById("reload-btn"),
+      status: document.getElementById("status"),
+      countPill: document.getElementById("count-pill"),
+      questionJump: document.getElementById("question-jump"),
+      questions: document.getElementById("questions"),
+      prevPage: document.getElementById("prev-page"),
+      nextPage: document.getElementById("next-page"),
+      pageInfo: document.getElementById("page-info"),
+    };
+
+    function setStatus(message, isError = false) {
+      el.status.textContent = message || "";
+      el.status.classList.toggle("error", Boolean(isError));
+    }
+
+    function cleanDisplayText(text) {
+      let out = String(text || "")
+        .replace(/\r\n?/g, "\n")
+        .replace(/\u00A0/g, " ");
+
+      if (/[ÃÂâ]/.test(out)) {
+        try {
+          out = decodeURIComponent(escape(out));
+        } catch (_err) {
+          // Keep original text when it cannot be decoded as UTF-8 artifacts.
+        }
+      }
+
+      return out
+        .replace(/[\u200B-\u200D\uFEFF]/g, "")
+        .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F\u0080-\u009F]/g, "")
+        .replace(/\u00A0/g, " ");
+    }
+
+    function cleanLatex(latex) {
+      return cleanDisplayText(latex).trim();
+    }
+
+    function isIgnorableArtifactNode(node) {
+      if (!node) return false;
+
+      if (node.nodeType === Node.TEXT_NODE) {
+        return !cleanDisplayText(node.nodeValue || "").trim();
+      }
+
+      if (node.nodeType === Node.ELEMENT_NODE) {
+        if (node.tagName === "BR") {
+          return true;
+        }
+
+        if (/^(SPAN|EM|I|B|STRONG|U|SMALL|FONT)$/.test(node.tagName)) {
+          return !cleanDisplayText(node.textContent || "").trim();
+        }
+      }
+
+      return false;
+    }
+
+    function stripMqNeighborArtifacts(root) {
+      const nodes = root.querySelectorAll(".mq-math-mode");
+      nodes.forEach((node) => {
+        let next = node.nextSibling;
+        while (isIgnorableArtifactNode(next)) {
+          const doomed = next;
+          next = next.nextSibling;
+          doomed.remove();
+        }
+
+        let last = node.lastChild;
+        while (isIgnorableArtifactNode(last)) {
+          const doomed = last;
+          last = doomed.previousSibling;
+          doomed.remove();
+        }
+      });
+    }
+
+    function dedupeAdjacentMathSpans(root) {
+      const nodes = Array.from(root.querySelectorAll(".mq-math-mode"));
+      nodes.forEach((node) => {
+        if (!node.isConnected) {
+          return;
+        }
+
+        const latex = cleanLatex(node.getAttribute("latex-data") || node.dataset.latexData || "");
+        if (!latex) {
+          return;
+        }
+
+        let prev = node.previousSibling;
+        while (isIgnorableArtifactNode(prev)) {
+          prev = prev.previousSibling;
+        }
+
+        if (!prev || prev.nodeType !== Node.ELEMENT_NODE || !prev.classList.contains("mq-math-mode")) {
+          return;
+        }
+
+        const prevLatex = cleanLatex(prev.getAttribute("latex-data") || prev.dataset.latexData || "");
+        const sameBlockType = node.classList.contains("mq-block") === prev.classList.contains("mq-block");
+
+        if (sameBlockType && prevLatex && prevLatex === latex) {
+          node.remove();
+        }
+      });
+    }
+
+    function getEquationOnlyBlockLatex(node) {
+      if (!node || node.nodeType !== Node.ELEMENT_NODE) {
+        return "";
+      }
+
+      const mathNodes = node.querySelectorAll(".mq-math-mode");
+      if (mathNodes.length !== 1) {
+        return "";
+      }
+
+      const mathNode = mathNodes[0];
+      const latex = cleanLatex(mathNode.getAttribute("latex-data") || mathNode.dataset.latexData || "");
+      if (!latex) {
+        return "";
+      }
+
+      const clone = node.cloneNode(true);
+      clone.querySelectorAll(".mq-math-mode").forEach((el) => el.remove());
+      const residual = cleanDisplayText(clone.textContent || "").replace(/\s+/g, "");
+      return residual ? "" : latex;
+    }
+
+    function isIgnorableContainerElement(node) {
+      if (!node || node.nodeType !== Node.ELEMENT_NODE) {
+        return false;
+      }
+
+      if (node.querySelector(".mq-math-mode")) {
+        return false;
+      }
+
+      const text = cleanDisplayText(node.textContent || "").replace(/\s+/g, "");
+      return !text;
+    }
+
+    function collapseDuplicateEquationBlocks(root) {
+      const blocks = Array.from(root.querySelectorAll("p,div"));
+      blocks.forEach((block) => {
+        if (!block.isConnected) {
+          return;
+        }
+
+        const latex = getEquationOnlyBlockLatex(block);
+        if (!latex) {
+          return;
+        }
+
+        let next = block.nextElementSibling;
+        while (next && isIgnorableContainerElement(next)) {
+          const doomed = next;
+          next = next.nextElementSibling;
+          doomed.remove();
+        }
+
+        if (!next) {
+          return;
+        }
+
+        const nextFirstMath = next.querySelector(".mq-math-mode");
+        if (!nextFirstMath) {
+          return;
+        }
+
+        const nextLatex = cleanLatex(nextFirstMath.getAttribute("latex-data") || nextFirstMath.dataset.latexData || "");
+        if (!nextLatex || nextLatex !== latex) {
+          return;
+        }
+
+        block.remove();
+      });
+    }
+
+    function scrubContainerText(root) {
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      const textNodes = [];
+
+      while (walker.nextNode()) {
+        const node = walker.currentNode;
+        const parent = node.parentElement;
+        if (!parent || parent.closest("script") || parent.closest("style") || parent.closest("textarea")) {
+          continue;
+        }
+        textNodes.push(node);
+      }
+
+      textNodes.forEach((node) => {
+        const cleaned = cleanDisplayText(node.nodeValue || "");
+        if (cleaned !== node.nodeValue) {
+          node.nodeValue = cleaned;
+        }
+      });
+    }
+
+    function removeTrailingBreaks(root) {
+      let last = root.lastChild;
+      while (last && last.nodeType === Node.ELEMENT_NODE && last.tagName === "BR") {
+        const doomed = last;
+        last = last.previousSibling;
+        doomed.remove();
+      }
+    }
+
+    function getMathQuillStatic() {
+      if (MQ_STATIC !== undefined) {
+        return MQ_STATIC;
+      }
+
+      if (window.MathQuill && typeof window.MathQuill.getInterface === "function") {
+        MQ_STATIC = window.MathQuill.getInterface(2);
+        return MQ_STATIC;
+      }
+
+      MQ_STATIC = null;
+      return null;
+    }
+
+    function extractLatexToken(token) {
+      if (token.startsWith("\\[") && token.endsWith("\\]")) {
+        return { latex: token.slice(2, -2), block: true };
+      }
+      if (token.startsWith("\\(") && token.endsWith("\\)")) {
+        return { latex: token.slice(2, -2), block: false };
+      }
+      if (token.startsWith("$$") && token.endsWith("$$")) {
+        return { latex: token.slice(2, -2), block: true };
+      }
+      if (token.startsWith("$") && token.endsWith("$")) {
+        return { latex: token.slice(1, -1), block: false };
+      }
+      return { latex: token, block: false };
+    }
+
+    function latexTextToFragment(text) {
+      const src = String(text || "");
+      const re = /(\\\[[\s\S]+?\\\]|\\\([\s\S]+?\\\)|\$\$[\s\S]+?\$\$|\$[^$\n]+?\$)/g;
+
+      let match;
+      let last = 0;
+      let hasLatex = false;
+      const frag = document.createDocumentFragment();
+
+      while ((match = re.exec(src)) !== null) {
+        hasLatex = true;
+        if (match.index > last) {
+          frag.appendChild(document.createTextNode(src.slice(last, match.index)));
+        }
+
+        const token = extractLatexToken(match[0]);
+        const clean = cleanLatex(token.latex);
+        const span = document.createElement("span");
+        span.className = token.block ? "mq-math-mode mq-block" : "mq-math-mode";
+        span.setAttribute("latex-data", clean);
+        span.textContent = clean;
+        frag.appendChild(span);
+        last = re.lastIndex;
+      }
+
+      if (!hasLatex) {
+        return null;
+      }
+
+      if (last < src.length) {
+        frag.appendChild(document.createTextNode(src.slice(last)));
+      }
+
+      return frag;
+    }
+
+    function normalizeLegacyMathToken(text) {
+      return cleanLatex(text)
+        .replace(/\s+/g, "")
+        .replace(/−/g, "-");
+    }
+
+    function isSimpleLegacyToken(text) {
+      return /^[A-Za-z0-9.,+\-]+$/.test(String(text || ""));
+    }
+
+    function hasCorruptedLegacyLatex(text) {
+      const value = String(text || "");
+      if (!value) {
+        return false;
+      }
+
+      // Legacy corruption in this dataset is non-ASCII mojibake or placeholder question marks.
+      return /[^\x20-\x7E]|\?\?/.test(value);
+    }
+
+    function recoverLegacyLatexFromStructure(node) {
+      if (!node) {
+        return "";
+      }
+
+      const fraction = node.querySelector(".mq-fraction");
+      if (fraction) {
+        const numerator = cleanLatex((fraction.querySelector(".mq-numerator") || {}).textContent || "").replace(/\s+/g, "");
+        const denominator = cleanLatex((fraction.querySelector(".mq-denominator") || {}).textContent || "").replace(/\s+/g, "");
+        if (numerator && denominator) {
+          return `\\frac{${numerator}}{${denominator}}`;
+        }
+      }
+
+      const root = node.querySelector(".mq-root-block");
+      return cleanLatex(root ? root.textContent || "" : "");
+    }
+
+    function chooseLegacyLatex(node, attrLatex) {
+      const root = node.querySelector(".mq-root-block");
+      const rootText = cleanLatex(root ? root.textContent || "" : "");
+      const attribute = cleanLatex(attrLatex || "");
+      const recovered = recoverLegacyLatexFromStructure(node);
+
+      if (!rootText) {
+        return attribute || recovered;
+      }
+      if (!attribute) {
+        return recovered || rootText;
+      }
+
+      if (hasCorruptedLegacyLatex(attribute)) {
+        return recovered || rootText;
+      }
+
+      const normAttr = normalizeLegacyMathToken(attribute);
+      const normRoot = normalizeLegacyMathToken(rootText);
+
+      if (!normRoot || normAttr === normRoot) {
+        return attribute;
+      }
+
+      if (isSimpleLegacyToken(normAttr) && isSimpleLegacyToken(normRoot)) {
+        return rootText;
+      }
+
+      return attribute;
+    }
+
+    function cleanLegacyMathMarkup(root) {
+      const nodes = root.querySelectorAll("span.mq-math-mode");
+      nodes.forEach((node) => {
+        const rawLatex = node.getAttribute("latex-data") || node.dataset.latexData || "";
+        let latex = chooseLegacyLatex(node, rawLatex);
+        if (hasCorruptedLegacyLatex(latex)) {
+          latex = recoverLegacyLatexFromStructure(node) || cleanLatex((node.querySelector(".mq-root-block") || {}).textContent || "");
+        }
+
+        if (!latex) {
+          node.remove();
+          return;
+        }
+
+        const replacement = document.createElement("span");
+        replacement.className = node.classList.contains("mq-block") ? "mq-math-mode mq-block" : "mq-math-mode";
+        replacement.setAttribute("latex-data", latex);
+        replacement.textContent = latex;
+        node.replaceWith(replacement);
+      });
+    }
+
+    function injectLatexSpansFromTextNodes(root) {
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      const textNodes = [];
+
+      while (walker.nextNode()) {
+        const node = walker.currentNode;
+        const cleaned = cleanDisplayText(node.nodeValue || "");
+        if (cleaned !== node.nodeValue) {
+          node.nodeValue = cleaned;
+        }
+
+        if (!cleaned.trim()) {
+          continue;
+        }
+
+        const parent = node.parentElement;
+        if (!parent) {
+          continue;
+        }
+        if (parent.closest(".mq-math-mode") || parent.closest("script") || parent.closest("style") || parent.closest("textarea")) {
+          continue;
+        }
+        if (!/[\\$]/.test(cleaned)) {
+          continue;
+        }
+
+        textNodes.push(node);
+      }
+
+      textNodes.forEach((node) => {
+        const frag = latexTextToFragment(node.nodeValue);
+        if (frag && node.parentNode) {
+          node.parentNode.replaceChild(frag, node);
+        }
+      });
+    }
+
+    function renderMathQuill(root) {
+      const MQ = getMathQuillStatic();
+      if (!MQ || !root) {
+        return;
+      }
+
+      const nodes = root.querySelectorAll(".mq-math-mode");
+      nodes.forEach((node) => {
+        const latex = cleanLatex(node.getAttribute("latex-data") || node.dataset.latexData || "");
+        if (!latex) {
+          return;
+        }
+
+        node.textContent = "";
+        node.removeAttribute("data-mq-render-failed");
+        try {
+          MQ.StaticMath(node).latex(latex);
+        } catch (_err) {
+          node.textContent = latex;
+          node.setAttribute("data-mq-render-failed", "1");
+        }
+      });
+    }
+
+    function setRenderableContent(target, value, allowHtml = true) {
+      const raw = String(value || "").replace(/\r\n?/g, "\n");
+
+      if (allowHtml && /<[^>]+>/.test(raw)) {
+        target.innerHTML = sanitizeRichHtml(raw);
+        scrubContainerText(target);
+        cleanLegacyMathMarkup(target);
+        injectLatexSpansFromTextNodes(target);
+        stripMqNeighborArtifacts(target);
+        dedupeAdjacentMathSpans(target);
+        collapseDuplicateEquationBlocks(target);
+        removeTrailingBreaks(target);
+        renderMathQuill(target);
+        scrubContainerText(target);
+        stripMqNeighborArtifacts(target);
+        dedupeAdjacentMathSpans(target);
+        collapseDuplicateEquationBlocks(target);
+        removeTrailingBreaks(target);
+        return;
+      }
+
+      const src = cleanDisplayText(raw);
+      target.textContent = "";
+      const frag = latexTextToFragment(src);
+      if (frag) {
+        target.appendChild(frag);
+        renderMathQuill(target);
+        scrubContainerText(target);
+        stripMqNeighborArtifacts(target);
+        dedupeAdjacentMathSpans(target);
+        removeTrailingBreaks(target);
+        return;
+      }
+
+      target.textContent = src;
+    }
+
+    function htmlToPlainText(html) {
+      const input = String(html || "");
+      if (!input) {
+        return "";
+      }
+
+      const doc = new DOMParser().parseFromString(input, "text/html");
+
+      doc.body.querySelectorAll("img").forEach((img) => {
+        const token = img.getAttribute("alt") || img.getAttribute("aria-label") || img.getAttribute("title") || "";
+        img.replaceWith(token ? ` ${token} ` : " ");
+      });
+
+      doc.body.querySelectorAll("[data-latex]").forEach((node) => {
+        const latex = node.getAttribute("data-latex") || "";
+        if (latex) {
+          node.replaceWith(` ${latex} `);
+        }
+      });
+
+      doc.body
+        .querySelectorAll("script,style,noscript,template,picture,video,audio,iframe,object,embed,canvas")
+        .forEach((node) => node.remove());
+
+      doc.body.querySelectorAll("br").forEach((node) => node.replaceWith("\n"));
+      doc.body
+        .querySelectorAll("p,div,li,tr,table,section,article,blockquote,h1,h2,h3,h4,h5,h6")
+        .forEach((node) => {
+          if (node.nextSibling) {
+            node.insertAdjacentText("afterend", "\n");
+          }
+        });
+
+      return String(doc.body.textContent || "")
+        .replace(/\u00A0/g, " ")
+        .replace(/\s*,\s*/g, ", ")
+        .replace(/[ \t]+\n/g, "\n")
+        .replace(/\n{3,}/g, "\n\n")
+        .replace(/\s+$/g, "")
+        .trim();
+    }
+
+    function sanitizeRichHtml(html) {
+      const input = String(html || "");
+      if (!input) {
+        return "";
+      }
+
+      const doc = new DOMParser().parseFromString(input, "text/html");
+      doc.body.querySelectorAll("script,style,noscript,template,iframe,object,embed").forEach((node) => node.remove());
+
+      const allNodes = doc.body.querySelectorAll("*");
+      allNodes.forEach((node) => {
+        for (const attr of [...node.attributes]) {
+          const name = attr.name.toLowerCase();
+          if (name.startsWith("on")) {
+            node.removeAttribute(attr.name);
+          }
+        }
+
+        if (node.tagName === "A") {
+          const href = node.getAttribute("href") || "";
+          if (/^\s*javascript:/i.test(href)) {
+            node.removeAttribute("href");
+          }
+        }
+      });
+
+      return doc.body.innerHTML;
+    }
+
+    function stripHtml(html) {
+      return htmlToPlainText(html).replace(/\s+/g, " ").trim();
+    }
+
+    function normalizeAnswer(value) {
+      const raw = /<[^>]*>/.test(String(value || "")) ? htmlToPlainText(value) : String(value || "");
+
+      return raw
+        .replace(/\u00A0/g, " ")
+        .replace(/\s+/g, " ")
+        .trim()
+        .toLowerCase();
+    }
+
+    function answerVariants(value) {
+      const normalized = normalizeAnswer(value);
+      if (!normalized) {
+        return [];
+      }
+
+      const noSpace = normalized.replace(/\s+/g, "");
+      return noSpace === normalized ? [normalized] : [normalized, noSpace];
+    }
+
+    function findTypeValues(segment) {
+      const matches = [...segment.matchAll(/"type"\s*:\s*"([^"]+)"/g)];
+      return matches.map((m) => m[1]);
+    }
+
+    function readJsonString(source, start) {
+      let i = start + 1;
+      while (i < source.length) {
+        const ch = source[i];
+        if (ch === "\\") {
+          i += 2;
+          continue;
+        }
+        if (ch === '"') {
+          return { raw: source.slice(start, i + 1), end: i + 1 };
+        }
+        i += 1;
+      }
+      return null;
+    }
+
+    function readBalancedJson(source, start, openChar, closeChar) {
+      let depth = 0;
+      let i = start;
+      let inString = false;
+
+      while (i < source.length) {
+        const ch = source[i];
+
+        if (inString) {
+          if (ch === "\\") {
+            i += 2;
+            continue;
+          }
+          if (ch === '"') {
+            inString = false;
+          }
+          i += 1;
+          continue;
+        }
+
+        if (ch === '"') {
+          inString = true;
+          i += 1;
+          continue;
+        }
+
+        if (ch === openChar) {
+          depth += 1;
+        } else if (ch === closeChar) {
+          depth -= 1;
+          if (depth === 0) {
+            return { raw: source.slice(start, i + 1), end: i + 1 };
+          }
+        }
+
+        i += 1;
+      }
+
+      return null;
+    }
+
+    function readJsonValue(source, start) {
+      const ch = source[start];
+      if (ch === '"') {
+        return readJsonString(source, start);
+      }
+      if (ch === "[") {
+        return readBalancedJson(source, start, "[", "]");
+      }
+      if (ch === "{") {
+        return readBalancedJson(source, start, "{", "}");
+      }
+      return null;
+    }
+
+    function extractJsonByKey(segment, key) {
+      const keyRegex = new RegExp(`"${key}"\\s*:`);
+      const match = keyRegex.exec(segment);
+      if (!match) {
+        return null;
+      }
+
+      let idx = match.index + match[0].length;
+      while (idx < segment.length && /\s/.test(segment[idx])) {
+        idx += 1;
+      }
+
+      const rawValue = readJsonValue(segment, idx);
+      if (!rawValue) {
+        return null;
+      }
+
+      try {
+        return JSON.parse(rawValue.raw);
+      } catch (_err) {
+        return null;
+      }
+    }
+
+    function ensureArray(value) {
+      return Array.isArray(value) ? value : [];
+    }
+
+    function parseQuestionsFromRaw(raw) {
+      const stemMatches = [...raw.matchAll(/"stem"\s*:/g)];
+      if (!stemMatches.length) {
+        return [];
+      }
+
+      const stemPositions = stemMatches.map((m) => m.index);
+      const questions = [];
+
+      for (let i = 0; i < stemPositions.length; i += 1) {
+        const start = stemPositions[i];
+        const end = i + 1 < stemPositions.length ? stemPositions[i + 1] : raw.length;
+        const prevStart = i === 0 ? 0 : stemPositions[i - 1];
+
+        const segment = raw.slice(start, end);
+        const prefix = raw.slice(prevStart, start);
+
+        const stem = extractJsonByKey(segment, "stem");
+        if (!stem) {
+          continue;
+        }
+
+        const ownTypeList = findTypeValues(segment);
+        const prefixTypeList = findTypeValues(prefix);
+        const type = ownTypeList[0] || prefixTypeList[prefixTypeList.length - 1] || "unknown";
+
+        const stimulus = extractJsonByKey(segment, "stimulus") || "";
+        const rationale = extractJsonByKey(segment, "rationale") || "";
+        const keys = ensureArray(extractJsonByKey(segment, "keys"));
+        const correctAnswer = ensureArray(extractJsonByKey(segment, "correct_answer"));
+        const answerOptions = ensureArray(extractJsonByKey(segment, "answerOptions"));
+        const externalId = extractJsonByKey(segment, "externalid") || `entry-${i + 1}`;
+
+        const stemText = htmlToPlainText(stem);
+        const stimulusText = htmlToPlainText(stimulus);
+        const rationaleText = htmlToPlainText(rationale);
+        const searchText = `${stemText} ${stimulusText}`.toLowerCase();
+
+        questions.push({
+          idx: i + 1,
+          externalId,
+          type: String(type || "unknown").toLowerCase(),
+          stem,
+          stimulus,
+          rationale,
+          stemText,
+          stimulusText,
+          rationaleText,
+          keys,
+          correctAnswer,
+          answerOptions,
+          searchText,
+        });
+      }
+
+      return questions;
+    }
+
+    function getCorrectSet(question) {
+      const out = new Set();
+
+      [...question.keys, ...question.correctAnswer].forEach((item) => {
+        answerVariants(item).forEach((variant) => out.add(variant));
+      });
+
+      return out;
+    }
+
+    function optionLetter(index) {
+      return String.fromCharCode(65 + index);
+    }
+
+    function shortSnippet(question) {
+      const text = String(question.stimulusText || question.stemText || "");
+      return text.length > 180 ? `${text.slice(0, 180)}...` : text;
+    }
+
+    function summarizeMcqAnswer(question) {
+      const correctSet = getCorrectSet(question);
+      const found = [];
+
+      question.answerOptions.forEach((opt, idx) => {
+        if (isMcqSelectionCorrect(correctSet, opt, idx)) {
+          const letter = optionLetter(idx);
+          const content = String(opt.content || "").trim();
+          found.push(`<p><strong>${letter}.</strong> ${content || "(blank option)"}</p>`);
+        }
+      });
+
+      if (found.length) {
+        return found.join("");
+      }
+
+      const fallback = [...question.correctAnswer, ...question.keys]
+        .map((item) => String(item || "").trim())
+        .filter(Boolean);
+
+      return fallback.length
+        ? fallback.map((item) => `<p>${item}</p>`).join("")
+        : "No answer key found.";
+    }
+
+    function summarizeOpenEndedAnswer(question) {
+      const accepted = question.correctAnswer.length ? question.correctAnswer : question.keys;
+      const values = accepted
+        .map((item) => String(item || "").trim())
+        .filter(Boolean);
+
+      return values.length
+        ? values.map((item) => `<p>${item}</p>`).join("")
+        : "No answer key found.";
+    }
+
+    function appendSectionLabel(parent, text) {
+      const label = document.createElement("p");
+      label.className = "q-label";
+      label.textContent = text;
+      parent.appendChild(label);
+    }
+
+    function isMcqSelectionCorrect(correctSet, option, index) {
+      const optionTokens = new Set();
+      answerVariants(option.id).forEach((variant) => optionTokens.add(variant));
+      answerVariants(optionLetter(index)).forEach((variant) => optionTokens.add(variant));
+      answerVariants(htmlToPlainText(option.content || "")).forEach((variant) => optionTokens.add(variant));
+
+      for (const token of optionTokens) {
+        if (correctSet.has(token)) {
+          return true;
+        }
+      }
+
+      return false;
+    }
+
+    function updateQuestionSelector() {
+      const total = view.filtered.length;
+      if (!el.questionJump) {
+        return;
+      }
+
+      el.questionJump.innerHTML = "";
+
+      if (!total) {
+        const opt = document.createElement("option");
+        opt.value = "";
+        opt.textContent = "No questions";
+        el.questionJump.appendChild(opt);
+        el.questionJump.disabled = true;
+        view.selectedQuestion = null;
+        return;
+      }
+
+      el.questionJump.disabled = false;
+
+      for (let i = 0; i < total; i += 1) {
+        const question = view.filtered[i];
+        const opt = document.createElement("option");
+        const preview = shortSnippet(question).slice(0, 72);
+        opt.value = String(i + 1);
+        opt.textContent = `${i + 1}. ${preview || "Question"}`;
+        el.questionJump.appendChild(opt);
+      }
+
+      const target = Math.max(1, Math.min(view.selectedQuestion || 1, total));
+      view.selectedQuestion = target;
+      el.questionJump.value = String(target);
+    }
+
+    function renderPage() {
+      const total = view.filtered.length;
+      const pageCount = Math.max(1, Math.ceil(total / PAGE_SIZE));
+      view.page = Math.max(1, Math.min(view.page, pageCount));
+
+      if (total > 0) {
+        const selected = view.selectedQuestion || 1;
+        view.selectedQuestion = Math.max(1, Math.min(selected, total));
+        if (el.questionJump && !el.questionJump.disabled) {
+          el.questionJump.value = String(view.selectedQuestion);
+        }
+      } else {
+        view.selectedQuestion = null;
+      }
+
+      const start = (view.page - 1) * PAGE_SIZE;
+      const end = start + PAGE_SIZE;
+      const onPage = view.filtered.slice(start, end);
+
+      el.pageInfo.textContent = `Page ${view.page} / ${pageCount}`;
+      el.countPill.textContent = `${total} questions`;
+      el.prevPage.disabled = view.page <= 1;
+      el.nextPage.disabled = view.page >= pageCount;
+
+      el.questions.innerHTML = "";
+
+      if (!onPage.length) {
+        const empty = document.createElement("p");
+        empty.className = "muted";
+        empty.textContent = "No questions matched your current filter.";
+        el.questions.appendChild(empty);
+        return;
+      }
+
+      const showRationale = el.showRationale.checked;
+      const showAnswers = el.showAnswers.checked;
+      const fragment = document.createDocumentFragment();
+
+      onPage.forEach((question, offset) => {
+        const num = start + offset + 1;
+        const card = document.createElement("article");
+        card.className = "q-card";
+        card.id = `question-${num}`;
+        if (num === view.selectedQuestion) {
+          card.classList.add("selected");
+        }
+
+        const head = document.createElement("div");
+        head.className = "q-head";
+        const title = document.createElement("h3");
+        title.className = "q-title";
+        title.textContent = `Question ${num}`;
+        const typePill = document.createElement("span");
+        typePill.className = "type-pill";
+        typePill.textContent = question.type || "unknown";
+        head.appendChild(title);
+        head.appendChild(typePill);
+        card.appendChild(head);
+
+        const snippet = document.createElement("p");
+        snippet.className = "snippet";
+        snippet.textContent = shortSnippet(question);
+        card.appendChild(snippet);
+
+        if (question.stimulusText) {
+          appendSectionLabel(card, "Stimulus");
+          const stimulusBlock = document.createElement("div");
+          stimulusBlock.className = "q-block";
+          setRenderableContent(stimulusBlock, question.stimulus, true);
+          card.appendChild(stimulusBlock);
+        }
+
+        appendSectionLabel(card, "Question");
+        const stemBlock = document.createElement("div");
+        stemBlock.className = "q-block question-main";
+        setRenderableContent(stemBlock, question.stem, true);
+        card.appendChild(stemBlock);
+
+        if (showAnswers) {
+          appendSectionLabel(card, "Answer Key");
+          const answerKey = document.createElement("div");
+          answerKey.className = "q-block answer-key";
+          if (question.type === "mcq") {
+            setRenderableContent(answerKey, summarizeMcqAnswer(question), true);
+          } else {
+            setRenderableContent(answerKey, summarizeOpenEndedAnswer(question), true);
+          }
+          card.appendChild(answerKey);
+        }
+
+        if (question.type === "mcq" && question.answerOptions.length) {
+          const correctSet = getCorrectSet(question);
+          const list = document.createElement("ul");
+          list.className = "opts";
+
+          question.answerOptions.forEach((opt, idx) => {
+            const li = document.createElement("li");
+            li.className = "opt";
+
+            const letter = optionLetter(idx);
+
+            const letterEl = document.createElement("span");
+            letterEl.className = "opt-letter";
+            letterEl.textContent = `${letter}.`;
+            li.appendChild(letterEl);
+
+            const choiceLabel = document.createElement("label");
+            choiceLabel.className = "mcq-choice";
+
+            const radio = document.createElement("input");
+            radio.type = "radio";
+            radio.name = `mcq-${num}`;
+            radio.value = String(idx);
+            choiceLabel.appendChild(radio);
+
+            const textEl = document.createElement("div");
+            textEl.className = "opt-text";
+            setRenderableContent(textEl, String(opt.content || ""), true);
+            choiceLabel.appendChild(textEl);
+
+            if (showAnswers && isMcqSelectionCorrect(correctSet, opt, idx)) {
+              li.classList.add("correct");
+            }
+
+            li.appendChild(choiceLabel);
+
+            list.appendChild(li);
+          });
+
+          card.appendChild(list);
+
+          const checkRow = document.createElement("div");
+          checkRow.className = "answer-check";
+
+          const checkBtn = document.createElement("button");
+          checkBtn.type = "button";
+          checkBtn.className = "secondary";
+          checkBtn.textContent = "Check Answer";
+          checkRow.appendChild(checkBtn);
+
+          const feedback = document.createElement("span");
+          feedback.className = "feedback";
+          checkRow.appendChild(feedback);
+
+          checkBtn.addEventListener("click", () => {
+            const selected = card.querySelector(`input[name=\"mcq-${num}\"]:checked`);
+            if (!selected) {
+              feedback.className = "feedback bad";
+              feedback.textContent = "Pick one option first.";
+              return;
+            }
+
+            const selectedIdx = Number(selected.value);
+            const option = question.answerOptions[selectedIdx] || {};
+            const ok = isMcqSelectionCorrect(correctSet, option, selectedIdx);
+
+            feedback.className = ok ? "feedback good" : "feedback bad";
+            feedback.textContent = ok ? "Correct." : "Not quite. Try again.";
+          });
+
+          card.appendChild(checkRow);
+        } else {
+          const accepted = question.correctAnswer.length ? question.correctAnswer : question.keys;
+          const acceptedSet = new Set();
+          accepted.forEach((value) => {
+            answerVariants(value).forEach((variant) => acceptedSet.add(variant));
+          });
+
+          const checkRow = document.createElement("div");
+          checkRow.className = "answer-check";
+
+          const input = document.createElement("input");
+          input.type = "text";
+          input.className = "answer-input";
+          input.placeholder = "Type your answer";
+          checkRow.appendChild(input);
+
+          const checkBtn = document.createElement("button");
+          checkBtn.type = "button";
+          checkBtn.className = "secondary";
+          checkBtn.textContent = "Check Answer";
+          checkRow.appendChild(checkBtn);
+
+          const feedback = document.createElement("span");
+          feedback.className = "feedback";
+          checkRow.appendChild(feedback);
+
+          const runCheck = () => {
+            const user = input.value;
+            const userVariants = answerVariants(user);
+            if (!userVariants.length) {
+              feedback.className = "feedback bad";
+              feedback.textContent = "Enter an answer first.";
+              return;
+            }
+
+            const ok = userVariants.some((variant) => acceptedSet.has(variant));
+            feedback.className = ok ? "feedback good" : "feedback bad";
+            feedback.textContent = ok ? "Correct." : "Not quite. Try again.";
+          };
+
+          checkBtn.addEventListener("click", runCheck);
+          input.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") {
+              event.preventDefault();
+              runCheck();
+            }
+          });
+
+          card.appendChild(checkRow);
+        }
+
+        if (showRationale && question.rationaleText) {
+          const details = document.createElement("details");
+          const summary = document.createElement("summary");
+          summary.textContent = "Rationale";
+          details.appendChild(summary);
+
+          const rationaleBlock = document.createElement("div");
+          rationaleBlock.className = "q-block";
+          setRenderableContent(rationaleBlock, question.rationale, true);
+          details.appendChild(rationaleBlock);
+
+          card.appendChild(details);
+        }
+
+        fragment.appendChild(card);
+      });
+
+      el.questions.appendChild(fragment);
+    }
+
+    function applyFilters(resetPage = true) {
+      const q = el.searchInput.value.trim().toLowerCase();
+
+      view.filtered = view.allQuestions.filter((item) => {
+        if (!q) return true;
+        return item.searchText.includes(q);
+      });
+
+      if (resetPage) {
+        view.page = 1;
+        view.selectedQuestion = view.filtered.length ? 1 : null;
+      } else if (view.filtered.length) {
+        const selected = view.selectedQuestion || 1;
+        view.selectedQuestion = Math.max(1, Math.min(selected, view.filtered.length));
+      } else {
+        view.selectedQuestion = null;
+      }
+
+      updateQuestionSelector();
+      renderPage();
+    }
+
+    async function loadSource() {
+      const sourceKey = el.sourceSelect.value;
+      const path = SOURCE_MAP[sourceKey];
+      view.source = sourceKey;
+
+      setStatus("Loading Bluebook Instructor Courses source...");
+      el.reloadBtn.disabled = true;
+
+      try {
+        const res = await fetch(path, { cache: "no-store" });
+        if (!res.ok) {
+          throw new Error(`Could not load ${path}`);
+        }
+
+        const raw = await res.text();
+        const parsed = parseQuestionsFromRaw(raw);
+        view.allQuestions = parsed;
+        view.selectedQuestion = parsed.length ? 1 : null;
+        applyFilters(true);
+        setStatus(`Loaded ${parsed.length} parsed questions from ${sourceKey}.`);
+      } catch (err) {
+        view.allQuestions = [];
+        view.filtered = [];
+        view.selectedQuestion = null;
+        updateQuestionSelector();
+        renderPage();
+        setStatus(err.message || "Failed to load source.", true);
+      } finally {
+        el.reloadBtn.disabled = false;
+      }
+    }
+
+    el.reloadBtn.addEventListener("click", loadSource);
+    el.sourceSelect.addEventListener("change", loadSource);
+    el.searchInput.addEventListener("input", () => applyFilters(true));
+    el.showRationale.addEventListener("change", () => renderPage());
+    el.showAnswers.addEventListener("change", () => renderPage());
+
+    el.questionJump.addEventListener("change", () => {
+      const target = Number(el.questionJump.value);
+      if (!target) {
+        return;
+      }
+
+      view.selectedQuestion = target;
+      view.page = Math.floor((target - 1) / PAGE_SIZE) + 1;
+      renderPage();
+
+      const card = document.getElementById(`question-${target}`);
+      if (card) {
+        card.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    });
+
+    el.prevPage.addEventListener("click", () => {
+      view.page = Math.max(1, view.page - 1);
+      view.selectedQuestion = (view.page - 1) * PAGE_SIZE + 1;
+      renderPage();
+    });
+
+    el.nextPage.addEventListener("click", () => {
+      const maxPage = Math.max(1, Math.ceil(view.filtered.length / PAGE_SIZE));
+      view.page = Math.min(maxPage, view.page + 1);
+      view.selectedQuestion = (view.page - 1) * PAGE_SIZE + 1;
+      renderPage();
+    });
+
+    loadSource();
+  </script>
+</body>
+</html>

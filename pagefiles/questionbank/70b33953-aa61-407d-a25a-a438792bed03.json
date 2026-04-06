@@ -1,0 +1,540 @@
+{
+  "uuid": "70b33953-aa61-407d-a25a-a438792bed03",
+  "chunk": "C51WvDOv.js",
+  "question_count": 22,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The length of a rectangle's diagonal is </span></span><span class=\"mq-math-mode\" latex-data=\"\\sqrt{65}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.95);\">â</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"4\"><span mathquill-command-id=\"6\">6</span><span mathquill-command-id=\"8\">5</span></span></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">, and the length of one of the rectangle's sides is 4. What is the perimeter of&nbsp;the rectangle?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "11<br>"
+        },
+        {
+          "name": "B",
+          "content": "22<br>"
+        },
+        {
+          "name": "C",
+          "content": "28<br>"
+        },
+        {
+          "name": "D",
+          "content": "65<br>"
+        }
+      ],
+      "correct": "22<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The function<i><span style=\"font-style:italic\">&nbsp;h</span></i>&nbsp;is defined by <i><span style=\"font-style:italic\">h</span></i>(<i><span style=\"font-style:italic\">x</span></i>)= 7|<em>x</em>|. What is the value of <i><span style=\"font-style:italic\">h</span></i>(-6)?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-42<br>"
+        },
+        {
+          "name": "B",
+          "content": "1<br>"
+        },
+        {
+          "name": "C",
+          "content": "13<br>"
+        },
+        {
+          "name": "D",
+          "content": "42<br>"
+        }
+      ],
+      "correct": "42<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">lf&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\frac{x}{y}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><var mathquill-command-id=\"7\">x</var></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><var mathquill-command-id=\"8\">y</var></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>&nbsp; = 52 and <span class=\"mq-math-mode\" latex-data=\"\\frac{cx}{4y}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><var mathquill-command-id=\"14\">c</var><var mathquill-command-id=\"7\">x</var></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"15\">4</span><var mathquill-command-id=\"8\">y</var></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>&nbsp;&nbsp;= 52, what is the value of c?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "4<br>"
+        },
+        {
+          "name": "B",
+          "content": "13<br>"
+        },
+        {
+          "name": "C",
+          "content": "52<br>"
+        },
+        {
+          "name": "D",
+          "content": "208<br>"
+        }
+      ],
+      "correct": "4<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">If&nbsp;5(8-4<i><span style=\"font-style:italic\">x</span></i>)+2 = 4(8-4<i><span style=\"font-style:italic\">x</span></i>)+18, what is the value of&nbsp;8-4<i><span style=\"font-style:italic\">x</span></i>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-16<br>"
+        },
+        {
+          "name": "B",
+          "content": "-2<br>"
+        },
+        {
+          "name": "C",
+          "content": "2<br>"
+        },
+        {
+          "name": "D",
+          "content": "16<br>"
+        }
+      ],
+      "correct": "16<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">The function <i><span style=\"font-style:italic\">g</span></i><i>&nbsp;</i>is defined by <i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)= 16<i><span style=\"font-style:italic\">x</span></i>&nbsp;+ 25. For what value of a does <i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)= 29?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": ".25,0.25,1/4",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">âââââââThe positive number <i><span style=\"font-style:italic\">a</span></i>&nbsp;is 240% of the number <i><span style=\"font-style:italic\">b</span></i>, and <i><span style=\"font-style:italic\">a</span></i>&nbsp;is 70% of the number <i><span style=\"font-style:italic\">c</span></i>. lf <i><span style=\"font-style:italic\">c</span></i>&nbsp;is <i><span style=\"font-style:italic\">p</span></i>% of <i><span style=\"font-style:italic\">b</span></i>, which of the following is&nbsp;closest to the value of <i><span style=\"font-style:italic\">p</span></i>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "168<br>"
+        },
+        {
+          "name": "B",
+          "content": "200<br>"
+        },
+        {
+          "name": "C",
+          "content": "243<br>"
+        },
+        {
+          "name": "D",
+          "content": "343<br>"
+        }
+      ],
+      "correct": "343<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>x&nbsp;</em>+&nbsp;<em>y&nbsp;</em>=48<br>The given equation relates the total number of marble queen pothos stems,&nbsp;<i><span style=\"font-style:italic\">x</span></i>&nbsp;, and the total number of snow queen pothos&nbsp;stems, <i><span style=\"font-style:italic\">y</span></i>, a plant nursery propagates to create pothos plants. If 18 snow queen pothos stems are propagated, how many&nbsp;marble queen pothos stems are propagated?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "48<br>"
+        },
+        {
+          "name": "B",
+          "content": "30<br>"
+        },
+        {
+          "name": "C",
+          "content": "18<br>"
+        },
+        {
+          "name": "D",
+          "content": "12<br>"
+        }
+      ],
+      "correct": "30<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">If&nbsp;7 +&nbsp;<i><span style=\"font-style:italic\">x</span></i>= 5, what is the value of&nbsp;-14-2<i><span style=\"font-style:italic\">x</span></i>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-10<br>"
+        },
+        {
+          "name": "B",
+          "content": "-2<br>"
+        },
+        {
+          "name": "C",
+          "content": "4<br>"
+        },
+        {
+          "name": "D",
+          "content": "18<br>"
+        }
+      ],
+      "correct": "-10<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The function <i><span style=\"font-style:italic\">k</span></i>&nbsp;is defined by k(<i><span style=\"font-style:italic\">x</span></i>)= <i><span style=\"font-style:italic\">x</span></i>Â³+ 20. What is the value of <i><span style=\"font-style:italic\">k</span></i>(<i><span style=\"font-style:italic\">x</span></i>) when <i><span style=\"font-style:italic\">x</span></i>&nbsp;=2?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "28<br>"
+        },
+        {
+          "name": "B",
+          "content": "26<br>"
+        },
+        {
+          "name": "C",
+          "content": "25<br>"
+        },
+        {
+          "name": "D",
+          "content": "20<br>"
+        }
+      ],
+      "correct": "28<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which expression is a factor of <i><span style=\"font-style:italic\">x</span></i><sup><span style=\"vertical-align:super\">4</span></sup>+14<i><span style=\"font-style:italic\">ax</span></i><sup><span style=\"vertical-align:super\">2</span></sup>+49<i><span style=\"font-style:italic\">a</span></i><sup><span style=\"vertical-align:super\">2</span></sup>-64, where <i><span style=\"font-style:italic\">a</span></i>&nbsp;is a positive constant?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">x</span></i>Â²+7<i><span style=\"font-style:italic\">a</span></i>+8</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">x</span></i>Â²-7<i><span style=\"font-style:italic\">a</span></i>-8</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">x</span></i>Â²+14a</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">x</span></i>Â²-8a</span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">x</span></i>Â²+7<i><span style=\"font-style:italic\">a</span></i>+8</span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">For the linear function <i><span style=\"font-style:italic\">g</span></i>,&nbsp;<i><span style=\"font-style:italic\">g</span></i>(9)=11 and&nbsp;<i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>+1)&nbsp;- <i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)= 2. Which equation defines <i><span style=\"font-style:italic\">g</span></i>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)=9<i><span style=\"font-style:italic\">x </span></i>+&nbsp;2</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)=9<i><span style=\"font-style:italic\">x </span></i>+&nbsp;11</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)=2<i><span style=\"font-style:italic\">x</span></i><i>&nbsp;</i>-&nbsp;18</span></span>âââââââ<br>"
+        },
+        {
+          "name": "D",
+          "content": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)=2<i><span style=\"font-style:italic\">x</span></i><i>&nbsp;</i>-&nbsp;7</span></span><br>"
+        }
+      ],
+      "correct": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">g</span></i>(<i><span style=\"font-style:italic\">x</span></i>)=2<i><span style=\"font-style:italic\">x</span></i><i>&nbsp;</i>-&nbsp;7</span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/b36fca87af3551b7dea868c255d6ebce.png\" style=\"width: 300px; height: 317px;\"><br>In the figure, a hollow steel pipe is in the shape of a right circular cylinder. The steel pipe has an outside diameter of 60&nbsp;inches, a wall thickness of <span class=\"mq-math-mode\" latex-data=\"\\frac{5}{8}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"7\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"8\">8</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>&nbsp; inches, and a height of 132 inches. Which of the following is closest to the volume, in cubic&nbsp;inches, of the wall of this steel pipe?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "162<br>"
+        },
+        {
+          "name": "B",
+          "content": "518<br>"
+        },
+        {
+          "name": "C",
+          "content": "2,475<br>"
+        },
+        {
+          "name": "D",
+          "content": "15,389<br>"
+        }
+      ],
+      "correct": "15,389<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The function <i><span style=\"font-style:italic\">h</span></i>&nbsp;is defined by <i><span style=\"font-style:italic\">h</span></i>(<i><span style=\"font-style:italic\">x</span></i>)= 7|<i><span style=\"font-style:italic\">x</span></i>|. What is the value of <i><span style=\"font-style:italic\">h</span></i>(-4)?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-28<br>"
+        },
+        {
+          "name": "B",
+          "content": "3<br>"
+        },
+        {
+          "name": "C",
+          "content": "11<br>"
+        },
+        {
+          "name": "D",
+          "content": "28<br>"
+        }
+      ],
+      "correct": "28<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/d25cf0e2ff36d0eb094816a1acc5f903.png\" width=\"282\" height=\"229\"><br>In triangle <i><span style=\"font-style:italic\">ABC</span></i>, <i><span style=\"font-style:italic\"></span></i></span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{DE}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"3\" mathquill-block-id=\"4\"><var mathquill-command-id=\"6\">D</var><var mathquill-command-id=\"7\">E</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\"></span></i>&nbsp;is parallel to <i><span style=\"font-style:italic\"></span></i></span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{AC}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"3\" mathquill-block-id=\"4\"><var mathquill-command-id=\"8\">A</var><var mathquill-command-id=\"9\">C</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\"></span></i>, <i><span style=\"font-style:italic\">BD</span></i>= <i><span style=\"font-style:italic\">AD</span></i>, <i><span style=\"font-style:italic\">BE</span></i>&nbsp;= 9, and<i>&nbsp;</i><i><span style=\"font-style:italic\">AC</span></i>= 17. What is the length of <i><span style=\"font-style:italic\"></span></i></span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{BC}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"3\" mathquill-block-id=\"4\"><var mathquill-command-id=\"10\">B</var><var mathquill-command-id=\"12\">C</var></span></span></span><span>&nbsp;</span>âââââââ<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\"></span></i>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "153<br>"
+        },
+        {
+          "name": "B",
+          "content": "34<br>"
+        },
+        {
+          "name": "C",
+          "content": "26<br>"
+        },
+        {
+          "name": "D",
+          "content": "18<br>"
+        }
+      ],
+      "correct": "18<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">If&nbsp;5(8-2<i><span style=\"font-style:italic\">x</span></i>)&nbsp;+&nbsp;3=4(8-2<i><span style=\"font-style:italic\">x</span></i>)&nbsp;+&nbsp;15,whatis the value of&nbsp;8-2<i><span style=\"font-style:italic\">x</span></i>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-12<br>"
+        },
+        {
+          "name": "B",
+          "content": "-2<br>"
+        },
+        {
+          "name": "C",
+          "content": "2<br>"
+        },
+        {
+          "name": "D",
+          "content": "12<br>"
+        }
+      ],
+      "correct": "12<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The positive number <i><span style=\"font-style:italic\">a</span></i>&nbsp;is 270% of the number <i><span style=\"font-style:italic\">b</span></i>, and <i><span style=\"font-style:italic\">a</span></i>&nbsp;is 80%&nbsp;of the number <i><span style=\"font-style:italic\">c</span></i>. If <i><span style=\"font-style:italic\">c</span></i>&nbsp;is <i><span style=\"font-style:italic\">p</span></i>% of <i><span style=\"font-style:italic\">b</span></i>, which of the following is closest to the value of <i><span style=\"font-style:italic\">p</span></i>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "213<br>"
+        },
+        {
+          "name": "B",
+          "content": "216<br>"
+        },
+        {
+          "name": "C",
+          "content": "238<br>"
+        },
+        {
+          "name": "D",
+          "content": "338<br>"
+        }
+      ],
+      "correct": "338<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><i><span style=\"font-style:italic\">x</span></i>+<i><span style=\"font-style:italic\">y</span></i>=53</span></span><br><p style=\"text-align:justify\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The given equation relates the total number of marble queen pothos stems, <i><span style=\"font-style:italic\">x </span></i>, and the total number of snow queen pothos stems, <i><span style=\"font-style:italic\">y </span></i>, a plant nursery propagates to create pothos plants. If 13 snow queen pothos stems are propagated, how many marble queen pothos stems are propagated?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "53<br>"
+        },
+        {
+          "name": "B",
+          "content": "40<br>"
+        },
+        {
+          "name": "C",
+          "content": "27<br>"
+        },
+        {
+          "name": "D",
+          "content": "13<br>"
+        }
+      ],
+      "correct": "40<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">If 7 + </span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">= 5, what is the value of-21-3</span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-15<br>"
+        },
+        {
+          "name": "B",
+          "content": "-3<br>"
+        },
+        {
+          "name": "C",
+          "content": "6<br>"
+        },
+        {
+          "name": "D",
+          "content": "27<br>"
+        }
+      ],
+      "correct": "-15<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The function </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">&nbsp;is defined by </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">(</span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">)= </span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">Â³+ 50. What is the value of </span><i><span style=\"font-style:italic\">k</span></i><span style=\"font-style:normal\">(</span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">) when </span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">&nbsp;= 2?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "50<br>"
+        },
+        {
+          "name": "B",
+          "content": "55<br>"
+        },
+        {
+          "name": "C",
+          "content": "56<br>"
+        },
+        {
+          "name": "D",
+          "content": "58<br>"
+        }
+      ],
+      "correct": "58<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">2</span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">(</span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">-1)(</span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">+7)=0</span><br><span style=\"font-style:normal\">What is one of the solutions to the given equation?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-1<br>"
+        },
+        {
+          "name": "B",
+          "content": "0<br>"
+        },
+        {
+          "name": "C",
+          "content": "2<br>"
+        },
+        {
+          "name": "D",
+          "content": "7<br>"
+        }
+      ],
+      "correct": "0<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">The scatterplot shows the relationship between two variables, </span><i><span style=\"font-style:italic\">x</span></i><span style=\"font-style:normal\">&nbsp;and </span><i><span style=\"font-style:italic\">y</span></i><span style=\"font-style:normal\">. A line of best fit for the data is also shown.</span><br><img src=\"/images/49b0da98c31beca835645f9bc3be9afd.png\" width=\"433\" height=\"349\"><br>For how many of the 9 data points is the actual <i><span style=\"font-style:italic\">y</span></i>-value greater than the <i><span style=\"font-style:italic\">y</span></i>-value predicted by the line of best fit?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "2<br>"
+        },
+        {
+          "name": "B",
+          "content": "5<br>"
+        },
+        {
+          "name": "C",
+          "content": "7<br>"
+        },
+        {
+          "name": "D",
+          "content": "8<br>"
+        }
+      ],
+      "correct": "5<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-style:normal\">For two acute angles </span><i><span style=\"font-style:italic\">X</span></i><span style=\"font-style:normal\">&nbsp;and </span><i><span style=\"font-style:italic\">Y</span></i><span style=\"font-style:normal\">, the measure of angle </span><i><span style=\"font-style:italic\">Y </span></i><span style=\"font-style:normal\">is 24Â°and </span><span class=\"mq-math-mode\" latex-data=\"\\frac{\\sin X}{\\cos Y}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"203\"><span class=\"mq-numerator\" mathquill-block-id=\"204\"><var mathquill-command-id=\"207\" class=\"mq-operator-name\">s</var><var mathquill-command-id=\"209\" class=\"mq-operator-name\">i</var><var mathquill-command-id=\"211\" class=\"mq-operator-name mq-last\">n</var><var mathquill-command-id=\"213\">X</var></span><span class=\"mq-denominator\" mathquill-block-id=\"205\"><var mathquill-command-id=\"215\" class=\"mq-operator-name\">c</var><var mathquill-command-id=\"216\" class=\"mq-operator-name\">o</var><var mathquill-command-id=\"217\" class=\"mq-operator-name mq-last\">s</var><var mathquill-command-id=\"218\">Y</var></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>&nbsp;<span style=\"font-style:normal\">=1. What is the measure, in degrees, of angle <em>X</em>?</span></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "24<br>"
+        },
+        {
+          "name": "B",
+          "content": "45<br>"
+        },
+        {
+          "name": "C",
+          "content": "66<br>"
+        },
+        {
+          "name": "D",
+          "content": "69<br>"
+        }
+      ],
+      "correct": "66<br>",
+      "solution": ""
+    }
+  ]
+}

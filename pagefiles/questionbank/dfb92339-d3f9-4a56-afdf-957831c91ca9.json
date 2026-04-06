@@ -1,0 +1,682 @@
+{
+  "uuid": "dfb92339-d3f9-4a56-afdf-957831c91ca9",
+  "chunk": "DKKML8zQ.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Excavating an <i>iguanodon</i> fossil is a ______ process, since it can take weeks or even months of hard, physically tiring work to clear away the dirt and rock covering the specimen.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "cheap"
+        },
+        {
+          "name": "B",
+          "content": "common"
+        },
+        {
+          "name": "C",
+          "content": "rapid"
+        },
+        {
+          "name": "D",
+          "content": "difficult"
+        }
+      ],
+      "correct": "difficult",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Jacqueline Woodson’s 2018 novel <i>Harbor Me</i>. In the novel, the narrator and Esteban are classmates.</p><blockquote style=\"margin-left: 40px;\">An hour after class started on that Friday, Esteban came in, his head down, his hair slicked wet against his forehead, his Yankees cap dripping with rain. He walked <u>straight</u> to his seat without looking at the rest of us. I watched him sink into his seat so sadly and heavily, it felt like the whole room shivered.</blockquote><p style=\"text-align: right;\">©2018 by Jacqueline Woodson</p>",
+      "question": "As used in the text, what does the word \"straight\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Delightedly"
+        },
+        {
+          "name": "B",
+          "content": "Truthfully"
+        },
+        {
+          "name": "C",
+          "content": "Directly"
+        },
+        {
+          "name": "D",
+          "content": "Formally"
+        }
+      ],
+      "correct": "Directly",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Lilliam Rivera’s 2020 novel <i>Never Look Back</i>. The text describes the narrator arriving at his father’s apartment.</p><blockquote style=\"margin-left: 40px;\">“Pops, I’m here!” I drop my bag and set my guitar case against a wall. I <u>place</u> my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.</blockquote><p style=\"text-align: right;\">©2020 by Lilliam Rivera</p>",
+      "question": "As used in the text, what does the word “place” most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Put"
+        },
+        {
+          "name": "B",
+          "content": "Rank"
+        },
+        {
+          "name": "C",
+          "content": "Remove"
+        },
+        {
+          "name": "D",
+          "content": "Unlock"
+        }
+      ],
+      "correct": "Put",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A number of recording artists ______ Indigenous music with other musical styles. For example, Choctaw singer-songwriter Samantha Crain incorporated elements of Choctaw hymns into folk-pop on her single “When We Remain,” and Swinomish/Iñupiaq musician Black Belt Eagle Scout combined powwow-style melodies with rock on her album <i>At the Party with My Brown Friends</i>.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "exaggerate"
+        },
+        {
+          "name": "B",
+          "content": "analyze"
+        },
+        {
+          "name": "C",
+          "content": "fuse"
+        },
+        {
+          "name": "D",
+          "content": "acquire"
+        }
+      ],
+      "correct": "fuse",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Historical artifacts made from plant-based materials, such as linen fabrics, can tell us a lot about life and culture in prehistoric societies. But archaeologists don’t find these kinds of plant-based items frequently because they are more likely to fall apart over time than are durable artifacts, like flint tools. <u>When María Martín-Seijo and team studied a unique collection of old plant-based artifacts from a cave in Spain, they were surprised to find that many of the items were even older than previously thought.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To reveal how many flint tools have been discovered in one location"
+        },
+        {
+          "name": "B",
+          "content": "To explain how linen fabrics have improved over time"
+        },
+        {
+          "name": "C",
+          "content": "To indicate one outcome of a study by María Martín-Seijo and team"
+        },
+        {
+          "name": "D",
+          "content": "To describe how María Martín-Seijo and team discovered a city in Spain"
+        }
+      ],
+      "correct": "To indicate one outcome of a study by María Martín-Seijo and team",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The 2021 novel <i>My Heart Is a Chainsaw</i> confirmed that Stephen Graham Jones is one of the most talented writers of horror fiction today. <u>By featuring main characters who are Blackfeet, like Jones himself, the novel also helped to ensure that Indigenous people have a place within the horror genre</u>. But Jones is hardly the only Indigenous voice in horror: Métis author Cherie Dimaline has also written in the genre. Her acclaimed 2019 novel <i>Empire of Wild</i> is set in a Métis community in southern Canada.</p>",
+      "question": "Which choice best describes the function of the underlined sentence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It highlights the significance of the portrayal of Indigenous people in <i>My Heart Is a Chainsaw</i>."
+        },
+        {
+          "name": "B",
+          "content": "It asks why so many readers who don’t enjoy the horror genre have purchased <i>My Heart Is a Chainsaw</i>."
+        },
+        {
+          "name": "C",
+          "content": "It predicts that non-Indigenous authors will include more Indigenous characters in their work."
+        },
+        {
+          "name": "D",
+          "content": "It challenges the widely held view that Stephen Graham Jones based <i>My Heart Is a Chainsaw</i> on events in his own life."
+        }
+      ],
+      "correct": "It highlights the significance of the portrayal of Indigenous people in <i>My Heart Is a Chainsaw</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>The poet Audre Lorde once claimed that poetry is the most inexpensive of art forms to practice. While people who pursue other art forms—sculpture, film, long-form prose—require large blocks of uninterrupted time as well as money to complete their work, poets can write, as Lorde said, “between shifts, in the hospital pantry, on the subway, and on scraps of surplus paper.” So poets can practice their art even if they must earn their living in another way.</p><p><strong>Text 2</strong></p><p>Any assessment of the state of contemporary poetry must reckon with the professionalization of the field. While it is possible in theory for anyone to publish in <i>AGNI</i>, <i>Ploughshares</i>, or a similar major poetry outlet, many people who do so have professional training in poetry and extensive practice writing it, which requires time not often available to those who must also work full-time jobs. Thus, financial security indirectly affects which people become poets.</p>",
+      "question": "Based on the texts, how would Lorde (Text 1) most likely respond to the argument presented in Text 2?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By indicating that those artists who specialize in more financially rewarding artistic forms are unlikely to also be successful as poets"
+        },
+        {
+          "name": "B",
+          "content": "By suggesting that those poets who publish in major poetry journals are most likely to be able to earn a living by writing poetry"
+        },
+        {
+          "name": "C",
+          "content": "By pointing out that people can gain experience writing poetry while also working full-time jobs"
+        },
+        {
+          "name": "D",
+          "content": "By mentioning that people often work full-time jobs in order to afford professional training in writing poetry"
+        }
+      ],
+      "correct": "By pointing out that people can gain experience writing poetry while also working full-time jobs",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Founded in 1991, the Museo de Las Americas showcases art from Latin America, including the art of Indigenous peoples. It is located in Denver and has more than 4,800 objects in its collection. Since 2000, a number of other institutions devoted to Latino cultures have opened in the United States. A notable example is the Emma S. Barrientos Mexican American Cultural Center in Austin, Texas. It focuses on Mexican American art and culture.</p>",
+      "question": "Which statement about the Museo de Las Americas is best supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is visited by more people than any other Latino cultural institution in the US."
+        },
+        {
+          "name": "B",
+          "content": "It was founded after 2000."
+        },
+        {
+          "name": "C",
+          "content": "Its collection includes over 4,800 objects."
+        },
+        {
+          "name": "D",
+          "content": "It is no longer located in Denver."
+        }
+      ],
+      "correct": "Its collection includes over 4,800 objects.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Horizontal gene transfer involves the exchange of genetic material between organisms not in a parent-offspring relationship. It is common among prokaryotes (single-celled organisms such as the bacteria <i>Brevibacillus borstelensis</i> and <i>Hafnia alvei</i>). The process can have the effect of increasing bacterial resistance to antibiotics; as such, an understanding of how to prevent horizontal gene transfer might result in the mitigation of dangerous pathogens (organisms that cause disease).</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A common perception of horizontal gene transfer is inaccurate."
+        },
+        {
+          "name": "B",
+          "content": "The results of new research into horizontal gene transfer cast doubt on earlier findings."
+        },
+        {
+          "name": "C",
+          "content": "The study of horizontal gene transfer may yield findings with useful applications."
+        },
+        {
+          "name": "D",
+          "content": "Horizontal gene transfer is more common than was initially thought."
+        }
+      ],
+      "correct": "The study of horizontal gene transfer may yield findings with useful applications.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Enchanted April</i> is a 1922 novel by Elizabeth von Arnim. In the novel, Lady Caroline and three other English women are vacationing at an Italian castle. In the course of the trip, Lady Caroline comes to feel a sense of bitterness that she conceals from her companions: ______</p>",
+      "question": "Which quotation from <i>The Enchanted April</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "“And Lady Caroline, sitting where [the others] had left her before breakfast on the wall, peeped over when she heard laughter, and saw them standing on the path below, and thought what a mercy it was they were laughing down there and had not come up and done it round her.”"
+        },
+        {
+          "name": "B",
+          "content": "“The idea that [Lady Caroline] would go on giving orders was too absurd. She never gave orders at home. Nobody there dreamed of asking her to do anything. That such a very tiresome activity should be thrust upon her here, simply because she happened to be able to talk Italian, was ridiculous.”"
+        },
+        {
+          "name": "C",
+          "content": "“‘What does one do with people like this?’ [Lady Caroline] asked herself, her eyes fixed on Mrs. Fisher in what felt to her an indignant stare but appeared to Mrs. Fisher as really charming docility.”"
+        },
+        {
+          "name": "D",
+          "content": "“A deep cynicism took hold of the unhappy [Lady Caroline]. Her inside grew hoary with disillusionment, while her gracious and charming outside continued to make the world more beautiful.”"
+        }
+      ],
+      "correct": "“A deep cynicism took hold of the unhappy [Lady Caroline]. Her inside grew hoary with disillusionment, while her gracious and charming outside continued to make the world more beautiful.”",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/b98488ff2ab8dc669b947a4c51757455.png\" width=\"520\" height=\"215\"></p><p>A student who is researching volcanoes in Ecuador notes that the country is home to different types of volcanoes. For example, ______</p>",
+      "question": "Which choice most effectively uses information from the table to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Sumaco is a caldera volcano, and Santiago is a stratovolcano."
+        },
+        {
+          "name": "B",
+          "content": "Cayambe is a compound volcano, and Cuicocha is a shield volcano."
+        },
+        {
+          "name": "C",
+          "content": "Cuicocha is a caldera volcano, and Cayambe is a compound volcano."
+        },
+        {
+          "name": "D",
+          "content": "Cuicocha is a caldera volcano, and Santiago is a stratovolcano."
+        }
+      ],
+      "correct": "Cuicocha is a caldera volcano, and Cayambe is a compound volcano.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Sidebells wintergreen (<i>Orthilia secunda</i>) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common pepperweed (<i>Lepidium densiflorum</i>) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked <i>O. secunda</i> and <i>L. densiflorum</i>, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.</p>",
+      "question": "Which finding, if true, would most directly support Mulder and Spellman’s conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although <i>O. secunda</i> and <i>L. densiflorum</i> tended to stop producing leaves at about the same time in years with historically typical temperature patterns, <i>L. densiflorum</i> stopped producing leaves sooner than <i>O. secunda</i> did in years with late subfreezing temperature onset."
+        },
+        {
+          "name": "B",
+          "content": "Although <i>O. secunda</i> and <i>L. densiflorum</i> both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for <i>L. densiflorum</i> than for <i>O. secunda</i>."
+        },
+        {
+          "name": "C",
+          "content": "Although <i>O. secunda</i> and <i>L. densiflorum</i> both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring."
+        },
+        {
+          "name": "D",
+          "content": "Although significant interannual variations in subfreezing temperature onset were observed during the study, neither <i>L. densiflorum</i> nor <i>O. secunda</i> showed any significant interannual variation in the cessation of leaf production."
+        }
+      ],
+      "correct": "Although <i>O. secunda</i> and <i>L. densiflorum</i> both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for <i>L. densiflorum</i> than for <i>O. secunda</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>American Express’s introduction of an airport lounge in 2013 is an instance of brand extension—the company leveraged its brand recognition as a financial services provider to enter a new product category. To understand consumer responses to extended brands, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of water bottle and running shoes) in household purchasing data and, for each pair, had consumers rate the similarity of the pair’s product categories. Noting that cross-category purchasing of the same brand was higher in pairs of product categories rated as similar, such as bread and bagels, than in those rated as dissimilar, such as deodorant and baking soda, a student claims that similarity drives cross-category purchasing.</p>",
+      "question": "Which finding, if true, would most directly weaken the student’s conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Products in pairs with high similarity ratings tended to be among the most expensive products in their categories, whereas products in pairs with low similarity ratings tended to be among the least expensive products in their categories."
+        },
+        {
+          "name": "B",
+          "content": "Consumers were more likely to purchase both products in pairs with similarity ratings comparable to those of bread and bagels than they were to purchase both products in pairs with similarity ratings comparable to those of deodorant and baking soda."
+        },
+        {
+          "name": "C",
+          "content": "Pairs with high similarity ratings tended to be in categories in which there were relatively few competing products from other brands, whereas pairs with low similarity ratings tended to be in categories in which there were many competing products from other brands."
+        },
+        {
+          "name": "D",
+          "content": "The positive correlation between similarity ratings and cross-category purchasing was equally strong for pairs with low brand recognition and pairs with high brand recognition."
+        }
+      ],
+      "correct": "Pairs with high similarity ratings tended to be in categories in which there were relatively few competing products from other brands, whereas pairs with low similarity ratings tended to be in categories in which there were many competing products from other brands.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like classic rock and orchestral and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Led Zeppelin’s “Whole Lotta Love” as their favorite recording and the musician preferred to listen to it at a volume of 84.8 decibels, the nonmusician would be expected to ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "enjoy listening to the nature sounds at 84.8 decibels more than listening to “Whole Lotta Love” at 84.8 decibels."
+        },
+        {
+          "name": "B",
+          "content": "not find it enjoyable to listen to any recordings at a volume as low as 84.8 decibels."
+        },
+        {
+          "name": "C",
+          "content": "prefer listening to other music at 84.8 decibels over listening to “Whole Lotta Love” at that volume."
+        },
+        {
+          "name": "D",
+          "content": "find listening to “Whole Lotta Love” at 84.8 decibels less enjoyable than listening to it at a lower volume."
+        }
+      ],
+      "correct": "find listening to “Whole Lotta Love” at 84.8 decibels less enjoyable than listening to it at a lower volume.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for cooking utensils, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for washing machines, and the 300 series, which has more nickel than the 200 series and is often used for mining and chemical equipment or sinks. Thus, stainless steel used to manufacture ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "cooking utensils will have a face-centered cubic crystalline structure."
+        },
+        {
+          "name": "B",
+          "content": "mining and chemical equipment will have a concentration of chromium lower than 10.5%, while stainless steel used to manufacture washing machines will not."
+        },
+        {
+          "name": "C",
+          "content": "washing machines will have a lower percentage of chromium in its composition than stainless steel used for cooking utensils will."
+        },
+        {
+          "name": "D",
+          "content": "sinks will have similar magnetic properties to stainless steel used to manufacture cooking utensils."
+        }
+      ],
+      "correct": "washing machines will have a lower percentage of chromium in its composition than stainless steel used for cooking utensils will.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The word “pessimism” first ______ in a 1794 letter by English author Samuel Taylor Coleridge.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "to appear"
+        },
+        {
+          "name": "B",
+          "content": "appeared"
+        },
+        {
+          "name": "C",
+          "content": "appearing"
+        },
+        {
+          "name": "D",
+          "content": "having appeared"
+        }
+      ],
+      "correct": "appeared",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Epic poetry is a literary genre characterized by lengthy narratives that emphasize the heroic or divine. <i>Metamorphoses</i>, an epic poem of Roman origin, dates back to the ______ the poem’s heroic narrative still captivates modern readers.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1st century"
+        },
+        {
+          "name": "B",
+          "content": "1st century, yet"
+        },
+        {
+          "name": "C",
+          "content": "1st century,"
+        },
+        {
+          "name": "D",
+          "content": "1st century yet,"
+        }
+      ],
+      "correct": "1st century, yet",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Antonello da Messina and Alessandro Vittoria were among a group of Italian artists based in Venice in the sixteenth ______ group is referred to as the Venetian School.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "century, fittingly, this"
+        },
+        {
+          "name": "B",
+          "content": "century, fittingly. This"
+        },
+        {
+          "name": "C",
+          "content": "century fittingly, this"
+        },
+        {
+          "name": "D",
+          "content": "century. Fittingly, this"
+        }
+      ],
+      "correct": "century. Fittingly, this",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many ranching terms come from Spanish. The word “lariat” (a rope) comes from the Spanish word <i>reata</i>, and “cinch” (a ______ comes from <i>cincho</i>. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican <i>vaqueros</i>, or cowboys.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "belt;"
+        },
+        {
+          "name": "B",
+          "content": "belt)"
+        },
+        {
+          "name": "C",
+          "content": "belt—"
+        },
+        {
+          "name": "D",
+          "content": "belt,"
+        }
+      ],
+      "correct": "belt)",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>C. Maxx Stevens is a Seminole/Muscogee artist whose body of ______ interdisciplinary, encompassing sculpture, printmaking, and installation and often intertwining them.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "work, having been"
+        },
+        {
+          "name": "B",
+          "content": "work is"
+        },
+        {
+          "name": "C",
+          "content": "work, to be"
+        },
+        {
+          "name": "D",
+          "content": "work being"
+        }
+      ],
+      "correct": "work is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While conducting an interview for her book <i>Latina Authors and Their Muses</i>, editor Mayra Calvani asked Marta Acosta, author of the young adult novel <i>Dark Companion</i>, what ______ Acosta’s response was <i>Persuasion</i> by Jane Austen.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "was her favorite book!"
+        },
+        {
+          "name": "B",
+          "content": "her favorite book was."
+        },
+        {
+          "name": "C",
+          "content": "her favorite book was?"
+        },
+        {
+          "name": "D",
+          "content": "was her favorite book?"
+        }
+      ],
+      "correct": "her favorite book was.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Because of its bulky body, the world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic. Modern planes, like the Airbus A330 jet, have much sleeker, more streamlined bodies. ______ they are much more aerodynamic.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "On the contrary,"
+        },
+        {
+          "name": "B",
+          "content": "As a result,"
+        },
+        {
+          "name": "C",
+          "content": "Regardless,"
+        },
+        {
+          "name": "D",
+          "content": "Lastly,"
+        }
+      ],
+      "correct": "As a result,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While some researchers have identified the planet Kapteyn b as potentially habitable, it’s unlikely that humanity will be able to take advantage of its favorable conditions anytime soon—it’s 13 light years away. ______ humanity must first focus on making planets within our solar system more habitable.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Likewise,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "Next,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "Instead,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Scottish indie rock band Life Without Buildings chose their name in tribute to another band. ______ they named themselves after the song “Life Without Buildings” by the English new wave band Japan.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Regardless,"
+        },
+        {
+          "name": "B",
+          "content": "Last of all,"
+        },
+        {
+          "name": "C",
+          "content": "Instead,"
+        },
+        {
+          "name": "D",
+          "content": "Specifically,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1965, Morrie Turner’s comic strip <i>Wee Pals</i> became the first serial comic by a Black cartoonist to be syndicated, appearing in papers nationwide. Comics by other Black cartoonists followed. ______ Jerry Craft (<i>Mama’s Boyz</i>) and Charlos Gary (<i>Working It Out</i>) joined the ranks of syndicated Black cartoonists in 1995 and 2001, respectively.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For instance,"
+        },
+        {
+          "name": "B",
+          "content": "However,"
+        },
+        {
+          "name": "C",
+          "content": "Alternatively,"
+        },
+        {
+          "name": "D",
+          "content": "Previously,"
+        }
+      ],
+      "correct": "For instance,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"color:#000000\">While researching a topic, a student has taken the following notes: </span></span></span>​​​​​​​<br></div><div style=\"margin-left: 40px;\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"color:#000000\">·A U-shaped curve in a river channel is called a meander. </span></span></span></div><div style=\"margin-left: 40px;\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"color:#000000\">·A meander forms when water erodes sediment from one side of the riverbank and redeposits that </span></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"color:#000000\">sediment on the opposite side. </span></span></span></div><div style=\"margin-left: 40px;\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"color:#000000\">·Meanders will gradually change shape and migrate downstream over time. </span></span></span></div><div style=\"margin-left: 40px;\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"color:#000000\">·A river with high sinuosity has many meanders, and a river with low sinuosity has few. </span></span></span></div><div style=\"margin-left: 40px;\"><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"color:#000000\">·The South Esk River in the United Kingdom has high sinuosity.</span></span></span></div>",
+      "question": "The student wants to identify what causes meanders. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The erosion and redepositing of sediment from one side of a riverbank to the other forms meanders, or curves, over time."
+        },
+        {
+          "name": "B",
+          "content": "High sinuosity is caused by the formation of many meanders, or curves, in a riverbank over time."
+        },
+        {
+          "name": "C",
+          "content": "The meanders in the South Esk River will change shape and shift downstream over time."
+        },
+        {
+          "name": "D",
+          "content": "Over time, many meanders have formed in the South Esk River, a river in the United Kingdom with high sinuosity."
+        }
+      ],
+      "correct": "The erosion and redepositing of sediment from one side of a riverbank to the other forms meanders, or curves, over time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<blockquote style=\"margin-left: 40px;\">\n  <ul>\n    <li>An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.</li>\n    <li>It is also known as a land bridge.</li>\n    <li>The Isthmus of Panama connects North America to South America.</li>\n    <li>The Isthmus of Panama is located in Central America.</li>\n  </ul>\n</blockquote>",
+      "question": "The student wants to indicate the location of the Isthmus of Panama. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "One example of an isthmus is the Isthmus of Panama."
+        },
+        {
+          "name": "B",
+          "content": "The Isthmus of Panama is located in Central America, where it connects North America to South America."
+        },
+        {
+          "name": "C",
+          "content": "An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces of land across an expanse of water."
+        },
+        {
+          "name": "D",
+          "content": "An isthmus, or land bridge, like the Isthmus of Panama, connects two larger pieces of land."
+        }
+      ],
+      "correct": "The Isthmus of Panama is located in Central America, where it connects North America to South America.",
+      "solution": ""
+    }
+  ]
+}

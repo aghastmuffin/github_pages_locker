@@ -1,0 +1,682 @@
+{
+  "uuid": "6a1a15f9-d0a0-4f08-967e-0ef33ae8dacf",
+  "chunk": "CG-lad3S.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ______ this shortcoming after gaining new access to banking records located in nations in Asia, such as China, and Eastern Europe, such as Hungary.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "mitigate"
+        },
+        {
+          "name": "B",
+          "content": "presuppose"
+        },
+        {
+          "name": "C",
+          "content": "validate"
+        },
+        {
+          "name": "D",
+          "content": "categorize"
+        }
+      ],
+      "correct": "mitigate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>One popular theory of the origin of the Moon, the âbig whack,\" posits that a protoplanet called Theia collided with Earth, flinging debris into orbit that eventually coalesced into the Moon. Until recently, Theia was ______, but researcher Qian Yuan and colleagues now claim to have identified pieces of the protoplanet in the lowermost section of Earth's mantle.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "notional"
+        },
+        {
+          "name": "B",
+          "content": "spurious"
+        },
+        {
+          "name": "C",
+          "content": "veritable"
+        },
+        {
+          "name": "D",
+          "content": "desultory"
+        }
+      ],
+      "correct": "notional",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Political blogs with conspicuous ideological alignments became an integral component of US media in the early 2000s. While some commentators lauded this development, asserting that such blogs had a welcome transparency missing from traditional news, less ______ observers countered that such blogs tended to ideological extremes that exacerbated political polarization to problematic levels.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "misanthropic"
+        },
+        {
+          "name": "B",
+          "content": "earnest"
+        },
+        {
+          "name": "C",
+          "content": "sanguine"
+        },
+        {
+          "name": "D",
+          "content": "recalcitrant"
+        }
+      ],
+      "correct": "sanguine",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>During Rome's republican period, which ended in the first century BCE, libraries were predominantly owned by wealthy individuals who tightly controlled access to their book collections. The first public library became available in Rome in 28 BCE and was soon followed by one commissioned by Emperor Augustus. As modern scholar Fabio Fernandes notes, however, these two traditions aren't as distinct as they seem, as both the emperor and the private library owners viewed their libraries as extensions of their personal patronage, just on vastly differing scales.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To give a brief overview of public access to libraries throughout Rome's republican period"
+        },
+        {
+          "name": "B",
+          "content": "To contend that early imperial leaders in Rome wielded too much influence over libraries"
+        },
+        {
+          "name": "C",
+          "content": "To assert that private and early public libraries in ancient Rome had an essential similarity"
+        },
+        {
+          "name": "D",
+          "content": "To call into question the notion that private Roman libraries disappeared during the first century BCE"
+        }
+      ],
+      "correct": "To assert that private and early public libraries in ancient Rome had an essential similarity",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from George Marion McClellan's 1895 poem <i>Eternity</i>.</p><blockquote style=\"margin-left: 40px;\">My spirit swoons, and all my senses cry<br>For Ocean's breast and covering of the sky.<br>Rock me to sleep, ye waves, and outward bound,<br>Just let me drift far out from toil and care.<br>Where lapping of the waves shall be the sound,<br>Which mingled with the winds that gently bear<br>Me on between a peaceful sea and sky,<br>To make my soothing slumberous lullaby.</blockquote>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To convey the speaker's longing for the ocean to impart a sense of inner tranquility"
+        },
+        {
+          "name": "B",
+          "content": "To contrast the demands of the speaker's everyday life with the serenity of being rocked to sleep by the ocean"
+        },
+        {
+          "name": "C",
+          "content": "To illustrate the increasing intensity of the speaker's desire to escape ongoing hardship by gliding on the ocean"
+        },
+        {
+          "name": "D",
+          "content": "To justify the speaker's qualms about being transported by the ocean to a quiet destination"
+        }
+      ],
+      "correct": "To convey the speaker's longing for the ocean to impart a sense of inner tranquility",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>In parts of the Northwest Territories, Canada, the rough-legged hawk is a major predator of the collared lemming. Researcher Alice Kenney and colleagues found that when this predation pressure on collared lemmings was temporarily reduced, their numbers significantly increased. This finding illustrates a foundational ecological principle: predators control prey population numbers.</p><p><strong>Text 2</strong></p><p>Robert D. Haves and colleagues found that excluding wolves from a site in Yukon, Canada, where they typically prey on Dall sheep had no significant effect on Dall sheep abundance. Many other predation relief studies show an increase in prey abundance, but those studies often focus on small, rapidly reproducing prey, like birds, lemmings, and rabbits, rather than large, slowly reproducing prey, like Dall sheep, which could account for the difference between those results and Haves and colleagues' results.</p>",
+      "question": "Based on the texts, the author of Text 2 would most likely agree with which statement about the âprinciple\" mentioned in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It has some evidential support, but it should not be regarded as universally applicable."
+        },
+        {
+          "name": "B",
+          "content": "It has been challenged by some studies, but the findings of those studies have not been widely accepted."
+        },
+        {
+          "name": "C",
+          "content": "It may be true for some predators but only because those predators share certain physical characteristics."
+        },
+        {
+          "name": "D",
+          "content": "It is plausible, but many of the studies that support it have methodological flaws."
+        }
+      ],
+      "correct": "It has some evidential support, but it should not be regarded as universally applicable.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many artists associated with hyperpop, a movement in electronic music that emerged in the 2010s, conform to the model perfected by American musician Laura Les: bold synthesizer arrangements, propulsive electronically manipulated vocals. Yet the movement is hardly uniform: Venezuelan recording artist Arca incorporates Latin rhythms into the hyperpop sound, for example. Such stylistic diversity is encouraged in part by the music streaming app Spotify, whose curated playlist of hyperpop songs balances cohesion with variety.</p>",
+      "question": "Which statement about Arca is best supported by the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While some of her recordings conform to the model perfected by Laura Les, others reject it outright."
+        },
+        {
+          "name": "B",
+          "content": "She developed her unique sound without being influenced by other artists on Spotify's hyperpop playlist."
+        },
+        {
+          "name": "C",
+          "content": "Her music diverges from the typical hyperpop sound but doesn't abandon it."
+        },
+        {
+          "name": "D",
+          "content": "Her inclusion on Spotify's hyperpop playlist inspired established artists to embrace stylistic experimentation."
+        }
+      ],
+      "correct": "Her music diverges from the typical hyperpop sound but doesn't abandon it.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Eighteenth-century economist Adam Smith is famed for his metaphor of the invisible hand, which he putatively used to illustrate a robust model of how individuals produce aggregate benefits by pursuing their own economic interests. Note âputativelyâ: as Gavin Kennedy has shown, Smith deploys this metaphor only once in his economic writingsâto make a narrow point about the then-dominant economic theory of mercantilismâand it was largely ignored until some twentieth-century economists eager to secure an intellectual pedigree for their views elevated it to a fully-fledged paradigm.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Some twentieth-century economists gave Smith's metaphor of the invisible hand a significance it does not have in Smith's work, but it is nevertheless a useful model of how individuals produce aggregate benefits by pursuing their own economic interests."
+        },
+        {
+          "name": "B",
+          "content": "Smith's metaphor of the invisible hand has been interpreted as a model of how individuals acting in their own interest produce aggregate benefits, but it was intended as a subtle critique of the economic theory of mercantilism."
+        },
+        {
+          "name": "C",
+          "content": "The reputation of Smith's metaphor of the invisible hand is not due to the importance of the metaphor in Smith's work but rather to the promotion of the metaphor by some later economists for their own ends."
+        },
+        {
+          "name": "D",
+          "content": "Although Smith is famed for his metaphor of the invisible hand, the metaphor was largely ignored until economists in the twentieth century came to realize that the metaphor was a robust model that anticipated their own views."
+        }
+      ],
+      "correct": "The reputation of Smith's metaphor of the invisible hand is not due to the importance of the metaphor in Smith's work but rather to the promotion of the metaphor by some later economists for their own ends.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Memoirs of Elleanor Eldridge</i> is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors describe how restorative sleep can be for young people, writing, ______</p>",
+      "question": "Which quotation from <i>Memoirs of Elleanor Eldridge</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âLet us, dear reader remember the punishment of idle curiosity, as taught in the true and affecting history [named] <i>Blue Beard</i>; and, striving to be content with the facts in the case, seek not to lift the veil, which the sensibility of truelove, and feminine delicacy, have alike conspired to draw.â"
+        },
+        {
+          "name": "B",
+          "content": "âThen let no one turn with too much [fussiness] from the simple story of the humble Elleanor, though it may contain few, or none, of the thrilling charms of poetry and passion.â"
+        },
+        {
+          "name": "C",
+          "content": "âBlessed are the slumbers of the innocent! They are kindlier than balm, and they refresh and gladden the spirit of childhood, like ministerings from a better world.â"
+        },
+        {
+          "name": "D",
+          "content": "âHome is home, to the lowly as well as the great, and no rank, or color, destroys its sacred character, its power over the mind, and the affections.â"
+        }
+      ],
+      "correct": "âBlessed are the slumbers of the innocent! They are kindlier than balm, and they refresh and gladden the spirit of childhood, like ministerings from a better world.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Early Earth is thought to have been characterized by a stagnant lid tectonic regime, in which the upper lithosphere (the outer rocky layer) was essentially immobile and there was no interaction between the lithosphere and the underlying mantle. Researchers investigated the timing of the transition from a stagnant lid regime to a tectonic plate regime, in which the lithosphere is fractured into dynamic plates that in turn allow lithospheric and mantle material to mix. Examining chemical data from lithospheric and mantle-derived rocks ranging from 285 million to 3.8 billion years old, the researchers dated the transition to 3.2 billion years ago.</p>",
+      "question": "Which finding, if true, would most directly support the researchers' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "There is a positive correlation between the age of lithospheric rocks and their chemical similarity to mantle-derived rocks, and that correlation increases significantly in strength at around 3.2 billion years old."
+        },
+        {
+          "name": "B",
+          "content": "Mantle-derived rocks younger than 3.2 billion years contain some material that is not found in older mantle-derived rocks but is found in older and contemporaneous lithospheric rocks."
+        },
+        {
+          "name": "C",
+          "content": "Mantle-derived rocks older than 3.2 billion years show significantly more compositional diversity than lithospheric rocks older than 3.2 billion years do."
+        },
+        {
+          "name": "D",
+          "content": "Among rocks known to be older than 3.2 billion years, significantly more are mantle derived than lithospheric, but the opposite is true for the rocks younger than 3.2 billion years."
+        }
+      ],
+      "correct": "Mantle-derived rocks younger than 3.2 billion years contain some material that is not found in older mantle-derived rocks but is found in older and contemporaneous lithospheric rocks.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/1ae3619f3feb84457c8a58ac9957ffa6.png\" width=\"511\" height=\"486\"></p><p>Neuroscientist Kiyohito Ligaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P6 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "P6's rating for abstract and cubist paintings would equal one another."
+        },
+        {
+          "name": "B",
+          "content": "P6's ratings for abstract and cubist paintings would differ from one another."
+        },
+        {
+          "name": "C",
+          "content": "P6 would derive less aesthetic pleasure from abstract paintings than from cubist paintings."
+        },
+        {
+          "name": "D",
+          "content": "P6 would derive more aesthetic pleasure from abstract paintings than from cubist paintings."
+        }
+      ],
+      "correct": "P6's ratings for abstract and cubist paintings would differ from one another.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scholars are increasingly and exploring the communication and preservation of ecological knowledge through Indigenous (e.g., Kazakh songs about water and foraging quality and those of the O'odham people about desert plants). In one study, ethnobiologist Dana Lepofsky et al. received insight from Kwaxsistalla Wathl'thla, a song keeper for the Kwakwaka'wakw people in Canada, into songs referencing the people's use of terraced gardens in intertidal zones along the Pacific Northwest coast for the cultivation of clams for consumption. Archaeological evidence of significant increases in clam size and abundance in that area concurrent with the documented past implementation of the method described in the songs supports the conclusion that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "non-Indigenous people around the Pacific Northwest coast adopted the practice developed by the Kwakwaka'wakw people after observing its efficacy."
+        },
+        {
+          "name": "B",
+          "content": "the practice used by ancestors of modern Kwakwaka'wakw people not only effectively maintained a food source but also promoted its robustness."
+        },
+        {
+          "name": "C",
+          "content": "there is greater corroboration in the archaeological record of ecological practices described in Kwakwaka'wakw songs than of those described in Kazakh and O'odham songs."
+        },
+        {
+          "name": "D",
+          "content": "although contemporary Kwakwaka'wakw people have a deep understanding of and appreciation for the fishing and farming practices used by their ancestors, they no longer implement those methods."
+        }
+      ],
+      "correct": "the practice used by ancestors of modern Kwakwaka'wakw people not only effectively maintained a food source but also promoted its robustness.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>For its 1974 work <i>Instant Mural</i>, the Chicano art collective Asco taped members Patssi Valdez and Humberto Sandoval to an outdoor wall in East Los Angeles. The work is manifestly a commentary on constraint, but many critics focus on Valdez and the social constraints women faced at the time, which is understandable but leaves the presence of Valdez's male collaborator Sandoval unexplained. We should instead consider that in 1974 the art establishment's recognition of Chicano artists was (and had long been) restricted to sociohistorical muralists, leaving nonmuralist Chicano artistsâlike Asco's membersâstruggling to even exhibit their work; attending to this context opens an interpretation that accounts for all the evidence, allowing us to conclude that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "while Valdez's presence in <i>Instant Mural</i> represents the social constraints placed on women at the time, Sandoval's presence represents Chicano muralists' frustration at their lack of recognition by the art establishment."
+        },
+        {
+          "name": "B",
+          "content": "<i>Instant Mural</i> is best understood not as a critique of the social constraints placed on women but rather as a critique of sociohistorical muralists' depictions of Chicano culture."
+        },
+        {
+          "name": "C",
+          "content": "the main subject of <i>Instant Mural</i> is female Chicano artists' experience of being doubly constrained by gender-role expectations and the marginalization of certain types of art."
+        },
+        {
+          "name": "D",
+          "content": "<i>Instant Mural</i> is a reflection on the constraining aesthetic expectations placed on Chicano artists in general rather than on the social constraints placed on women specifically."
+        }
+      ],
+      "correct": "<i>Instant Mural</i> is a reflection on the constraining aesthetic expectations placed on Chicano artists in general rather than on the social constraints placed on women specifically.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Despite the fact that what is now known as the Cassegrain reflector was first constructed by Bonaventura Cavalieri, the telescope is named after the seventeenth-century French astronomer Laurent Cassegrain. One might assume cases like this, where a discovery or concept is not named after the first person who discovered it, to be ______ they are counted among a litany of examples of Stigler's law.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rare, on the contrary,"
+        },
+        {
+          "name": "B",
+          "content": "rare, on the contrary;"
+        },
+        {
+          "name": "C",
+          "content": "rare on the contrary,"
+        },
+        {
+          "name": "D",
+          "content": "rare; on the contrary,"
+        }
+      ],
+      "correct": "rare; on the contrary,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Included in <i>Black Refractions: Highlights from The Studio Museum in Harlem</i>, a 2019 group exhibition at the Museum of the African Diaspora in San Francisco, California, was the work of artist Lorna Simpson, who is best known for her multimedia artworks that juxtapose images of African American women with text fragments. Her work challenges conventional notions of race, gender, history, ______ she is credited with expanding the horizons of conceptual photographic art.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "memory, and"
+        },
+        {
+          "name": "B",
+          "content": "memory and"
+        },
+        {
+          "name": "C",
+          "content": "memory,"
+        },
+        {
+          "name": "D",
+          "content": "memory"
+        }
+      ],
+      "correct": "memory, and",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Moussa Ould Ebnou is a novelist from Boutilimit, Mauritania, who has earned international acclaim in recent years. Writers of other literary forms, such as poetry and drama, are less likely to be recognized beyond their nations' borders, but many are still well ______ Koulsy Lamko, for example, is a celebrated playwright from Chad.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "known,"
+        },
+        {
+          "name": "B",
+          "content": "known:"
+        },
+        {
+          "name": "C",
+          "content": "known and"
+        },
+        {
+          "name": "D",
+          "content": "known"
+        }
+      ],
+      "correct": "known:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Recent analysis of 2010 BL4 an outer solar system object orbiting the Sun between Jupiter and Neptuneâhas determined its color to be gray, suggesting an icy composition. Such interpretations are ultimately ______ the object's gray coloration may be an incidental effect of radiation, solar wind, or collisions with other objects rather than evidence of its physical makeup.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "speculative, though;"
+        },
+        {
+          "name": "B",
+          "content": "speculative, though,"
+        },
+        {
+          "name": "C",
+          "content": "speculative; though"
+        },
+        {
+          "name": "D",
+          "content": "speculative, though"
+        }
+      ],
+      "correct": "speculative, though;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the list âSplendid Things\" from Sei Shonagon's <i>Pillow Book</i>, the author delights in grapeâcolored fabric, wisteria vines around a tree, and a snow-covered garden. So shrewd an observer is Shonagon, a lady-in-waiting to Empress Teishi, that her book's musings on tenth-century Japanese courtly life ______ readers a thousand years later.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "has fascinated"
+        },
+        {
+          "name": "B",
+          "content": "fascinate"
+        },
+        {
+          "name": "C",
+          "content": "is fascinating"
+        },
+        {
+          "name": "D",
+          "content": "fascinates"
+        }
+      ],
+      "correct": "fascinate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The present-day city of Dushanbe, Tajikistan, was the capital of the Tajik Autonomous Soviet Socialist Republic, one of many nominally autonomous republics within the Soviet Union. Each of these republics ______ established along ethnolinguistic lines: most residents of the Tajik Republic spoke Persian, for example.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "have been"
+        },
+        {
+          "name": "B",
+          "content": "are"
+        },
+        {
+          "name": "C",
+          "content": "was"
+        },
+        {
+          "name": "D",
+          "content": "were"
+        }
+      ],
+      "correct": "was",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. ______ they created the show <i>Six</i>, a retelling of the history of King Henry VIII's wives in which each of the six queens has a starring role.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To that end,"
+        },
+        {
+          "name": "B",
+          "content": "In summary,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "To that end,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The prime meridian, the global indicator of zero degrees longitude established in 1884, was originally determined using astronomically derived coordinates. ______ as decades passed, new calculations would reveal increasingly precise coordinates, yet the prime meridian remained unchanged; it wasn't until the 1980s that, spurred by improved geodetic data, the prime meridian was officially moved roughly one hundred meters east.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "Again and again,"
+        },
+        {
+          "name": "C",
+          "content": "Granted,"
+        },
+        {
+          "name": "D",
+          "content": "To that end,"
+        }
+      ],
+      "correct": "Granted,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Minor planets are astronomical objects that orbit the Sun but are neither planets nor comets.</li><li>Astronomer Jane Luu has discovered many minor planets in her career.</li><li>Alongside colleagues David C. Jewitt and Chadwick Trujillo, she discovered the minor planet (19308) 1996 TO66 on October 12, 1996.</li><li>Alongside colleagues David C. Jewitt, Chadwick Trujillo, and David J. Tholen, she discovered the minor planet (24978) 1998 HJ151 on April 28, 1998.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize the discovery of (19308) 1996 TO66 to an audience already familiar with Jane Luu?",
+      "options": [
+        {
+          "name": "A",
+          "content": "First there was the discovery of (19308) 1996 TO66 on October 12, 1996, and then on April 28, 1998, Jane Luu discovered yet another minor planet with the help of her colleagues David C. Jewitt, Chadwick Trujillo, and David J. Tholen."
+        },
+        {
+          "name": "B",
+          "content": "Astronomer Jane Luu helped discover not only the minor planet (19308) 1996 TO66 on October 12, 1996, but also (24978) 1998 HJ151 on April 28, 1998."
+        },
+        {
+          "name": "C",
+          "content": "Jane Luu is an astronomer famous for her discovery of many minor planets in our solar system, including (19308) 1996 TO66."
+        },
+        {
+          "name": "D",
+          "content": "On October 12, 1996, Jane Luu and her colleagues David C. Jewitt and Chadwick Trujillo made the exciting discovery of the minor planet (19308) 1996 TO66."
+        }
+      ],
+      "correct": "On October 12, 1996, Jane Luu and her colleagues David C. Jewitt and Chadwick Trujillo made the exciting discovery of the minor planet (19308) 1996 TO66.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Samoil M. Bilenky is a Russian particle physicist.</li><li>Particle physicists study subatomic particles.</li><li>Neutrinos are some of the least understood subatomic particles.</li><li>Neutrinos were first discovered in the mid-twentieth century.</li><li>Bilenky is known for his research on neutrino oscillations.</li></ul></blockquote>",
+      "question": "The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Neutrinos are a type of subatomic particle that particle physicists are still trying to understand."
+        },
+        {
+          "name": "B",
+          "content": "Particle physicist Samoil M. Bilenky is known for his research on neutrino oscillations."
+        },
+        {
+          "name": "C",
+          "content": "The research done on neutrino oscillations exemplifes the work particle physicists do to advance our understanding of subatomic particles."
+        },
+        {
+          "name": "D",
+          "content": "By studying neutrino oscillationsâto name just one exampleâparticle physicists can learn more about neutrinos."
+        }
+      ],
+      "correct": "Particle physicist Samoil M. Bilenky is known for his research on neutrino oscillations.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A supercontinent is a single landmass made up of most or all of Earth's continents.</li><li>Over time, continents merge together to form supercontinents, which then break apart.</li><li>This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.</li><li>Ur was a supercontinent that formed about 3.1 billion years ago.</li><li>Columbia was a supercontinent that formed about 1.8 billion years ago.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The supercontinent Columbia formed long after the supercontinent Ur."
+        },
+        {
+          "name": "B",
+          "content": "Ur formed about 3.1 billion years ago but eventually broke apart."
+        },
+        {
+          "name": "C",
+          "content": "Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earth's continents."
+        },
+        {
+          "name": "D",
+          "content": "Ur and Columbia were both supercontinents, single landmasses made up of most or all of Earth's continents."
+        }
+      ],
+      "correct": "The supercontinent Columbia formed long after the supercontinent Ur.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>Catharsis, Conversion, Traumata</i> is a 1986 sculpture by American artist Joseph Kosuth.</li><li>It consists of a blue neon sign that spells out the title phrase.</li><li><i>Harvest Moon</i> is a 2013 sculpture by British/Pakistani artist Shezad Dawood.</li><li>It consists of a yellow neon sign that forms an abstract moon shape.</li><li>Neon signs became popular with advertisers in the 1920s and began to decline in popularity in the 1960s.</li><li>Neon signs became popular with artists in the 1960s and continue to be popular today.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Molded into an evocative phrase in <i>Catharsis, Conversion, Traumata</i> (1986), an abstract form in <i>Harvest Moon</i> (2013), and an advertising tool in decades past, neon lighting has a number of different applications."
+        },
+        {
+          "name": "B",
+          "content": "While the sculptures share a common material, one spells out a phrase while the other is decidedly more abstract."
+        },
+        {
+          "name": "C",
+          "content": "Kosuth's sculpture was made in 1986 and Dawood's in 2013, both well after the advertising heyday of neon signs had passed."
+        },
+        {
+          "name": "D",
+          "content": "American artist Joseph Kosuth's and British/Pakistani artist Shezad Dawood's sculptures have employed neon signs in different ways, demonstrating the versatility of the popular material."
+        }
+      ],
+      "correct": "While the sculptures share a common material, one spells out a phrase while the other is decidedly more abstract.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Pattern analysis and contextual analysis are two approaches to art criticism.</li><li>Pattern analysis examines the repetition of visual elements in an artwork.</li><li>Such an analysis of Andy Warhol's <i>Campbell's Soup Cans</i> might consider how the painting's repetition of images of soup cans emphasizes the excesses of consumer culture.</li><li>Contextual analysis considers the historical and cultural contexts of an artwork's time.</li><li>Such an analysis of Pablo Picasso's <i>Les Demoiselles dâAvignon</i> might consider how the painting's portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).</li></ul></blockquote>",
+      "question": "The student wants to present contextual analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A pattern analysis of <i>Campbell's Soup Cans</i> might consider how the painting's repetition of images of soup cans emphasizes the excesses of consumer culture."
+        },
+        {
+          "name": "B",
+          "content": "<i>Les Demoiselles dâAvignon</i>'s portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century)."
+        },
+        {
+          "name": "C",
+          "content": "An approach to art criticism, contextual analysis considers the historical and cultural contexts of an artwork's time."
+        },
+        {
+          "name": "D",
+          "content": "Pattern analysis differs from contextual analysis in that pattern analysis examines the repetition of visual elements in an artwork."
+        }
+      ],
+      "correct": "An approach to art criticism, contextual analysis considers the historical and cultural contexts of an artwork's time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A river's stream length is the length of a line that follows along the river path.</li><li>A river's valley length is the length of a straight line drawn from the beginning of the river to the end.</li><li>The river's curviness, or sinuosity, is the ratio of the river's stream length to its valley length.</li><li>Low-sinuosity rivers have a stream length 1-1.5 times longer than their valley length, and high-sinuosity rivers have a stream length 1.5 or more times longer than their valley length.</li><li>The Embarras River in Canada has high sinuosity.</li><li>The Luni River in India has low sinuosity.</li></ul></blockquote>",
+      "question": "The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The high-sinuosity Luni River in India is curvier than the low-sinuosity Embarras River in Canada."
+        },
+        {
+          "name": "B",
+          "content": "The Embarras River's ratio of stream length to valley length, also known as sinuosity, is greater than that of the Luni River."
+        },
+        {
+          "name": "C",
+          "content": "By comparing the stream lengths of the Embarras and Luni rivers to their valley lengths, one can calculate their curviness, or sinuosity."
+        },
+        {
+          "name": "D",
+          "content": "In both the Embarras and the Luni rivers, curviness is determined by comparing stream length to valley length."
+        }
+      ],
+      "correct": "The Embarras River's ratio of stream length to valley length, also known as sinuosity, is greater than that of the Luni River.",
+      "solution": ""
+    }
+  ]
+}

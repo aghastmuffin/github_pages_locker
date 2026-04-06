@@ -1,0 +1,682 @@
+{
+  "uuid": "ccef9088-d5f4-4437-b646-7284f78f03a6",
+  "chunk": "9VYSSXwh.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Jacqueline Woodson’s 2018 novel <i>Harbor Me</i>.</p><blockquote style=\"margin-left: 40px;\">My uncle is a musician and a storyteller. He says the hardest <u>part</u> of telling a story is finding the beginning.</blockquote><p style=\"text-align: right;\">©2018 by Jacqueline Woodson</p>",
+      "question": "As used in the text, what does the word “part” most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Zone"
+        },
+        {
+          "name": "B",
+          "content": "Melody"
+        },
+        {
+          "name": "C",
+          "content": "Element"
+        },
+        {
+          "name": "D",
+          "content": "Blob"
+        }
+      ],
+      "correct": "Element",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Often, the Nobel Prize in Chemistry is given to a single person, such as Theodore William Richards in 1914. But recognition isn’t restricted to _____________ individuals. Instead, success in fields like chemistry is usually achieved through collaboration with other experts, as was the case for Jennifer Doudna, who was among those awarded for “the development of a method for genome editing.”</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "coordinated"
+        },
+        {
+          "name": "B",
+          "content": "coincidental"
+        },
+        {
+          "name": "C",
+          "content": "solitary"
+        },
+        {
+          "name": "D",
+          "content": "considerate"
+        }
+      ],
+      "correct": "solitary",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Summer Evening</i> is an important work of <i>Nihonga</i>, or classical Japanese painting. Unlike Saeki Yūzō, who adopted traditional European methods such as painting with oil on canvas, Hashimoto Kansetsu _____________ traditional Japanese approaches. For instance, Hashimoto produced <i>Summer Evening</i> by applying ink and light color to a silk scroll.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "refrained from"
+        },
+        {
+          "name": "B",
+          "content": "awarded"
+        },
+        {
+          "name": "C",
+          "content": "adhered to"
+        },
+        {
+          "name": "D",
+          "content": "reprimanded"
+        }
+      ],
+      "correct": "adhered to",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Adib Khorram’s 2018 novel <i>Darius the Great Is Not Okay</i>. The narrator, Darius, is a teenager visiting family in Iran. He and his friend Sohrab are at the entrance of the ruins of the ancient city of Persepolis.</p><blockquote style=\"margin-left: 40px;\"><p>“The Gate of All Nations,” Sohrab said. He gestured to the lamassus [sculptures] and pillars surrounding us. “That’s the name in English.”</p><p>It wasn’t much of a gate anymore, since anyone of any nation could have easily stepped around it instead of walking through. But it was still amazing.</p><p>Behind the lamassu, more columns <u>sprouted from the ground like ancient trees in a petrified forest</u>, forty feet tall, spindly but still miraculously upright. Giant stone slabs formed the remains of what must once have been a breathtaking structure.</p></blockquote><p style=\"text-align: right;\">©2018 by Adib Khorram</p>",
+      "question": "Which choice best describes the function of the underlined portion of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests that the narrator hopes to find a forest nearby."
+        },
+        {
+          "name": "B",
+          "content": "It presents an image to illustrate what one part of the ruins looks like."
+        },
+        {
+          "name": "C",
+          "content": "It indicates the specific time in the past when the buildings became ruins."
+        },
+        {
+          "name": "D",
+          "content": "It emphasizes that the narrator has studied the history of Persepolis."
+        }
+      ],
+      "correct": "It presents an image to illustrate what one part of the ruins looks like.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The food industry has long used thermal technologies to preserve food in large batches. Recent advancements in microwave heating were made through research in Mexico on the preservation of corn flour and tortillas. Microwave heating is generally considered to be an improvement over more conventional thermal preservation methods: <u>whereas conventional methods transfer energy from the surface of a food to its interior, microwave heating uses electromagnetic waves to generate heat within the food itself, thus reducing industrial cooking times.</u></p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It identifies an advantage that microwave heating has over conventional thermal preservation methods."
+        },
+        {
+          "name": "B",
+          "content": "It suggests that there are possible flaws in microwave heating technologies that have not yet been well researched."
+        },
+        {
+          "name": "C",
+          "content": "It explains why conventional heating methods are popular in commercial applications and proposes a shift away from these methods."
+        },
+        {
+          "name": "D",
+          "content": "It emphasizes the simplicity of microwave heating technologies."
+        }
+      ],
+      "correct": "It identifies an advantage that microwave heating has over conventional thermal preservation methods.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong></p><p>Despite how the Indian dish korma differs from Indonesia’s rendang, both dishes are described as a “curry.” The word’s history, however, is fraught. It’s a term created by British and Portuguese colonizers to refer to the myriad spiced sauces with ties to the Indian subcontinent. In 1973, chef Madhur Jaffrey dismissed the term “curry” as inaccurate, and in 2021 blogger Chaheti Bansal suggested that people abandon the term both for its colonial origin and for its failure to grasp the intricacies of India’s cuisines.</p><p><strong>Text 2</strong></p><p>Growing up in India, chef Chintan Pandya didn’t encounter the term “curry” often: his family didn’t cook curries, but some of his neighbors did. Although the blanket use of the term is rooted in colonialism, Pandya calls some of his dishes curries. Having traveled throughout India as part of his training, he came to appreciate the country’s diverse cuisines and the diverse uses of the term “curry.”</p>",
+      "question": "Text 1 and Text 2 present points of view about which topic?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The difference between korma and rendang"
+        },
+        {
+          "name": "B",
+          "content": "The best method for studying a region’s cuisine"
+        },
+        {
+          "name": "C",
+          "content": "The history about the peoples on the Indian subcontinent"
+        },
+        {
+          "name": "D",
+          "content": "The use of the term “curry”"
+        }
+      ],
+      "correct": "The use of the term “curry”",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though John Crowley, author of <i>Engine Summer</i>, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. According to journalist Graeme Wood, Bloom claimed to have read Crowley’s novel <i>Little, Big</i> at least forty-six times, and in his posthumously published afterword to a 2022 edition of the book, Bloom called himself its “lifelong enthusiast” and described it as a “masterwork.”</p>",
+      "question": "What does the text most strongly suggest about the work of John Crowley?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Many critics say that it has notable similarities to the work of James Merrill."
+        },
+        {
+          "name": "B",
+          "content": "The opinion that it includes at least one masterwork is not widely held among literary critics."
+        },
+        {
+          "name": "C",
+          "content": "Harold Bloom would likely have agreed that it is superior to the work of James Merrill."
+        },
+        {
+          "name": "D",
+          "content": "Some notable figures would agree that it should be more commercially successful than it currently is."
+        }
+      ],
+      "correct": "Some notable figures would agree that it should be more commercially successful than it currently is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><strong>Millions of Metric Tons of Copper Mined in 1995 and 2020</strong></p><table style=\"margin-left: auto; margin-right: auto; border-collapse: collapse; width: 50%;\"><tbody><tr><td style=\"border: 1px solid black; padding: 5px; text-align: center;\"><strong>Country</strong></td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\"><strong>1995</strong></td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\"><strong>2020</strong></td></tr><tr><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">United States</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">1.85</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">1.20</td></tr><tr><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">Mexico</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">0.33</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">0.73</td></tr><tr><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">Poland</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">0.38</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">0.39</td></tr><tr><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">China</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">0.37</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">1.72</td></tr></tbody></table><p>While doing research for a paper about metal exports, a student finds a table indicating how much copper was mined in each of four countries in 1995 and 2020. The student notes that in 1995, Mexico mined ___________</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1.85 million metric tons of copper."
+        },
+        {
+          "name": "B",
+          "content": "0.33 million metric tons of copper."
+        },
+        {
+          "name": "C",
+          "content": "0.37 million metric tons of copper."
+        },
+        {
+          "name": "D",
+          "content": "0.38 million metric tons of copper."
+        }
+      ],
+      "correct": "0.33 million metric tons of copper.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\">Approximate Numbers of Speakers of Four Indigenous Languages in Mexico</p>\n<table style=\"margin-left: auto; margin-right: auto; border-collapse: collapse; border: 1px solid black;\">\n  <thead>\n    <tr>\n      <th style=\"border: 1px solid black; text-align: center; padding: 5px;\">Language</th>\n      <th style=\"border: 1px solid black; text-align: center; padding: 5px;\">Region</th>\n      <th style=\"border: 1px solid black; text-align: center; padding: 5px;\">Number of speakers in Mexico</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">Rarámuri</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">northern Mexico</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">73,856</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">Me’phaa</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">southern Mexico</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">134,100</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">Otomi</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">central Mexico</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">307,900</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">Tzeltal</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">southern Mexico</td>\n      <td style=\"border: 1px solid black; text-align: center; padding: 5px;\">556,700</td>\n    </tr>\n  </tbody>\n</table>\n<p>The Tzeltal people of the southern Mexican state of Chiapas speak a modern form of the language of the ancient Maya kingdoms in what is now southern Mexico. Tzeltal is one of the most widely spoken Indigenous languages in Mexico, with over half a million speakers, according to a 2015 report. Though it is not as widely spoken as Tzeltal, the Otomi language of central Mexico also has a robust number of speakers: approximately ____________</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "134,100 people in Mexico speak it."
+        },
+        {
+          "name": "B",
+          "content": "556,700 people in Mexico speak it."
+        },
+        {
+          "name": "C",
+          "content": "307,900 people in Mexico speak it."
+        },
+        {
+          "name": "D",
+          "content": "73,856 people in Mexico speak it."
+        }
+      ],
+      "correct": "307,900 people in Mexico speak it.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Albertina Museum in Vienna, Austria, has over 1 million works of art. Digital images of hundreds of thousands of those works have been put online through the museum’s website and the Google Arts &amp; Culture project. One of the images is of <i>Self-Portrait</i>, a drawing by Hendrick Goltzius. In a paper, a student claims that<u> putting a work from the museum online increases the number of people who experience that work.</u></p>",
+      "question": "Which finding, if true, would most directly support the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Each year, more people access the online image of <i>Self-Portrait</i> than visit the Albertina Museum in person."
+        },
+        {
+          "name": "B",
+          "content": "<i>Self-Portrait</i> has been praised by some art critics."
+        },
+        {
+          "name": "C",
+          "content": "Many people who have been to Vienna say that the Albertina Museum is worth visiting."
+        },
+        {
+          "name": "D",
+          "content": "The Albertina Museum has several works by Hendrick Goltzius."
+        }
+      ],
+      "correct": "Each year, more people access the online image of <i>Self-Portrait</i> than visit the Albertina Museum in person.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Elaine Ostrander led an international collaboration with Nicolas Dubos and other researchers to study the evolutionary history of size differences in modern dogs, including very small breeds such as Yorkshire terriers. The researchers determined that among dogs as a whole, there are many different variations of the gene that regulates the production of IGF-1 (insulin growth factor 1), a hormone that promotes growth. After reviewing the study, a student concludes that these variations must account for the observed variance in body size among dog breeds.</p>",
+      "question": "Which quotation from a scientist not involved in the study would most directly undermine the student’s conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "“The gene that regulates IGF-1 production is one of multiple genes known to affect the size of dogs.”"
+        },
+        {
+          "name": "B",
+          "content": "“In fact, only one-third of the most prevalent dog breeds carry the same variant of the gene regulating IGF-1 production.”"
+        },
+        {
+          "name": "C",
+          "content": "“Variations of the IGF-1 gene result in substantial body size variance among dog breeds and may influence additional characteristics as well.”"
+        },
+        {
+          "name": "D",
+          "content": "“The researchers’ conclusions regarding the IGF-1 gene may not apply to other species given that dogs vary in size more than any other group of land mammals does.”"
+        }
+      ],
+      "correct": "“The gene that regulates IGF-1 production is one of multiple genes known to affect the size of dogs.”",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To better understand consumer loyalty to specific online retailers, Stevan Milisavljević and team conducted a survey using 58 statements as proxy indicators of customer experience with receiving goods purchased online. The statements were categorized by topic—e.g., statement 24, “It takes less effort to have the goods delivered to me versus going to the store,” was categorized as convenience—and respondents rated the importance of each statement to their experience. The researchers found that factors relating to package aesthetics were of low importance while those relating to speedy delivery and package tracking were of high importance; given the positive link between customer experience and customer retention that prior studies have established, these findings suggest that _______________</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "there is a need to conduct additional surveys with the same group of participants to further understand why package aesthetics do not influence their overall satisfaction with online retailers."
+        },
+        {
+          "name": "B",
+          "content": "the likelihood of customers making repeat purchases from a specific online retailer is more closely related to the efficiency and transparency of the retailer’s delivery process than to the retailer’s package design."
+        },
+        {
+          "name": "C",
+          "content": "when leaving online reviews of retailers, customers are most concerned with retailers’ ability to deliver goods quickly and to provide easy ways of tracking those goods during shipment."
+        },
+        {
+          "name": "D",
+          "content": "although online retailers are unlikely to increase customer retention by improving their package designs, improved designs may attract new customers."
+        }
+      ],
+      "correct": "the likelihood of customers making repeat purchases from a specific online retailer is more closely related to the efficiency and transparency of the retailer’s delivery process than to the retailer’s package design.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The National Educational Panel Study (NEPS) seeks to discover long-term trends related to education by compiling and analyzing evidence from approximately 60,000 participants in Germany. As with most longitudinal studies, extensive funding support is needed for NEPS to collect the relevant data over timescales and at intervals that will support robust conclusions. But the quality of a more constrained investigation, such as a transportation study seeking only to yield the average number of people per day who use a city’s public transportation system, is much less dependent on high levels of funding because __________________</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "such studies are not trying to identify trends over time."
+        },
+        {
+          "name": "B",
+          "content": "such studies are likely to be a lower priority for funding than NEPS."
+        },
+        {
+          "name": "C",
+          "content": "the transportation study is unlikely to be able to recruit 60,000 participants."
+        },
+        {
+          "name": "D",
+          "content": "expanding the scope of such studies is unlikely to be feasible."
+        }
+      ],
+      "correct": "such studies are not trying to identify trends over time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Qabaniso Malewezi, a spoken-word poet, has been recognized as one of Malawi’s leading writers. Malewezi _________________ born in 1979 in Lilongwe.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "was"
+        },
+        {
+          "name": "B",
+          "content": "has been"
+        },
+        {
+          "name": "C",
+          "content": "is"
+        },
+        {
+          "name": "D",
+          "content": "is being"
+        }
+      ],
+      "correct": "was",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Trade was vital to the Sasanian Empire, which reigned in Mesopotamia from around 224 CE to 651 CE. Its merchants exported silk, textiles, and leather to neighboring societies. In exchange, they ____________ valuable items, such as pottery, spices, and gemstones.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "to obtain"
+        },
+        {
+          "name": "B",
+          "content": "obtained"
+        },
+        {
+          "name": "C",
+          "content": "obtaining"
+        },
+        {
+          "name": "D",
+          "content": "having obtained"
+        }
+      ],
+      "correct": "obtained",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><em>NASA’s Spirit</em> rover first touched down on Mars on July 4, 2004. The rover spent over six years gathering information about Mars’s rocky surface. Scientists playfully __________ one of the rocks it found Esperanza.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "named"
+        },
+        {
+          "name": "B",
+          "content": "names"
+        },
+        {
+          "name": "C",
+          "content": "has named"
+        },
+        {
+          "name": "D",
+          "content": "is naming"
+        }
+      ],
+      "correct": "named",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many ranching terms come from Spanish. For example, the word “lasso” (a rope) comes from the Spanish word lazo, and “stockade” (a fence) __________ from <i>estacada</i>. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican <i>vaqueros</i>, or cowboys.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "will be coming"
+        },
+        {
+          "name": "B",
+          "content": "will come"
+        },
+        {
+          "name": "C",
+          "content": "comes"
+        },
+        {
+          "name": "D",
+          "content": "had come"
+        }
+      ],
+      "correct": "comes",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Edward Everett’s image was printed on $50 US banknotes in 1878, making the former US secretary of state one of many nonpresidents ______ on US currency.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "appears"
+        },
+        {
+          "name": "B",
+          "content": "to appear"
+        },
+        {
+          "name": "C",
+          "content": "had appeared"
+        },
+        {
+          "name": "D",
+          "content": "did appear"
+        }
+      ],
+      "correct": "to appear",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>How a folktale begins depends largely on the language in which it originates. Many folktales in the Slovak language open with a phrase that roughly translates to “beyond seven mountains and seven valleys.” Tales in ___________ the other hand, often begin with “once upon a time.”</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "English—on"
+        },
+        {
+          "name": "B",
+          "content": "English. On"
+        },
+        {
+          "name": "C",
+          "content": "English, on"
+        },
+        {
+          "name": "D",
+          "content": "English: on"
+        }
+      ],
+      "correct": "English, on",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Because of its bulky body, the world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic. Modern planes, like the F-4 Phantom II jet, have much sleeker, more streamlined bodies. ___________ they are much more aerodynamic.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "C",
+          "content": "Lastly,"
+        },
+        {
+          "name": "D",
+          "content": "For this reason,"
+        }
+      ],
+      "correct": "For this reason,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Certain phenotypes, such as lip color and eye shape, are passed from parents to their biological children through genes. These genes compose the individual’s genome, determining whether the child has rosy lips, for instance, or almond-shaped eyes. _________ these inherited traits may be passed along from the child to the child’s own descendants.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Someday,"
+        },
+        {
+          "name": "C",
+          "content": "To be exact,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "Someday,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The visual magnitude of the star Dubhe is 1.79, making it the 34th-brightest star in the sky. The visual magnitude scale is reverse logarithmic; _______ the magnitude number of a brighter object is lower, not higher, than that of a less bright object. The star Acrux, with a visual magnitude of 0.76, is actually brighter than Dubhe (Acrux is the 13th-brightest star).</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "similarly,"
+        },
+        {
+          "name": "B",
+          "content": "in contrast,"
+        },
+        {
+          "name": "C",
+          "content": "in other words,"
+        },
+        {
+          "name": "D",
+          "content": "for example,"
+        }
+      ],
+      "correct": "in other words,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Two of the largest proposed offshore wind farms are Scotland’s Moray West farm, which would generate 1,866 megawatts of electricity (MW), and South Korea’s Sinan farm, which would generate 8,200 MW. __________ the most electricity generated by a single offshore wind farm is 1,218 MW.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Predictably,"
+        },
+        {
+          "name": "B",
+          "content": "Presently,"
+        },
+        {
+          "name": "C",
+          "content": "On the other hand,"
+        },
+        {
+          "name": "D",
+          "content": "Likewise,"
+        }
+      ],
+      "correct": "Presently,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul style=\"margin-left: 40px;\">\n  <li>Game designer Erika Svanoe created a board game inspired by a work of fiction.</li>\n  <li>The game features characters and events from the novel <i>Pride and Prejudice</i>.</li>\n  <li>Game designer Rüdiger Dorn created a board game inspired by a work of fiction.</li>\n  <li>The game features characters and events from the novel <i>Journey to the Center of the Earth</i>.</li>\n</ul>",
+      "question": "The student wants to emphasize a similarity between the two board games. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Dorn created a board game inspired by the novel <i>Journey to the Center of the Earth</i>."
+        },
+        {
+          "name": "B",
+          "content": "Both Svanoe’s and Dorn’s games were inspired by works of fiction."
+        },
+        {
+          "name": "C",
+          "content": "The novel <i>Journey to the Center of the Earth</i> is featured in a board game."
+        },
+        {
+          "name": "D",
+          "content": "A game designed by Svanoe features characters and events from the novel <i>Pride and Prejudice</i>."
+        }
+      ],
+      "correct": "Both Svanoe’s and Dorn’s games were inspired by works of fiction.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul style=\"margin-left: 40px;\">\n  <li>Jupiter has ninety-five moons, including Callisto and Adrastea.</li>\n  <li>Callisto completes an orbit of Jupiter in 16.69 Earth days on average.</li>\n  <li>Adrastea completes an orbit of Jupiter in 0.30 Earth days on average.</li>\n  <li>German mathematician and astronomer Johannes Kepler (1571–1630) described the orbits of planets as elliptical in shape rather than circular.</li>\n  <li>Kepler published three laws of planetary motion to describe the orbits of planets around the Sun.</li>\n  <li>Kepler’s laws also apply to the elliptical orbits of natural satellites (e.g., moons).</li>\n</ul>",
+      "question": "The student wants to contrast the orbits of the two moons. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Adrastea completes its orbit of Jupiter many times faster than Callisto does."
+        },
+        {
+          "name": "B",
+          "content": "Jupiter’s moons, specifically Callisto and Adrastea, orbit their planet in the same way the planets orbit the Sun."
+        },
+        {
+          "name": "C",
+          "content": "Kepler’s three laws of planetary motion describe the orbits of planets and natural satellites, including those of Callisto and Adrastea."
+        },
+        {
+          "name": "D",
+          "content": "Callisto’s orbit of Jupiter is elliptical in shape and takes, on average, 16.69 Earth days, while Adrastea’s orbit of Jupiter is circular in shape and takes, on average, 0.30 Earth days."
+        }
+      ],
+      "correct": "Adrastea completes its orbit of Jupiter many times faster than Callisto does.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul style=\"margin-left: 40px;\">\n  <li>The Danube River is the second longest river in Europe.</li>\n  <li>It passes through the country of Hungary.</li>\n  <li>It passes through the country of Romania.</li>\n  <li>It ranks No. 30 among the longest rivers in the world.</li>\n  <li>It is 2,888 kilometers long.</li>\n</ul>",
+      "question": "The student wants to specify which countries the Danube River passes through. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The second longest river in Europe, the Danube River passes through both Hungary and Romania."
+        },
+        {
+          "name": "B",
+          "content": "The Danube River is not the longest river in the world."
+        },
+        {
+          "name": "C",
+          "content": "At 2,888 kilometers long, the Danube River is the second longest river in Europe."
+        },
+        {
+          "name": "D",
+          "content": "Among the longest rivers in the world, the Danube River ranks No. 30."
+        }
+      ],
+      "correct": "The second longest river in Europe, the Danube River passes through both Hungary and Romania.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<blockquote style=\"margin-left: 40px;\">\n<ul>\n<li><i>Need Money for Cars</i> is a 2023 sculpture by American artist Beau Dunn.</li>\n<li>It consists of the title phrase (“need money for cars”) spelled out in glowing white neon lighting.</li>\n<li>To make neon lighting, glass tubes are heated, molded into shape, and filled with gas.</li>\n<li>An electrical current is passed through the gas to make it glow.</li>\n</ul>\n</blockquote>",
+      "question": "The student wants to explain what makes the neon sculpture glow. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Dunn’s 2023 sculpture spells out the phrase “need money for cars” in glowing white neon lights."
+        },
+        {
+          "name": "B",
+          "content": "The sculpture’s glass tubes have been heated and molded to spell out the phrase “need money for cars.”"
+        },
+        {
+          "name": "C",
+          "content": "A glow emanates from Dunn’s sculpture, which is made of glass tubes."
+        },
+        {
+          "name": "D",
+          "content": "An electrical current passes through the gas-filled tubes in <i>Need Money for Cars</i>, making them glow white."
+        }
+      ],
+      "correct": "An electrical current passes through the gas-filled tubes in <i>Need Money for Cars</i>, making them glow white.",
+      "solution": ""
+    }
+  ]
+}

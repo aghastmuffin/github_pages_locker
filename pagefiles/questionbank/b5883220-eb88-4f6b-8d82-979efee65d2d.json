@@ -1,0 +1,455 @@
+{
+  "uuid": "b5883220-eb88-4f6b-8d82-979efee65d2d",
+  "chunk": "aZAwFBYS.js",
+  "question_count": 22,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/9fc632869e49df819d50da4af41a99e6.png\" width=\"281\" height=\"281\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The shaded region shown in the graph represents all the solutions to which inequality?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"x\\le29\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">x</var><span class=\"mq-binary-operator\" mathquill-command-id=\"4\">≤</span><span mathquill-command-id=\"6\">2</span><span mathquill-command-id=\"7\">9</span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"x\\ge29\\ \\ \\ y\\le29\\ \\ y\\ge29\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">x</var><span class=\"mq-binary-operator\" mathquill-command-id=\"4\">≥</span><span mathquill-command-id=\"6\">2</span><span mathquill-command-id=\"7\">9</span><span mathquill-command-id=\"8\">&nbsp;</span><span mathquill-command-id=\"9\">&nbsp;</span>​​​​​​​</span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<strong></strong><span class=\"mq-math-mode\" latex-data=\"x\\ge29\\ \\ \\ y\\le29\\ \\ y\\ge29\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"10\">&nbsp;</span><var mathquill-command-id=\"11\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"12\">≤</span><span mathquill-command-id=\"14\">2</span><span mathquill-command-id=\"15\">9</span><span mathquill-command-id=\"16\">&nbsp;</span><span mathquill-command-id=\"17\">&nbsp;</span>​​​​​​​</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"x\\ge29\\ \\ \\ y\\le29\\ \\ y\\ge29\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"18\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"19\">≥</span><span mathquill-command-id=\"21\">2</span><span mathquill-command-id=\"22\">9</span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        }
+      ],
+      "correct": "<span class=\"mq-math-mode\" latex-data=\"x\\ge29\\ \\ \\ y\\le29\\ \\ y\\ge29\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"18\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"19\">≥</span><span mathquill-command-id=\"21\">2</span><span mathquill-command-id=\"22\">9</span></span></span><span>&nbsp;</span>​​​​​​​<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><span class=\"mq-math-mode\" latex-data=\"3.5c+7d=266\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"3\">3</span><span mathquill-command-id=\"4\">.</span><span mathquill-command-id=\"5\">5</span><var mathquill-command-id=\"7\">c</var><span mathquill-command-id=\"8\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"9\">7</span><var mathquill-command-id=\"10\">d</var><span class=\"mq-binary-operator\" mathquill-command-id=\"11\">=</span><span mathquill-command-id=\"13\">2</span><span mathquill-command-id=\"14\">6</span><span mathquill-command-id=\"15\">6</span></span></span><span>&nbsp;</span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The given equatlon describes the relationship between the number of cats, c, and the number of dogs, d, that can be cared for at a pet care business during a week. If the business cares for 38 dogs during a week, how many cats can it care for during this week?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0<br>"
+        },
+        {
+          "name": "B",
+          "content": "7<br>"
+        },
+        {
+          "name": "C",
+          "content": "133<br>"
+        },
+        {
+          "name": "D",
+          "content": "266<br>"
+        }
+      ],
+      "correct": "0<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><span class=\"mq-math-mode\" latex-data=\"y=3^{\\left(x-1\\right)}-6\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"4\">=</span><span mathquill-command-id=\"5\">3</span><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"8\"><span class=\"mq-sup\" mathquill-block-id=\"9\"><span class=\"mq-non-leaf\" mathquill-command-id=\"12\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"13\"><var mathquill-command-id=\"11\">x</var><span mathquill-command-id=\"14\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"15\">1</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span></span></span><span mathquill-command-id=\"17\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"18\">6</span></span></span><span>&nbsp;</span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">For which of the following tables are all the values of a and their corresponding values of y solutions to the given equation?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<img src=\"/images/e5c1000308409586ed572749bf224bd7.png\" width=\"100\" height=\"161\"><br>"
+        },
+        {
+          "name": "B",
+          "content": "<img src=\"/images/71fe2a9920d34548ac63c7359e2b55c0.png\" width=\"90\" height=\"176\"><br>"
+        },
+        {
+          "name": "C",
+          "content": "<img src=\"/images/134e4764c79c3de8bbe93ab92c413c54.png\" width=\"171\" height=\"207\"><br>"
+        },
+        {
+          "name": "D",
+          "content": "<img src=\"/images/7ebac3cdd4816cdb7a979d170c2d8ed7.png\" width=\"208\" height=\"246\"><br>"
+        }
+      ],
+      "correct": "<img src=\"/images/e5c1000308409586ed572749bf224bd7.png\" width=\"100\" height=\"161\"><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">For a survey, a sample of 1,018 people was selected at random from all registered voters in acounty. Based on the survey, it is estimated that 66% of all registered voters in the county are in favor of a new law, with an associated margin of error of 2.91%. Which of thefollowing best describes the plausible values for the percent of all registered voters in the county who are in favor of the new law?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Any value greater than 63.09% and less than 68.91%<br>"
+        },
+        {
+          "name": "B",
+          "content": "Any value greater than 63.09%<br>"
+        },
+        {
+          "name": "C",
+          "content": "Any value less than 63.09% or greater than 68.91%<br>"
+        },
+        {
+          "name": "D",
+          "content": "Any value less than 68.91%<br>"
+        }
+      ],
+      "correct": "Any value greater than 63.09% and less than 68.91%<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The gas mileage of a certain car is 35 miles per gallon when driven on the highway. lf the car begins with 10 gallons of gas in the tank, which function predicts the amount of gas remaining in the tank, f(d), after the car is driven d miles on the highway?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"f\\left(d\\right)=\\frac{d}{35}-10\\ \\ f\\left(d\\right)=d-10\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var class=\"mq-f\" mathquill-command-id=\"3\">f</var><span class=\"mq-non-leaf\" mathquill-command-id=\"4\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"5\"><var mathquill-command-id=\"7\">d</var></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"9\">=</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"10\"><span class=\"mq-numerator\" mathquill-block-id=\"11\"><var mathquill-command-id=\"14\">d</var></span><span class=\"mq-denominator\" mathquill-block-id=\"12\"><span mathquill-command-id=\"15\">3</span><span mathquill-command-id=\"16\">5</span></span><span style=\"display:inline-block;width:0\">​</span></span><span mathquill-command-id=\"17\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"18\">1</span><span mathquill-command-id=\"19\">0</span><span mathquill-command-id=\"20\">&nbsp;</span>​​​​​​​</span></span><span>&nbsp;</span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"f\\left(d\\right)=\\frac{d}{35}-10\\ \\ f\\left(d\\right)=d-10\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"21\">&nbsp;</span><var class=\"mq-f\" mathquill-command-id=\"23\">f</var><span class=\"mq-non-leaf\" mathquill-command-id=\"24\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"25\"><var mathquill-command-id=\"28\">d</var></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"29\">=</span><var mathquill-command-id=\"30\">d</var><span mathquill-command-id=\"31\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"32\">1</span><span mathquill-command-id=\"33\">0</span></span></span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"f(d)=10−\\frac{d}{35}\\ f(d)=10−d\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var class=\"mq-f\" mathquill-command-id=\"3\">f</var><span mathquill-command-id=\"5\">(</span><var mathquill-command-id=\"7\">d</var><span mathquill-command-id=\"9\">)</span><span class=\"mq-binary-operator\" mathquill-command-id=\"11\">=</span><span mathquill-command-id=\"28\">1</span><span mathquill-command-id=\"29\">0</span><span mathquill-command-id=\"15\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-numerator\" mathquill-block-id=\"22\"><var mathquill-command-id=\"25\">d</var></span><span class=\"mq-denominator\" mathquill-block-id=\"23\"><span mathquill-command-id=\"26\">3</span><span mathquill-command-id=\"27\">5</span></span><span style=\"display:inline-block;width:0\">​</span></span>​​​​​​​</span></span><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"f(d)=10−\\frac{d}{35}\\ f(d)=10−d\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"30\">&nbsp;</span><var class=\"mq-f\" mathquill-command-id=\"31\">f</var><span mathquill-command-id=\"33\">(</span><var mathquill-command-id=\"35\">d</var><span mathquill-command-id=\"37\">)</span><span class=\"mq-binary-operator\" mathquill-command-id=\"39\">=</span><span mathquill-command-id=\"51\">1</span><span mathquill-command-id=\"53\">0</span><span mathquill-command-id=\"43\">−</span><var mathquill-command-id=\"49\">d</var></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        }
+      ],
+      "correct": "<span class=\"mq-math-mode\" latex-data=\"f(d)=10−\\frac{d}{35}\\ f(d)=10−d\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var class=\"mq-f\" mathquill-command-id=\"3\">f</var><span mathquill-command-id=\"5\">(</span><var mathquill-command-id=\"7\">d</var><span mathquill-command-id=\"9\">)</span><span class=\"mq-binary-operator\" mathquill-command-id=\"11\">=</span><span mathquill-command-id=\"28\">1</span><span mathquill-command-id=\"29\">0</span><span mathquill-command-id=\"15\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"21\"><span class=\"mq-numerator\" mathquill-block-id=\"22\"><var mathquill-command-id=\"25\">d</var></span><span class=\"mq-denominator\" mathquill-block-id=\"23\"><span mathquill-command-id=\"26\">3</span><span mathquill-command-id=\"27\">5</span></span><span style=\"display:inline-block;width:0\">​</span></span>​​​​​​​</span></span><br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The function f is defined by f(x)= 50x. For what value of x is f(x)= 150?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "3",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/1f0cc181cf81ec697cd12b2a56de7039.png\" width=\"301\" height=\"289\"><br>The graph of the linear equation 10x + By= 50 is shown, where B is a constant. What is the value of B?<br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "25<br>"
+        },
+        {
+          "name": "B",
+          "content": "5<br>"
+        },
+        {
+          "name": "C",
+          "content": "2<br>"
+        },
+        {
+          "name": "D",
+          "content": "1<br>"
+        }
+      ],
+      "correct": "25<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">The scatterplot shows the relationship between two variables,&nbsp; x and y.</span></span><br><img src=\"/images/cd7882bfee058ba709535649f1d838f2.png\" width=\"311\" height=\"282\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which of the following equations is the most appropriate linear model for the data shown?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"y=80-x\\ \\ y=80-0.1x\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"4\">=</span><span mathquill-command-id=\"5\">8</span><span mathquill-command-id=\"6\">0</span><span mathquill-command-id=\"7\" class=\"mq-binary-operator\">−10</span><var mathquill-command-id=\"8\">x</var><span mathquill-command-id=\"9\">&nbsp;</span><span mathquill-command-id=\"10\">&nbsp;</span>​​​​​​​</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"y=80-x\\ \\ y=80-0.1x\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"11\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"12\">=</span><span mathquill-command-id=\"13\">8</span><span mathquill-command-id=\"14\">0</span><span mathquill-command-id=\"15\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"16\">0</span><span mathquill-command-id=\"17\">.</span><span mathquill-command-id=\"18\">1</span><var mathquill-command-id=\"19\">x</var></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"y=90−0.1x\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"5\">=</span><span mathquill-command-id=\"21\">9</span><span mathquill-command-id=\"9\">0</span><span mathquill-command-id=\"11\">−</span><span mathquill-command-id=\"13\">0</span><span mathquill-command-id=\"15\">.</span><span mathquill-command-id=\"17\">1</span><var mathquill-command-id=\"19\">x</var></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"y=80−10x\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"5\">=90</span><span mathquill-command-id=\"11\">−10</span><var mathquill-command-id=\"19\">x</var></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        }
+      ],
+      "correct": "<span class=\"mq-math-mode\" latex-data=\"y=80−10x\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"5\">=90</span><span mathquill-command-id=\"11\">−10</span><var mathquill-command-id=\"19\">x</var></span></span><span>&nbsp;</span>​​​​​​​<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><span class=\"mq-math-mode\" latex-data=\"4x^2+5x-5=0\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"3\">4</span><var mathquill-command-id=\"4\">x</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"6\"><span class=\"mq-sup\" mathquill-block-id=\"7\"><span mathquill-command-id=\"10\">2</span></span></span><span mathquill-command-id=\"11\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"12\">5</span><var mathquill-command-id=\"13\">x</var><span mathquill-command-id=\"16\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"17\">5</span><span class=\"mq-binary-operator\" mathquill-command-id=\"18\">=</span><span mathquill-command-id=\"19\">0</span></span></span><span>&nbsp;</span><br><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">What is the greatest solution to the given equation?</span></span><br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"-\\frac{5}{8}-\\frac{\\sqrt{105}}{8}\\ -\\frac{5}{8}+\\frac{\\sqrt{105}}{8}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"3\" class=\"\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"4\"><span class=\"mq-numerator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"9\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"6\"><span mathquill-command-id=\"8\">8</span></span><span style=\"display:inline-block;width:0\">​</span></span><span mathquill-command-id=\"10\" class=\"mq-binary-operator\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"11\"><span class=\"mq-numerator\" mathquill-block-id=\"12\"><span class=\"mq-non-leaf\" mathquill-command-id=\"15\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.949383);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"16\"><span mathquill-command-id=\"18\">1</span><span mathquill-command-id=\"19\">0</span><span mathquill-command-id=\"20\">5</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"13\"><span mathquill-command-id=\"21\">8</span></span><span style=\"display:inline-block;width:0\">​</span></span><span mathquill-command-id=\"22\">&nbsp;</span>​​​​​​​</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"-\\frac{5}{8}-\\frac{\\sqrt{105}}{8}\\ -\\frac{5}{8}+\\frac{\\sqrt{105}}{8}\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"23\" class=\"mq-binary-operator\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"24\"><span class=\"mq-numerator\" mathquill-block-id=\"25\"><span mathquill-command-id=\"28\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"26\"><span mathquill-command-id=\"29\">8</span></span><span style=\"display:inline-block;width:0\">​</span></span><span mathquill-command-id=\"30\" class=\"mq-binary-operator\">+</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"31\"><span class=\"mq-numerator\" mathquill-block-id=\"32\"><span class=\"mq-non-leaf\" mathquill-command-id=\"35\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.949383);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"36\"><span mathquill-command-id=\"38\">1</span><span mathquill-command-id=\"39\">0</span><span mathquill-command-id=\"40\">5</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"33\"><span mathquill-command-id=\"41\">8</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"-\\frac{5}{4}-\\frac{\\sqrt{105}}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"9\" class=\"\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"7\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"8\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span><span mathquill-command-id=\"10\" class=\"mq-binary-operator\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"11\"><span class=\"mq-numerator\" mathquill-block-id=\"12\"><span class=\"mq-non-leaf\" mathquill-command-id=\"15\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.949383);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"16\"><span mathquill-command-id=\"18\">1</span><span mathquill-command-id=\"20\">0</span><span mathquill-command-id=\"21\">5</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"13\"><span mathquill-command-id=\"22\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"-\\frac{5}{4}+\\frac{\\sqrt{105}}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"31\" class=\"\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"25\"><span class=\"mq-numerator\" mathquill-block-id=\"26\"><span mathquill-command-id=\"29\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"27\"><span mathquill-command-id=\"30\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span><span mathquill-command-id=\"32\" class=\"mq-binary-operator\">+</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"33\"><span class=\"mq-numerator\" mathquill-block-id=\"34\"><span class=\"mq-non-leaf\" mathquill-command-id=\"37\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.949383);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"38\"><span mathquill-command-id=\"40\">1</span><span mathquill-command-id=\"43\">0</span><span mathquill-command-id=\"44\">5</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"35\"><span mathquill-command-id=\"45\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        }
+      ],
+      "correct": "<span class=\"mq-math-mode\" latex-data=\"-\\frac{5}{8}-\\frac{\\sqrt{105}}{8}\\ -\\frac{5}{8}+\\frac{\\sqrt{105}}{8}\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"23\" class=\"mq-binary-operator\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"24\"><span class=\"mq-numerator\" mathquill-block-id=\"25\"><span mathquill-command-id=\"28\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"26\"><span mathquill-command-id=\"29\">8</span></span><span style=\"display:inline-block;width:0\">​</span></span><span mathquill-command-id=\"30\" class=\"mq-binary-operator\">+</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"31\"><span class=\"mq-numerator\" mathquill-block-id=\"32\"><span class=\"mq-non-leaf\" mathquill-command-id=\"35\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.949383);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"36\"><span mathquill-command-id=\"38\">1</span><span mathquill-command-id=\"39\">0</span><span mathquill-command-id=\"40\">5</span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"33\"><span mathquill-command-id=\"41\">8</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><span class=\"mq-math-mode\" latex-data=\"y\\le x+15\\ \\ y\\ge-4x-15\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"6\">≤</span><var mathquill-command-id=\"10\">x</var><span mathquill-command-id=\"11\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"15\">1</span><span mathquill-command-id=\"16\">5</span><span mathquill-command-id=\"17\">&nbsp;</span><span mathquill-command-id=\"24\">&nbsp;</span></span></span><br></p><p style=\"text-align: center;\"><span class=\"mq-math-mode\" latex-data=\"y\\le x+15\\ \\ y\\ge-4x-15\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"24\">​​​​​​​</span><var mathquill-command-id=\"4\">y</var><span class=\"mq-binary-operator\" mathquill-command-id=\"8\">≥</span><span mathquill-command-id=\"18\" class=\"\">−</span><span mathquill-command-id=\"19\">4</span><var mathquill-command-id=\"20\">x</var><span mathquill-command-id=\"21\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"22\">1</span><span mathquill-command-id=\"23\">5</span></span></span><span>&nbsp;</span><br>Which point (x, y) is a solution to the given system of inequalities in the xy-plane?<br></p>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "(-7 ,0)<br>"
+        },
+        {
+          "name": "B",
+          "content": "(0 ,16)<br>"
+        },
+        {
+          "name": "C",
+          "content": "(0 ,-16)<br>"
+        },
+        {
+          "name": "D",
+          "content": "(7 ,0)<br>"
+        }
+      ],
+      "correct": "(7 ,0)<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">A researcher created a data set by recording the daily low temperature, to the nearestinteger, for each of the 31 days in December 2022 in a town in llinois. The frequency tablesummarizes this data set.</span></span><br><img src=\"/images/0cf9cb0ee584a54c3009a1efe41cbcc6.png\" width=\"326\" height=\"352\"><br><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">Based on the frequency table, what could be the median of the recorded daily low temperatures, in degrees Fahrenheit?<br></span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "25,26,27,28,29,30,31,32,33,34",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">An equilateral triangle has a height of<span class=\"mq-math-mode\" latex-data=\"47\\sqrt{3}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"7\">4</span><span mathquill-command-id=\"8\">7</span><span class=\"mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.944445);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"4\"><span mathquill-command-id=\"6\">3</span></span></span></span></span>&nbsp; units. What is the length, in units, of one side of this triangle?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"94\\sqrt{3}\\ 47\\sqrt{3}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"3\">9</span><span mathquill-command-id=\"4\">4</span><span class=\"mq-non-leaf\" mathquill-command-id=\"5\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.944445);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"6\"><span mathquill-command-id=\"8\">3</span></span></span>​​​​​​​</span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "94<br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"94\\sqrt{3}\\ 47\\sqrt{3}\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"9\">&nbsp;</span><span mathquill-command-id=\"17\">4</span><span mathquill-command-id=\"18\">7</span><span class=\"mq-non-leaf\" mathquill-command-id=\"13\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.944445);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"14\"><span mathquill-command-id=\"16\">3</span></span></span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "D",
+          "content": "47<br>"
+        }
+      ],
+      "correct": "94<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Line s in the xy-plane is defned by 8x + 2y= 0.&nbsp;Line t is perpendicular to line s and passes through the points (6, 0) and (k, <span class=\"mq-math-mode\" latex-data=\"\\frac{5}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"7\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"8\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span>&nbsp;​​​​​​​). What is the value of k?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "11",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span class=\"mq-math-mode\" latex-data=\"\\frac{\\sqrt[3]{x^{17}y^5}}{5x^2\\left(\\sqrt[8]{y^5}\\right)}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><sup class=\"mq-nthroot mq-non-leaf\" mathquill-command-id=\"10\" mathquill-block-id=\"11\"><span mathquill-command-id=\"14\">3</span></sup><span class=\"mq-scaled\" mathquill-command-id=\"10\"><span class=\"mq-sqrt-prefix mq-scaled\" style=\"transform: scale(1, 1.33827);\">√</span><span class=\"mq-sqrt-stem mq-non-leaf\" mathquill-block-id=\"12\"><var mathquill-command-id=\"16\">x</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"18\"><span class=\"mq-sup\" mathquill-block-id=\"19\"><span mathquill-command-id=\"21\">1</span><span mathquill-command-id=\"22\">7</span></span></span><var mathquill-command-id=\"29\">y</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"25\"><span class=\"mq-sup\" mathquill-block-id=\"26\"><span mathquill-command-id=\"28\">5</span></span></span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"31\">5</span><var mathquill-command-id=\"32\">x</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"34\"><span class=\"mq-sup\" mathquill-block-id=\"35\"><span mathquill-command-id=\"37\">2</span></span></span><span class=\"mq-non-leaf\" mathquill-command-id=\"38\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.11111, 1.86667);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"39\"><sup class=\"mq-nthroot mq-non-leaf\" mathquill-command-id=\"41\" mathquill-block-id=\"42\"><span mathquill-command-id=\"45\">8</span></sup><span class=\"mq-scaled\" mathquill-command-id=\"41\"><span class=\"mq-sqrt-prefix mq-scaled\" style=\"transform: scale(1, 1.33827);\">√</span><span class=\"mq-sqrt-stem mq-non-leaf\" mathquill-block-id=\"43\"><var mathquill-command-id=\"52\">y</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"48\"><span class=\"mq-sup\" mathquill-block-id=\"49\"><span mathquill-command-id=\"51\">8</span></span></span></span></span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.11111, 1.86667);\">)</span></span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">For all positive values of x and y, the given expression is equivalent to which of the following?</span></span><br>Ⅰ.&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\frac{\\left(x^{\\frac{14}{3}}y^{\\frac{5}{3}}\\right)}{5xy}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"53\"><span class=\"mq-numerator\" mathquill-block-id=\"54\"><span class=\"mq-non-leaf\" mathquill-command-id=\"57\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.17778, 2.26667);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"58\"><var mathquill-command-id=\"61\">x</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"63\"><span class=\"mq-sup\" mathquill-block-id=\"64\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"66\"><span class=\"mq-numerator\" mathquill-block-id=\"67\"><span mathquill-command-id=\"70\">1</span><span mathquill-command-id=\"71\">4</span></span><span class=\"mq-denominator\" mathquill-block-id=\"68\"><span mathquill-command-id=\"72\">3</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><var mathquill-command-id=\"73\">y</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"80\"><span class=\"mq-sup\" mathquill-block-id=\"81\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"83\"><span class=\"mq-numerator\" mathquill-block-id=\"84\"><span mathquill-command-id=\"87\">5</span></span><span class=\"mq-denominator\" mathquill-block-id=\"85\"><span mathquill-command-id=\"88\">3</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.17778, 2.26667);\">)</span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"55\"><span mathquill-command-id=\"89\">5</span><var mathquill-command-id=\"90\">x</var><var mathquill-command-id=\"91\">y</var></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span><br>Ⅱ.<span class=\"mq-math-mode\" latex-data=\"\\frac{\\sqrt[3]{x^{11}y^2}}{5}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"92\"><span class=\"mq-numerator\" mathquill-block-id=\"93\"><sup class=\"mq-nthroot mq-non-leaf\" mathquill-command-id=\"96\" mathquill-block-id=\"97\"><span mathquill-command-id=\"101\">3</span></sup><span class=\"mq-scaled\" mathquill-command-id=\"96\"><span class=\"mq-sqrt-prefix mq-scaled\" style=\"transform: scale(1, 1.33827);\">√</span><span class=\"mq-sqrt-stem mq-non-leaf\" mathquill-block-id=\"98\"><var mathquill-command-id=\"103\">x</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"105\"><span class=\"mq-sup\" mathquill-block-id=\"106\"><span mathquill-command-id=\"108\">1</span><span mathquill-command-id=\"109\">1</span></span></span><var mathquill-command-id=\"116\">y</var><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"112\"><span class=\"mq-sup\" mathquill-block-id=\"113\"><span mathquill-command-id=\"115\">2</span></span></span></span></span></span><span class=\"mq-denominator\" mathquill-block-id=\"94\"><span mathquill-command-id=\"117\">5</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ⅰ only<br>"
+        },
+        {
+          "name": "B",
+          "content": "Ⅱ only<br>"
+        },
+        {
+          "name": "C",
+          "content": "Ⅰand Ⅱ<br>"
+        },
+        {
+          "name": "D",
+          "content": "NeitherⅠ nor&nbsp;Ⅱ<br>"
+        }
+      ],
+      "correct": "Ⅰand Ⅱ<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span class=\"mq-math-mode\" latex-data=\"f\\left(x\\right)=2,000\\left(1.005\\right)^{3x}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var class=\"mq-f\" mathquill-command-id=\"3\">f</var><span class=\"mq-non-leaf\" mathquill-command-id=\"4\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"5\"><var mathquill-command-id=\"7\">x</var></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"9\">=</span><span mathquill-command-id=\"10\">2</span><span mathquill-command-id=\"11\">,</span><span mathquill-command-id=\"12\">0</span><span mathquill-command-id=\"13\">0</span><span mathquill-command-id=\"14\">0</span><span class=\"mq-non-leaf\" mathquill-command-id=\"15\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"16\"><span mathquill-command-id=\"18\">1</span><span mathquill-command-id=\"19\">.</span><span mathquill-command-id=\"20\">0</span><span mathquill-command-id=\"21\">0</span><span mathquill-command-id=\"22\">5</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"25\"><span class=\"mq-sup\" mathquill-block-id=\"26\"><span mathquill-command-id=\"30\">3</span><var mathquill-command-id=\"31\">x</var></span></span></span></span><span>&nbsp;</span><br>The given function f models the balance of a bank account, in dollars, x&nbsp;years after it is opened.&nbsp;Which statement is the best interpretation of (1.005)<sup>3x</sup>?<br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Every 4 months, the balance increases by about $5.<br>"
+        },
+        {
+          "name": "B",
+          "content": "At the end of every 4-month interval, the balance increases by about 0.5% of the balance at the beginning of the 4-month interval.<br>"
+        },
+        {
+          "name": "C",
+          "content": "Every 3 years, the balance increases by about $5.<br>"
+        },
+        {
+          "name": "D",
+          "content": "At the end of every 3-year interval, the balance increases by about 0.5% of the balance at the beginning of the 3-year interval.<br>"
+        }
+      ],
+      "correct": "At the end of every 4-month interval, the balance increases by about 0.5% of the balance at the beginning of the 4-month interval.<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "The length of each edge of a box is 48 centimeters.&nbsp;Each side of the box is in the shape of a square. The box does not have a lid. What is the exterior surface area, in square <u>meters</u>, of this box without a lid?(1&nbsp;meter=100 centimeters)<br>",
+      "question": "",
+      "options": [],
+      "correct": "1.152",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size:20px;\">A square map has a side length of 55 inches, and 1 inch on the map represents an actual distance of 13 miles. A larger version of the same map is printed as a square with the side length 90% longer than the side length of the previous map. On the larger map, which of the following is closest to the actual distance, in miles, represented by l inch?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "1.30<br>"
+        },
+        {
+          "name": "B",
+          "content": "6.84<br>"
+        },
+        {
+          "name": "C",
+          "content": "24.70<br>"
+        },
+        {
+          "name": "D",
+          "content": "49.50<br>"
+        }
+      ],
+      "correct": "6.84<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"></span></span><span class=\"mq-math-mode\" latex-data=\"\\frac{4}{9}\\left(4x+9\\right)\\left(x+\\sqrt{4k+9}\\right)\\left(x-\\sqrt{4k+9}\\right)=0\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"7\">4</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"8\">9</span></span><span style=\"display:inline-block;width:0\">​</span></span><span class=\"mq-non-leaf\" mathquill-command-id=\"9\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"10\"><span mathquill-command-id=\"12\">4</span><var mathquill-command-id=\"13\">x</var><span mathquill-command-id=\"14\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"15\">9</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-non-leaf\" mathquill-command-id=\"16\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.03, 1.38);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"17\"><var mathquill-command-id=\"19\">x</var><span mathquill-command-id=\"20\" class=\"mq-binary-operator\">+</span><span class=\"mq-non-leaf\" mathquill-command-id=\"25\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.944445);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"26\"><span mathquill-command-id=\"28\">4</span><var mathquill-command-id=\"29\">k</var><span mathquill-command-id=\"30\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"31\">9</span></span></span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.03, 1.38);\">)</span></span><span class=\"mq-non-leaf\" mathquill-command-id=\"32\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.03, 1.38);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"33\"><var mathquill-command-id=\"35\">x</var><span mathquill-command-id=\"36\" class=\"mq-binary-operator\">−</span><span class=\"mq-non-leaf\" mathquill-command-id=\"37\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.944445);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"38\"><span mathquill-command-id=\"40\">4</span><var mathquill-command-id=\"41\">k</var><span mathquill-command-id=\"42\" class=\"mq-binary-operator\">+</span><span mathquill-command-id=\"43\">9</span></span></span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1.03, 1.38);\">)</span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"44\">=</span><span mathquill-command-id=\"45\">0</span></span></span><span>&nbsp;</span>​​​​​​​<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In the given equation, k is a positive constant, The product of the solutions to the equation is 81.What is the value of k?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "27/4,6.75",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which expression is equivalent to 10(x&nbsp;+3)?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "10x+3<br>"
+        },
+        {
+          "name": "B",
+          "content": "10x+13<br>"
+        },
+        {
+          "name": "C",
+          "content": "10x+7<br>"
+        },
+        {
+          "name": "D",
+          "content": "10x+30<br>"
+        }
+      ],
+      "correct": "10x+30<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In isosceles triangle ABC, sides AB and AC are congruent, Point D divides side BC suchthat the length of </span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{BD}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"22\" mathquill-block-id=\"23\"><var mathquill-command-id=\"25\">B</var><var mathquill-command-id=\"26\">D</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"> is </span></span><span class=\"mq-math-mode\" latex-data=\"\\frac{4}{7}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"16\"><span class=\"mq-numerator\" mathquill-block-id=\"17\"><span mathquill-command-id=\"21\">4</span></span><span class=\"mq-denominator\" mathquill-block-id=\"18\"><span mathquill-command-id=\"20\">7</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"> of the length of </span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{BC}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"22\" mathquill-block-id=\"23\"><var mathquill-command-id=\"25\">B</var><var mathquill-command-id=\"27\">C</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">. Point <em>E</em> lies on side AB and point F lies onside AC&nbsp;such that when segments DE and DF are drawn, angle BED is congruent toangle <em>CFD</em>. lf the length of </span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{BE}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"3\" mathquill-block-id=\"4\"><var mathquill-command-id=\"9\">B</var><var mathquill-command-id=\"11\">E</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"> is 8, what is the length&nbsp;of&nbsp;</span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{CF}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-command-id=\"3\" mathquill-block-id=\"4\"><var mathquill-command-id=\"7\">C</var><var mathquill-command-id=\"8\">F</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "6<br>"
+        },
+        {
+          "name": "B",
+          "content": "14<br>"
+        },
+        {
+          "name": "C",
+          "content": "32<br>"
+        },
+        {
+          "name": "D",
+          "content": "56<br>"
+        }
+      ],
+      "correct": "6<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The area of a rectangular region is increasing at a rate of <strong>270 </strong>square feet per hour.&nbsp;Which of the following is closest to this rate in <u>square meters per minute</u>? (Use 1 meter = 3.28 feet.)</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0.42<br>"
+        },
+        {
+          "name": "B",
+          "content": "1.37<br>"
+        },
+        {
+          "name": "C",
+          "content": "14.76<br>"
+        },
+        {
+          "name": "D",
+          "content": "25.10<br>"
+        }
+      ],
+      "correct": "0.42<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<p style=\"text-align: center;\"><span class=\"mq-math-mode\" latex-data=\"x\\left(kx-112\\right)=-16\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">x</var><span class=\"mq-non-leaf\" mathquill-command-id=\"4\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"5\"><var mathquill-command-id=\"7\">k</var><var mathquill-command-id=\"8\">x</var><span mathquill-command-id=\"9\" class=\"mq-binary-operator\">−</span><span mathquill-command-id=\"10\">1</span><span mathquill-command-id=\"11\">1</span><span mathquill-command-id=\"12\">2</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"13\">=</span><span mathquill-command-id=\"14\" class=\"\">−</span><span mathquill-command-id=\"15\">1</span><span mathquill-command-id=\"16\">6</span></span></span><span>&nbsp;</span>​​​​​​​<br>In the given equation, k is an integer constant, If the equation has two distinct real solutions,&nbsp;what is the greatest possible value of k?<br></p>",
+      "question": "",
+      "options": [],
+      "correct": "195",
+      "solution": ""
+    }
+  ]
+}

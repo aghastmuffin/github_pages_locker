@@ -1,0 +1,682 @@
+{
+  "uuid": "7d95c376-0a52-42c6-af0d-ac2aaf25546d",
+  "chunk": "B2olRyGD.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The way in which individual elements are balanced within a photographic image tends to affect how viewers perceive it: symmetry tends to give the elements equal importance, asymmetry emphasizes differences, and radial balance (organizing the elements around a central point) emphasizes the center over the periphery. What a photograph conveys is therefore largely ____ how it is balanced.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "contingent on"
+        },
+        {
+          "name": "B",
+          "content": "reserved for"
+        },
+        {
+          "name": "C",
+          "content": "obligated to"
+        },
+        {
+          "name": "D",
+          "content": "inhibited by"
+        }
+      ],
+      "correct": "contingent on",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Originating in the traditional stories of the <i>KÄnaka Maoli,</i> the Native Hawaiian people, the literature of Hawaii has a rich history that was later brought to international prominence by writers such as Mary Kawena Pukui. Now, by producing acclaimed works, Eric Chock has ______ his place in that literary tradition.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "extricated"
+        },
+        {
+          "name": "B",
+          "content": "contemplated"
+        },
+        {
+          "name": "C",
+          "content": "subverted"
+        },
+        {
+          "name": "D",
+          "content": "solidified"
+        }
+      ],
+      "correct": "solidified",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some pieces of music might have an infinite number of possible meaningsâthe compositions of Phyllis Fergus might be understood in as many ways as there are people to listen to themâand so as long as the evidence a listener uses to support an interpretation is ____, it is difficult to justify the claim that the interpretation is incorrect.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "inferior"
+        },
+        {
+          "name": "B",
+          "content": "identical"
+        },
+        {
+          "name": "C",
+          "content": "repetitive"
+        },
+        {
+          "name": "D",
+          "content": "reasonable"
+        }
+      ],
+      "correct": "reasonable",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As the _________ the Danube River and the Black Sea, the Danube River deltaic system is a dynamic habitat, continuously shaped and reshaped by the exchange of fresh water, sediments, nutrients, and minerals where the river mixes with the sea.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "accordance between"
+        },
+        {
+          "name": "B",
+          "content": "predecessor of"
+        },
+        {
+          "name": "C",
+          "content": "interface between"
+        },
+        {
+          "name": "D",
+          "content": "confines of"
+        }
+      ],
+      "correct": "interface between",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Jorge Luis Borgesâs 1971 short story <i>The Congress</i>, translated by Andrew Hurley.</p><blockquote style=\"margin-left: 40px;\">I can tell that I am growing old; one unequivocal sign is the fact that I find novelty neither interesting nor surprising, perhaps because I see nothing <u>essentially</u> new in itâitâs little more than timid variations on whatâs already been.</blockquote><p style=\"text-align:right;\">Â©1998 by Maria Kodama.<br>Translation Â©1998 by Penguin Putnam Inc.</p>",
+      "question": "As used in the text, what does the word \"essentially\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Superficially"
+        },
+        {
+          "name": "B",
+          "content": "Ambivalently"
+        },
+        {
+          "name": "C",
+          "content": "Fundamentally"
+        },
+        {
+          "name": "D",
+          "content": "Frequently"
+        }
+      ],
+      "correct": "Fundamentally",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Nimipuutimt, an Indigenous language from the interior Northwest region of what is now the United States, <i>pit'iin'</i> mean âgirl,â whereas <i>pi-pit'in'</i> is used to refer to two or more girls. <u>This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication.</u> In this case, the element â<i>pi</i>â in <i>pit'iin'</i> gets repeated in <i>pi-pit'in'</i>. There are many examples of this type of reduplication in Nimipuutimt.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains where the language discussed in the text is from."
+        },
+        {
+          "name": "B",
+          "content": "It contrasts the language discussed in the text with other languages."
+        },
+        {
+          "name": "C",
+          "content": "It provides English translations of the Nimipuutimt words discussed in the text."
+        },
+        {
+          "name": "D",
+          "content": "It provides a general definition of the phenomenon discussed in the text."
+        }
+      ],
+      "correct": "It provides a general definition of the phenomenon discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2013 Oona M. LÃ¶nnstedt and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of <i>Pomacentrus amboinensis</i>, a species of fish. However, LÃ¶nnstedt and colleaguesâ study relied on a mean sample size of only about 28 fish. In a 2022 review of various scientistsâ conclusions about the impacts of ocean acidification on fish behavior, Jeff C. Clements and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To note a potential concern about the findings of a scientific study"
+        },
+        {
+          "name": "B",
+          "content": "To discuss an aspect of ocean acidification that is frequently overlooked"
+        },
+        {
+          "name": "C",
+          "content": "To present a debate between two research teams about a cause of ocean acidification"
+        },
+        {
+          "name": "D",
+          "content": "To explain how the behavior of a fish species has changed over time"
+        }
+      ],
+      "correct": "To note a potential concern about the findings of a scientific study",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Anthony Trollopeâs 1855 novel <i>The Warden</i>. The narrator is describing a rectory, the residence of a clergyperson.</p><blockquote style=\"margin-left: 40px;\">Let us observe the well-furnished breakfast-parlour at Plumstead Episcopi, and the comfortable air of all the belongings of the rectory. Comfortable they certainly were, but neither gorgeous nor even grand; indeed, considering the money that had been spent there, the eye and taste might have been better served; there was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; <u>but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred.</u></blockquote>",
+      "question": "Which choice best states the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It concedes that there is a lack of attention to the impression the rectory makes on people."
+        },
+        {
+          "name": "B",
+          "content": "It offers a potential explanation for the furnishing choices the narrator critiques."
+        },
+        {
+          "name": "C",
+          "content": "It emphasizes that the narrator finds it inappropriate for a clergyperson to have such grand furnishings."
+        },
+        {
+          "name": "D",
+          "content": "It hints at how the insufficient distribution of lights in the rectory could be fixed."
+        }
+      ],
+      "correct": "It offers a potential explanation for the furnishing choices the narrator critiques.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1942, Alice Dunnigan began working at the Associated Negro Press and <i>Chicago Defender</i>, eventually becoming the first Black woman correspondent to receive White House credentials. Dunniganâs accomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National Association of Black Journalists, which was founded in Washington, DC, in 1975 to support Black media professionals and honor people like Dunnigan.</p>",
+      "question": "According to the text, where was the National Association of Black Journalists founded?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Detroit"
+        },
+        {
+          "name": "B",
+          "content": "Philadelphia"
+        },
+        {
+          "name": "C",
+          "content": "Washington, DC"
+        },
+        {
+          "name": "D",
+          "content": "San Diego"
+        }
+      ],
+      "correct": "Washington, DC",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the cityâs parks, and of the 938 respondents from Fortaleza, 35.7% indicated using city parks. Given that the percentage of Quito respondents who reported having access to other desired amenities near parks was much lower than that reported by Fortaleza respondents, the difference in park use canât be explained by Quito residents having more access to desired nonpark amenities near parks.</p>",
+      "question": "Which choice best describes the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Even though the study found that parks in Fortaleza are more likely to be close to other amenities than parks in Quito are, Quito has more amenities overall than Fortaleza does."
+        },
+        {
+          "name": "B",
+          "content": "Although the study found that a greater proportion of residents use parks in Quito than in Fortaleza, that difference isnât due to greater access to amenities near parks in Quito."
+        },
+        {
+          "name": "C",
+          "content": "The studyâs finding that a greater proportion of residents use parks in Quito than in Fortaleza is partly due to the greater prevalence of parks in Quito."
+        },
+        {
+          "name": "D",
+          "content": "The studyâs findings suggest that an increase in the number of amenities near city parks would likely increase park use in Quito but not in Fortaleza."
+        }
+      ],
+      "correct": "Although the study found that a greater proportion of residents use parks in Quito than in Fortaleza, that difference isnât due to greater access to amenities near parks in Quito.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from George Eliotâs 1857 short story âThe Sad Fortunes of the Rev. Amos Barton.â In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Bartonâs neighbors.</p><blockquote style=\"margin-left: 40px;\">It was happy for the Rev. Amos Barton that he did not, like us, overhear the conversation recorded in the last chapter. Indeed, what mortal is there of us, who would find his satisfaction enhanced by an opportunity of comparing the picture he presents to himself of his own doings, with the picture they make on the mental retina of his neighbours? We are poor plants buoyed up by the air-vessels of our own conceit: alas for us, if we get a few pinches that empty us of that windy self-subsistence! The very capacity for good would go out of us.</blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "People tend to fixate more often than they should on whether their acquaintances think highly of them."
+        },
+        {
+          "name": "B",
+          "content": "Although people wish to be thought of as generous, the smallest impediments will often deter them from being so."
+        },
+        {
+          "name": "C",
+          "content": "Although people recognize why being direct is important, they usually avoid openly criticizing others for their shortcomings."
+        },
+        {
+          "name": "D",
+          "content": "People are better off not knowing about the discrepancy between their own self-image and what others think of them."
+        }
+      ],
+      "correct": "People are better off not knowing about the discrepancy between their own self-image and what others think of them.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/9e3a583875f7656ba7723b91f13b02a2.png\" width=\"300\" height=\"400\"></p><p>It is common for freshwater lakes near or above a latitude of 45Â° north of the equator, like Lej da San Murezzan in Switzerland, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lakeâs depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s. She cites as a typical example_________</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the researcherâs example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "both Spirit Lake and KitusjÃ¤rvi, which had more than 120 days of ice in the winter of 2005â06."
+        },
+        {
+          "name": "B",
+          "content": "KitusjÃ¤rvi, which had fewer days of ice in the winter of 2005â06 than it did in the winter of 1980â81."
+        },
+        {
+          "name": "C",
+          "content": "Spirit Lake, which had more days of ice in the winter of 2005â06 than it did in the winter of 1980â81."
+        },
+        {
+          "name": "D",
+          "content": "both Spirit Lake and KitusjÃ¤rvi, which had fewer than 170 days of ice in the winter of 1980â81."
+        }
+      ],
+      "correct": "KitusjÃ¤rvi, which had fewer days of ice in the winter of 2005â06 than it did in the winter of 1980â81.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Age of Innocence</i> is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera. The narrator describes the New York society to which Archer belongs as preferring familiarity over novelty: __________</p>",
+      "question": "Which quotation from <i>The Age of Innocence</i> best illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âBut, in the first place, New York was a metropolis, and perfectly aware that in metropolises it was ânot the thingâ to arrive early at the opera.â"
+        },
+        {
+          "name": "B",
+          "content": "âIt was Madame Nilssonâs first appearance [in an opera] that winter, and what the daily press had already learned to describe as âan exceptionally brilliant audienceâ had gathered to hear her.â"
+        },
+        {
+          "name": "C",
+          "content": "âTo come to the Opera in a [carriage for hire] was almost as honourable a way of arriving as in oneâs own carriage.â"
+        },
+        {
+          "name": "D",
+          "content": "âThough there was already talk...of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music in New York].â"
+        }
+      ],
+      "correct": "âThough there was already talk...of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music in New York].â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Indigenous songs are an important resource for ecological information. Songs of the Warlpiri people in Yuendumu, Australia, convey information about wild edible seeds, and the songs of the Temiar people in Malaysia represent landforms and landmarks through melody and pitch. There have been efforts made to preserve Indigenous languages over the yearsâe.g., the United Nationsâ International Decade of Indigenous Languages (2022â2032). However, such attempts have typically focused on spoken language despite the fact that some expressions in these languages appear only in songs. Therefore, if those involved in such efforts want to ensure that a comprehensive range of information is secured, they must ____________</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "acknowledge that Indigenous songs are largely but not entirely composed using phrases taken from spoken language."
+        },
+        {
+          "name": "B",
+          "content": "recognize that Indigenous languages likely have more unique expressions that represent ecological knowledge than represent other types of information."
+        },
+        {
+          "name": "C",
+          "content": "analyze musical similarities in the songs of the Warlpiri and Temiar people."
+        },
+        {
+          "name": "D",
+          "content": "incorporate the preservation of songs into their broader efforts to protect Indigenous languages."
+        }
+      ],
+      "correct": "incorporate the preservation of songs into their broader efforts to protect Indigenous languages.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers have noted that people with clinically typical hearing perceive sounds they believe to be meaningful as quieter than sounds of the same volume that they believe to be noise (i.e., meaningless to the listener). In a recent study, Antonia Olivia Dolan and colleagues allowed participants to listen to (and adjust the volume of) recordings of music in popular genres like classic rock and pop, as well as recordings of nature sounds. The researchers noted that participants may have treated the nature sounds as noise, which suggests that if a participant was exposed to Led Zeppelinâs âWhole Lotta Loveâ and the nature sounds at a volume of 60.8 decibels, the participant likely would have_______________</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "believed that neither the nature sounds nor âWhole Lotta Loveâ were at a volume of 60.8 decibels."
+        },
+        {
+          "name": "B",
+          "content": "adjusted the volume of the nature sounds to be greater than 60.8 decibels."
+        },
+        {
+          "name": "C",
+          "content": "perceived the nature sounds and âWhole Lotta Loveâ to be comparably meaningful despite perceiving the music to be quieter."
+        },
+        {
+          "name": "D",
+          "content": "experienced the nature sounds as louder than âWhole Lotta Loveâ even though they were not."
+        }
+      ],
+      "correct": "experienced the nature sounds as louder than âWhole Lotta Loveâ even though they were not.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Ulster Cycle</i> is an epic poem originally composed in Old Irish. Epic poems are typically ___________ that tell a story and focus on heroic deeds.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a long poemâs"
+        },
+        {
+          "name": "B",
+          "content": "long poems"
+        },
+        {
+          "name": "C",
+          "content": "long poemsâ"
+        },
+        {
+          "name": "D",
+          "content": "a long poem"
+        }
+      ],
+      "correct": "long poems",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When heated to a particular temperatureâaround 225 degrees ________ flaxseed oil will begin to emit smoke. Thatâs because every fat or oil has a smoke point. At this temperature, the substance cannot absorb any more heat energy and will begin to combust, emitting smoke.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Fahrenheit"
+        },
+        {
+          "name": "B",
+          "content": "Fahrenheitâ"
+        },
+        {
+          "name": "C",
+          "content": "Fahrenheit:"
+        },
+        {
+          "name": "D",
+          "content": "Fahrenheit)"
+        }
+      ],
+      "correct": "Fahrenheitâ",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Valerie Hollister, an American abstract painter whose works are distinctive for their stripes and washes, ______________ frequently included in the mid-twentieth-century art movement the Washington Color School, whose members were known for filling large canvases with fields of single colors.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is"
+        },
+        {
+          "name": "B",
+          "content": "are"
+        },
+        {
+          "name": "C",
+          "content": "were"
+        },
+        {
+          "name": "D",
+          "content": "have been"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Costa Rica and Portugal have two of the longest constitutions in the world. At 16,705 and 35,219 words, respectively, these __________ according to research by constitutional scholars George Tsebelis and Dominic J. Nardi, correlate with GDPs (gross domestic products) that are lower than those of countries with shorter constitutions.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "constitutionsâ length,"
+        },
+        {
+          "name": "B",
+          "content": "constitutionâs length,"
+        },
+        {
+          "name": "C",
+          "content": "constitutionsâ lengths,"
+        },
+        {
+          "name": "D",
+          "content": "constitutions lengths,"
+        }
+      ],
+      "correct": "constitutionsâ lengths,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The parks of Phoenix, Arizona, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was created and ______ contents analyzed geotagged social media posts from Phoenix. They found that posts from the cityâs parks contained more words associated with happiness than other posts did.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "their"
+        },
+        {
+          "name": "B",
+          "content": "its"
+        },
+        {
+          "name": "C",
+          "content": "theyâre"
+        },
+        {
+          "name": "D",
+          "content": "itâs"
+        }
+      ],
+      "correct": "its",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Austronesian language family comprises some 1,200 languagesâincluding the ________ Nauruan and Marshallese, which are spoken by 6,000 and 55,000 speakers, respectivelyâand accounts for one-fifth of the worldâs languages, making it of keen interest to linguists like Marian Klamer.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "languagesâ"
+        },
+        {
+          "name": "B",
+          "content": "languages:"
+        },
+        {
+          "name": "C",
+          "content": "languages"
+        },
+        {
+          "name": "D",
+          "content": "languages,"
+        }
+      ],
+      "correct": "languages",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Located on the Elbe River in Germany, the city of Hamburg was a member of a powerful mercantile alliance that dominated northern European trade between the 13th and 17th ______ Hanseatic League, a loose confederation of cities from eleven modern-day countries that has been described as a precursor to todayâs European Union.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "centuries. The"
+        },
+        {
+          "name": "B",
+          "content": "centuries; the"
+        },
+        {
+          "name": "C",
+          "content": "centuries the"
+        },
+        {
+          "name": "D",
+          "content": "centuries: the"
+        }
+      ],
+      "correct": "centuries: the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scientists studying asteroid deflection have focused on secondary objects such as S/2003 (5381), a moonlet orbiting the near-Earth asteroid Sekhmet. In 2022 NASA intentionally crashed a probe into just such an object, the moonlet Dimorphos. ___________ Dimorphosâs orbital period around the near-Earth asteroid Didymos was permanently altered.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "In comparison,"
+        },
+        {
+          "name": "C",
+          "content": "In addition,"
+        },
+        {
+          "name": "D",
+          "content": "Consequently,"
+        }
+      ],
+      "correct": "Consequently,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Great Salt Lake is in northern Utah.</li><li>Caspian terns are migratory birds.</li><li>They stop at the Great Salt Lake during migration.</li><li>Brine shrimp thrive in the lakeâs salty waters.</li><li>The Caspian terns feed on the shrimp.</li></ul></blockquote>",
+      "question": "The student wants to specify a location where Caspian terns stop during migration. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Caspian terns stop to feed during migration."
+        },
+        {
+          "name": "B",
+          "content": "Caspian terns are migratory birds that feed on brine shrimp."
+        },
+        {
+          "name": "C",
+          "content": "Migratory birds called Caspian terns feed on brine shrimp, which thrive in salty waters."
+        },
+        {
+          "name": "D",
+          "content": "During migration, Caspian terns stop at the Great Salt Lake in northern Utah."
+        }
+      ],
+      "correct": "During migration, Caspian terns stop at the Great Salt Lake in northern Utah.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul style=\"margin-left: 40px;\">\n  <li>The El Carmen-Verde Mountains are located in northwestern Mexico.</li>\n  <li>They cover an area of 1,141 square miles (mi<sup>2</sup>).</li>\n  <li>The Sierrita Mountains are located in the southwestern United States.</li>\n  <li>They cover an area of 63 mi<sup>2</sup>.</li>\n  <li>These mountain ranges are two of the dozens of âsky islandsâ in the southwestern US and northwestern Mexico.</li>\n  <li>A sky island is an isolated mountain range whose environment differs drastically from that of the surrounding lowlands.</li>\n</ul>",
+      "question": "The student wants to compare the sizes of the two mountain ranges. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Sky islands in northwestern Mexico and the southwestern US can vary in size."
+        },
+        {
+          "name": "B",
+          "content": "In terms of area, the El Carmen-Verde Mountains (which cover 1,141 mi<sup>2</sup>) are larger than the Sierrita Mountains (63 mi<sup>2</sup>)."
+        },
+        {
+          "name": "C",
+          "content": "There are dozens of isolated mountain ranges located in the southwestern US and northwestern Mexico."
+        },
+        {
+          "name": "D",
+          "content": "The El Carmen-Verde Mountains and the Sierrita Mountains are both isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands."
+        }
+      ],
+      "correct": "In terms of area, the El Carmen-Verde Mountains (which cover 1,141 mi<sup>2</sup>) are larger than the Sierrita Mountains (63 mi<sup>2</sup>).",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><ul style=\"margin-left: 40px;\"><li>Most of the plant and bird species in Oahu, Hawaii, are non-native.</li><li>In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.</li><li>Researchers catalogued plant seeds found in fecal samples from non-native birds.</li><li><i>Psydrax odorata</i>, a flowering shrub, was one of fifteen native species catalogued.</li><li><i>Hedychium gardnerianum</i>, an herbaceous vine, was one of twenty-nine non-native species catalogued.</li><li>Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.</li></ul>",
+      "question": "The student wants to explain what <i>Psydrax odorata</i> is. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "<i>Psydrax odorata</i> is a flowering shrub species that is native to Oahu, Hawaii."
+        },
+        {
+          "name": "B",
+          "content": "Most plant species found in Oahu, Hawaii, like <i>Hedychium gardnerianum</i>, are non-native."
+        },
+        {
+          "name": "C",
+          "content": "Seeds from <i>Psydrax odorata</i> were found by researchers in the feces of non-native birds."
+        },
+        {
+          "name": "D",
+          "content": "In a 2019 study, researchers catalogued seeds from <i>Psydrax odorata</i>."
+        }
+      ],
+      "correct": "<i>Psydrax odorata</i> is a flowering shrub species that is native to Oahu, Hawaii.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><ul style=\"margin-left: 40px;\"><li>Louis Ballard was a classical composer and citizen of the Quapaw Tribe.</li><li>Ballardâs composition <i>Desert Trilogy</i> was nominated for the Pulitzer Prize in music in 1971.</li><li>His composition <i>CacÃ©gaAyuwÃ­pi</i> incorporates a Chinook hand drum, a traditional Native instrument.</li><li>Ethnomusicologist Tara Browner claims that Ballardâs compositions rely on elements originating within Native musical traditions.</li></ul>",
+      "question": "The student wants to support Brownerâs claim about Louis Ballardâs compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Classical composer Louis Ballard, who wrote <i>CacÃ©gaAyuwÃ­pi</i>, was nominated for the Pulitzer Prize in music in 1971."
+        },
+        {
+          "name": "B",
+          "content": "According to Browner, composer Louis Ballard, who wrote <i>Desert Trilogy</i>, relies on elements with origins in Native musical traditions."
+        },
+        {
+          "name": "C",
+          "content": "Browner claims that Louis Ballardâs compositions, one of which was nominated for the Pulitzer Prize, rely on elements originating within Native musical traditions."
+        },
+        {
+          "name": "D",
+          "content": "Browner posits that Louis Ballardâs compositions rely on elements originating within Native musical traditions; <i>CacÃ©gaAyuwÃ­pi</i> affirms this assertion, incorporating a Chinook hand drum."
+        }
+      ],
+      "correct": "Browner posits that Louis Ballardâs compositions rely on elements originating within Native musical traditions; <i>CacÃ©gaAyuwÃ­pi</i> affirms this assertion, incorporating a Chinook hand drum.",
+      "solution": ""
+    }
+  ]
+}

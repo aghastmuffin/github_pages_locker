@@ -1,0 +1,682 @@
+{
+  "uuid": "0a5f1b28-e866-44fd-85d1-c7684ad9e576",
+  "chunk": "CiisJCqj.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. In 2013, the fellowship was given to the Pyramid Lake Paiute storyteller Ralph Burns. Burns was ______ to receive it because of his lifetime contributions to the arts.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "confused"
+        },
+        {
+          "name": "B",
+          "content": "reluctant"
+        },
+        {
+          "name": "C",
+          "content": "ineligible"
+        },
+        {
+          "name": "D",
+          "content": "chosen"
+        }
+      ],
+      "correct": "chosen",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Willa Cather’s 1912 novel <i>Alexander’s Bridge</i>.</p><div style=\"margin-left: 40px;\"><p>For the next few days Alexander was very busy. He took a desk in the office of a [Scottish] engineering firm on Henrietta Street, and was at work almost <u>constantly</u>. He avoided the clubs and usually dined alone at his hotel.</p></div>",
+      "question": "As used in the text, what does the word “constantly” most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Enough"
+        },
+        {
+          "name": "B",
+          "content": "Nonstop"
+        },
+        {
+          "name": "C",
+          "content": "Quickly"
+        },
+        {
+          "name": "D",
+          "content": "Cautiously"
+        }
+      ],
+      "correct": "Nonstop",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though it does not guarantee a book’s commercial success, ______ can play a big role in that success—a well-executed marketing campaign helped to make Danielle Steel’s novel <i>The Gift</i> the fourth-best-selling novel of 1994.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "originality"
+        },
+        {
+          "name": "B",
+          "content": "publicity"
+        },
+        {
+          "name": "C",
+          "content": "complexity"
+        },
+        {
+          "name": "D",
+          "content": "practicality"
+        }
+      ],
+      "correct": "publicity",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>According to a team of neuroeconomists from the University of Zurich, ease of decision making may be linked to communication between two brain regions, the prefrontal cortex and the parietal cortex. Individuals tend to be more decisive if the information flow between the regions is intensified, whereas they make choices more slowly when information flow is ______.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "reduced"
+        },
+        {
+          "name": "B",
+          "content": "evaluated"
+        },
+        {
+          "name": "C",
+          "content": "determined"
+        },
+        {
+          "name": "D",
+          "content": "acquired"
+        }
+      ],
+      "correct": "reduced",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ecologist Exequiel Ezcurra and colleagues found that the inhabitants of the Mexica empire used natural landmarks to track time with a high degree of ______. By observing the sun’s position in relation to various points on the mountains surrounding the Basin of Mexico, the Mexica were able to precisely identify the dates when significant events such as solstices occurred.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "precariousness"
+        },
+        {
+          "name": "B",
+          "content": "exactitude"
+        },
+        {
+          "name": "C",
+          "content": "resilience"
+        },
+        {
+          "name": "D",
+          "content": "inconspicuousness"
+        }
+      ],
+      "correct": "exactitude",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Old Manse in Concord, Massachusetts, is the house where Ralph Waldo Emerson lived for a few years and wrote his essay “Nature.” Now the house is a museum dedicated to Emerson’s life and writings. Visitors travel to this museum to feel more connected to an author they admire. To encourage that sense of connection, the museum’s curators recommend nearby hiking trails and organize outdoor activities. Such activities help visitors appreciate the natural scenery that inspired Emerson.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To summarize Emerson’s biography."
+        },
+        {
+          "name": "B",
+          "content": "To explain why readers enjoy Emerson’s works."
+        },
+        {
+          "name": "C",
+          "content": "To describe a museum focused on Emerson’s life and works."
+        },
+        {
+          "name": "D",
+          "content": "To compare the Old Manse with other museums."
+        }
+      ],
+      "correct": "To describe a museum focused on Emerson’s life and works.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Horses and toads can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. <u>Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of horses and toads than that of octopuses or squid.</u></p>",
+      "question": "Which choice best states the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It explains how 3D vision in horses and toads differs from the type of 3D vision discussed in the text."
+        },
+        {
+          "name": "B",
+          "content": "It offers a suggestion for future research on the aspect of 3D vision discussed in the text."
+        },
+        {
+          "name": "C",
+          "content": "It presents the results of the study of 3D vision discussed in the text."
+        },
+        {
+          "name": "D",
+          "content": "It explains why the animals discussed in the text were once thought to lack 3D vision."
+        }
+      ],
+      "correct": "It presents the results of the study of 3D vision discussed in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Boston has high pedestrian traffic, but simply replicating a feature of Boston associated with walkability—e.g., its high number of intersections—may be insufficient to induce increased walking in other cities. As urbanist Mariela Alfonzo argues, our understanding of individuals’ decision-making about whether to walk is insufficiently robust: some studies emphasize the role of <u>population density</u>, others the role of <u>individual physical fitness</u>, and so on, but walking decisions are made in complex contexts in which multiple conditions and needs inform individuals’ choices.</p>",
+      "question": "Which choice best describes the function of the references to “population density” and “individual physical fitness” in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "They represent factors that have been identified as important influences on walking decisions but that the text suggests are merely some of the many factors that may contribute to people’s decision-making about walking."
+        },
+        {
+          "name": "B",
+          "content": "They are examples of factors that studies suggest are important in people’s decision making about walking but that the text claims most people rarely consider when making walking decisions."
+        },
+        {
+          "name": "C",
+          "content": "They identify factors that Alfonzo argues have been overemphasized in studies of decision-making about walking but that the text asserts are relevant to most people’s walking decisions."
+        },
+        {
+          "name": "D",
+          "content": "They illustrate factors that researchers believe people consider when making walking decisions in most contexts but that the text argues are unique to walking decisions made by people in Boston."
+        }
+      ],
+      "correct": "They represent factors that have been identified as important influences on walking decisions but that the text suggests are merely some of the many factors that may contribute to people’s decision-making about walking.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Emily Dickinson’s circa 1873 poem “There is no Frigate like a Book.” A frigate is a light, fast ship; coursers are swift horses.</p><blockquote style=\"margin-left: 40px;\"><p>There is no Frigate like a Book<br>To take us Lands away<br>Nor any Coursers like a Page<br>Of prancing Poetry—<br>This Traverse may the poorest take<br>Without oppress of Toll—<br>How frugal is the Chariot<br>That bears the Human soul.</p></blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Poetry can forge connections between people from different cultures."
+        },
+        {
+          "name": "B",
+          "content": "Reading is a way of defying the modern world’s emphasis on money."
+        },
+        {
+          "name": "C",
+          "content": "Literature can metaphorically transport people to new places regardless of their means."
+        },
+        {
+          "name": "D",
+          "content": "People can learn more about distant places by reading books than by traveling to those places."
+        }
+      ],
+      "correct": "Literature can metaphorically transport people to new places regardless of their means.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Darcie Little Badger is a novelist and a member of the Lipan Apache Tribe of Texas. Critics and fellow writers have praised her work for combining traditional Apache stories with popular genres of literature, such as fantasy and horror fiction. But Little Badger is not the only Indigenous writer to blend traditional stories with popular literature. In the 2016 novel <i>Wrist</i>, Nathan Adler successfully blended the oral storytelling tradition of their people, the Anishinaabe, with horror fiction.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Several famous Indigenous writers increased their book sales when they began incorporating traditional stories."
+        },
+        {
+          "name": "B",
+          "content": "Recent Indigenous fiction writers are mixing traditional stories with popular literary genres."
+        },
+        {
+          "name": "C",
+          "content": "The success of Darcie Little Badger has influenced non Indigenous authors who write in popular literary genres."
+        },
+        {
+          "name": "D",
+          "content": "Non Indigenous authors should consider the expectations of Indigenous readers."
+        }
+      ],
+      "correct": "Recent Indigenous fiction writers are mixing traditional stories with popular literary genres.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Uncle Vanya: Scenes from Country Life in Four Acts</i> is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor’s daughter from a previous marriage. Chekhov portrays the professor as being unable to adjust to living at the country estate, as is evident when ______</p>",
+      "question": "Which quotation from a translation of <em>Uncle Vanya</em> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Vanya says to Professor Serebrakoff, “We used to think of you as almost superhuman, but now the scales have fallen from my eyes and I see you as you are!”."
+        },
+        {
+          "name": "B",
+          "content": "Professor Serebrakoff says, “I am a book worm and a scholar, and am unfamiliar with practical affairs. I cannot. I find dispense with the help of well-informed people.”."
+        },
+        {
+          "name": "C",
+          "content": "Professor Serebrakoff says to Helena, “I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness [the estate], condemned to see the same stupid people from morning till night and listen to their futile conversations.”."
+        },
+        {
+          "name": "D",
+          "content": "Professor Serebrakoff says to Helena and Sonia, “No, no, no! Don’t leave me alone with [Vanya]! Oh. don’t He will begin to lecture me.”."
+        }
+      ],
+      "correct": "Professor Serebrakoff says to Helena, “I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness [the estate], condemned to see the same stupid people from morning till night and listen to their futile conversations.”.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Fish whose DNA has been modified to include genetic material from other species are known as transgenic. Some transgenic fish have genes from jellyfish that result in fluorescence (that is, they glow in the dark). Although these fish were initially engineered for research purposes in the 1990s, they were sold as pets in the 2000s and can now be found in the wild in creeks in Brazil. A student in a biology seminar who is writing a paper on these fish asserts that their escape from Brazilian fish farms into the wild may have significant negative long-term ecological effects.</p>",
+      "question": "Which quotation from a researcher would best support the student’s assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "“In one site in the wild where transgenic fish were observed, females outnumbered males, while in another the numbers of females and males were equivalent.”"
+        },
+        {
+          "name": "B",
+          "content": "“Though some presence of transgenic fish in the wild has been recorded, there are insufficient studies of the impact of those fish on the ecosystems into which they are introduced.”"
+        },
+        {
+          "name": "C",
+          "content": "“The ecosystems into which transgenic fish are known to have been introduced may represent a subset of the ecosystems into which the fish have actually been introduced.”"
+        },
+        {
+          "name": "D",
+          "content": "“Through interbreeding, transgenic fish might introduce the trait of fluorescence into wild fish populations, making those populations more vulnerable to predators.”"
+        }
+      ],
+      "correct": "“Through interbreeding, transgenic fish might introduce the trait of fluorescence into wild fish populations, making those populations more vulnerable to predators.”",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\">Contributions of Three Key Industries to Oklahoma</p><p style=\"text-align:center;\">Economy in 2017</p><div style=\"text-align:center;\"><img src=\"/images/f7edfe93bee37e6001ee1ebd09fb890a.png\" width=\"416\" height=\"94\" style=\"display:inline-block;\"></div><p style=\"margin-top:16px; margin-bottom:16px; text-align:justify;\">The Cherokee Nation, the Quapaw Tribe, and the more than thirty other tribes in Oklahoma operate numerous businesses and collectively generate billions of dollars in revenue. In fact, when the tribes’ activity is regarded as a single industry, its contribution to the Oklahoma economy in 2017 ____________</p>",
+      "question": "Which choice uses data from the table to most effectively complete the comparison?",
+      "options": [
+        {
+          "name": "A",
+          "content": " was greater than the contribution made by professional services but equal to that made by arts/entertainment/recreation."
+        },
+        {
+          "name": "B",
+          "content": " exceeded the contribution made by both arts/entertainment/recreation and professional services."
+        },
+        {
+          "name": "C",
+          "content": " was lower than the contribution made by either arts/entertainment/recreation or professional services."
+        },
+        {
+          "name": "D",
+          "content": " surpassed the contribution made by arts/entertainment/recreation but fell short of that made by professional services."
+        }
+      ],
+      "correct": " surpassed the contribution made by arts/entertainment/recreation but fell short of that made by professional services.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\">Peering at Adult Orangutans by Immature Orangutans</p><div style=\"text-align:center;\"><img src=\"/images/85ee142de88da95041545dcde9be4397.png\" width=\"789\" height=\"334\"></div><p style=\"margin-top:16px; margin-bottom:16px; text-align:justify;\">One way that young orangutans acquire foraging skills is through a behavior scientists call peering—closely watching older orangutans as they engage in an activity that the young have not yet mastered. Since male orangutans typically leave the area of their birth upon maturity and females do not, Beatrice Ehmann and her colleagues hypothesized that it is more advantageous for immature males than females to devote attention to orangutans who are immigrants to the home region of the immature individual, and this should be reflected in sex-specific differences in peering behavior.</p>",
+      "question": "Which choice best describes data from the table that support Ehmann and colleagues’ hypothesis?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Individual 15 directed a higher proportion of peering events at immigrants to its home region than did individual 16, and individual 1 directed a higher proportion of peering events at immigrants to its home region than did individual 6."
+        },
+        {
+          "name": "B",
+          "content": "Individual 16 had the highest total number of peering events observed at 80."
+        },
+        {
+          "name": "C",
+          "content": "Individual 6 and individual 1 directed a lower proportion of peering events at immigrants to their home regions than did individual 15 and individual 16."
+        },
+        {
+          "name": "D",
+          "content": "The proportion of peering events directed at immigrants to immature orangutans’ home regions ranged from a low of 0.33 to a high of 1.00."
+        }
+      ],
+      "correct": "Individual 6 and individual 1 directed a lower proportion of peering events at immigrants to their home regions than did individual 15 and individual 16.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In May of 1987, Malaysia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Malaysian companies. This was part of a wave of stock market liberalizations around the world—Thailand in 1988, Mexico in 1989, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "companies did not benefit from liberalization until at least three years after liberalization occurred."
+        },
+        {
+          "name": "B",
+          "content": "economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization."
+        },
+        {
+          "name": "C",
+          "content": "companies in Thailand experienced a greater increase in investment following liberalization than did companies in Malaysia."
+        },
+        {
+          "name": "D",
+          "content": "empirical evidence was consistent with the scholarly consensus about the consequences of liberalization."
+        }
+      ],
+      "correct": "empirical evidence was consistent with the scholarly consensus about the consequences of liberalization.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>“He was just the man for such a place, and it was just the place for such a man.” This line is from Frederick Douglass’s autobiography <i>Narrative of the Life of Frederick Douglass</i> (1845). It’s an example of antimetabole, a writing technique that ______ emphasis by repeating a statement in a reversed order.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " create"
+        },
+        {
+          "name": "B",
+          "content": " are creating"
+        },
+        {
+          "name": "C",
+          "content": " have created"
+        },
+        {
+          "name": "D",
+          "content": " creates"
+        }
+      ],
+      "correct": " creates",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Over several years, anthropologist Livia Barbosa surveyed individuals in Brazil about their eating habits, collecting data, for example, on what days of the week respondents were more likely ______ common Brazilian foods, such as broa (a fennel-flavored cornbread) and tareco (a disk-shaped biscuit).</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ate"
+        },
+        {
+          "name": "B",
+          "content": "to eat"
+        },
+        {
+          "name": "C",
+          "content": "still be eating"
+        },
+        {
+          "name": "D",
+          "content": "eaten"
+        }
+      ],
+      "correct": "to eat",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To coders like Black Girls Code founder Kimberly Bryant, the computer programming languages Perl and Pascal have a clear difference: the former is an object-oriented language while the latter is not. Because both languages require highly technical knowledge to understand, though, laypeople ______ to distinguish between them.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "struggle"
+        },
+        {
+          "name": "B",
+          "content": "struggled"
+        },
+        {
+          "name": "C",
+          "content": "were struggling"
+        },
+        {
+          "name": "D",
+          "content": "had struggled"
+        }
+      ],
+      "correct": "struggle",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Included among a particular group of mid-twentieth-century artists known as the Zaria School, Nigerian expressionist ______ was known for using bold lines and for drawing on Indigenous artistic traditions and rejecting Western values.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "painter, Gani Odutokun,"
+        },
+        {
+          "name": "B",
+          "content": "painter Gani Odutokun."
+        },
+        {
+          "name": "C",
+          "content": "painter Gani Odutokun"
+        },
+        {
+          "name": "D",
+          "content": "painter, Gani Odutokun"
+        }
+      ],
+      "correct": "painter Gani Odutokun",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Timeline of African American Music, a website that traces the history of genres such as soul and ragtime, is the result of decades of research by ethnomusicologist Portia K. Maultsby. She was not alone in her ______ Fernando Orejuela and Stephanie Shonekan, among other scholars, also contributed to the project.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " efforts, however;"
+        },
+        {
+          "name": "B",
+          "content": " efforts however"
+        },
+        {
+          "name": "C",
+          "content": " efforts: however,"
+        },
+        {
+          "name": "D",
+          "content": " efforts, however,"
+        }
+      ],
+      "correct": " efforts, however;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a 2022 analysis, researchers applied a statistical model to a set of words to infer the rate of cognate replacement—the rate at which a word will be replaced over time with a noncognate form—in Indo-European languages. The researchers found that negative adjectives like “grim” evolve most rapidly; ______ negative nouns evolve most slowly.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "meanwhile,"
+        },
+        {
+          "name": "B",
+          "content": "similarly,"
+        },
+        {
+          "name": "C",
+          "content": "hence,"
+        },
+        {
+          "name": "D",
+          "content": "subsequently,"
+        }
+      ],
+      "correct": "meanwhile,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 1880s, inventor Lewis Latimer improved upon Thomas Edison’s design for the electric light bulb. ______ Latimer made the light bulb more durable by placing cardboard around its carbon filament. With this innovation, Latimer became the first Black inventor to contribute to the electrification of the world.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Soon,"
+        },
+        {
+          "name": "B",
+          "content": "Regardless,"
+        },
+        {
+          "name": "C",
+          "content": "However,"
+        },
+        {
+          "name": "D",
+          "content": "Specifically,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Soil polluted with nickel (a heavy metal) is harmful to many plants and animals, but the plant species <i>Najas marina</i>, or spiny water nymph, can thrive in such conditions. ______ as a metal hyperaccumulator, <i>Najas marina</i> absorbs a large amount of nickel and sequesters it in its roots and shoots, thereby reducing concentrations of this harmful substance in the soil.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Consequently,"
+        },
+        {
+          "name": "B",
+          "content": "By contrast,"
+        },
+        {
+          "name": "C",
+          "content": "What’s more,"
+        },
+        {
+          "name": "D",
+          "content": "Nevertheless,"
+        }
+      ],
+      "correct": "What’s more,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Richard Serra is an American artist.</li><li>He is known for his large metal sculptures.</li><li>His sculpture <i>Rotate</i> is roughly 6 feet wide and 12 feet tall.</li><li>It is made from weathering steel.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize the size of the sculpture?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Richard Serra is an American artist known for his large metal sculptures."
+        },
+        {
+          "name": "B",
+          "content": "Richard Serra’s Rotate is made of weathering steel."
+        },
+        {
+          "name": "C",
+          "content": "American artist Richard Serra creates large sculptures from metals such as weathering steel."
+        },
+        {
+          "name": "D",
+          "content": "<i>Rotate</i> a large metal sculpture by artist Richard Serra stretches roughly 6 feet wide and 12 feet tall."
+        }
+      ],
+      "correct": "<i>Rotate</i> a large metal sculpture by artist Richard Serra stretches roughly 6 feet wide and 12 feet tall.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Traditionally, manufacturers have dyed denim jeans blue by dipping them in a solution containing indigo powder.</li><li>Indigo doesn’t dissolve in just water, so manufacturers must mix hazardous chemicals with water to dissolve the powder.</li><li>Textile researcher Smriti Rai discovered a process for dyeing blue jeans without chemicals.</li><li>Rai added indigo powder to a hydrogel containing nanocellulose and produced a dye that could be spread directly onto the denim.</li><li>Nanocellulose is a natural, plant-based substance that separates the molecules of indigo powder.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between the two approaches to dyeing blue jeans. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Though created using a different process, Rai’s dye contains the same ingredient as the dye produced by blue jean manufacturers."
+        },
+        {
+          "name": "B",
+          "content": "Nanocellulose is a natural, plant-based substance that separates the molecules of indigo powder, which doesn’t dissolve in water."
+        },
+        {
+          "name": "C",
+          "content": "The traditional approach to dyeing blue jeans is to dip them in a solution containing hazardous chemicals."
+        },
+        {
+          "name": "D",
+          "content": "Rai’s approach substitutes a natural plant-based substance for the hazardous chemicals that manufacturers have traditionally used."
+        }
+      ],
+      "correct": "Rai’s approach substitutes a natural plant-based substance for the hazardous chemicals that manufacturers have traditionally used.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Earthquakes start at a point called a “focus” and spread out from there as seismic waves.</li><li>The two types of seismic waves that travel beneath Earth’s surface are primary waves (P waves) and secondary waves (S waves).</li><li>P waves travel more quickly beneath Earth’s surface than do S waves.</li><li>P waves compress and expand the ground, causing it to move backward and forward.</li><li>S waves cause the ground to move from side to side.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between P waves and S waves. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "P waves and S waves both travel beneath Earth’s surface, causing the ground to move."
+        },
+        {
+          "name": "B",
+          "content": "P waves travel away from an earthquake’s starting point at a higher rate of speed than do S waves."
+        },
+        {
+          "name": "C",
+          "content": "Spreading out from the focus of an earthquake, P waves move the ground backward and forward."
+        },
+        {
+          "name": "D",
+          "content": "Although P waves and S waves start at the same point, they behave very differently."
+        }
+      ],
+      "correct": "P waves and S waves both travel beneath Earth’s surface, causing the ground to move.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A currency is a money system.</li><li>Sometimes, countries adopt a new currency to replace an older one.</li><li>The Gambia adopted the Gambian pound as its official currency in 1965.</li><li>The dalasi replaced the Gambian pound in 1971.</li><li>The dalasi remains the Gambia’s official currency.</li></ul></blockquote>",
+      "question": "The student wants to specify how long the Gambia officially used the Gambian pound. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Gambian pound was the Gambia’s official currency from 1965 to 1971."
+        },
+        {
+          "name": "B",
+          "content": "Though the Gambia currently uses the dalasi, the country’s former official currency was introduced in 1965."
+        },
+        {
+          "name": "C",
+          "content": "The dalasi has been the Gambia’s official currency since 1971, when it replaced the Gambian pound."
+        },
+        {
+          "name": "D",
+          "content": "Countries sometimes adopt new currency systems, as the Gambia did when it replaced the Gambian pound with the dalasi."
+        }
+      ],
+      "correct": "The Gambian pound was the Gambia’s official currency from 1965 to 1971.",
+      "solution": ""
+    }
+  ]
+}

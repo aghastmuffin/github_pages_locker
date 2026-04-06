@@ -1,0 +1,682 @@
+{
+  "uuid": "f6d1c961-52d1-4186-baf5-d276dfd4939f",
+  "chunk": "wnZWcuZX.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Though not closely related, the hedgehog tenrecs of Madagascar share basic ______ true hedgehogs, including protective spines, pointed snouts, and small body size—traits the two groups of mammals independently developed in response to equivalent roles in their respective habitats.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "examples of"
+        },
+        {
+          "name": "B",
+          "content": "concerns about"
+        },
+        {
+          "name": "C",
+          "content": "indications of"
+        },
+        {
+          "name": "D",
+          "content": "similarities with"
+        }
+      ],
+      "correct": "similarities with",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Nancy Bird-Walton, who was an aviation pioneer, undoubtedly accomplished much, but her place in our historical memory is perhaps more ______ than that of a noteworthy “first” such as Krystyna Chojnowska-Liskiewicz, who was the first woman to sail solo around the world, a deed for which she will always be remembered.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "deserving"
+        },
+        {
+          "name": "B",
+          "content": "conspicuous"
+        },
+        {
+          "name": "C",
+          "content": "uncertain"
+        },
+        {
+          "name": "D",
+          "content": "enduring"
+        }
+      ],
+      "correct": "uncertain",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some robots such as WABOT-2 (developed in 1984) and Sophia (developed in 2015) are designed to resemble humans so that people will find it easier to interact with them. To that end, certain features such as bipedal locomotion can help to ______ people’s feelings of comfort, but a robot that looks <i>too</i> human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "mitigate"
+        },
+        {
+          "name": "B",
+          "content": "constrict"
+        },
+        {
+          "name": "C",
+          "content": "repudiate"
+        },
+        {
+          "name": "D",
+          "content": "buttress"
+        }
+      ],
+      "correct": "buttress",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While recent scholarship has undermined claims that the works of twelfth-century Islamic philosopher Ibn Rushd were ______ other Muslim philosophers of his time, it is indisputable that his location in the Muslim-ruled area of what is now Spain meant that his works were primarily available thousands of miles west of the era’s center of Islamic thought.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "controversial among"
+        },
+        {
+          "name": "B",
+          "content": "antagonistic toward"
+        },
+        {
+          "name": "C",
+          "content": "imitated by"
+        },
+        {
+          "name": "D",
+          "content": "inconsequential to"
+        }
+      ],
+      "correct": "inconsequential to",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Community science, which involves professional scientists collaborating with amateur science enthusiasts to study a topic, is often an effective and engaging way to conduct research. It can lead to greater public awareness of an ecosystem, provide youth with learning experiences outside of the classroom, and increase the amount of data researchers can collect. This approach was essential to the success of a study by biologist Grace Herzel and colleagues of butterfly wing patterns and their relation to behavior, which included findings from hundreds of students and community members in northwestern Arkansas.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It introduces the topic of a scientific study, describes the study’s importance, and then presents the study’s results."
+        },
+        {
+          "name": "B",
+          "content": "It identifies a particular approach to research, lists some benefits of that approach, and then mentions a study in which that approach was used."
+        },
+        {
+          "name": "C",
+          "content": "It describes the development of a type of scientific collaboration, shows how that type of collaboration has been used in a particular field of study, and then suggests future collaborative projects."
+        },
+        {
+          "name": "D",
+          "content": "It argues for a new approach to scientific research, comments on the public’s opinion about the approach, and then describes how that approach was applied in a certain study."
+        }
+      ],
+      "correct": "It identifies a particular approach to research, lists some benefits of that approach, and then mentions a study in which that approach was used.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>In separate studies, Yanbo Xiao and colleagues and Sanāa Wahbi and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Xiao and colleagues excluded all pathways other than the CMN by using barriers to keep the plants’ root systems separate while allowing mycorrhizal strands through—a crucial step Wahbi and colleagues’ study did not take.</p><br><p><strong>Text 2</strong><br>Xiao and colleagues took the necessary precaution of separating the plants’ root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the threadlike hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers’ experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.</p>",
+      "question": "Based on the texts, the author of Text 1 and the author of Text 2 would most likely give the same answer to which question?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Are the barriers used in Xiao and colleagues’ study sufficient to ensure that nutrient transfer could only occur via a CMN?"
+        },
+        {
+          "name": "B",
+          "content": "Did Wahbi and colleagues study effectively exclude any nutrient pathway other than a CMN?"
+        },
+        {
+          "name": "C",
+          "content": "Do plants that transfer nutrients through a root-to-root pathway also transmit nutrients via a CMN?"
+        },
+        {
+          "name": "D",
+          "content": "Is there an available barrier material that can block roots and liquids while allowing fungal strands through?"
+        }
+      ],
+      "correct": "Did Wahbi and colleagues study effectively exclude any nutrient pathway other than a CMN?",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers César A. Hidalgo, Elisa Castaner, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify movie theaters, gyms, and other businesses and map their locations. This approach has some limits—data from Places API tend to be restricted to places that are customer facing—but the data set nonetheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.</p>",
+      "question": "According to the text, what is one potential drawback of Hidalgo and colleagues’ method?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It may lead to conclusions that are not reflective of all the amenities in a given neighborhood."
+        },
+        {
+          "name": "B",
+          "content": "It is likely to contribute to inaccurate identifications of the boundaries of specific neighborhoods."
+        },
+        {
+          "name": "C",
+          "content": "It is based on recent advancements from other fields that have yet to be applied outside of those contexts."
+        },
+        {
+          "name": "D",
+          "content": "It depends upon data that are likely to be outdated."
+        }
+      ],
+      "correct": "It may lead to conclusions that are not reflective of all the amenities in a given neighborhood.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A number of artists associated with hyperpop, a movement in electronic music that emerged in the 2010s, aggressively manipulate their recorded voice. The musician Laura Les, for example, shifts the pitch of her vocals to be much higher than that of her natural range. And even the hyperpop artists who don’t rely on pitch-shifting, such as Charli XCX, often distort their vocals using digital tools. Rather than being an arbitrary stylistic choice, hyperpop’s persistent modification of the voice functions as a commentary on how digital technology mediates human experience today.</p>",
+      "question": "Based on the text, the author would be most likely to disagree with which statement about vocal manipulation in hyperpop?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is a symbol of the influence that hyperpop exerts on listeners’ sense of self."
+        },
+        {
+          "name": "B",
+          "content": "It represents changes to human experience brought about by technology."
+        },
+        {
+          "name": "C",
+          "content": "It is an aesthetic feature that has little or no social import."
+        },
+        {
+          "name": "D",
+          "content": "It confirms hyperpop’s ability to offset certain negative effects of digital technology."
+        }
+      ],
+      "correct": "It is an aesthetic feature that has little or no social import.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Joel Brown and colleagues showed that high moonlight intensity inhibits the activity of the Arizona pocket mouse (<i>Perognathus amplus</i>), a finding explicable in terms of benefits and costs: greater lunar intensity may not enable the mice to increase foraging success enough to offset the higher chance of detection by predatory owls or hawks. Though many other nocturnal mammals respond to lunar intensity variations similarly to Arizona pocket mice, three-striped night monkeys (<i>Aotus trivigatus</i>) display the opposite pattern, as their heavy reliance on visual foraging results in a different balance of reward and risk.</p>",
+      "question": "According to the text, what did Brown and colleagues find and why does that occur?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Arizona pocket mice tend to be more active during periods of high lunar intensity than at other times because such conditions allow them to increase their foraging success without making them easier to detect."
+        },
+        {
+          "name": "B",
+          "content": "During periods of high lunar intensity, Arizona pocket mice reduce their activity because it is easier for predators to detect the mice in relatively bright conditions than it is for predators to detect three striped night monkeys in such conditions."
+        },
+        {
+          "name": "C",
+          "content": "Arizona pocket mice reduce their activity during periods of high lunar intensity because predators can more easily spot the mice in brighter conditions and such conditions do not benefit the mice enough to justify that risk."
+        },
+        {
+          "name": "D",
+          "content": "During periods of high lunar intensity three-striped night monkeys show a different behavioral response than Arizona pocket mice and many other nocturnal mammals do because the risks to three striped night monkeys under such conditions are greater."
+        }
+      ],
+      "correct": "Arizona pocket mice reduce their activity during periods of high lunar intensity because predators can more easily spot the mice in brighter conditions and such conditions do not benefit the mice enough to justify that risk.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>“The Yellow Wallpaper” is a 1892 short story by Charlotte Perkins Gilman. In the story, the narrator expresses mixed feelings about her surroundings: ______</p>",
+      "question": "Which quotation from “The Yellow Wallpaper” most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "“This wallpaper has a kind of sub-pattern in a different shade, a particularly irritating one, for you can only see it in certain lights, and not clearly then.”"
+        },
+        {
+          "name": "B",
+          "content": "“By moonlight / the moon shines in all night when there is a moon / I wouldn’t know it was the same paper.”"
+        },
+        {
+          "name": "C",
+          "content": "“I’m really getting quite fond of the big room, all but that horrid [wall] paper.”"
+        },
+        {
+          "name": "D",
+          "content": "“The color is repellant, almost revolting: a smouldering, unclean yellow, strangely faded by the slow turning sunlight.”"
+        }
+      ],
+      "correct": "“I’m really getting quite fond of the big room, all but that horrid [wall] paper.”",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/86dd0b40bd60a5159489c1f0bf8dcc66.png\" width=\"307\" height=\"328\" style=\"display:inline-block;\"></div><p>It may seem that the optimal strategy for an animal pursuing prey or escaping predators is to move at maximal speed, but the energy expense of exploiting full speed capacity can disfavor such a strategy even in escape contexts, as evidenced by the fact that ______</p>",
+      "question": "Which choice most effectively use data from the graph to complete the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "most lizard species use about the same percentage of their maximal speed when escaping predation as they do when pursuing prey."
+        },
+        {
+          "name": "B",
+          "content": "multiple lizard species move at an average of less than 90% of their maximal speed while escaping predation."
+        },
+        {
+          "name": "C",
+          "content": "more lizard species use, on average, 90% -100% of their maximal speed while escaping predation than use any other percentage of their maximal speed."
+        },
+        {
+          "name": "D",
+          "content": "at least 4 lizard species use, on average, less than 100% of their maximal speed while pursuing prey."
+        }
+      ],
+      "correct": "multiple lizard species move at an average of less than 90% of their maximal speed while escaping predation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The small white heron and the glossy ibis are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of these birds’ habitats, such as how quickly water drains from the area and the amount of tree-canopy cover there is in the area. They found that small white herons prefer areas with extensive canopy cover, but this was not true for glossy ibises. The researchers therefore concluded that wetland-management strategies that increase the amount of tree canopy in potential wetland bird habitats are less likely to ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "attract glossy ibises to the area than they are to attract small white herons to the area."
+        },
+        {
+          "name": "B",
+          "content": "extend the average lifespan of small white herons already in the area than they are to attract a greater number of those birds to the area."
+        },
+        {
+          "name": "C",
+          "content": "decrease the area’s appeal to both small white herons and glossy ibises than they are to increase the appeal to other species."
+        },
+        {
+          "name": "D",
+          "content": "attract birds that don’t typically live in wetlands to the area than they are to attract small white herons or glossy ibises to the area."
+        }
+      ],
+      "correct": "attract glossy ibises to the area than they are to attract small white herons to the area.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Biologists Rebecca M. Calisi-Rodriguez and George E. Bentley examined research on kestrels and canaries, both of which have been studied in the laboratory as well as in the wild, to see how studies’ settings might have affected their results. Lab studies are useful because they make it easy to control important variables, but kestrels’ surroundings can significantly affect their hormone levels. Therefore, it’s not altogether surprising that when Calisi-Rodriguez and Bentley examined studies of kestrels, they found that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hormone levels were higher in wild males than in captive male canaries."
+        },
+        {
+          "name": "B",
+          "content": "wild males and captive males usually exhibited very similar hormone levels."
+        },
+        {
+          "name": "C",
+          "content": "significant differences in hormone levels between individuals were found for both wild males and captive males."
+        },
+        {
+          "name": "D",
+          "content": "levels of androgen hormones during breeding season the higher in wild males than they are in captive males."
+        }
+      ],
+      "correct": "levels of androgen hormones during breeding season the higher in wild males than they are in captive males.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Woven from recycled yarn and hand tufted using a carpet weaving technique passed down by the artist’s Turkish grandmother, ______ so lush and tactilely inviting that you are tempted to reach out and touch them.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " the topological tapestries of Argentine textile artist Alexandra Kehayoglou are"
+        },
+        {
+          "name": "B",
+          "content": " the Argentine textile artist Alexandra Kehayoglou creates topological tapestries that are"
+        },
+        {
+          "name": "C",
+          "content": " when she creates her topological tapestries. Argentine textile artist Alexandra Kehayoglou makes them"
+        },
+        {
+          "name": "D",
+          "content": " Alexandra Kehayoglou is an Argentine textile artist whose topological tapestries are"
+        }
+      ],
+      "correct": " the topological tapestries of Argentine textile artist Alexandra Kehayoglou are",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The editors of <i>Home Ground: A Guide to the American Landscape</i> turned to the ______ to craft the entry about “hueco,” a term referring to a water-retaining depression in a rock face.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " novelist Stephen Graham Jones"
+        },
+        {
+          "name": "B",
+          "content": " novelist, Stephen Graham Jones,"
+        },
+        {
+          "name": "C",
+          "content": " novelist. Stephen Graham Jones"
+        },
+        {
+          "name": "D",
+          "content": " novelist Stephen Graham Jones,"
+        }
+      ],
+      "correct": " novelist Stephen Graham Jones",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Featured in <i>The New Woman Behind the Camera</i> (2021) is a photograph taken in 1935 by Karimeh ______ “Three Women,” Abbud’s image contributes to the exhibition’s goal of showcasing the diverse, innovative, often aesthetically daring work of female photographers from the 1920s through the 1950s.</p>",
+      "question": "Which choice completes the text so that if conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " Abbud and titled"
+        },
+        {
+          "name": "B",
+          "content": " Abbud, titled"
+        },
+        {
+          "name": "C",
+          "content": " Abbud titled"
+        },
+        {
+          "name": "D",
+          "content": " Abbud. Titled"
+        }
+      ],
+      "correct": " Abbud. Titled",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In her 1983 book <i>The Managed Hear: Commercialization of Human Feeling</i>, sociologist Arlie Russell Hochschild first explored at length her conception of a “sociology of emotions”—the idea that the various cultural and ideological frameworks a person has internalized (class, gender, political affiliation, etc.) ______ each emotional reaction that person has within a situation.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "underlies"
+        },
+        {
+          "name": "B",
+          "content": "is underlying"
+        },
+        {
+          "name": "C",
+          "content": "underlie"
+        },
+        {
+          "name": "D",
+          "content": "has been underlying"
+        }
+      ],
+      "correct": "underlie",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Photographer Mária Svarbová has reached audiences well beyond her home country of Slovakia. In 2020, her work was featured at the Alex Schlesinger Gallery in ______ the exhibited photographs, with their vivid pastel colors, overexposed tones, and mirrorlike symmetry, captivated audiences.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " Switzerland, for example;"
+        },
+        {
+          "name": "B",
+          "content": " Switzerland, for example,"
+        },
+        {
+          "name": "C",
+          "content": " Switzerland. For example"
+        },
+        {
+          "name": "D",
+          "content": " Switzerland: for example."
+        }
+      ],
+      "correct": " Switzerland, for example;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On February 1, 2018, Florida-based researchers Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez ______ climate data from several sites in Puerto Rico’s Luquillo Mountains. At 12:00 a.m., the air temperature was 15.6℃ at site CC1, the site with the highest elevation, and it had shifted to 16.2℃ by 6:00 p.m.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " compiled,"
+        },
+        {
+          "name": "B",
+          "content": " compiled"
+        },
+        {
+          "name": "C",
+          "content": " compiled:"
+        },
+        {
+          "name": "D",
+          "content": " compiled."
+        }
+      ],
+      "correct": " compiled",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2013, a study led by the researcher Laura A. Burkle investigated the relationship between grassland arthropod populations and agricultural ______ macronutrients like nitrogen, phosphorus, and potassium. Containing fertilizers boost the productivity of crops, potentially offering more nutrients for arthropods.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " fertilizers. Containing"
+        },
+        {
+          "name": "B",
+          "content": " fertilizers, containing"
+        },
+        {
+          "name": "C",
+          "content": " fertilizers containing"
+        },
+        {
+          "name": "D",
+          "content": " fertilizers, which contain"
+        }
+      ],
+      "correct": " fertilizers containing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic, as evidenced by its low lift-to-drag ratio of just 8.3:1. The Douglas DC-10 jet, like most modern aircraft, is far more aerodynamic. ______ its lift-to-drag ratio is more than twice that of the Wright Flyer.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "In conclusion,"
+        },
+        {
+          "name": "C",
+          "content": "However,"
+        },
+        {
+          "name": "D",
+          "content": "Nevertheless,"
+        }
+      ],
+      "correct": "Specifically,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Modernista architects championed nature in their designs. ______ the whimsical archways and ornate floral tilework of Casa Amatller, a Modernista private home designed by Josep Puig i Cadafalch, couldn’t exactly grow in a forest. Still, one sees natural influences in Puig i Cadafalch’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Of course,"
+        },
+        {
+          "name": "B",
+          "content": "Thus,"
+        },
+        {
+          "name": "C",
+          "content": "Similarly."
+        },
+        {
+          "name": "D",
+          "content": "Furthermore."
+        }
+      ],
+      "correct": "Of course,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Before the first railroads were built in Australia, engineers warned against using multiple track widths across the continent. ______ regional officials couldn’t agree on a single-width system. Thus, railways in Queensland, like the Big Pineapple Railway, were made using narrow tracks, while those in Victoria were built with wide tracks.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Similarly,"
+        },
+        {
+          "name": "B",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "C",
+          "content": "For this reason,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "Nevertheless,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Legislators in Barbados are elected via a first-past-the-post electoral system. In this winner-take-all voting system, the seat is awarded to the candidate who receives not a majority but a plurality (i.e., greatest number) of votes. ______ if several popular candidates are vying for the same seat, it is possible for a candidate to win an election despite receiving less than 50% of the votes.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Moreover,"
+        },
+        {
+          "name": "C",
+          "content": "Similarly,"
+        },
+        {
+          "name": "D",
+          "content": "Accordingly,"
+        }
+      ],
+      "correct": "Accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Ynés Mexía was a Mexican American botanist.</li><li>Between 1917 and 1938, she collected over 150,000 botanical samples throughout the Americas.</li><li>She collected a sample of <i>Erigeron maximus</i> in Minas Gerais, Brazil, on February 1, 1930.</li><li>She collected a sample of <i>Brickellia diffusa</i> in Jalisco, Mexico, on November 23, 1926.</li><li>These specimens are members of the Asteraceae family.</li><li>They can now be viewed online at the C.V. Starr Virtual Herbarium.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize when she collected both of the samples?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While both specimens collected by Ynés Mexía are members of the same family, <i>Erigeron maximus</i> was found in Minas Gerais and <i>Brickellia diffusa</i> was found in Jalisco."
+        },
+        {
+          "name": "B",
+          "content": "Ynés Mexía collected a sample of <i>Erigeron maximus</i> in February of 1930, after collecting <i>Brickellia diffusa</i> in November of 1926."
+        },
+        {
+          "name": "C",
+          "content": "On February 1 in 1930, Ynés Mexía added a new specimen to her growing collection of botanical samples: <i>Erigeron maximus</i> of the Asteraceae family."
+        },
+        {
+          "name": "D",
+          "content": "Thousands of botanical samples collected by Ynés Mexía can now be found in one place: online at the C.V. Starr Virtual Herbarium."
+        }
+      ],
+      "correct": "Ynés Mexía collected a sample of <i>Erigeron maximus</i> in February of 1930, after collecting <i>Brickellia diffusa</i> in November of 1926.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Acaxochitlán is a municipality in the state of Hidalgo, Mexico.</li><li>Municipalities are governmental regions responsible for providing many public services to their residents.</li><li>One service they provide is water treatment.</li><li>Acaxochitlán’s population was 46,065 in 2020.</li><li>Its population was 40,583 in 2010.</li><li>Hidalgo is divided into 84 municipalities.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the 2020 population of Acaxochitlán. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As a municipality in Hidalgo, Acaxochitlán is responsible for providing public services to its population."
+        },
+        {
+          "name": "B",
+          "content": "Home to 40,583 people, the governmental region was responsible for providing water treatment to its population in 2010."
+        },
+        {
+          "name": "C",
+          "content": "As of 2020, Acaxochitlán was one of 84 municipalities in Hidalgo, Mexico."
+        },
+        {
+          "name": "D",
+          "content": "In 2020, the municipality of Acaxochitlán had a population of 46,065."
+        }
+      ],
+      "correct": "In 2020, the municipality of Acaxochitlán had a population of 46,065.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Vexillology is the study of flags.</li><li>The flags of many countries include symbols like animals, plants, or landforms.</li><li>These symbols often represent an aspect of the region’s history, culture, or landscape.</li><li>The flag of Grenada includes a clove of nutmeg.</li><li>The flag of Andorra includes a cow.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on flags?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Grenada’s flag includes a clove of nutmeg, a symbol that is important to that country’s national identity."
+        },
+        {
+          "name": "B",
+          "content": "Vexillology is the study of flags: accordingly, vexillologists are interested in flags from around the world."
+        },
+        {
+          "name": "C",
+          "content": "The flags of some countries include symbols of plants: Grenada’s, for example, includes a clove of nutmeg."
+        },
+        {
+          "name": "D",
+          "content": "Many countries feature symbols on their flags, and the study of these designs is known as vexillology."
+        }
+      ],
+      "correct": "The flags of some countries include symbols of plants: Grenada’s, for example, includes a clove of nutmeg.",
+      "solution": ""
+    }
+  ]
+}

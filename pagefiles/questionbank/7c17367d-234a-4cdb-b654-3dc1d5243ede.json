@@ -1,0 +1,682 @@
+{
+  "uuid": "7c17367d-234a-4cdb-b654-3dc1d5243ede",
+  "chunk": "Bbi0QxIO.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Rudolfo Anaya's 1972 novel <i>Bless Me, Ultima</i>. The young narrator is eating breakfast with his two sisters in their home in rural New Mexico.</p><blockquote style=\"margin-left: 40px;\"><p>I sat across the table from Deborah and Teresa and ate my atole and the hot tortilla with butter. I said very little. I usually spoke very little to my two sisters. They were older than I and they were very close. They usually spent the entire day in the attic, playing dolls and giggling. I did not <u>concern myself with</u> those things.</p></blockquote><p style=\"text-align: right;\">Â©1972 by Rudolfo Anaya</p>",
+      "question": "As used in the text, what does the phrase \"concern myself with\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Buy"
+        },
+        {
+          "name": "B",
+          "content": "Feel any anger toward"
+        },
+        {
+          "name": "C",
+          "content": "Take any interest in"
+        },
+        {
+          "name": "D",
+          "content": "Create"
+        }
+      ],
+      "correct": "Take any interest in",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>By placing sites such as Brazil's Discovery Coast Atlantic Forest Reserves on its World Heritage List, the United Nations Educational, Scientific, and Cultural Organization champions their preservation, in the hope that they will not be willfully damaged or left to ______</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "provoke."
+        },
+        {
+          "name": "B",
+          "content": "regenerate."
+        },
+        {
+          "name": "C",
+          "content": "deteriorate."
+        },
+        {
+          "name": "D",
+          "content": "diversify."
+        }
+      ],
+      "correct": "deteriorate.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Virginia Woolf's 1919 novel <i>Night and Day</i>. Katharine is the granddaughter of a celebrated poet.</p><blockquote style=\"margin-left: 40px;\">[Katharine's] descent from [a celebrated poet] was no surprise to her, but matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very <u>manifest</u>. Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.</blockquote>",
+      "question": "As used in the text, what does the word \"manifest\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Possible"
+        },
+        {
+          "name": "B",
+          "content": "Evident"
+        },
+        {
+          "name": "C",
+          "content": "Complex"
+        },
+        {
+          "name": "D",
+          "content": "Particular"
+        }
+      ],
+      "correct": "Evident",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The discoverers of the minor planet 2731 Cucula named it after the animal genus that includes cuckoos. Most of the recently discovered minor planets, however, are given only an identification number, a trend that can be ______ to there being over 500,000 such bodies known at present, making it nearly impossible to find a unique name for each.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "attributed"
+        },
+        {
+          "name": "B",
+          "content": "referred"
+        },
+        {
+          "name": "C",
+          "content": "alluded"
+        },
+        {
+          "name": "D",
+          "content": "entrusted"
+        }
+      ],
+      "correct": "attributed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many visitors to Yellowstone National Park need airlines, car rentals, hotels, and restaurants during their visits. These services generate carbon emissions. Emily Wilkins and Jordan Smith found that most of the environmentally harmful emissions come from travel services to and from the park. <u>Wilkins and Smith found that policymakers could help reduce these emissions by encouraging people to visit state or national parks closer to their homes to cut down on their travel.</u></p>",
+      "question": "Which choice best states the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It presents a harm that is unique to the location described earlier in the text."
+        },
+        {
+          "name": "B",
+          "content": "It indicates that policymakers have been working on a certain problem for a long time."
+        },
+        {
+          "name": "C",
+          "content": "It suggests a course of action to address the problem described earlier in the text."
+        },
+        {
+          "name": "D",
+          "content": "It rephrases the question raised in the first sentence of the text."
+        }
+      ],
+      "correct": "It suggests a course of action to address the problem described earlier in the text.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though John Crowley, author of <i>Flint and Mirror</i>, is perhaps not as well known as the most commercially successful American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley's book <i>Little, Big</i>, <u>Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes</u>âwhile Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), <i>Little, Big</i> fuses both modes of writing.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It gives a reason why a critic appreciates a certain book."
+        },
+        {
+          "name": "B",
+          "content": "It helps clarify the distinction between two categories."
+        },
+        {
+          "name": "C",
+          "content": "It compares the work of a writer with that of a poet who admired him."
+        },
+        {
+          "name": "D",
+          "content": "It contrasts the opinions of two critics."
+        }
+      ],
+      "correct": "It gives a reason why a critic appreciates a certain book.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Anthony Trollope's 1855 novel <i>The Warden</i>. The narrator is describing a rectory, the residence of a clergyperson.</p><blockquote style=\"margin-left: 40px;\"><p>Let us observe the well-furnished breakfast-parlour at Plumstead Episcopi, and the comfortable air of all the belongings of the rectory. Comfortable they certainly were, but neither gorgeous nor even grand; indeed, considering the money that had been spent there, the eye and taste might have been better served; there was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; <u>but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred.</u></p></blockquote>",
+      "question": "Which choice best states the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It offers a potential explanation for the furnishing choices the narrator critiques."
+        },
+        {
+          "name": "B",
+          "content": "It emphasizes that the narrator finds it inappropriate for a clergyperson to have such grand furnishings."
+        },
+        {
+          "name": "C",
+          "content": "It signals how the inexpensive-looking ornaments in the rectory could be enhanced."
+        },
+        {
+          "name": "D",
+          "content": "It concedes that there is a lack of attention to the impression the rectory makes on people."
+        }
+      ],
+      "correct": "It offers a potential explanation for the furnishing choices the narrator critiques.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br><i>Ollantay</i> is a play in Quechua, an Indigenous language in South America. The play portrays life in the Inca Empire before Spain invaded in the 1500s. Yet the oldest known text of the play is from 1770, and in many places its writing style resembles the writing style of Spanish plays from the 1700s. Thus, <i>Ollantay</i> was probably created in the late 1700s by someone who knew much about the Inca past.</p><p><strong>Text 2</strong><br><i>Ollantay</i> includes details of Inca society that a writer in the 1700s wouldn't have known about. Also, the play's structure matches descriptions of the structure of Inca drama from the 1500s. The obvious explanation is that <i>Ollantay</i> itself is an Inca work from the 1500s. It could have been performed continuously from the 1500s to the 1700s. By the time it was written down in 1770, it could have easily been influenced by later Spanish plays.</p>",
+      "question": "Based on the texts, what do the author of Text 1 and the author of Text 2 mainly disagree about?",
+      "options": [
+        {
+          "name": "A",
+          "content": "What inspired a Spanish writer in the 1700s to write a play about the Inca Empire."
+        },
+        {
+          "name": "B",
+          "content": "Whether <i>Ollantay</i> is an Inca play from the 1500s or was instead created much later, in the 1700s."
+        },
+        {
+          "name": "C",
+          "content": "How the Inca author of <i>Ollantay</i> knew so much about plays from Spain."
+        },
+        {
+          "name": "D",
+          "content": "Why Inca plays became more popular in the 1700s than they had been when they were first performed in the 1500s."
+        }
+      ],
+      "correct": "Whether <i>Ollantay</i> is an Inca play from the 1500s or was instead created much later, in the 1700s.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a period of great prosperity during his reign, Egyptian pharaoh Amenemhat III (circa 1800 BCE) had a pyramid with a massive substructure built at Hawara. The underground complex was largely dismantled in antiquity, but accounts of its splendor remain, including one from Greek historian Herodotus, who claimed to have seen it. In his <i>Histories</i> (circa 425 BCE), Herodotus writes of 3,000 chambers adorned with carved figures, a dozen courts flanked by white stone pillars, and many winding passages in the complex, characterizing it as a great labyrinth and \"an unending marvel.\"</p>",
+      "question": "According to the text, what information did Herodotus include in his <i>Histories</i>?",
+      "options": [
+        {
+          "name": "A",
+          "content": "An account of the magnificence of the complex that once stood beneath the pyramid at Hawara."
+        },
+        {
+          "name": "B",
+          "content": "A record of how long it took for the pyramid and complex to be constructed at Hawara."
+        },
+        {
+          "name": "C",
+          "content": "A discussion of how building the pyramid and complex at Hawara led to a period of prosperity."
+        },
+        {
+          "name": "D",
+          "content": "An explanation of how Herodotus was able to arrange to see the pyramid and complex at Hawara."
+        }
+      ],
+      "correct": "An account of the magnificence of the complex that once stood beneath the pyramid at Hawara.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Dubautia carrii</i> is among the twenty-eight species of silversword plants found only on the Hawaiian archipelago that collectively illustrate the process of adaptive radiation, or the rapid diversification of an ancestral species into different, related species. Each silversword species is physically distinct, with mature plant forms ranging from trees and shrubs to vines. However, they all descended from a common tarweed plant species, with their unique physical characteristics emerging as they adapted to the archipelago's many specific habitats over time.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "All silverswords that grow on the Hawaiian archipelago have similar physical characteristics."
+        },
+        {
+          "name": "B",
+          "content": "The Hawaiian archipelago exhibits many distinct habitats and species."
+        },
+        {
+          "name": "C",
+          "content": "Most plants that grow on the Hawaiian archipelago are descendants of a single founder species."
+        },
+        {
+          "name": "D",
+          "content": "Silverswords are good examples of adaptive radiation on the Hawaiian archipelago."
+        }
+      ],
+      "correct": "Silverswords are good examples of adaptive radiation on the Hawaiian archipelago.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/f8899a7f4a4def5b19c5b8833bdaaf77.png\" style=\"width: 650px; height: 386px;\"></div><p>A citizen of the Leech Lake Band of Ojibwe is a student in a geography class. The student wants to compare the total area covered by her tribal nation in Minnesota with the total areas covered by certain tribal nations in other states. Looking at the table, she finds that the area of the Leech Lake Band of Ojibwe is 1,311 square miles, while the area of the White Mountain Apache Tribe in Arizona is ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the comparison?",
+      "options": [
+        {
+          "name": "A",
+          "content": "7,648 square miles."
+        },
+        {
+          "name": "B",
+          "content": "2,631 square miles."
+        },
+        {
+          "name": "C",
+          "content": "4,419 square miles."
+        },
+        {
+          "name": "D",
+          "content": "3,606 square miles."
+        }
+      ],
+      "correct": "2,631 square miles.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.</p>",
+      "question": "Which finding, if true, would most directly support the US transportation experts' claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In most locations in the US, increasing highway capacity is more expensive relative to the volume of traffic that can be accommodated than increasing high-speed rail capacity is."
+        },
+        {
+          "name": "B",
+          "content": "In much of the US, the existing rail infrastructure is so old that it would have to be replaced entirely in order to accommodate high-speed trains."
+        },
+        {
+          "name": "C",
+          "content": "Building successful high-speed rail infrastructure would require that the US government establish a fund to maintain the rail lines long-term."
+        },
+        {
+          "name": "D",
+          "content": "Unlike people in the United States, people in Turkey and Germany are less interested in traveling by highway than they are in traveling by high-speed rail."
+        }
+      ],
+      "correct": "In most locations in the US, increasing highway capacity is more expensive relative to the volume of traffic that can be accommodated than increasing high-speed rail capacity is.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/909ff4f7cd1b7da0095566d57f77af11.svg\" style=\"width: 450px; height: 478px;\"></div><p>A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations' highest courts, such as the Supreme Court of Justice in Mexico and the Supreme Court in the Philippines, found that the overall trend is toward more women serving on the high courts in 2010 than in 1980. For example, none of the countries in the graph had more than 2 women in these positions in 1980, but ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in 2010, Peru had 3 women on its high courts, the Philippines had 3, and Mexico had 3."
+        },
+        {
+          "name": "B",
+          "content": "neither Peru nor the Philippines saw a reduction in the women on their high courts in any of the years shown on the graph, but Mexico did after 1990."
+        },
+        {
+          "name": "C",
+          "content": "the increase in the number of women on the high courts from 1980 to 2010 in Peru was greater than that in either the Philippines or Mexico."
+        },
+        {
+          "name": "D",
+          "content": "Mexico had 2 women on its high courts in 1980 and 3 in 2010."
+        }
+      ],
+      "correct": "in 2010, Peru had 3 women on its high courts, the Philippines had 3, and Mexico had 3.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Careful planning was essential for the success of the Deep Impact probe, which conducted a flyby of comet 9P/Tempel and then traveled to comet 103P/Hartley. The CONTOUR probe mission seemed similarly well planned, but engineers lost communications with the probe before it could achieve the mission goal of visiting comet 73P/Schwassmann-Wachmann. This shows that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the Deep Impact was more successful than the CONTOUR because it had fewer tasks to accomplish."
+        },
+        {
+          "name": "B",
+          "content": "having multiple mission goals ensures that a probe will accomplish at least one of its tasks."
+        },
+        {
+          "name": "C",
+          "content": "the CONTOUR would likely have accomplished its tasks if it had been sent somewhere other than comet 73P/Schwassmann-Wachmann."
+        },
+        {
+          "name": "D",
+          "content": "careful planning alone does not guarantee that a probe will accomplish its mission."
+        }
+      ],
+      "correct": "careful planning alone does not guarantee that a probe will accomplish its mission.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Dermatological researchers and geneticists make regular use of representative cross-sections of hair fibers, but such a cross-section can be obtained only if the strand can be cut perpendicular to its length without distorting the cross-sectional shape, which necessitates embedding the hair in a stabilizing medium, often resin, before sectioning it. Resin is effective but slow due to its long curing time, which led Tina Lasisi and colleagues to try sheets of low-melt-point plastic as a stabilizer. They found that these sheets match resin's utility as a stabilizer while allowing for near-instantaneous embedding of hair, thereby demonstrating that using low-melt-point plastic sheeting rather than resin can enhance ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "an embedded hair's cross-sectional shape without reducing the researchers' likelihood of obtaining perpendicular cuts."
+        },
+        {
+          "name": "B",
+          "content": "the efficiency of preparatory steps before sectioning a hair without compromising the hair's cross-sectional shape."
+        },
+        {
+          "name": "C",
+          "content": "the rate at which hairs can be embedded before sectioning because no stabilizing agent is used."
+        },
+        {
+          "name": "D",
+          "content": "the researchers' likelihood of obtaining perpendicular cuts while simplifying the process of preparing a hair for sectioning."
+        }
+      ],
+      "correct": "the efficiency of preparatory steps before sectioning a hair without compromising the hair's cross-sectional shape.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 1920s and 1930s, the singer Frank \"Machito\" Grillo performed with Cuba's most popular dance orchestras. However, the fusion of Latin music and American jazz that Machito innovated while performing in New York City is what has ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "earned him his enduring fame?"
+        },
+        {
+          "name": "B",
+          "content": "his enduring fame earned him?"
+        },
+        {
+          "name": "C",
+          "content": "his enduring fame earned him."
+        },
+        {
+          "name": "D",
+          "content": "earned him his enduring fame."
+        }
+      ],
+      "correct": "earned him his enduring fame.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Before the Spanish arrived in the 1400s, the people of La Gomera, one of the Canary Islands, would use a whistled version of their native language to \"speak\" to each other from far away. Amazingly, under Spanish rule, the ______ adapted their whistling skills to whistle to each other in Spanish.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "island's residents"
+        },
+        {
+          "name": "B",
+          "content": "islands resident's"
+        },
+        {
+          "name": "C",
+          "content": "island's resident's"
+        },
+        {
+          "name": "D",
+          "content": "islands residents'"
+        }
+      ],
+      "correct": "island's residents",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Assembling ______ by hand and in painstaking detail, Nigerian American artist Njideka Akunyili Crosby works at a methodical pace when completing her massive collage-based paintings.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "it"
+        },
+        {
+          "name": "B",
+          "content": "that"
+        },
+        {
+          "name": "C",
+          "content": "her"
+        },
+        {
+          "name": "D",
+          "content": "them"
+        }
+      ],
+      "correct": "them",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like almost every country in the world, Britain has been allocated an international dialing prefix to help route incoming international calls. First assigned to Britain in the 1960s <i>Red Book</i>, a directory published by a United Nations telecommunications agency, ______</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "international direct dialing was not widely available until the 1970s, so initially, only switchboard operators used the prefix."
+        },
+        {
+          "name": "B",
+          "content": "not until the 1970s did international direct dialing become widely available, meaning that, initially, only switchboard operators used the prefix."
+        },
+        {
+          "name": "C",
+          "content": "initially, only switchboard operators used the prefix, as international direct dialing was not widely available until the 1970s."
+        },
+        {
+          "name": "D",
+          "content": "the prefix was used by only switchboard operators initially, as international direct dialing was not widely available until the 1970s."
+        }
+      ],
+      "correct": "the prefix was used by only switchboard operators initially, as international direct dialing was not widely available until the 1970s.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Artist Yto Barrada's exhibition <i>Ways to Baffle the Wind</i> incorporates sculptures, textiles, and films. Barrada's pieces, utilizing elements as disparate as plant-dyed fabrics, wire crab traps filled with stones, and cotton balls dangling above a fan, ______ the ways humans attempt to organize and regulate nature.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "has explored"
+        },
+        {
+          "name": "B",
+          "content": "explore"
+        },
+        {
+          "name": "C",
+          "content": "explores"
+        },
+        {
+          "name": "D",
+          "content": "exploring"
+        }
+      ],
+      "correct": "explore",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as cinnamic acid and catechin. ______ Ferreira detected cinnamic acid in <i>Agaricus blazei</i> mushrooms and catechin in <i>Lentinus edodes</i> mushrooms.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For this reason,"
+        },
+        {
+          "name": "B",
+          "content": "However,"
+        },
+        {
+          "name": "C",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "For example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Artist and writer Kameelah Janan Rasheed wanted to demonstrate the value of textual revision and to encourage audiences to embrace it as a sign of learning. ______ she was transparent about the revision process for her 2019 book <i>No New Theories</i>, adding annotations to the original text to indicate where her ideas had shifted or deepened.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Thus,"
+        },
+        {
+          "name": "B",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "C",
+          "content": "Instead,"
+        },
+        {
+          "name": "D",
+          "content": "Later,"
+        }
+      ],
+      "correct": "Thus,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a hypothetical family tree, it is common for a parent in the first generation to exhibit a given trait, such as dimples, and for none of that parent's children (second generation) to inherit it. ______ the grandchildren (third generation) could inherit dimples or another such trait from the grandparent.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Nonetheless,"
+        },
+        {
+          "name": "B",
+          "content": "Specifically,"
+        },
+        {
+          "name": "C",
+          "content": "Besides,"
+        },
+        {
+          "name": "D",
+          "content": "In addition,"
+        }
+      ],
+      "correct": "Nonetheless,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Teams from 32 countries gathered in Brazil in 2014 for the World Cup of men's soccer. The event, which is held every four years, now features teams from all over the world. The World Cup used to be much smaller and more limited geographically, ______ The 1934 event in Italy included only 16 teams, most from Europe and the Americas.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "indeed."
+        },
+        {
+          "name": "B",
+          "content": "though."
+        },
+        {
+          "name": "C",
+          "content": "for example."
+        },
+        {
+          "name": "D",
+          "content": "moreover."
+        }
+      ],
+      "correct": "for example.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Most of the plant and bird species in Oahu, Hawaii, are non-native.</li><li>In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.</li><li>Researchers catalogued plant seeds found in fecal samples from non-native birds.</li><li><i>Psydrax odorata</i>, a flowering shrub, was one of fifteen native species catalogued.</li><li><i>Hedychium gardnerianum</i>, an herbaceous vine, was one of twenty-nine non-native species catalogued.</li><li>Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.</li></ul></blockquote>",
+      "question": "The student wants to explain what <i>Psydrax odorata</i> is. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In a 2019 study, researchers catalogued seeds from <i>Psydrax odorata</i>."
+        },
+        {
+          "name": "B",
+          "content": "<i>Psydrax odorata</i> is a flowering shrub species that is native to Oahu, Hawaii."
+        },
+        {
+          "name": "C",
+          "content": "Most plant species found in Oahu, Hawaii, like <i>Hedychium gardnerianum</i>, are non-native."
+        },
+        {
+          "name": "D",
+          "content": "Seeds from <i>Psydrax odorata</i> were found by researchers in the feces of non-native birds."
+        }
+      ],
+      "correct": "<i>Psydrax odorata</i> is a flowering shrub species that is native to Oahu, Hawaii.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>The Future of Nostalgia</i> is a scholarly book by literary theorist Svetlana Boym.</li><li>The book provides a multifaceted exploration of the concept of nostalgia.</li><li>Chapter 4 defines a form of nostalgia interested in re-creating the past.</li><li>Chapter 5 explores the Soviet-style restaurant the Nostalgija Snack Bar in Ljubljana.</li><li>In chapter 5, Boym writes, \"[The Nostalgija Snack Bar] is a new kind space that plays with the past and the present.\"</li></ul></blockquote>",
+      "question": "The student wants to provide a quotation from chapter 5. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Svetlana Boym defines a form of nostalgia interested in re-creating the past in chapter 4 of her book."
+        },
+        {
+          "name": "B",
+          "content": "In a discussion of the Soviet-style restaurant the Nostalgija Snack Bar in Ljubljana, Svetlana Boym writes, \"[The Nostalgija Snack Bar] is a new kind space that plays with the past and the present.\""
+        },
+        {
+          "name": "C",
+          "content": "Svetlana Boym's <i>The Future of Nostalgia</i> provides a multifaceted exploration of nostalgia."
+        },
+        {
+          "name": "D",
+          "content": "After defining a form of nostalgia interested in re-creating the past, Svetlana Boym goes on to explore the Soviet-style restaurant the Nostalgija Snack Bar in Ljubljana."
+        }
+      ],
+      "correct": "In a discussion of the Soviet-style restaurant the Nostalgija Snack Bar in Ljubljana, Svetlana Boym writes, \"[The Nostalgija Snack Bar] is a new kind space that plays with the past and the present.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>1905: US astronomer Percival Lowell begins searching beyond Neptune for a mysterious planet he calls \"Planet X.\"</li><li>1916: Lowell dies but leaves money to upgrade his observatory.</li><li>1929: A new telescope is built at the observatory.</li><li>February 1930: Observatory assistant Clyde Tombaugh records the first photographic evidence of Planet X.</li><li>March 1930: Astronomers rename Planet X, calling it Pluto to honor Lowell (the first two letters are Lowell's initials, PL).</li></ul></blockquote>",
+      "question": "The student wants to specify Percival Lowell's contributions to the discovery of Pluto. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Astronomers renamed Planet X in 1930 to honor Lowell for his contributions to the discovery of Pluto."
+        },
+        {
+          "name": "B",
+          "content": "After a new telescope was built at Lowell's observatory in 1929, Clyde Tombaugh recorded the first photographic evidence of Planet X, later renamed Pluto."
+        },
+        {
+          "name": "C",
+          "content": "In 1930, Lowell became the first person to record photographic evidence of Pluto, known at the time as Planet X."
+        },
+        {
+          "name": "D",
+          "content": "Lowell began the search for Pluto in 1905 and later left money to upgrade the observatory where it was discovered in 1930."
+        }
+      ],
+      "correct": "Lowell began the search for Pluto in 1905 and later left money to upgrade the observatory where it was discovered in 1930.",
+      "solution": ""
+    }
+  ]
+}

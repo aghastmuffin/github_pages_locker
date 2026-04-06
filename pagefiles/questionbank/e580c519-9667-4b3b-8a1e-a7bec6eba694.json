@@ -1,0 +1,682 @@
+{
+  "uuid": "e580c519-9667-4b3b-8a1e-a7bec6eba694",
+  "chunk": "_1AdFAQl.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>As with other river deltas, the Shatt al-Arab River delta is ______: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Persian Gulf.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "dynamic"
+        },
+        {
+          "name": "B",
+          "content": "immutable"
+        },
+        {
+          "name": "C",
+          "content": "unrivaled"
+        },
+        {
+          "name": "D",
+          "content": "sustainable"
+        }
+      ],
+      "correct": "dynamic",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Lucian of Samosata (modern-day Turkey) was a second-century satirist who mostly published critiques of philosophers of the time. His work <i>True History</i>, however, is ______: featuring tropes that are hallmarks of present-day science fiction (e.g., space travel, interplanetary conflict), it is regarded by some scholars as the earliest known work in the genre.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "authorized"
+        },
+        {
+          "name": "B",
+          "content": "applicable"
+        },
+        {
+          "name": "C",
+          "content": "sarcastic"
+        },
+        {
+          "name": "D",
+          "content": "visionary"
+        }
+      ],
+      "correct": "visionary",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The familial structure of the black swan (<i>Cygnus atratus</i>) shows tremendous ______: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "elasticity"
+        },
+        {
+          "name": "B",
+          "content": "reciprocity"
+        },
+        {
+          "name": "C",
+          "content": "cohesion"
+        },
+        {
+          "name": "D",
+          "content": "affection"
+        }
+      ],
+      "correct": "elasticity",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Founded in Long Beach, California, in 1996, the Museum of Latin American Art is dedicated to modern and contemporary art by Latin American artists and Latino artists in the United States. Since its founding, it has acquired more than 1,300 objects for its permanent collection. More recently founded US-based institutions devoted to Latino cultures include the National Hispanic Cultural Center. Located in Albuquerque, it focuses on the literature, art, and cultures of Latin America as well as of Latino communities in the United States.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To trace the founding of two institutions, including how they acquired funding to purchase artworks."
+        },
+        {
+          "name": "B",
+          "content": "To draw a contrast between the collection sizes of two institutions."
+        },
+        {
+          "name": "C",
+          "content": "To present information about two institutions, including each institution's area of focus."
+        },
+        {
+          "name": "D",
+          "content": "To trace a historical development that encouraged the founding of two institutions."
+        }
+      ],
+      "correct": "To present information about two institutions, including each institution's area of focus.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Paintings by the Florida Highwaymenâan informal collective of prolific landscape artists active in Florida during the 1950s and '60sâare recognizable by their reiteration of the same general compositional structures and subjects: breaking waves and backcountry pines, to name two. But there was room for individuation: Sam Newton's <i>Tangerine Sky</i>, for example, may resemble other Highwaymen paintings at first glance, but his works stand out for their more realistic and less impressionistic qualities.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes an aesthetic framework shared by a particular group of artists and then makes and illustrates the claim that individuals introduced variations within that framework."
+        },
+        {
+          "name": "B",
+          "content": "It describes the common perception that a particular group of artists' works are derivative and then provides a specific piece of evidence that reinforces that perception."
+        },
+        {
+          "name": "C",
+          "content": "It offers historical context that accounts for a particular group of artists' shared style and then indicates the circumstances under which several members of that group began exploring more unconventional themes."
+        },
+        {
+          "name": "D",
+          "content": "It explains how a particular group of artists began collaborating and then recounts how one member of that group became especially influential among them."
+        }
+      ],
+      "correct": "It describes an aesthetic framework shared by a particular group of artists and then makes and illustrates the claim that individuals introduced variations within that framework.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>Hycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid waterâcritical to supporting lifeâand atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.</p><p><strong>Text 2</strong><br>In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.'s calculations therefore placed the inner edge for these planets' HZ as far out as 3.85 AU.</p>",
+      "question": "Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.'s research, as presented in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ."
+        },
+        {
+          "name": "B",
+          "content": "By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high."
+        },
+        {
+          "name": "C",
+          "content": "By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit."
+        },
+        {
+          "name": "D",
+          "content": "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet's surface is unlikely to harbor liquid water."
+        }
+      ],
+      "correct": "By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet's surface is unlikely to harbor liquid water.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mexican architect Luis BarragÃ¡n's prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, BarragÃ¡n began incorporating principles derived from functionalism and modernism in his work, as seen in the Pizarro SuÃ¡rez House, whose unadorned geometric forms contrast with his earlier projects in Guadalajara, such as the house in Calle Pedro Loza, which evince the aesthetics of traditional Mediterranean and Mexican styles.</p>",
+      "question": "Information in the text best supports which statement about the design of the house in Calle Pedro Loza?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It represents a transitional moment between the early and late phases of BarragÃ¡n's development."
+        },
+        {
+          "name": "B",
+          "content": "It reflects an approach to ornamentation and shape that BarragÃ¡n later stopped using."
+        },
+        {
+          "name": "C",
+          "content": "It displays the effects of BarragÃ¡n's exposure to international architectural trends in the 1930s."
+        },
+        {
+          "name": "D",
+          "content": "It is characteristic of the Guadalajaran architecture that influenced BarragÃ¡n throughout his career."
+        }
+      ],
+      "correct": "It reflects an approach to ornamentation and shape that BarragÃ¡n later stopped using.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Norfolk, Virginia, has installed engineered structures along 56% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structuresâriprap and bulkheadsâDiann Prosser et al. surveyed waterbird communities consisting of the osprey, the common tern, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.</p>",
+      "question": "Which finding, if true, would most directly illustrate the researchers' finding?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap."
+        },
+        {
+          "name": "B",
+          "content": "Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap."
+        },
+        {
+          "name": "C",
+          "content": "Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap."
+        },
+        {
+          "name": "D",
+          "content": "The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant."
+        }
+      ],
+      "correct": "Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/50220f71cbadc0c8cb6b8af397b195f8.png\" style=\"width: 604px; height: 544px;\"></div><p>Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. Although the increase in widgeon grass has been associated with a substantial increase in total seagrass coverage in the bay, researchers caution that the latter change does not necessarily make the seagrass ecosystem as a whole more resilient to environmental shocks.</p>",
+      "question": "Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In early 2019, unusually heavy rains washed excessive nutrients into the bay, leading to algal blooms that prevented sunlight from reaching many seagrass species."
+        },
+        {
+          "name": "B",
+          "content": "In early 2018, a fungal infection that affects widgeon grass and eelgrass but does not affect other types of seagrass spread through the bay."
+        },
+        {
+          "name": "C",
+          "content": "Between 2012 and 2017, the total area covered by widgeon grass and the total area covered by all types of seagrass increased as water temperatures in the bay increased."
+        },
+        {
+          "name": "D",
+          "content": "Water temperatures in the bay increased slowly from 2012 to 2018, but in early 2019 there was an unprecedentedly large increase in temperatures, which reached levels that can be tolerated by few seagrass species other than widgeon grass."
+        }
+      ],
+      "correct": "In early 2019, unusually heavy rains washed excessive nutrients into the bay, leading to algal blooms that prevented sunlight from reaching many seagrass species.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img alt=\"\" src=\"/images/0df959e160e69ebaf205f5e4002a00f0.png\" style=\"width: 650px; height: 311px;\"></div><p>Some studies of migrating animals measure how far the animals travel in a year by fitting individuals with GPS tracking collars. Other studies track annual round-trip distance (RTD), which is equal to double the distance separating the two habitats a population migrates between each year. A researcher argues that since GPS records all of an animal's movements, using the GPS method to track a population would result in significantly higher recorded travel distances than using the RTD method would. For example, it's very likely that the distance reported for the ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Tibetan antelope would be less than 700 kilometers if the GPS method had been used."
+        },
+        {
+          "name": "B",
+          "content": "caribou would be less than 4,868 kilometers if the RTD method had been used."
+        },
+        {
+          "name": "C",
+          "content": "caribou would be greater than 1,325 kilometers if the RTD method had been used."
+        },
+        {
+          "name": "D",
+          "content": "Tibetan antelope would be greater than 4,868 kilometers if the GPS method had been used."
+        }
+      ],
+      "correct": "caribou would be less than 4,868 kilometers if the RTD method had been used.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.</p>",
+      "question": "Which finding, if true, would most directly support the text's claim about wireless communication devices?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters."
+        },
+        {
+          "name": "B",
+          "content": "Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices."
+        },
+        {
+          "name": "C",
+          "content": "The CFRP electrode is incompatible with most wireless communication devices."
+        },
+        {
+          "name": "D",
+          "content": "The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices."
+        }
+      ],
+      "correct": "Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as the increasing congestion of roadways, persist. While innovations to mitigate these challenges have been emergingâthe use of aerial drones, for instanceâsuccess has been constrained due to the additional complications that arise (e.g., a lack of suitable drone landing sites in residential areas). Consequently, ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "in the near term, delivery companies are unlikely to overcome the impediments associated with last-mile logistics."
+        },
+        {
+          "name": "B",
+          "content": "innovations in last-mile logistics seem poised to increase consumers' expectations for rapid delivery."
+        },
+        {
+          "name": "C",
+          "content": "delivery companies should invest more funds in proven long-distance transport technologies than in untested last-mile solutions."
+        },
+        {
+          "name": "D",
+          "content": "the use of aerial drones may enable delivery companies to meet consumers' expectations now but likely is not viable as a permanent solution."
+        }
+      ],
+      "correct": "in the near term, delivery companies are unlikely to overcome the impediments associated with last-mile logistics.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "North America has sites with hominins but not sites with early multicellular organisms."
+        },
+        {
+          "name": "B",
+          "content": "early multicellular organisms are found at more sites around the world than hominins."
+        },
+        {
+          "name": "C",
+          "content": "that formation is from an earlier time than the formation with the hominins."
+        },
+        {
+          "name": "D",
+          "content": "the hominins at Mistaken Point are better preserved than the hominins at the Minatogawa Limestone Quarry."
+        }
+      ],
+      "correct": "that formation is from an earlier time than the formation with the hominins.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cmÂ²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cmÂ². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode."
+        },
+        {
+          "name": "B",
+          "content": "as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles."
+        },
+        {
+          "name": "C",
+          "content": "electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions."
+        },
+        {
+          "name": "D",
+          "content": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode."
+        }
+      ],
+      "correct": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The ratio of methane to other atmospheric constituentsârepresented by a measure called the methane mole fractionâinfluences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn's largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model's developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "further observations of Titan may clarify the moon's methane mole fraction sufficiently for the model to employ a single value rather than a range."
+        },
+        {
+          "name": "B",
+          "content": "some disagreements between the model's simulations of Titan's precipitation and humidity and the moon's actual precipitation and humidity are to be expected."
+        },
+        {
+          "name": "C",
+          "content": "inconsistencies across the model's simulations of Titan's precipitation and humidity could be attributable to variations in the moon's methane mole fraction."
+        },
+        {
+          "name": "D",
+          "content": "even though the model's outputs sometimes agree with observational data, Titan's real methane mole fraction is likely higher than the methane mole fraction used in the model."
+        }
+      ],
+      "correct": "some disagreements between the model's simulations of Titan's precipitation and humidity and the moon's actual precipitation and humidity are to be expected.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Epic poetry is a literary genre characterized by lengthy narratives that emphasize the heroic or divine. <i>The Argonautica</i>, an epic poem of Greek origin, dates back to the ______ the poem's heroic narrative still captivates modern readers.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "3rd century BCE,"
+        },
+        {
+          "name": "B",
+          "content": "3rd century BCE yet,"
+        },
+        {
+          "name": "C",
+          "content": "3rd century BCE, yet"
+        },
+        {
+          "name": "D",
+          "content": "3rd century BCE."
+        }
+      ],
+      "correct": "3rd century BCE, yet",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Kizomba, a genre of dance that originated in Angola, has become an international ______ 2022, the Indian dance duo known as Elvis and Namrata defeated performers from around the world to win the annual Olympiads of Kizomba competition held in Paris, France, becoming the first ever Asian winners.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "phenomenon in"
+        },
+        {
+          "name": "B",
+          "content": "phenomenon, in"
+        },
+        {
+          "name": "C",
+          "content": "phenomenon and in"
+        },
+        {
+          "name": "D",
+          "content": "phenomenon. In"
+        }
+      ],
+      "correct": "phenomenon. In",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Austronesian language family comprises some 1,200 languagesâincluding the ______ Tetum and Fijian, which are spoken by 800,000 and 640,000 speakers, respectivelyâand accounts for one-fifth of the world's languages, making it of keen interest to linguists like Diane Massam.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "languages,"
+        },
+        {
+          "name": "B",
+          "content": "languages:"
+        },
+        {
+          "name": "C",
+          "content": "languages"
+        },
+        {
+          "name": "D",
+          "content": "languages--"
+        }
+      ],
+      "correct": "languages",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In addition to being a celebrated writer, musician, and educator, ZitkÃ¡la-Å Ã¡ (Yankton Dakota) was the cofounder of the National Council of American ______ advocated for Native American civil rights throughout the 1920s and 1930s.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Indians. Which"
+        },
+        {
+          "name": "B",
+          "content": "Indians,"
+        },
+        {
+          "name": "C",
+          "content": "Indians"
+        },
+        {
+          "name": "D",
+          "content": "Indians, which"
+        }
+      ],
+      "correct": "Indians, which",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ______ the organelle's decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "had counteracted"
+        },
+        {
+          "name": "B",
+          "content": "counteracted"
+        },
+        {
+          "name": "C",
+          "content": "counteracts"
+        },
+        {
+          "name": "D",
+          "content": "counteracting"
+        }
+      ],
+      "correct": "counteracting",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a US national election, one might expect major-party campaigns to focus on the most populous states. However, if polls and past voting data suggest that the outcome in a given state is a foregone conclusion, a campaign will not invest its resources there. Ultimately, a state's voting record and polling data, not its population size, ______ its importance to campaigns.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "determines"
+        },
+        {
+          "name": "B",
+          "content": "has determined"
+        },
+        {
+          "name": "C",
+          "content": "determining"
+        },
+        {
+          "name": "D",
+          "content": "determine"
+        }
+      ],
+      "correct": "determine",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Robert Hayden's 1994 poem \"Monet's Waterlilies,\" for example, meditates on Claude Monet's 1899 painting <i>Water Lilies</i>; Sasha Pimentel's 2017 poem \"The Kiss,\" ______ takes a painting as its subject: Gustav Klimt's 1908 work <i>The Kiss</i>.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "nevertheless,"
+        },
+        {
+          "name": "B",
+          "content": "likewise,"
+        },
+        {
+          "name": "C",
+          "content": "hence,"
+        },
+        {
+          "name": "D",
+          "content": "conversely,"
+        }
+      ],
+      "correct": "likewise,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Soil polluted with iron (a heavy metal) is harmful to many plants and animals, but the plant species <i>Limnocharis flava</i>, or yellow velvetleaf, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, <i>Limnocharis flava</i> absorbs a large amount of iron and stores it safely in its roots and shoots; ______ iron concentrations in the soil decrease.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "specifically,"
+        },
+        {
+          "name": "B",
+          "content": "accordingly,"
+        },
+        {
+          "name": "C",
+          "content": "nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "in addition,"
+        }
+      ],
+      "correct": "accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The English word \"dollar\" comes from the German word \"thaler.\"</li><li>Today, more than twenty different national currencies are referred to as \"dollars.\"</li><li>Kiribati's currency is known as the Kiribati dollar.</li></ul></blockquote>",
+      "question": "The student wants to provide an example of a country that uses the word \"dollar\" in the name of its currency. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Kiribati uses the Kiribati dollar as its national currency."
+        },
+        {
+          "name": "B",
+          "content": "Kiribati does not refer to its currency by the German word \"thaler.\""
+        },
+        {
+          "name": "C",
+          "content": "The German word \"thaler\" is the origin of the English word \"dollar.\""
+        },
+        {
+          "name": "D",
+          "content": "Today, many countries use the word \"dollar\" in naming their currencies."
+        }
+      ],
+      "correct": "Kiribati uses the Kiribati dollar as its national currency.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Stylistic analysis and historical analysis are two approaches to art criticism.</li><li>Stylistic analysis examines how an artwork's visual features contribute to its overall style.</li><li>Such an analysis of Claude Monet's <i>Water Lilies</i> might consider how the painting's loose brushwork represents an impressionist style.</li><li>Historical analysis considers the historical context in which a work was created.</li><li>Such an analysis of Diego VelÃ¡zquez's <i>Las Meninas</i> might consider how the painting's depiction of the artist with King Philip IV symbolizes art's historical ties to power.</li></ul></blockquote>",
+      "question": "The student wants to present historical analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "An approach to art criticism, historical analysis considers the historical context in which a work was created."
+        },
+        {
+          "name": "B",
+          "content": "<i>Las Meninas</i>'s depiction of the artist with King Philip IV symbolizes art's historical ties to power."
+        },
+        {
+          "name": "C",
+          "content": "A stylistic analysis of <i>Water Lilies</i> might consider how the painting's loose brushwork represents an impressionist style."
+        },
+        {
+          "name": "D",
+          "content": "Stylistic analysis differs from historical analysis in that stylistic analysis examines how an artwork's visual features contribute to its overall style."
+        }
+      ],
+      "correct": "An approach to art criticism, historical analysis considers the historical context in which a work was created.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Carbon can exist in several distinct structural forms called allotropes.</li><li>Graphite is a carbon allotrope.</li><li>Graphite is composed of stacked graphene sheets.</li><li>Each graphene sheet is composed of carbon atoms arranged in a flat honeycomb pattern.</li><li>Carbon nanotubes are carbon allotropes.</li><li>They are composed of one or more graphene sheets wrapped into a cylindrical shape.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a difference between carbon nanotubes and graphite. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Composed of sheets wrapped into a cylindrical shape, carbon nanotubes contrast with graphite, a carbon allotrope composed of graphene sheets."
+        },
+        {
+          "name": "B",
+          "content": "Graphite and carbon nanotubes are allotropes composed of stacked or wrapped graphene sheets, but carbon can exist in several distinct structural forms."
+        },
+        {
+          "name": "C",
+          "content": "Unlike carbon nanotubes, which are composed of sheets of carbon atoms arranged in a flat honeycomb pattern, graphite is a cylindrical carbon allotrope."
+        },
+        {
+          "name": "D",
+          "content": "The graphene sheets in graphite are stacked, whereas in carbon nanotubes, they form a cylinder."
+        }
+      ],
+      "correct": "The graphene sheets in graphite are stacked, whereas in carbon nanotubes, they form a cylinder.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In a 2004 study, researchers Jorge E. LÃ³pez and C. Vaughan wanted to explore the effects of ingestion by bats on the germination of <i>Piper sancti-felicis</i> seeds in Costa Rica.</li><li>The team of researchers tested 125 <i>Piper sancti-felicis</i> seeds that had been ingested by chestnut short-tailed bats.</li><li>Of these, 82 seeds (66%) germinated.</li><li>As a control, J.E. LÃ³pez and C. Vaughan tested 125 <i>Piper sancti-felicis</i> seeds that had not been ingested by chestnut short-tailed bats.</li><li>Of these, 88 seeds (70%) germinated.</li></ul></blockquote>",
+      "question": "The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The team of researchers tested the germination of 125 <i>Piper sancti-felicis</i> seeds that had been ingested by chestnut short-tailed bats and 125 <i>Piper sancti-felicis</i> seeds that had not been ingested."
+        },
+        {
+          "name": "B",
+          "content": "J.E. LÃ³pez and C. Vaughan wanted to explore the effects of chestnut short-tailed bats' ingestion on <i>Piper sancti-felicis</i> seed germination."
+        },
+        {
+          "name": "C",
+          "content": "In the study, a lower percentage of <i>Piper sancti-felicis</i> seeds ingested by bats germinated than those that had not been ingested by bats."
+        },
+        {
+          "name": "D",
+          "content": "Research by J.E. LÃ³pez and C. Vaughan revealed that 82 of 125âthat is, 66%âof the <i>Piper sancti-felicis</i> seeds that had been ingested by the bats germinated."
+        }
+      ],
+      "correct": "The team of researchers tested the germination of 125 <i>Piper sancti-felicis</i> seeds that had been ingested by chestnut short-tailed bats and 125 <i>Piper sancti-felicis</i> seeds that had not been ingested.",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "uuid": "2f36d10d-2b67-4940-be7e-7ae5a7f478f1",
+  "chunk": "BRVUayKG.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Although Oscar Micheaux's 1920 film <i>Within Our Gates</i> and Ossie Davis's 1970 film <i>Cotton Comes to Harlem</i> may have had some ______ at the time of their initial release, their place in critics' estimations is now more secure. In 2018, for example, critics for the New York Times described the former as \"stunning\" and the latter as \"especially pointed.\"</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "detractors"
+        },
+        {
+          "name": "B",
+          "content": "precursors"
+        },
+        {
+          "name": "C",
+          "content": "collaborators"
+        },
+        {
+          "name": "D",
+          "content": "imitators"
+        }
+      ],
+      "correct": "detractors",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Political scientists have found that although voters claim to prefer candidates who have nuanced perspectives on issues and who show a willingness to compromise, when asked to compare speeches expressing such views with speeches expressing _________ views, voters tend to regard the unyielding rhetoric of the latter more favorably.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "vacillating"
+        },
+        {
+          "name": "B",
+          "content": "dogmatic"
+        },
+        {
+          "name": "C",
+          "content": "banal"
+        },
+        {
+          "name": "D",
+          "content": "disingenuous"
+        }
+      ],
+      "correct": "dogmatic",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A number of recording artists ______ distinctions between Indigenous music and other musical styles. For example, Inuit singer-songwriter Tanya Tagag incorporated Inuit throat singing into electronic music on her album <i>Tongues</i>, and Tuscarora/Taino singer-songwriter Pura FÃ© combined Indigenous rhythms and vocals with R&amp;B on her album <i>Sacred Seed</i>.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "reject"
+        },
+        {
+          "name": "B",
+          "content": "disguise"
+        },
+        {
+          "name": "C",
+          "content": "replace"
+        },
+        {
+          "name": "D",
+          "content": "observe"
+        }
+      ],
+      "correct": "reject",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Today composer Scott Joplin is mainly celebrated for his catchy ragtime pieces âMaple Leaf Ragâ and âThe Entertainer.â However, by overlooking his less famous works, listeners will miss the full range of Joplin's creativity. For instance, his waltz âPleasant Momentsâ and his opera <i>Treemonisha</i> skillfully blend ragtime and classical music. These masterpieces deserve as much fame as Joplin's biggest hits.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To argue that more attention should be given to Joplin's lesser known works."
+        },
+        {
+          "name": "B",
+          "content": "To describe the similarities and differences between ragtime music and opera."
+        },
+        {
+          "name": "C",
+          "content": "To encourage music lovers to listen to music by many different composers."
+        },
+        {
+          "name": "D",
+          "content": "To explain how Joplin learned to compose and perform ragtime music."
+        }
+      ],
+      "correct": "To argue that more attention should be given to Joplin's lesser known works.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Treason's Harbour</i>, first published in 1983, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of <i>Treason's Harbour</i> and other books of the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust's <i>In Search of Lost Time</i>.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To explain why many critics find the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels' structures."
+        },
+        {
+          "name": "B",
+          "content": "To present a reason the unusual structure that 0'Brian uses for <i>Treason's Harbour</i> makes it one of his most complex books."
+        },
+        {
+          "name": "C",
+          "content": "To describe a characteristic of the Aubrey/Maturin novels and offer two differing viewpoints on this characteristic."
+        },
+        {
+          "name": "D",
+          "content": "To argue that the Aubrey Maturin series should have the literary renown of <i>In Search of Lost Time</i>."
+        }
+      ],
+      "correct": "To describe a characteristic of the Aubrey/Maturin novels and offer two differing viewpoints on this characteristic.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br><u>Isaac Asimov, author of <em>The Naked Sun</em> and <em>The Stars, Like Dust</em>, is highly regarded despite his mediocre writing style. His prose is workmanlike; his characters are flat and discuss ideas rather than emotions.</u> That his work is enjoyable despite this is a testament to his prodigious imaginationâeven if people read his books only for the ideas, they will have plenty to consider.</p><p><strong>Text 2</strong><br>Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel <em>Foundation</em> consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don't matter. Thus his lack of characterization is central to Asimov's thematic aims.</p>",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the evaluation of Asimov's writing style in the underlined claim in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By pointing out that the flatness of Asimov's characters is a feature of <em>The Naked Sun</em> and <em>The Stars, Like Dust</em> but not of <em>Foundation</em>."
+        },
+        {
+          "name": "B",
+          "content": "By arguing that Asimov's writing style should be judged against the styles of historians rather than those of fiction writers."
+        },
+        {
+          "name": "C",
+          "content": "By agreeing that Asimov's prose is flawed but disagreeing about the quality of his characters."
+        },
+        {
+          "name": "D",
+          "content": "By asserting that Asimov's minimal characterization is likely a conscious choice that helps him convey an important idea."
+        }
+      ],
+      "correct": "By asserting that Asimov's minimal characterization is likely a conscious choice that helps him convey an important idea.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Shanlin Liu and colleagues relied on historical DNA (hDNA)âgenomic data incidentally preserved in specimens housed in natural history collectionsâto investigate the evolutionary history of the rhinoceros family (Rhinocerotidae). Although this approach offers unique benefits, such as the ability to ascertain the biogeographical origins of organisms, it remains a relatively underutilized resource because hDNA is often to some extent degraded, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.</p>",
+      "question": "Information in the text best supports which statement about hDNA?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It tends to be much more degraded than other types of DNA of comparable age."
+        },
+        {
+          "name": "B",
+          "content": "It may be underused because of its controversial status among scientists."
+        },
+        {
+          "name": "C",
+          "content": "It has thus far proved valuable mainly to researchers studying mammals."
+        },
+        {
+          "name": "D",
+          "content": "It may yield insights that other types of genomic data cannot."
+        }
+      ],
+      "correct": "It may yield insights that other types of genomic data cannot.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Yingguang Frank Chan and colleagues have explored how convergent evolutionâa phenomenon that occurs when the same trait evolves independently in two reproductively separate lineagesâcan result from a genetic mechanism shared by both lineages. Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Before Green and Extavour's study, convergent evolution was assumed to require a shared genetic mechanism between two lineages that share the trait."
+        },
+        {
+          "name": "B",
+          "content": "Both the study by Chan and colleagues and that by Green and Extavour compare convergence through shared genetic mechanisms to convergence through different genetic mechanisms."
+        },
+        {
+          "name": "C",
+          "content": "Green and Extavour's study addresses convergent evolution more comprehensively than the studies by Chan and colleagues and Steiner and colleagues do."
+        },
+        {
+          "name": "D",
+          "content": "Green and Extavour's study was conducted using data from the studies by Chan and colleagues and Steiner and colleagues."
+        }
+      ],
+      "correct": "Green and Extavour's study addresses convergent evolution more comprehensively than the studies by Chan and colleagues and Steiner and colleagues do.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Over time, marine mollusks called nautilids continually add segments to their shells, and the chemical composition of each segment is influenced by the available materials in the surrounding water when the segment forms. Paleontologist Amane Tajika and colleagues analyzed the septa (the walls between shell chambers) of one male (samples labeled âMâ) and one female (samples labeled âFâ) nautilid, finding that sample F04 had the same concentration of oxygen-18 as did water approximately 90 meters deep and that the oxygen-18 concentration in sample M17 matched that of water at approximately 385 meters deep. Tajika et al. concluded that sample F04 formed at a higher point in the water column than did M17.</p>",
+      "question": "Which finding, if true, would most directly support the researchers' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In nautilids, sex predicts septa growth rate more strongly than oxygen-18 concentration in the surrounding water."
+        },
+        {
+          "name": "B",
+          "content": "Male nautilids tend to show higher concentrations of oxygen-18 than do female nautilids inhabiting the same point in the water column."
+        },
+        {
+          "name": "C",
+          "content": "Regardless of sex, nautilids spend most of their lives at depths of 385 meters or greater, where oxygen-18 concentrations typically differ from those higher in the water column."
+        },
+        {
+          "name": "D",
+          "content": "Among nautilids, there is no effect of sex on the uptake of oxygen from water or its deposition in septa."
+        }
+      ],
+      "correct": "Among nautilids, there is no effect of sex on the uptake of oxygen from water or its deposition in septa.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of traceability (with a higher rating for clearer descriptions of procedures) and for category consistency (with a higher rating for using materials categories more closely aligned with the categories in the team's database). Based on these ratings, a second research team concluded that the methodology was better explained in a study by Greg L. Kozak and Gregory A. Keoleian than it was in a study by Perrine Chancerel and Susanne Rotter.</p>",
+      "question": "Which finding, if true, would most directly challenge the second research teamâs conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The study by Chancerel and Rutter had a medium consistency rating and a medium traceability rating."
+        },
+        {
+          "name": "B",
+          "content": "The study by Kozak and Keoleian had a lower consistency rating than the study by Chancerel and Rotter did."
+        },
+        {
+          "name": "C",
+          "content": "The study by Kozak and Keoleian had a high consistency rating and a high traceability rating."
+        },
+        {
+          "name": "D",
+          "content": "The study by Kozak and Keoleian had a lower traceability rating than the study by Chancerel and Rotter did."
+        }
+      ],
+      "correct": "The study by Kozak and Keoleian had a lower traceability rating than the study by Chancerel and Rotter did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Cane</i> is a 1923 novel by Jean Toomer. In one portion of the novel, Toomer uses figurative language to connect the narrator's urban environment of Washington, DC, and the rural South of the narrator's past, writing, ______</p>",
+      "question": "Which quotation from Cane most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âThe Capitol dome looked like a gray ghost ship drifting in from sea.â"
+        },
+        {
+          "name": "B",
+          "content": "âThe [train] engines of this valley have a whistle, the echoes of which sound like iterated gasps and sobs. I always think of them as crude music.â"
+        },
+        {
+          "name": "C",
+          "content": "âAnd when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].â"
+        },
+        {
+          "name": "D",
+          "content": "âThe young trees had not outgrown their [planter] boxes then. V Street [in Washington, DC] was lined with them.â"
+        }
+      ],
+      "correct": "âAnd when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Soil thawing in Alaska has been accelerating in response to climate warming, potentially enabling increased carbon dioxide (CO<sub>2</sub>) absorption through greater productivity of bog bilberry (<i>Vaccinium uliginosum</i>) plants and other vegetation, but also potentially enabling increased CO<sub>2</sub> output through greater heterotrophic respiration (CO<sub>2</sub> generated by the activity of soil microorganisms). Hydrologist Yonghong Yi and her colleagues developed a model incorporating numerous inputsâyears of soil temperature and snow cover data among themâto evaluate the effects of warming on the CO<sub>2</sub> balance in Alaska, concluding that net CO<sub>2</sub> is likely to increase if warming hastens spring snow melt.</p>",
+      "question": "Which finding, if true, would most directly support the researchers' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Early snow melt slows the growth of plant species such as <i>V. uliginosum</i> by reducing soil insulation, and it suppresses heterotrophic respiration."
+        },
+        {
+          "name": "B",
+          "content": "Early snow melt extends the period in which plant species such as <i>V. uliginosum</i> can absorb CO2 but has no effect on the rate of heterotrophic respiration."
+        },
+        {
+          "name": "C",
+          "content": "Early snow melt amplifies the effect of soil temperature on the growth of plant species such as <i>V. uliginosum</i> and on the rate of heterotrophic respiration."
+        },
+        {
+          "name": "D",
+          "content": "Early snow melt reduces the amount of soil moisture available for the growth of plant species such as <i>V. uliginosum</i>, and it raises the rate of heterotrophic respiration."
+        }
+      ],
+      "correct": "Early snow melt reduces the amount of soil moisture available for the growth of plant species such as <i>V. uliginosum</i>, and it raises the rate of heterotrophic respiration.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align:center;\"><img src=\"/images/e1d93b8071164e9dc577db7f72e9eecd.png\" width=\"460\" height=\"338\"></div><p>Lin-Tai Ho and colleagues monitored fish populations in a tide pool in Taiwan. They found that there could be significant within-species variations in the number of individuals in the tide pool over time; for example, the ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "striated rockskipper population was at its highest in January and April of 2001 and at its lowest in July of 2001."
+        },
+        {
+          "name": "B",
+          "content": "Indo-Pacific sergeant population ranged from a low of 2 individuals in January of 2001 to a high of 28 individuals in October of 2001."
+        },
+        {
+          "name": "C",
+          "content": "Cocos frillgoby population reached its highest level in April of 2001, when 10 individuals were observed."
+        },
+        {
+          "name": "D",
+          "content": "striated rockskipper population never exceeded 5 individuals, whereas the Indo-Pacific sergeant population reached 28 individuals in October of 2001."
+        }
+      ],
+      "correct": "Indo-Pacific sergeant population ranged from a low of 2 individuals in January of 2001 to a high of 28 individuals in October of 2001.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Study on Global Ageing and Adult Health (SAGE) is a longitudinal study surveying approximately 66,000 individuals in multiple countries to glean extended trends in aging. To carry out the necessary sampling of the population over many years, SAGE needs extensive financial support, but this method provides valuable insights into causal relationships. However, when questions of causation are irrelevant, as with a sociology study seeking only to reveal the average age at which people in a given city first become parents, longitudinal methods are unnecessary, and so ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the expense of SAGE is likely greater than the cost of longitudinal studies of sociology."
+        },
+        {
+          "name": "B",
+          "content": "the success of the sociology study likely requires significantly less financial outlay than that needed for SAGE."
+        },
+        {
+          "name": "C",
+          "content": "conclusions drawn from SAGE are likely to be more authoritative than those from the sociology study."
+        },
+        {
+          "name": "D",
+          "content": "longitudinal methods are suitable for studies of aging but ought to be avoided for those of sociology."
+        }
+      ],
+      "correct": "the success of the sociology study likely requires significantly less financial outlay than that needed for SAGE.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The many editions of James Joyce's 1922 novel <i>Ulysses</i> are not textually identical, and scholars debate which versions reflect Joyce's authorial intent. One no longer widely read edition is the 1984 âcritical and synoptic editionâ edited by Hans Walter Gabler, which followed French and German editorial theories rather than editorial traditions of the United States and United Kingdom and which was later found to have introduced errors due to Gabler's choice to consult facsimile manuscripts rather than using only originals. However, few Joyce scholars worldwide had expertise in such textual issues, and most of those who did worked on the edition with Gabler. So, it is unsurprising that initial scholarly reviews of the 1984 edition were mostly ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "negative, since those Joyce scholars with the necessary expertise to write a review of the 1984 edition would be aware that facsimile manuscripts cannot be produced with a high enough fidelity to the original to ensure that relying on them will not introduce editorial errors."
+        },
+        {
+          "name": "B",
+          "content": "positive, since scholars who reviewed the 1984 edition were unaffiliated with its production and were mostly either Joyce specialists who were largely unfamiliar with editorial theories and practices or specialists in such theories and practices who were insufficiently familiar with Joyce."
+        },
+        {
+          "name": "C",
+          "content": "negative, since any scholar with expertise in editorial theories of the United States and United Kingdom as well as French and German editorial theories most likely worked with Gabler on the 1984 edition and would therefore not review it."
+        },
+        {
+          "name": "D",
+          "content": "positive since Ulysses is a novel in English and the 1984 edition would therefore be more widely reviewed in United States and United Kingdom publications than in French and German publications."
+        }
+      ],
+      "correct": "positive, since scholars who reviewed the 1984 edition were unaffiliated with its production and were mostly either Joyce specialists who were largely unfamiliar with editorial theories and practices or specialists in such theories and practices who were insufficiently familiar with Joyce.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Puerto Rico, it's not unusual for a city or town to be known by a nickname that corresponds to one of its notable features, like landscape, climate, famous residents, or chief exports. For example, the Puerto Rican municipality of Orocovis has also been called âthe Heart of Puerto Rico,â a nickname that alludes to what the area is well ______ its geographical position in the center of the island.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "known for"
+        },
+        {
+          "name": "B",
+          "content": "known for:"
+        },
+        {
+          "name": "C",
+          "content": "known: for"
+        },
+        {
+          "name": "D",
+          "content": "known for;"
+        }
+      ],
+      "correct": "known for:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A region of the Soviet Union encompassing the present-day city of Kyzyl, Russia, the Tuvan-speaking Tuvan Autonomous Soviet Socialist Republic was in fact only nominally autonomous. President Mikhail Gorbachev's reforms, by helping the Tuvan Republic and other Soviet republics established along ethnolinguistic lines assert their prerogatives, ______ to the Soviet Union's breakup.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "contributed"
+        },
+        {
+          "name": "B",
+          "content": "contributing"
+        },
+        {
+          "name": "C",
+          "content": "having contributed"
+        },
+        {
+          "name": "D",
+          "content": "which contributed"
+        }
+      ],
+      "correct": "contributed",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Minerals can be classified by how much light passes through them. For example, all (or almost all) light passes through krotite, which is classified as ______ only some light to pass through, beryl is instead classified as translucent.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "transparent. Allowing"
+        },
+        {
+          "name": "B",
+          "content": "transparent allowing"
+        },
+        {
+          "name": "C",
+          "content": "transparent, allowing"
+        },
+        {
+          "name": "D",
+          "content": "transparent and allowing"
+        }
+      ],
+      "correct": "transparent. Allowing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The artist Artemisia Gentileschi's painting <i>La Pittura</i>, symbolically ______ to portray the power of female artists in the realm of visual arts, is a highly regarded example of allegory.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "has functioned"
+        },
+        {
+          "name": "B",
+          "content": "was functioning"
+        },
+        {
+          "name": "C",
+          "content": "functions"
+        },
+        {
+          "name": "D",
+          "content": "functioning"
+        }
+      ],
+      "correct": "functioning",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The relationship between genomes and epigenomes reveals how cells with identical DNA develop different ______ whereas the genome in each cell contains a complete DNA sequence, the epigenome consists of chemical compounds that determine which traits in the sequence will be expressed.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "functions,"
+        },
+        {
+          "name": "B",
+          "content": "functions"
+        },
+        {
+          "name": "C",
+          "content": "functions and,"
+        },
+        {
+          "name": "D",
+          "content": "functions:"
+        }
+      ],
+      "correct": "functions:",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>That the geographic center of North America lay in the state of North Dakota was conceded by all ______ establishing its precise coordinates proved more divisive.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "involved"
+        },
+        {
+          "name": "B",
+          "content": "involved:"
+        },
+        {
+          "name": "C",
+          "content": "involved;"
+        },
+        {
+          "name": "D",
+          "content": "involved,"
+        }
+      ],
+      "correct": "involved;",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Monument 3 is the name given to a 12.8-ton stone statue of a human head that was created during the ancient Olmec civilization. It was discovered in Tabasco, Mexico, at the La Venta archaeological site. ______ at the San Lorenzo site in the state of Veracruz, another colossal head statue called Monument 53 was discovered.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "As a result,"
+        },
+        {
+          "name": "B",
+          "content": "Specifically,"
+        },
+        {
+          "name": "C",
+          "content": "For example,"
+        },
+        {
+          "name": "D",
+          "content": "Elsewhere,"
+        }
+      ],
+      "correct": "Elsewhere,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the Southeast Asian country of Indonesia, the percentage of the population living in cities increased from 53.3% to 56.6% between 2015 and 2020; this upward trend in urbanization was seen throughout that part of the continent. ______ from 2015 to 2020, the overall percentage of the Southeast Asian population living in cities rose from 47.2% to 50%.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In reality,"
+        },
+        {
+          "name": "B",
+          "content": "Later,"
+        },
+        {
+          "name": "C",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "D",
+          "content": "Indeed,"
+        }
+      ],
+      "correct": "Indeed,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Ugandan American professor Peter Nazareth believed that Elvis Presley's music is best understood not as a homogeneous collection but as an anthology (because Elvis showcased the contributions of a wide range of gospel, blues, and rock artists). ________ Nazareth entitled his college course on Elvis and his music, which focused on Elvis's many musical influences, âElvis as Anthology.â</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In addition,"
+        },
+        {
+          "name": "B",
+          "content": "In sum,"
+        },
+        {
+          "name": "C",
+          "content": "That is,"
+        },
+        {
+          "name": "D",
+          "content": "To that end,"
+        }
+      ],
+      "correct": "To that end,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>A copyright prevents a book's contents from being reproduced (published) without permission from the copyright holder.</li><li>When a book's copyright expires, the book enters the public domain.</li><li>Public domain books can be legally reproduced by anyone.</li><li><i>Billy Budd, Sailor</i> is a novella by Herman Melville.</li><li>It was published in 1924 and entered the public domain on January 1, 2020 (ninety-six years later).</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences explain why Billy Budd, Sailor entered the public domain?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Before Billy Budd, Sailor entered the public domain, only its copyright holder could give permission for others to reproduce its contents."
+        },
+        {
+          "name": "B",
+          "content": "Billy Budd, Sailor, a novella by Herman Melville, is freely available the public."
+        },
+        {
+          "name": "C",
+          "content": "Once Billy Budd, Sailor entered the public domain, anyone could publish its contents."
+        },
+        {
+          "name": "D",
+          "content": "The copyright to Billy Budd, Sailor expired in 2020, causing the novella to enter the public domain."
+        }
+      ],
+      "correct": "The copyright to Billy Budd, Sailor expired in 2020, causing the novella to enter the public domain.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>XochicoatlÃ¡n is a municipality in the state of Hidalgo, Mexico.</li><li>Municipalities are governmental regions responsible for providing many public services to their residents.</li><li>One service they provide is water treatment XochicoatlÃ¡n's population was 7,015 in 2020.</li><li>Hidalgo is divided into 84 municipalities.</li></ul></blockquote>",
+      "question": "The student wants to provide a specific example of what municipalities provide. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 2020, the municipality of XochicoatlÃ¡n had a population of 7,015."
+        },
+        {
+          "name": "B",
+          "content": "XochicoatlÃ¡n is one of 84 municipalities in Hidalgo, Mexico."
+        },
+        {
+          "name": "C",
+          "content": "Water treatment is just one of the many public services that municipalities provide."
+        },
+        {
+          "name": "D",
+          "content": "The municipality XochicoatlÃ¡n in Hidalgo is responsible for providing many public services."
+        }
+      ],
+      "correct": "Water treatment is just one of the many public services that municipalities provide.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.</li><li>Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.</li><li>Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.</li><li>The mineral fluorite has a Mohs scale number of 4.</li><li>The mineral quartz has a Mohs scale number of 7.</li><li>The mineral corundum has a Mohs scale number of 9.</li></ul></blockquote>",
+      "question": "The student wants to compare the hardness of fluorite and corundum. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Corundum can leave visible scratches on fluorite, which means that corundum is harder than fluorite."
+        },
+        {
+          "name": "B",
+          "content": "A mineral with a Mohs number of 7, like quartz, is harder than one with a Mohs number of 4, like fluorite."
+        },
+        {
+          "name": "C",
+          "content": "Corundum can leave visible scratches on quartz, which is why corundum has a higher number than quartz on the Mohs scale of mineral hardness."
+        },
+        {
+          "name": "D",
+          "content": "The Mohs scale of mineral hardness can be used to order quartz, fluorite, and corundum by their ability to scratch other minerals."
+        }
+      ],
+      "correct": "Corundum can leave visible scratches on fluorite, which means that corundum is harder than fluorite.",
+      "solution": ""
+    }
+  ]
+}

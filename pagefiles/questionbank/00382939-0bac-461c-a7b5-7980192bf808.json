@@ -1,0 +1,472 @@
+{
+  "uuid": "00382939-0bac-461c-a7b5-7980192bf808",
+  "chunk": "DwpBhM8H.js",
+  "question_count": 22,
+  "questions": [
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp;A line passes through the points (5, 7) and (13, 35) in the<em> xy</em>-plane. What is the slope of the line?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "7/2,3.5",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp;The function <em>f</em> is defined by</span></span><span class=\"mq-math-mode\" latex-data=\"f(x)=5(\\frac{1}{4}-x)^2+\\frac{3}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var class=\"mq-f\" mathquill-command-id=\"3\">f</var><span mathquill-command-id=\"5\">(</span><var mathquill-command-id=\"7\">x</var><span mathquill-command-id=\"9\">)</span><span class=\"mq-binary-operator\" mathquill-command-id=\"11\">=</span><span mathquill-command-id=\"13\">5</span><span mathquill-command-id=\"15\">(</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"39\"><span class=\"mq-numerator\" mathquill-block-id=\"40\"><span mathquill-command-id=\"43\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"41\"><span mathquill-command-id=\"44\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"23\">−</span><var mathquill-command-id=\"25\">x</var><span mathquill-command-id=\"27\">)</span><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"47\"><span class=\"mq-sup\" mathquill-block-id=\"48\"><span mathquill-command-id=\"50\">2</span></span></span><span class=\"mq-binary-operator\" mathquill-command-id=\"31\">+</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"51\"><span class=\"mq-numerator\" mathquill-block-id=\"52\"><span mathquill-command-id=\"55\">3</span></span><span class=\"mq-denominator\" mathquill-block-id=\"53\"><span mathquill-command-id=\"56\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">. What is the value of <em>f&nbsp;</em>(</span></span><span class=\"mq-math-mode\" latex-data=\"\\frac{1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"10\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">)?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "3/4,0.75,.75",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>p</em>(<em>x</em>) =132 - 4<em>x</em><br>The function <em>p</em> shown gives the number of blank sheets of paper, <em>p</em>(<em>x</em>), remaining in a printer <em>x</em> days after the printer had been loaded with paper. Which statement is the best interpretation of <em>p</em>(6)= 108?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "The number of blank sheets of paper remaining in the printer decreased by a total of 6 sheets after 108 days.<br>"
+        },
+        {
+          "name": "B",
+          "content": "There were 6 blank sheets of paper remaining in the printer 108 days after the printer had been loaded with paper.<br>"
+        },
+        {
+          "name": "C",
+          "content": "There were 108 blank sheets of paper remaining in the printer 6 days after the printer had been loaded with paper.<br>"
+        },
+        {
+          "name": "D",
+          "content": "The number of blank sheets of paper remaining in the printer decreased by a total of 108 sheets after 6 days.<br>"
+        }
+      ],
+      "correct": "There were 108 blank sheets of paper remaining in the printer 6 days after the printer had been loaded with paper.<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A student needs at least 80 signatures from classmates to run for class treasurer. The student collects 55 signatures on Monday and collects enough additional signatures on Tuesday to run for class treasurer. Which inequality represents the number of additional signatures, <em>s</em>, that thestudent collects on Tuesday?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>s </em>+ 55&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">≤</span></span></span><span>&nbsp;</span>80<br>"
+        },
+        {
+          "name": "B",
+          "content": "<em>s </em>+ 55&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\"></span></span></span><span class=\"mq-math-mode\" latex-data=\"\\ge\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">≥</span></span></span><span>&nbsp;</span>80<br>"
+        },
+        {
+          "name": "C",
+          "content": "<em>s </em>- 55&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">≤</span></span></span><span>&nbsp;</span>80<br>"
+        },
+        {
+          "name": "D",
+          "content": "<em>s </em>- 55&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\"></span></span></span><span class=\"mq-math-mode\" latex-data=\"\\ge\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">≥</span></span></span><span>&nbsp;&nbsp;</span>80<br>"
+        }
+      ],
+      "correct": "<em>s </em>+ 55&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\"></span></span></span><span class=\"mq-math-mode\" latex-data=\"\\ge\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">≥</span></span></span><span>&nbsp;</span>80<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A group of 10 gardeners recorded data on the germination rates of their tomato crop forone growing season. The scatterplot shows the relationship between the number of tomato seeds planted, a, and the number of tomato seeds that germinated, <em>y</em>, for each of the gardeners. A line of best fit is also shown.</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img height=\"311\" src=\"/images/ef393a1ed40106ab2041243b1b47f2a5.png\" width=\"325\"><br></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which of the following is the best interpretation of the slope of the line of best fit in this context?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "The number of tomato seeds planted is predicted to increase by 70 seeds every 100 days.<br>"
+        },
+        {
+          "name": "B",
+          "content": "The number of tomato seeds planted is predicted to increase by 350 seeds every 100 days.<br>"
+        },
+        {
+          "name": "C",
+          "content": "The number of tomato seeds that germinate is predicted to increase by 70 seeds for every additional 100 tomato seeds that are planted.<br>"
+        },
+        {
+          "name": "D",
+          "content": "The number of tomato seeds that germinate is predicted to increase by 350 seeds for every additional 100 tomato seeds that are planted.<br>"
+        }
+      ],
+      "correct": "The number of tomato seeds that germinate is predicted to increase by 70 seeds for every additional 100 tomato seeds that are planted.<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img height=\"247\" src=\"/images/1823c319220286ebd4142c179cf59822.png\" width=\"324\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Triangle <em>XYZ</em> shown is a right triangle. Which of the following has the same value as sin <em>X</em>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "cos <em>Y</em><br>"
+        },
+        {
+          "name": "B",
+          "content": "cos <em>X</em><br>"
+        },
+        {
+          "name": "C",
+          "content": "tan <em>Y</em><br>"
+        },
+        {
+          "name": "D",
+          "content": "tan <em>X</em><br>"
+        }
+      ],
+      "correct": "cos <em>Y</em><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><em>x</em><sup>2&nbsp;</sup>- 2<em>x&nbsp;</em>= 33</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">What is one of the solutions to the given equation?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\sqrt{33}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.95);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"4\"><span mathquill-command-id=\"6\">3</span><span mathquill-command-id=\"7\">3</span></span></span></span></span><span>&nbsp;</span><br>"
+        },
+        {
+          "name": "B",
+          "content": "1 +<span class=\"mq-math-mode\" latex-data=\"\\sqrt{33}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.95);\">&nbsp;√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"4\"><span mathquill-command-id=\"6\">3</span><span mathquill-command-id=\"7\">4</span></span></span></span></span><span>&nbsp;</span><br>"
+        },
+        {
+          "name": "C",
+          "content": "34<br>"
+        },
+        {
+          "name": "D",
+          "content": "33 +&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\sqrt{33}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span></span><span class=\"mq-math-mode\" latex-data=\"\\sqrt{2}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.95);\">√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"4\"><span mathquill-command-id=\"6\">2</span></span></span></span></span><span>&nbsp;&nbsp;</span><br>"
+        }
+      ],
+      "correct": "1 +<span class=\"mq-math-mode\" latex-data=\"\\sqrt{33}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-scaled mq-sqrt-prefix\" style=\"transform: scale(1, 0.95);\">&nbsp;√</span><span class=\"mq-non-leaf mq-sqrt-stem\" mathquill-block-id=\"4\"><span mathquill-command-id=\"6\">3</span><span mathquill-command-id=\"7\">4</span></span></span></span></span><span>&nbsp;</span><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img height=\"127\" src=\"/images/fc1aa2eca5b263e05f274fcdff585981.png\" width=\"132\"><br>For a linear relationship between <em>x</em> and <em>y</em>, the table gives three values of <em>x</em> and their corresponding values of <em>y</em> in terms of a constant <em>r.</em>&nbsp;What is the slope of the line in the <em>xy</em>-plane that represents this relationship?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-24<br>"
+        },
+        {
+          "name": "B",
+          "content": "-8<br>"
+        },
+        {
+          "name": "C",
+          "content": "8<br>"
+        },
+        {
+          "name": "D",
+          "content": "24<br>"
+        }
+      ],
+      "correct": "-8<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img height=\"325\" src=\"/images/083a05c8832c5ea5b9315e21c18d8f18.png\" width=\"326\"><br></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The graph of the equation <em>y</em> = 2<em><sup>x</sup></em> + <em>k</em> is shown, where <em>k</em> is a constant. What is the value of <em>k</em>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "-6<br>"
+        },
+        {
+          "name": "B",
+          "content": "-5<br>"
+        },
+        {
+          "name": "C",
+          "content": "5<br>"
+        },
+        {
+          "name": "D",
+          "content": "6<br>"
+        }
+      ],
+      "correct": "-6<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp;In triangle RST, the measure of angle R is 37°, the measure of angle S is x°, and the measure of angle <em>T</em> is (3<em>x</em> - 5)°. Point<em> L</em> lies on </span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{RS}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-block-id=\"4\" mathquill-command-id=\"3\"><var mathquill-command-id=\"6\">R</var><var mathquill-command-id=\"8\">S</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">, point <em>K</em> lies on </span></span><span class=\"mq-math-mode\" latex-data=\"ST\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{ST}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-block-id=\"18\" mathquill-command-id=\"17\"><var mathquill-command-id=\"20\">S</var><var mathquill-command-id=\"22\">T</var></span></span></span><span>&nbsp;&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">, and </span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{ST}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-block-id=\"18\" mathquill-command-id=\"17\"><var mathquill-command-id=\"26\">LT</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"> is parallel to</span></span><span class=\"mq-math-mode\" latex-data=\"\\overline{RT}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-non-leaf mq-overline\" mathquill-block-id=\"37\" mathquill-command-id=\"36\"><var mathquill-command-id=\"39\">&nbsp;R</var><var mathquill-command-id=\"40\">T</var></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp;. What is the measure, in degrees, of angle <em>SKL</em>? (Disregard the degree symbol when entering your answer.)</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "106",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 31<em>x&nbsp;</em>- 32<em>y&nbsp;</em>= c<br></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">In the given system of equations, <em>c</em> is a positive constant. Which of the following could be the point where the graphs of the equations in this system intersect in the <em>xy</em>-plane?&nbsp;</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "(<em>c</em>, 0)<span class=\"mq-math-mode\" latex-data=\"\\frac{c}{63}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><br></span></span></span></span><br>"
+        },
+        {
+          "name": "B",
+          "content": "(c,&nbsp;<span class=\"mq-math-mode\" latex-data=\"\\frac{c}{63}\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><var mathquill-command-id=\"9\">c</var></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">6</span><span mathquill-command-id=\"8\">3</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​)<br>"
+        },
+        {
+          "name": "C",
+          "content": "(10, 630)<br>"
+        },
+        {
+          "name": "D",
+          "content": "(10,&nbsp;<span class=\"mq-math-mode\" latex-data=\"-\\frac{10}{63}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"\" mathquill-command-id=\"11\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"9\">1</span><span mathquill-command-id=\"10\">0</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">6</span><span mathquill-command-id=\"8\">3</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​)<br>"
+        }
+      ],
+      "correct": "(10,&nbsp;<span class=\"mq-math-mode\" latex-data=\"-\\frac{10}{63}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"\" mathquill-command-id=\"11\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"9\">1</span><span mathquill-command-id=\"10\">0</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">6</span><span mathquill-command-id=\"8\">3</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​)<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The scatterplot shows the relationship between<em> x</em> and <em>y</em> for the 9 data points in data set <em>A</em>.</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">​​​​​​​</span></span><img height=\"313\" src=\"/images/a4891c733c3719b8cb530e57d35e1c6e.png\" width=\"316\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A quadratic model for the data in data set A can be written as y= 0.04<em>x</em><sup>2</sup>- 0.06<em>x</em> + 6.57. The graph of this model is shown in the <em>xy</em>-plane. The data point <em>x</em>&nbsp;= 0 was found to be the result of a recording error and was removed from data set A to create data set B, consisting of there maining 8 data points. A quadratic model for the data in data set B can be written a<em>x</em><sup>&nbsp;</sup><em>y</em> = <em>ax</em><sup>2</sup> + <em>bx</em> + <em>c</em>, where <em>a</em>, <em>b</em>, and <em>c</em> are constants. If the quadratic models for data sets A and Bare calculated in the same way, which of the following statements must be true?</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Ⅰ . <em>a</em> &gt; 0.04<br>Ⅱ. <em>c</em> &lt; 6.57</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ⅰ only<br>"
+        },
+        {
+          "name": "B",
+          "content": "Ⅱ only<br>"
+        },
+        {
+          "name": "C",
+          "content": "Ⅰ and Ⅱ<br>"
+        },
+        {
+          "name": "D",
+          "content": "Neither Ⅰ nor Ⅱ<br>"
+        }
+      ],
+      "correct": "Ⅰ and Ⅱ<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which measure, in radians, is equivalent to(47</span></span><span style=\"font-size:10.5pt\"><span style=\"font-family:Calibri\"><span style=\"font-size:10.5000pt\"><span style=\"font-family:微软雅黑\"><font face=\"微软雅黑\">•</font></span></span></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">180)°?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "47<span class=\"mq-math-mode\" latex-data=\"\\Pi\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span></span><span>π&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\Pi\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"3\">π</span></span></span><span>&nbsp;+47</span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"-\\frac{\\Pi}{47}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"\" mathquill-command-id=\"11\">−</span><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"9\">π</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span><span mathquill-command-id=\"8\">7</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"\\Pi-47\"><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"5\">π−</span><span mathquill-command-id=\"6\">4</span><span mathquill-command-id=\"7\">7</span></span></span><span>&nbsp;</span>​​​​​​​<br>"
+        }
+      ],
+      "correct": "47<span class=\"mq-math-mode\" latex-data=\"\\Pi\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span></span><span>π&nbsp;</span>​​​​​​​<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A biologist mixed a solution that is 0.1% sodium chloride by mass with a solution that is 0.05% sodium chloride by mass to obtain a new solution, which has a mass of 90 grams and contains 0.07 grams of sodium chloride. How many grams of 0.1% sodium chloride solution did the biologist use?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "0.14<br>"
+        },
+        {
+          "name": "B",
+          "content": "40<br>"
+        },
+        {
+          "name": "C",
+          "content": "50<br>"
+        },
+        {
+          "name": "D",
+          "content": "89.86<br>"
+        }
+      ],
+      "correct": "50<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The expression 6(9<em>x</em> + 16)(<em>x</em> - 5) - (4<em>x&nbsp;</em>+ 17) can be written in the form <em>ax</em>²+ <em>bx</em> + c, where <em>a</em>, <em>b</em>, and <em>c</em> are constants. What is the value of <em>b</em>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "-178",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 9 and 13, which&nbsp; inequality represents the possible lengths, x , of the third side of the triangle?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>x</em> &lt;&nbsp; 22<br>"
+        },
+        {
+          "name": "B",
+          "content": "<em>x</em> <span class=\"mq-math-mode\" latex-data=\">\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">&gt;</span></span></span>&nbsp;22<br>"
+        },
+        {
+          "name": "C",
+          "content": "4 &lt;<em> x </em>&lt;<em> 2</em>2<br>"
+        },
+        {
+          "name": "D",
+          "content": "<em>x</em> &lt; 4 or <em>x&nbsp;</em>&gt; 22<br>"
+        }
+      ],
+      "correct": "4 &lt;<em> x </em>&lt;<em> 2</em>2<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">At different times on a certain day, a manager at a theme park recorded the number of visitors. An exponential model gives the estimated number of visitors, <em>V</em>, at the theme park <em>t</em> hours after the theme park opened, where <em>t</em> </span></span><span class=\"mq-math-mode\" latex-data=\"\\le\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">≤</span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"> 3. Based on the model, 85 visitors were estimatedto be at the theme park when it opened, and every 30 minutes the estimated number of visitors increased by 120% of the estimated number of visitors 30 minutes earlier. Which of the following equations best represents this model?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>V</em> = 85(2.20)<sup>2<em>t</em></sup><br>"
+        },
+        {
+          "name": "B",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"V=85\\left(2.20\\right)^{\\frac{t}{30}}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">V</var><span class=\"mq-binary-operator\" mathquill-command-id=\"5\">=</span><span mathquill-command-id=\"6\">8</span><span mathquill-command-id=\"7\">5</span><span class=\"mq-non-leaf\" mathquill-command-id=\"8\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"9\"><span mathquill-command-id=\"10\">2</span><span mathquill-command-id=\"11\">.</span><span mathquill-command-id=\"12\">2</span><span mathquill-command-id=\"13\">0</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"17\"><span class=\"mq-sup\" mathquill-block-id=\"18\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"20\"><span class=\"mq-numerator\" mathquill-block-id=\"21\"><var mathquill-command-id=\"26\">t</var></span><span class=\"mq-denominator\" mathquill-block-id=\"22\"><span mathquill-command-id=\"24\">3</span><span mathquill-command-id=\"25\">0</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span></span></span><span>&nbsp;</span><br>"
+        },
+        {
+          "name": "C",
+          "content": "<em>V</em>= 85(1.20)<sup>2t</sup><br>"
+        },
+        {
+          "name": "D",
+          "content": "<span class=\"mq-math-mode\" latex-data=\"V=85\\left(2.20\\right)^{\\frac{t}{30}}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><var mathquill-command-id=\"3\">V</var><span class=\"mq-binary-operator\" mathquill-command-id=\"5\">=</span><span mathquill-command-id=\"6\">8</span><span mathquill-command-id=\"7\">5</span><span class=\"mq-non-leaf\" mathquill-command-id=\"8\"><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">(</span><span class=\"mq-non-leaf\" mathquill-block-id=\"9\"><span mathquill-command-id=\"10\">1</span><span mathquill-command-id=\"11\">.</span><span mathquill-command-id=\"12\">2</span><span mathquill-command-id=\"13\">0</span></span><span class=\"mq-scaled mq-paren\" style=\"transform: scale(1, 1.2);\">)</span></span><span class=\"mq-supsub mq-non-leaf mq-sup-only\" mathquill-command-id=\"17\"><span class=\"mq-sup\" mathquill-block-id=\"18\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"20\"><span class=\"mq-numerator\" mathquill-block-id=\"21\"><var mathquill-command-id=\"26\">t</var></span><span class=\"mq-denominator\" mathquill-block-id=\"22\"><span mathquill-command-id=\"24\">3</span><span mathquill-command-id=\"25\">0</span></span><span style=\"display:inline-block;width:0\">​</span></span></span></span></span></span><span>&nbsp;</span><br>"
+        }
+      ],
+      "correct": "<em>V</em> = 85(2.20)<sup>2<em>t</em></sup><br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span class=\"mq-math-mode\" latex-data=\"42(x-1)=6(-7+7x)\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span mathquill-command-id=\"3\">4</span><span mathquill-command-id=\"5\">2</span><span mathquill-command-id=\"7\">(</span><var mathquill-command-id=\"9\">x</var><span class=\"mq-binary-operator\" mathquill-command-id=\"11\">−</span><span mathquill-command-id=\"13\">1</span><span mathquill-command-id=\"15\">)</span><span class=\"mq-binary-operator\" mathquill-command-id=\"17\">=</span><span mathquill-command-id=\"19\">6</span><span mathquill-command-id=\"21\">(</span><span class=\"mq-binary-operator\" mathquill-command-id=\"23\">−</span><span mathquill-command-id=\"25\">7</span><span class=\"mq-binary-operator\" mathquill-command-id=\"27\">+</span><span mathquill-command-id=\"29\">7</span><var mathquill-command-id=\"31\">x</var><span mathquill-command-id=\"33\">)</span></span></span><span>&nbsp;</span>​​​​​​​<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><br>How many solutions does the given equation have?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Zero<br>"
+        },
+        {
+          "name": "B",
+          "content": "Exactly one<br>"
+        },
+        {
+          "name": "C",
+          "content": "Exactly two<br>"
+        },
+        {
+          "name": "D",
+          "content": "Infinitely many<br>"
+        }
+      ],
+      "correct": "Infinitely many<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The functions <em>f</em> and <em>g</em> are defined by the given equations, where <em>x</em>&nbsp;&gt; 0, <em>a</em> and <em>b</em> are integer constants, <em>a</em> &lt; <em>b</em>, and <em>a</em> &gt; 1. lf <em>y</em> = <em>f</em> (<em>x</em>) and <em>y&nbsp;</em>= <em>g</em>(<em>x</em>) are graphed in the <em>xy-</em>plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where <em>x</em> </span></span><span class=\"mq-math-mode\" latex-data=\"\\ge\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" contenteditable=\"false\" data-cke-editable=\"1\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-binary-operator\" mathquill-command-id=\"3\">≥</span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">0?</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">1. <em>f</em> (<em>x</em>) = <em>a</em>(0.54)<sup>-<em>bx</em></sup></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Ⅱ. <em>g</em>(<em>x</em>) =&nbsp;<em>a</em> (1.46)<sup><em>x</em>+2</sup> + <em>b</em></span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ⅰ only<br>"
+        },
+        {
+          "name": "B",
+          "content": "Ⅱ only<br>"
+        },
+        {
+          "name": "C",
+          "content": "Ⅰ and Ⅱ<br>"
+        },
+        {
+          "name": "D",
+          "content": "NeitherⅠ norⅡ<br>"
+        }
+      ],
+      "correct": "Ⅰ only<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp;The mass of object A is 481% of the mass of object B, and the mass of object A is 0.740% of the mass of object C. If the mass of object C is <em>p</em>% of the mass of object B, what is the value of <em>p</em>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "65000",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which expression is a factor of <em>y</em><sup>2</sup>(<em>x&nbsp;</em>- 8) - 16(<em>x</em> - 8)<sup>3</sup>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "<em>y&nbsp;</em>(<em>x</em> - 8)<br>"
+        },
+        {
+          "name": "B",
+          "content": "(<em>x</em> - 8) (<em>x</em> - 4)<br>"
+        },
+        {
+          "name": "C",
+          "content": "<em>y </em>+ <em>x</em> - 8<br>"
+        },
+        {
+          "name": "D",
+          "content": "<em>y </em>+ 4<em>x</em> - 32<br>"
+        }
+      ],
+      "correct": "<em>y </em>+ 4<em>x</em> - 32<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">For a study, a group of gophers will be selected from a habitat consisting of 220 gophers, and a group of groundhogs will be selected from a habitat consisting of 200 groundhogs. Some of the gophers and groundhogs will be in a treatment group, and some of the gophers and groundhogs will be in a control group. Which of the following is necessary for this study to attempt to establish a cause-and-effect relationship between two variables?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "The number of gophers in the treatment group is equal to the number of groundhogs in the treatment group, and the number of gophers in the control group is equal to the number of groundhogs in the control group.<br>"
+        },
+        {
+          "name": "B",
+          "content": "The gophers and the groundhogs are randomly selected from their respective habitats.<br>"
+        },
+        {
+          "name": "C",
+          "content": "The gophers and the groundhogs are randomly assigned to the treatment and control groups.<br>"
+        },
+        {
+          "name": "D",
+          "content": "The average age of the gophers in the treatment group is equal to the average age of the groundhogs in the treatment group, and the average age of the gophers in the control group isequal to the average age of the groundhogs in the control group.<br>"
+        }
+      ],
+      "correct": "The gophers and the groundhogs are randomly assigned to the treatment and control groups.<br>",
+      "solution": ""
+    }
+  ]
+}

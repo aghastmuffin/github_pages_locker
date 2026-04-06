@@ -1,0 +1,682 @@
+{
+  "uuid": "77ffe59b-61ef-47e4-ba8e-118244b99796",
+  "chunk": "C3LsQ3LD.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Often, the Nobel Prize in chemistry is given to a single person, such as Richard Martin WillstÃ¤tter in 1915. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given ______. For instance, in 2020, Jennifer Doudna was among those awarded for \"the development of a method for genome editing.\"</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "retroactively"
+        },
+        {
+          "name": "B",
+          "content": "ceremoniously"
+        },
+        {
+          "name": "C",
+          "content": "jointly"
+        },
+        {
+          "name": "D",
+          "content": "reluctantly"
+        }
+      ],
+      "correct": "jointly",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Noting the correspondence of Leonardo da Vinci's <i>Mona Lisa</i> to his self-portrait in red chalk, artist Lillian Schwartz argued that the Mona Lisa is, in a sense, a self-portrait, tooâby mapping his own features onto those of its ostensible subject, Lisa del Giocondo, Leonardo depicted himself as a woman. Indeed, by subjecting both works to digital analysis, Schwartz ______ the two faces' structural resemblance.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "corroborated"
+        },
+        {
+          "name": "B",
+          "content": "amalgamated"
+        },
+        {
+          "name": "C",
+          "content": "promulgated"
+        },
+        {
+          "name": "D",
+          "content": "consolidated"
+        }
+      ],
+      "correct": "corroborated",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While modern composers may often get inspiration from past greats like Ludwig van Beethoven, the extent of their influences is broad. The music of Ernesto Lecuona, for example, can be said to ______ elements of both the classical European tradition and the social, political, and cultural landscape of his native Cuba.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "defy"
+        },
+        {
+          "name": "B",
+          "content": "neglect"
+        },
+        {
+          "name": "C",
+          "content": "foretell"
+        },
+        {
+          "name": "D",
+          "content": "exhibit"
+        }
+      ],
+      "correct": "exhibit",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many of late nineteenth-century artist James McNeill Whistler's oil paintings and lithographs depict the streets of European cities. While his contemporaries' approaches to these subjects were often sentimental, Whistler's eye seemed ______. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "tranquil"
+        },
+        {
+          "name": "B",
+          "content": "peculiar"
+        },
+        {
+          "name": "C",
+          "content": "nostalgic"
+        },
+        {
+          "name": "D",
+          "content": "dispassionate"
+        }
+      ],
+      "correct": "dispassionate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers Cesar A. Hidalgo, Elisa Castarier, and Andres Sevtsuk created a computer model to predict the mix of hotel, bicycle stores, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston's North End. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city's amenities.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes how an algorithm can predict the success of certain businesses, discusses an example of a use of that algorithm, and suggests potential uses of the algorithm in other fields."
+        },
+        {
+          "name": "B",
+          "content": "It explains why urban planners are interested in understanding the locations of certain businesses, details a study that has addressed this question, and identifies one key finding."
+        },
+        {
+          "name": "C",
+          "content": "It summarizes trends in recent urban development, describes a potential problem for urban planners, and suggests a computational tool that can be used to solve that problem."
+        },
+        {
+          "name": "D",
+          "content": "It introduces a research team's study of urban neighborhoods, describes an aspect of the study's methodology, and suggests a potential application of the team's research."
+        }
+      ],
+      "correct": "It introduces a research team's study of urban neighborhoods, describes an aspect of the study's methodology, and suggests a potential application of the team's research.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from George Eliot's 1857 short story \"The Sad Fortunes of the Rev. Amos Barton.\" Mr. Ely is a clergyman in the town of Milby.</p><blockquote style=\"margin-left: 40px;\">By the laity of Milby and its neighbourhood [Mr. Ely] was regarded as a man of quite remarkable powers and learning, who must make a considerable sensation in London pulpits and drawing-rooms on his occasional visit to the metropolis; and by his brother clergy he was regarded as a discreet and agreeable fellow. Mr. Ely never got into a warm discussion: he suggested what might be thought, but rarely said what he thought himself; he never let either men or women see that he was laughing at them, and he never gave any one an opportunity of laughing at <em>him</em>.</blockquote>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It implies that Mr. Ely's neighbors are more naive in their estimation of him than people in London are and then explains why his neighbors have been so easily misled."
+        },
+        {
+          "name": "B",
+          "content": "It presents the favorable opinion of Mr. Ely that other people hold and then describes the behaviors of Mr. Ely that enable him to maintain that favorable opinion."
+        },
+        {
+          "name": "C",
+          "content": "It shows that Mr. Ely had originally been admired in Milby but is now less well-regarded and then details the events that caused their regard for him to subside."
+        },
+        {
+          "name": "D",
+          "content": "It highlights the disparity between Mr. Ely's public and private behavior and then conveys why he labors to obscure his true self from other people."
+        }
+      ],
+      "correct": "It presents the favorable opinion of Mr. Ely that other people hold and then describes the behaviors of Mr. Ely that enable him to maintain that favorable opinion.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Text 1 is adapted from E.M. Forster's 1910 novel <i>Howards End</i>. Text 2 discusses <i>Howards End</i>. King's Cross and St. Pancras are adjacent railway termini in London from which trains travel to the countryside.</p><p><strong>Text 1</strong><br>To Margaret the station of King's Cross had always suggested infinity. Its very situation--withdrawn a little behind the facile splendours of St. Pancras--implied a comment on the materialism of life. Those two great arches, colourless, indifferent, shouldering between them an unlovely clock, were fit portals to some eternal adventure, whose issues might be prosperous, but would certainly not be expressed in the ordinary language of prosperity.</p><p><strong>Text 2</strong><br>The interplay between opposing ideological positions in <i>Howards End</i> is broadly articulated in the novel's organization of geographic space. On the one hand, the modern metropolis of London represents capitalism's emphasis on pragmatism and the accumulation of material wealth; on the other, the English countryside, accessible via King's Cross, fosters an idealism that values tradition, authentic personal connection, and the aesthetic--what the novel calls \"the infinite.\"</p>",
+      "question": "Based on the texts, the author of Text 2 would most likely agree with which statement about King's Cross, as it is depicted in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Because it is situated at the beginning of Margaret's journey from the city to the country, King's Cross emblematizes the intrusion of the forces of materialism and modernity into the rural spaces that the novel associates with idealism and tradition."
+        },
+        {
+          "name": "B",
+          "content": "The austerity conveyed by King's Cross's appearance mirrors Margaret's disillusionment with the prospect of having authentic connections with other people in a world that chiefly values more conventional forms of prosperity."
+        },
+        {
+          "name": "C",
+          "content": "As a point of connection between London and the countryside, King's Cross suggests to Margaret the possibility of acquiring the intangible abundance promised by the kinds of authentic engagements that the novel's rural spaces seem to offer."
+        },
+        {
+          "name": "D",
+          "content": "King's Cross has a relatively unassuming appearance whose sharp contrast with the more aesthetically pleasing appearance of St. Pancras suggests to Margaret the ascendancy of the pragmatic capitalist outlook among London's inhabitants."
+        }
+      ],
+      "correct": "As a point of connection between London and the countryside, King's Cross suggests to Margaret the possibility of acquiring the intangible abundance promised by the kinds of authentic engagements that the novel's rural spaces seem to offer.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When Kenyan writer Ngugi wa Thiong'o, who had previously published four novels in English, began writing in his native language, Gikiyu, in the 1970s, several fellow writers and critics cautioned that doing so might make his works inaccessible outside his own community. Some noted that Kiswahili--widely spoken in Kenya and elsewhere in Africa--would be a more practical choice. Rejecting their arguments, Ngugi went on to author dozens of acclaimed works in Gikiyu that have been translated into a total of more than thirty languages.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Although Ngugi insisted on publishing his first works in Gikuyu, they have since been translated into many other languages."
+        },
+        {
+          "name": "B",
+          "content": "Although Ngugi's decision to write in Gikuyu was met with some skepticism, it didn't prevent him from achieving literary success."
+        },
+        {
+          "name": "C",
+          "content": "The reaction to Ngugi's rejection of English illustrates that some literary experts believe that fame is most easily gained by writing in a widely understood language, such as Gikuyu."
+        },
+        {
+          "name": "D",
+          "content": "In the 1970s, Ngugi became convinced that literature ought to be written in authors' native languages, and he proceeded to publish many works in Gikuyu."
+        }
+      ],
+      "correct": "Although Ngugi's decision to write in Gikuyu was met with some skepticism, it didn't prevent him from achieving literary success.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Mick Herron's 2023 novel <i>The Secret Hours</i>. The narrator is describing members of a government committee.</p><blockquote style=\"margin-left: 40px;\">Finally, and adding much-needed gravitas, was Sir Winston Day, whose features seemed moulded to adorn a bust, or possibly a stamp, and whose forehead was so evidently bulging with grey matter that it would have been impertinent to inquire too closely into the actual achievements his half-century of public service had produced. His recently published memoirs partly cast light on this enigma, but given that such details were not provided until after the thirty-page mark, they might as well have remained state secrets.</blockquote><p style=\"text-align: right;\">Â©2023 by Mick Herron</p>",
+      "question": "Based on the text, which choice best describes Sir Winston Day?",
+      "options": [
+        {
+          "name": "A",
+          "content": "He has the appearance of a distinguished figure, but it is uncertain whether he has accomplished anything to earn distinction."
+        },
+        {
+          "name": "B",
+          "content": "He has maintained a modest profile even though he has served the public capably for many years."
+        },
+        {
+          "name": "C",
+          "content": "He looks like a person worthy of respect, but his memoirs reveal that some of his actions were dishonorable."
+        },
+        {
+          "name": "D",
+          "content": "He would be a celebrated public figure if his achievements did not have to be kept secret."
+        }
+      ],
+      "correct": "He has the appearance of a distinguished figure, but it is uncertain whether he has accomplished anything to earn distinction.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a vast variety of plants), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are."
+        },
+        {
+          "name": "B",
+          "content": "although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees."
+        },
+        {
+          "name": "C",
+          "content": "although bumblebees and many other wild bees have experienced similar population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction."
+        },
+        {
+          "name": "D",
+          "content": "because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees."
+        }
+      ],
+      "correct": "because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>For its 2022 exhibition <i>Guarding the Art</i>, the Baltimore Museum of Art cast the security personnel typically responsible for safeguarding the institution's collections as the curators, <u>whose individual selections from the museum's holdings culminated in a show amplifying a distinct perspective not typically given a formal platform.</u></p>",
+      "question": "Which quote from one of the personnel who curated the exhibition would best support the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"The most enjoyable part of curating this show has been seeing the outcome of our efforts: a unique show that spans genres, mediums, cultures, and eras. We hope visitors will sense our genuine affinity for the pieces we are charged with protecting.\""
+        },
+        {
+          "name": "B",
+          "content": "\"My selections for the show were motivated by an interest in bringing publicity to lesser-known artifacts in the museum's collection, many of which tend to be overlooked or even dismissed as uninteresting by most visitors to the museum.\""
+        },
+        {
+          "name": "C",
+          "content": "\"The piece I chose is accompanied by a statement of the personal interpretation I've developed over countless hours overseeing the work and interacting with its visitors--an interpretation that I've previously shared only in small impromptu conversations with those visitors who are interested in discussing their reflections on the piece with me.\""
+        },
+        {
+          "name": "D",
+          "content": "\"Throughout the exhibition's development, my colleagues and I partnered closely with other museum staff whose areas of expertise lie in curation and conservation, and whose insights enriched our understandings of the pieces we selected for the exhibition.\""
+        }
+      ],
+      "correct": "\"The piece I chose is accompanied by a statement of the personal interpretation I've developed over countless hours overseeing the work and interacting with its visitors--an interpretation that I've previously shared only in small impromptu conversations with those visitors who are interested in discussing their reflections on the piece with me.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A student is writing an essay on the subject of cultured meat, which is grown in a laboratory and is intended to help reduce the number of livestock harvested for food. The student wants to make the case that cultured meat production may be useful in responding to an expected widespread change in the public's behavior.</p>",
+      "question": "Which quotation from a publication by a researcher would most effectively support the student's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"Consumers tend to believe that using less packaging when selling meat products in stores would have a significant effect on the environment.\""
+        },
+        {
+          "name": "B",
+          "content": "\"The flavor of meat from livestock differs across species (from pig to chicken to cow), and is also influenced by farming conditions and the breeds and genders of animals.\""
+        },
+        {
+          "name": "C",
+          "content": "\"A growing population that is increasingly consuming more meat in its diet will contribute to an increasing demand for meat products in the 21st century.\""
+        },
+        {
+          "name": "D",
+          "content": "\"Researchers who advocate for the development of lab-grown meat claim that it's better for the environment than conventional meat because it requires less water consumption.\""
+        }
+      ],
+      "correct": "\"A growing population that is increasingly consuming more meat in its diet will contribute to an increasing demand for meat products in the 21st century.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Born in Chile in 1917, artist and ethnomusicologist Violeta Parra was a pioneer in the <i>nueva canciÃ³n chilena</i> (Chilean New Song) movement that emerged in the late 1950s and then spread throughout Latin America, Portugal, and Spain as <i>nueva canciÃ³n</i>. Parra traveled all over Chile compiling extensive records of authentic folk music as well as recipes, proverbs, and other facets of cultural history. These records formed the foundation for the early movement's revival of traditional Chilean folk forms in new songs that represented modern realities of the working class and strongly advocated for social change. <u>As the movement spread beyond Chile, the breadth of musical traditions incorporated into its foundation also expanded.</u></p>",
+      "question": "Which detail about songs associated with nueva canciÃ³n, if true, would best illustrate the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Many feature political commentary addressing contemporary issues that stemmed from shared experiences of European colonization in Latin American countries."
+        },
+        {
+          "name": "B",
+          "content": "Many demonstrate the stylistic influence of corrido, a genre of narrative songs from Mexico that had come to be characterized by political themes in the early 1800s."
+        },
+        {
+          "name": "C",
+          "content": "Many were written with parts meant to be played on the quena, a traditional flute used across Andean countries, including Chile."
+        },
+        {
+          "name": "D",
+          "content": "Many were produced by Argentinian artists in the late 1950s, with others by artists in additional Latin American countries first emerging soon after."
+        }
+      ],
+      "correct": "Many demonstrate the stylistic influence of corrido, a genre of narrative songs from Mexico that had come to be characterized by political themes in the early 1800s.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The National Environmental Policy Act (NEPA) requires US federal agencies to assess environmental effects of potential actions, such as building highways. While many NEPA reviews require public comment, categorical exclusions (CEs) allow quick reviews with no public comment for actions that will minimally affect the environment. In 2020 the rule governing CEs was revised: before, CEs could be granted for actions that \"do not individually or cumulatively have a significant effect on the human environment,\" but the revised rule allowed CEs if actions \"normally do not have a significant effect on the human environment.\" Environmentalists found this revision to be potentially detrimental because ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the increasing need to build new highways and rehabilitate older highways in the US incentivizes agencies to grant CEs after 2020 for reasons that would not have been considered valid prior to 2020."
+        },
+        {
+          "name": "B",
+          "content": "the 2020 relaxation of the rule regarding CEs would permit more exclusions, resulting in more reviews of actions by federal agencies and a paradoxically slower review process."
+        },
+        {
+          "name": "C",
+          "content": "the rule that governed CEs before 2020 allowed expedited reviews of actions that might have significant effects on the environment if those effects were believed to be rare, while the 2020 revision of the rule subjected such actions to slower reviews."
+        },
+        {
+          "name": "D",
+          "content": "the 2020 revision of the rule governing CEs would allow expedited reviews of actions that had a minimal environmental effect when considered on their own but a significant effect when considered together."
+        }
+      ],
+      "correct": "the 2020 revision of the rule governing CEs would allow expedited reviews of actions that had a minimal environmental effect when considered on their own but a significant effect when considered together.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Microbial fuel cells (MFC) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cmÂ²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cmÂ². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode."
+        },
+        {
+          "name": "B",
+          "content": "as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles."
+        },
+        {
+          "name": "C",
+          "content": "electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions."
+        },
+        {
+          "name": "D",
+          "content": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode."
+        }
+      ],
+      "correct": "silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Included in <i>Serial Item</i>, a 2017 group exhibition at the Akron Art Museum in Ohio, was the work of artist Lorna Simpson, who is best known for her multimedia artworks that juxtapose images of African American women with text fragments. Her work challenges conventional notions of race, gender, history, and ______ she is credited with expanding the horizons of conceptual photographic art.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "memory,"
+        },
+        {
+          "name": "B",
+          "content": "memory and"
+        },
+        {
+          "name": "C",
+          "content": "memory"
+        },
+        {
+          "name": "D",
+          "content": "memory, and"
+        }
+      ],
+      "correct": "memory, and",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Enacted in 2006, Nepal's constitution, according to legal ______ contains all of the six constitutional features that enhance judicial independence. Explicit provisions for judicial independence, Melton and Ginsburg's research explains, are more likely to be found in constitutions enacted after 1985.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "researchers James Melton and Tom Ginsburg"
+        },
+        {
+          "name": "B",
+          "content": "researchers James Melton and Tom Ginsburg,"
+        },
+        {
+          "name": "C",
+          "content": "researchers, James Melton and Tom Ginsburg"
+        },
+        {
+          "name": "D",
+          "content": "researchers, James Melton and Tom Ginsburg,"
+        }
+      ],
+      "correct": "researchers James Melton and Tom Ginsburg,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although 60558 Echeclus and 2014 YX49 are both classified as centaur objectsâsmall solar system bodies in unstable orbitsâthey exhibit striking differences in ______ object 60558 Echeclus is considered an active centaur, showing sporadic comet-like activity (such as clouds of dust and gas on its surface), 2014 YX49, showing no such activity, is considered dormant.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "behavior. The"
+        },
+        {
+          "name": "B",
+          "content": "behavior: while the"
+        },
+        {
+          "name": "C",
+          "content": "behavior, while the"
+        },
+        {
+          "name": "D",
+          "content": "behavior; the"
+        }
+      ],
+      "correct": "behavior: while the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>If you had turned on the radio in the summer of 1961, chances are you would have heard the hit ______ \"A Tear\" by Gene McDaniels. The song spent four straight weeks on the Billboard Hot 100 chart that year.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "song:"
+        },
+        {
+          "name": "B",
+          "content": "song;"
+        },
+        {
+          "name": "C",
+          "content": "song,"
+        },
+        {
+          "name": "D",
+          "content": "song"
+        }
+      ],
+      "correct": "song",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>That the repeated thermonuclear outbursts of U Scorpii, a recurrent nova system consisting of a white dwarf star and a companion star, have occurred at intervals as short as eight yearsâshorter intervals between outbursts than have been observed in some other novae of its classâ ______ to the white dwarf's extremely large mass and rapid accretion of hydrogen from its companion star.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is due"
+        },
+        {
+          "name": "B",
+          "content": "due"
+        },
+        {
+          "name": "C",
+          "content": "being due"
+        },
+        {
+          "name": "D",
+          "content": "having been due"
+        }
+      ],
+      "correct": "is due",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In his 2011 book, historian Sebouh David Aslanian quantifies the reading patterns of early modern Armenian merchants from New Julfa. Aslanian's macroanalysis ______ nearly 1,000 book titles published between 1512 and 1800 shows not only the steady popularity of religious texts but also a broadening interest in secular books, especially those on history and geography.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "had examined"
+        },
+        {
+          "name": "B",
+          "content": "examining"
+        },
+        {
+          "name": "C",
+          "content": "examines"
+        },
+        {
+          "name": "D",
+          "content": "examined"
+        }
+      ],
+      "correct": "examining",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Scientists studying asteroid deflection have focused on secondary objects such as S/2020 (2013 PY6), a moonlet orbiting the near-Earth asteroid 2013 PY6. In 2022 NASA intentionally crashed a probe into just such an object, the moonlet Dimorphos. ______ Dimorphos's orbital period around the near-Earth asteroid Didymos was permanently altered.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In comparison,"
+        },
+        {
+          "name": "B",
+          "content": "In addition,"
+        },
+        {
+          "name": "C",
+          "content": "Consequently,"
+        },
+        {
+          "name": "D",
+          "content": "Specifically,"
+        }
+      ],
+      "correct": "Consequently,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>According to the free electron model, metals, such as copper and silver, do not maintain bonds by sharing and exchanging electrons. ______ metals are held together by a system of valence electrons that travel freely, interacting with neither ions nor each other. This framework for understanding the subatomic relationships within metals can be used to help explain heat and electrical conductivity.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For example,"
+        },
+        {
+          "name": "B",
+          "content": "Rather,"
+        },
+        {
+          "name": "C",
+          "content": "Accordingly,"
+        },
+        {
+          "name": "D",
+          "content": "Likewise,"
+        }
+      ],
+      "correct": "Rather,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Robert Hayden's 1994 poem \"Monet's Waterlilies,\" for example, meditates on Claude Monet's 1899 painting <i>Water Lilies</i>; Saad Ali's 2020 poem \"This Town,\" ______ takes a painting as its subject: Ivan Aivazovsky's 1859 work <i>Lunar Night on the Black Sea</i>.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "nevertheless,"
+        },
+        {
+          "name": "B",
+          "content": "conversely,"
+        },
+        {
+          "name": "C",
+          "content": "likewise,"
+        },
+        {
+          "name": "D",
+          "content": "hence,"
+        }
+      ],
+      "correct": "likewise,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Firefly luciferase (Fluc) is a distinctly evolved enzyme that can oxidize a substrate called D-luciferin to induce bioluminescence and can act as a fatty acyl CoA-synthetase (ACS) enzyme, a class of enzyme present in all insects. ______ Fluc is a bifunctional enzyme whose presence indicates an insect is capable of emitting light; in contrast, the presence of ACS alone would be insufficient for determining bioluminescence.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "B",
+          "content": "In fact,"
+        },
+        {
+          "name": "C",
+          "content": "Moreover,"
+        },
+        {
+          "name": "D",
+          "content": "That is,"
+        }
+      ],
+      "correct": "That is,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Emphasis analysis and cultural analysis are two approaches to art criticism.</li><li>Emphasis analysis examines how visual elements are weighted in an artwork's composition.</li><li>Such an analysis of Anne Vallaye-Coster's <i>Still Life with Lobster</i> might consider how the painting's sharply contrasting colors place primary emphasis on the lobster in the foreground.</li><li>Cultural analysis considers the cultural trends, beliefs, and values of an artwork's time.</li><li>Such an analysis of Pablo Picasso's <i>Les Demoiselles d'Avignon</i> might consider how the painting's portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).</li></ul></blockquote>",
+      "question": "The student wants to present cultural analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "An approach to art criticism, cultural analysis considers the cultural trends, beliefs, and values of an artwork's time."
+        },
+        {
+          "name": "B",
+          "content": "An emphasis analysis of <i>Still Life with Lobster</i> might consider how the painting's sharply contrasting colors place primary emphasis on the lobster in the foreground."
+        },
+        {
+          "name": "C",
+          "content": "<i>Les Demoiselles d'Avignon's</i> portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century)."
+        },
+        {
+          "name": "D",
+          "content": "Emphasis analysis differs from cultural analysis in that emphasis analysis examines how visual elements are weighted in an artwork's composition."
+        }
+      ],
+      "correct": "An approach to art criticism, cultural analysis considers the cultural trends, beliefs, and values of an artwork's time.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Generally, an object will heat up when twisted.</li><li>The twisting of an object is known as torsion.</li><li>A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.</li><li>When a sample of styrene ethylene butylene styrene (SEBS) rubber fiber was twisted, its average surface temperature increased by 3.5Â°C.</li><li>When a sample of single-ply nickel-titanium (NiTi) wire was twisted, its average surface temperature increased by 21.3Â°C.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between SEBS rubber and single-ply NiTi wire fibers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In 2019, two research teams observed the effects of torsional heating on various fibers, including SEBS rubber and single-ply NiTi wire."
+        },
+        {
+          "name": "B",
+          "content": "Both SEBS rubber and single-ply NiTi wire fibers heat up when twisted, according to a 2019 study."
+        },
+        {
+          "name": "C",
+          "content": "Researchers determined that when the fibers were twisted, the average surface temperature of single-ply NiTi wire increased more than that of SEBS rubber."
+        },
+        {
+          "name": "D",
+          "content": "Twisting an object will generally cause its temperature to increase, a process known as torsional heating."
+        }
+      ],
+      "correct": "Both SEBS rubber and single-ply NiTi wire fibers heat up when twisted, according to a 2019 study.",
+      "solution": ""
+    }
+  ]
+}

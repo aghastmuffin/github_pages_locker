@@ -1,0 +1,682 @@
+{
+  "uuid": "e11af9a4-0499-4c66-b721-ff21024ff5d1",
+  "chunk": "D73y81Fg.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Lady Grant and colleagues ______ pots of sterilized soil with slurries of live microbes collected from soil in five sites across Colorado, including areas of sagebrush and ponderosa pine forest. Grant and team then grew mustard plants in the pots to see if the different microbial slurries affected levels of spicy glucosinolates like butenyl in the plantsâ seeds.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "precluded"
+        },
+        {
+          "name": "B",
+          "content": "estimated"
+        },
+        {
+          "name": "C",
+          "content": "sanitized"
+        },
+        {
+          "name": "D",
+          "content": "populated"
+        }
+      ],
+      "correct": "populated",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The collectibles market is one of the most difficult segments of the consumer economy to ______. Few economists would have predicted, for example, that the prices of collectible stuffed toys called Beanie Babies would soar in the late 1990s, but soar they did.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "forecast"
+        },
+        {
+          "name": "B",
+          "content": "exchange"
+        },
+        {
+          "name": "C",
+          "content": "monitor"
+        },
+        {
+          "name": "D",
+          "content": "avoid"
+        }
+      ],
+      "correct": "forecast",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Derived from research conducted with factory workers from 1924 to 1933, the Hawthorne effect suggests that participantsâ awareness that they are being studied alters their behavior and influences study outcomes. Since then, several researchers have claimed to invalidate this phenomenon, positing that the Hawthorne effect cannot be ______ because attempts to detect it invariably involve faulty research methods.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "substantiated"
+        },
+        {
+          "name": "B",
+          "content": "hypothesized"
+        },
+        {
+          "name": "C",
+          "content": "rectified"
+        },
+        {
+          "name": "D",
+          "content": "inculcated"
+        }
+      ],
+      "correct": "substantiated",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Paleontologists think that <em>Buitreraptor</em>, <em>Saltasaurus</em>, and other long-extinct theropods and sauropods may have breathed using air sacs connected to tubelike extensions inside the animalsâ bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as ______ those of <em>Buitreraptor</em>, <em>Saltasaurus</em>, and other theropods and sauropods.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "harbingers of"
+        },
+        {
+          "name": "B",
+          "content": "emissaries for"
+        },
+        {
+          "name": "C",
+          "content": "subordinates of"
+        },
+        {
+          "name": "D",
+          "content": "proxies for"
+        }
+      ],
+      "correct": "proxies for",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some social scientists argue that while a belief in the importance of individual autonomy is key to democracy, the public's understanding of economics is also central to its subsequent comprehension of a state's politics, and if an electorate is to function, economic issues cannot remain the domain only of experts. Economics is too ______ to leave to economists alone.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "complex"
+        },
+        {
+          "name": "B",
+          "content": "respectable"
+        },
+        {
+          "name": "C",
+          "content": "accessible"
+        },
+        {
+          "name": "D",
+          "content": "critical"
+        }
+      ],
+      "correct": "critical",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Jerome K. Jerome's 1889 novel <i>Three Men in a Boat (To Say Nothing of the Dog)</i>. The narrator and two friends are taking a boat down the River Thames in England.</p><blockquote style=\"margin-left: 40px;\"><p>In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was heâGeorge himselfâwho had done all the labour worth speaking of.</p></blockquote>",
+      "question": "Which choice best describes the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To give an overview of a particular situation that the narrator finds puzzling."
+        },
+        {
+          "name": "B",
+          "content": "To discuss how the narrator and his friends each contributed to resolving a conflict."
+        },
+        {
+          "name": "C",
+          "content": "To convey the narrator's confidence that he understands the role expected of him in a group."
+        },
+        {
+          "name": "D",
+          "content": "To present the narrator's generalization along with supporting examples from a specific situation."
+        }
+      ],
+      "correct": "To present the narrator's generalization along with supporting examples from a specific situation.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Advancements like the emergence of wheel-fashioned ceramics in the eastern Mediterranean circa 4500 BCE are overemphasized in innovation studies, contributing to the idea that technological change always brings greater complexity. Research by Nathaniel Erb-Satullo reveals an important exception: gold metallurgy flourished in the Caucasus in the Bronze Age, but a steep drop during that time (circa 1500 BCE) in objects featuring gold granulation (in which tiny gold spheres are applied to a gold surface to create textured designs) and other sophisticated goldsmithing techniques suggests that simpler processes supplanted advanced methods.</p>",
+      "question": "Which choice best describes the overall structure of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It summarizes the findings of several studies into the origins of a particular invention and then presents additional evidence from a more recent study that contradicts those findings."
+        },
+        {
+          "name": "B",
+          "content": "It details the near-consensus among researchers in a particular field of study regarding how technology evolves and then indicates the controversial nature of a study challenging that broadly accepted view."
+        },
+        {
+          "name": "C",
+          "content": "It explains that a particular interpretation of technological development has been perpetuated in an academic field and then provides a counterexample demonstrating that the interpretation isn't always accurate."
+        },
+        {
+          "name": "D",
+          "content": "It advances a claim made by researchers in one academic field about the nature of technological change and then critiques a contrasting claim presented by a researcher from a related academic field."
+        }
+      ],
+      "correct": "It explains that a particular interpretation of technological development has been perpetuated in an academic field and then provides a counterexample demonstrating that the interpretation isn't always accurate.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In their study of the steering muscles regulating sclerites (minute hardened structures) in the <i>Drosophila</i> (fruit fly) wing hinge, Johan M. Melis et al. used machine learning to devise a convolutional neural network (CNN) model capable of predicting the pattern of wing motion produced by the maximum activity of the muscles. The CNN modelâs output aligned with results of prior studies by other researchers measuring muscle activity patterns directlyâone of several indications, said Melis et al., that the model accurately represents important biomechanical processes underlying wing motion.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To present evidence from Melis et al.âs study in support of the efficacy of their CNN model."
+        },
+        {
+          "name": "B",
+          "content": "To provide an overview of how Melis et al. honed the accuracy of their CNN model."
+        },
+        {
+          "name": "C",
+          "content": "To compare results obtained by Melis et al. using their CNN model to prior results obtained from other researchersâ models."
+        },
+        {
+          "name": "D",
+          "content": "To account for Melis et al.âs reliance in their study on a CNN model in lieu of direct measurement."
+        }
+      ],
+      "correct": "To present evidence from Melis et al.âs study in support of the efficacy of their CNN model.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Julia Alvarez's 2000 novel <i>In the Name of SalomÃ©</i>. The narrator and her sister, daughters of a famous poet, are being tutored by Alejandro RomÃ¡n.</p><blockquote style=\"margin-left: 40px;\"><p>Our tutor, Alejandro RomÃ¡n, brought his younger brother, Miguel, to class one day. By now I was eighteen and had learned everything Alejandro had to teach me, so I was glad for a new face, Miguel was an aspiring poet, and he had heard from his brother that the UreÃ±a girls were none other than the daughters of NicolÃ¡s UreÃ±a, and they were smart as clockwork. Miguel was hoping not only to meet us but to make the acquaintance of the poet himself at MamÃ¡'s house.</p></blockquote><p style=\"text-align: right;\">Â©2000 by Julia Alvarez</p>",
+      "question": "Based on the text, why does Miguel accompany his brother to the sisters' house one day?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Miguel has learned all he can from his brother and hopes that the sisters will be able to give him additional guidance."
+        },
+        {
+          "name": "B",
+          "content": "Miguel has not received formal instruction in poetry and wants to ask the sisters' famous father to be his mentor."
+        },
+        {
+          "name": "C",
+          "content": "Miguel aspires to present his poems to the sisters and ask for their opinion on his writing."
+        },
+        {
+          "name": "D",
+          "content": "Miguel anticipates having the opportunity to be introduced to both the sisters and their father."
+        }
+      ],
+      "correct": "Miguel anticipates having the opportunity to be introduced to both the sisters and their father.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered âfast painting,â which in part involved swift applications of paint. That many of Hair's acolytes, including Rodney Demps, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group's shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Roy McLendon was also prolific, his paintings were executed with greater attention to detail.</p>",
+      "question": "What does the text most strongly suggest about paintings by Demps?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Demps's reliance on the technique of fast painting likely accounts for his works being more aesthetically interesting than works by McLendon are."
+        },
+        {
+          "name": "B",
+          "content": "Although it is evident that Demps adopted some of Hair's preferred techniques, Demps's works are less derivative of works by Hair than is typically acknowledged."
+        },
+        {
+          "name": "C",
+          "content": "The lack of precision with which they were executed suggests that they are inferior to works by either Hair or McLendon."
+        },
+        {
+          "name": "D",
+          "content": "Because of the manner in which they were created, they likely have visual qualities that are regarded as more typical of Florida Highwaymen paintings than the qualities in works by McLendon are."
+        }
+      ],
+      "correct": "Because of the manner in which they were created, they likely have visual qualities that are regarded as more typical of Florida Highwaymen paintings than the qualities in works by McLendon are.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/e9ceb906a9263b038a2fed7ce671a023.png\" width=\"457\" height=\"452\"></div><p>While US public charities, like Commonfund, must file Form 990 yearly with the IRS, private foundations, such as the David and Lucile Packard Foundation, must file a different form, 990-PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay a penalty tax on the money involved. Private foundations are prohibited from holding excess interests in a business enterprise, âself-dealingâ (conducting activities that benefit foundation insiders), making taxable expenditures such as outlays for lobbying, and failing to cross a required threshold in making charitable distributions from income. Out of the organizations that filed Form 990-PF in the years 2003â2005, ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "a smaller percentage of those that also filed Form 4720 did so because they engaged in self-dealing than the percentage of those that filed Form 4720 because they did not meet the minimum charitable distribution requirement."
+        },
+        {
+          "name": "B",
+          "content": "those that also filed Form 4720 paid a larger penalty for failing to meet a minimum charitable distribution requirement than those organizations that filed Form 990 but also filed Form 4720 for the same reason."
+        },
+        {
+          "name": "C",
+          "content": "those that were also required to file Form 4720 because they had excess holdings in a business enterprise paid, on average, a larger penalty than those organizations that filed Form 4720 because they made taxable expenditures."
+        },
+        {
+          "name": "D",
+          "content": "those that also filed Form 4720 collectively paid larger penalties for failing to meet the minimum charitable distribution requirement than for other reasons."
+        }
+      ],
+      "correct": "those that also filed Form 4720 collectively paid larger penalties for failing to meet the minimum charitable distribution requirement than for other reasons.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Blandine Courel and her colleagues analyzed pottery fragments from thirty-five sites across the Volga and Don river basins to determine whether the ways in which hunter-gatherer societies used pottery in these regions around 6,500-8,000 years ago were influenced primarily by local food availability or primarily by cultural factors. Analysis of organic residues on the pottery fragments showed different prevailing uses for pottery in these locationsâcooking and storing terrestrial animal protein at Volga sites and cooking and storing aquatic animal protein at Don sites, which Courel and colleagues attribute to cultural differences.</p>",
+      "question": "Assuming that the Volga and Don basins supported similarly sized hunter-gatherer populations 6,500-8,000 years ago, which finding, if true, would most directly support Courel and colleaguesâ explanation?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Across the Volga and Don basins, people had broadly similar access to the same terrestrial and aquatic animal resources."
+        },
+        {
+          "name": "B",
+          "content": "In both the Volga and Don basins, most of the sites from which pottery has been recovered appear to have been seasonal fishing and hunting encampments rather than year-round settlements."
+        },
+        {
+          "name": "C",
+          "content": "There were many more bodies of water in a comparably sized area in the Don basin than in the Volga basin."
+        },
+        {
+          "name": "D",
+          "content": "The people of the Volga basin acquired the techniques used to create pottery for cooking and storing food from the people of the Don basin."
+        }
+      ],
+      "correct": "Across the Volga and Don basins, people had broadly similar access to the same terrestrial and aquatic animal resources.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>To boost the performance of oil-absorbing resins, which are used to remove oil and other organic compounds from wastewater, one team of materials researchers created a resin with a novelâalbeit very expensiveâmonomer (a molecule that can chemically bond with analogous molecules to form polymers) synthesized from Î²-cyclodextrin. Other researchers have produced resins consisting of various much cheaper, commercially available methacrylate monomers, including one derived from benzyl methacrylate (BZMA). Testing all these resins' capacity to absorb toluene and trichloromethane, two organic compounds, a scientist concluded that when practical considerations were taken into account, the BZMA-derived resin showed the greatest potential for use in wastewater cleanup.</p>",
+      "question": "Which finding, if true, would most directly support the scientist's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "For both toluene and trichloromethane, the BZMA-derived resin exhibited only modestly lower absorption capacity than the resin synthesized from Î²-cyclodextrin but higher absorption capacity than other resins consisting of commercially available methacrylate monomers."
+        },
+        {
+          "name": "B",
+          "content": "Relative to the resin synthesized from Î²-cyclodextrin and to other resins consisting of commercially available methacrylate monomers, the BZMA-derived resin exhibited superior absorption capacity for toluene but not for trichloromethane."
+        },
+        {
+          "name": "C",
+          "content": "For both toluene and trichloromethane, the BZMA-derived resin exhibited similar absorption capacity as other resins consisting of commercially available methacrylate monomers and a slightly higher absorption capacity than the resin synthesized from Î²-cyclodextrin."
+        },
+        {
+          "name": "D",
+          "content": "Whereas the resin synthesized from Î²-cyclodextrin exhibited the highest absorption capacity for toluene, the BZMA-derived resin and other resins consisting of commercially available methacrylate monomers exhibited the highest absorption capacity for trichloromethane."
+        }
+      ],
+      "correct": "For both toluene and trichloromethane, the BZMA-derived resin exhibited only modestly lower absorption capacity than the resin synthesized from Î²-cyclodextrin but higher absorption capacity than other resins consisting of commercially available methacrylate monomers.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Northeastern North Carolina's Camden County is among the most rural counties in the United States: the US Census Bureau classified it as 99.5% rural in 2010. Researchers often struggle to recruit residents of counties like Camden for inclusion in studies. Melissa Valerio and colleagues tested whether an approach called snowball sampling improves recruitment. Working in two rural counties, they recruited a few people (known as âseedsâ) with the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Though the seeds were given minimal guidance, many more people they recruited had the desired characteristics for the study than would be expected by chance alone, most likely because ______.</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "most seeds' social networks include some people who do not know one another and who share few characteristics"
+        },
+        {
+          "name": "B",
+          "content": "the seeds' social networks include a high proportion of people who share characteristics with the seeds"
+        },
+        {
+          "name": "C",
+          "content": "the seeds' social networks tend to be somewhat smaller than the networks of people who do not live in rural areas"
+        },
+        {
+          "name": "D",
+          "content": "the characteristics that made the seeds desirable for inclusion in the proposed study may be unknown to some members of the seeds' social networks"
+        }
+      ],
+      "correct": "the seeds' social networks include a high proportion of people who share characteristics with the seeds",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In classical Greek and Roman mythology, female characters are typically cast as either villains lacking in psychological depth or passive victims who are marginal to these stories, which usually focus on the exploits of male characters. Recently, a subgenre has emerged in which writers reimagine these stories from the perspectives of their female characters, giving them agency and complex motivations. Purists argue that such efforts represent a distinctively modern tendency to impose our own values on past civilizations, obscuring those civilizations' beliefs. Defenders of the subgenre counter that reimaginings of the myths for new cultural contexts are almost as old as the myths themselves, suggesting that ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "bringing female perspectives to the forefront is not indicative of a novel attitude regarding fidelity to Greek and Roman myths' ideologies."
+        },
+        {
+          "name": "B",
+          "content": "purists are overlooking a long tradition of adapting Greek and Roman myths to focus on female characters."
+        },
+        {
+          "name": "C",
+          "content": "the complex motivations given to female characters in modern retellings of Greek and Roman myths reflect a recent shift toward psychological depth in fictional representation."
+        },
+        {
+          "name": "D",
+          "content": "modern writersâ foregrounding of female characters is chiefly motivated by a desire to counterbalance the primacy of male perspectives among earlier adaptations of Greek and Roman myths."
+        }
+      ],
+      "correct": "bringing female perspectives to the forefront is not indicative of a novel attitude regarding fidelity to Greek and Roman myths' ideologies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The world's many geothermal power plants leverage an array of ______ the Sarulla plant uses a flash steam system that transforms high-temperature geothermal fluid into steam; in Iceland, the Reykjanes plant's dry steam system pumps superheated steam from a reservoir; and in the US, the McGinness Hills plant's binary cycle system uses lower-temperature geothermal fluid in conjunction with a secondary fluid.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "technologies, in Indonesia,"
+        },
+        {
+          "name": "B",
+          "content": "technologies: in Indonesia,"
+        },
+        {
+          "name": "C",
+          "content": "technologies in Indonesia:"
+        },
+        {
+          "name": "D",
+          "content": "technologies in Indonesia;"
+        }
+      ],
+      "correct": "technologies: in Indonesia,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When a given termââself-fulfilling propheciesâ and ârole modelsâ are two well-known examplesâis generally accepted and frequently used, ______ susceptible to obliteration by incorporation (OBI). In cases of OBI, widely used terms are rarely, if at all, attributed to the individuals who coined them.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "this often becomes"
+        },
+        {
+          "name": "B",
+          "content": "it often becomes"
+        },
+        {
+          "name": "C",
+          "content": "they often become"
+        },
+        {
+          "name": "D",
+          "content": "these often become"
+        }
+      ],
+      "correct": "it often becomes",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In pre-Columbian Mesoamerica, obsidian was used as a commodity currency. By using specific goods like obsidian as common units of exchange, commodity currency economies streamline trade, which is why they often replaced barter economies. Barter economies eschew ______ that requires what economist W.S. Jevons deems a âdouble coincidence of wantsââin other words, each trading party must want precisely what the other has.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "currency, in favor of a direct trade system"
+        },
+        {
+          "name": "B",
+          "content": "currency in favor of a direct trade system"
+        },
+        {
+          "name": "C",
+          "content": "currency, in favor of a direct trade system,"
+        },
+        {
+          "name": "D",
+          "content": "currency âin favor of a direct trade system"
+        }
+      ],
+      "correct": "currency in favor of a direct trade system",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In their attempt to create a quantum random number generator, K. Muhammed Shafi et al. used a continuous-wave diode laser to fire photons at a periodically-poled potassium titanyl phosphate (PPKTP) nonlinear crystal. A plano-convex lens ______ the laser on the center of the 10-millimeter-long crystal ensured a spot size (a measure of the beam's diameter) of 85 micrometers.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "focused"
+        },
+        {
+          "name": "B",
+          "content": "focuses"
+        },
+        {
+          "name": "C",
+          "content": "focus"
+        },
+        {
+          "name": "D",
+          "content": "focusing"
+        }
+      ],
+      "correct": "focusing",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>For her installation <i>The Last Cruze</i>, photographer LaToya Ruby Frazier traveled to Lordstown, Ohio, where she documented the lives of workers at the local automobile plant. In the installation, text culled from a series of in-depth interviews with employees and their families ______ sixty-seven gelatin silver prints, highlighting the collaborative, documentary nature of Frazier's work.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "punctuating"
+        },
+        {
+          "name": "B",
+          "content": "are punctuated by"
+        },
+        {
+          "name": "C",
+          "content": "punctuate"
+        },
+        {
+          "name": "D",
+          "content": "punctuates"
+        }
+      ],
+      "correct": "punctuates",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A single specimen of <i>T. iota</i>, collected at a depth of 1,684 fathoms (3,080 meters) in the South Pacific, and a single specimen of <i>P. obliquiloculata</i>, collected at a depth of 260 fathoms (475 meters) in the South Atlantic, have been preserved as exemplars of their respective ______ former in a repository at Washington, DC's Museum of Natural History and the latter in a repository at London's Natural History Museum.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "species, the"
+        },
+        {
+          "name": "B",
+          "content": "species, and the"
+        },
+        {
+          "name": "C",
+          "content": "species. The"
+        },
+        {
+          "name": "D",
+          "content": "species; the"
+        }
+      ],
+      "correct": "species, the",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a given rock formation, VisÃ©an rock from 346.7 million years ago might directly abut Selandian rock from 61.6 million years ago, with millions of years of material missing in between. ______ time did not stand still during these intervening years; the unaccounted-for sedimentary material was likely removed from the stratigraphic record via erosion and weathering.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In particular,"
+        },
+        {
+          "name": "B",
+          "content": "On the contrary,"
+        },
+        {
+          "name": "C",
+          "content": "Of course,"
+        },
+        {
+          "name": "D",
+          "content": "As a result,"
+        }
+      ],
+      "correct": "Of course,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Architect Victor Gruen, the designer of Illinois's Lakehurst shopping mall, conceived of the mall as an indoor version of the European town square, a communal space that encouraged visitors to stroll and linger. ______ he designed Lakehurst Mall with long, pedestrian-friendly promenades and ample seating areas clustered around fountains and greenery.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Regardless,"
+        },
+        {
+          "name": "B",
+          "content": "By contrast,"
+        },
+        {
+          "name": "C",
+          "content": "Accordingly,"
+        },
+        {
+          "name": "D",
+          "content": "In addition,"
+        }
+      ],
+      "correct": "Accordingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Long thought to be sessile (immobile), adult <i>Chelonibia testudinaria</i>, barnacles that adhere to sea turtle shells, have been observed to shift slightly in position over timeâa phenomenon that has been attributed to the barnacles' passive displacement by water currents. ______ a research team found that adult <i>C. testudinaria</i> moved toward the heads of their sea turtle hosts and thus against the prevailing water flow, behavior consistent with self-initiated locomotion.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Confirming this hypothesis,"
+        },
+        {
+          "name": "B",
+          "content": "Contrary to this phenomenon,"
+        },
+        {
+          "name": "C",
+          "content": "Drawing a similar conclusion,"
+        },
+        {
+          "name": "D",
+          "content": "Undermining this explanation,"
+        }
+      ],
+      "correct": "Undermining this explanation,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In Annie Dillard's <i>Pilgrim at Tinker Creek</i>âwhere, early on, the author marvels at a single goldfish's delicate fins but later winces when imagining a horde of goldfish laying and eating their own eggsâDillard struggles to reconcile the complicated juxtapositions of the natural world. ______ nature's mesmerizing intricacy and pitiless harshness prove inextricably linked for Dillard, like âtwo branches of the same creek.â</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Ultimately,"
+        },
+        {
+          "name": "B",
+          "content": "To that end,"
+        },
+        {
+          "name": "C",
+          "content": "Moreover,"
+        },
+        {
+          "name": "D",
+          "content": "Hence,"
+        }
+      ],
+      "correct": "Ultimately,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Silent films can be valuable historical documents of their time.</li><li>Ninety percent of silent films made before 1930 are now lost.</li><li>A film is considered lost when no remaining copies are known to exist.</li><li>Director Paul Fejos's 1928 silent film <em>The Last Moment</em> is lost.</li><li>Director Oscar Micheaux's 1920 silent film <em>Within Our Gates</em> is archived at the UCLA Film &amp; Television Archive in Los Angeles, California.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize a difference between the two movies?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While Paul Fejos's <em>The Last Moment</em> is considered lost to history, Oscar Micheaux's film <em>Within Our Gates</em> is archived at the UCLA Film &amp; Television Archive in Los Angeles, California."
+        },
+        {
+          "name": "B",
+          "content": "Paul Fejos's <em>The Last Moment</em> (1928) and Oscar Micheaux's <em>Within Our Gates</em> (1920) are just two examples of silent films from the 1920s."
+        },
+        {
+          "name": "C",
+          "content": "Oscar Micheaux's film <em>Within Our Gates</em> can be found at the UCLA Film &amp; Television Archive in Los Angeles, California."
+        },
+        {
+          "name": "D",
+          "content": "Paul Fejos's 1928 film <em>The Last Moment</em> is among the many lost films of the era."
+        }
+      ],
+      "correct": "While Paul Fejos's <em>The Last Moment</em> is considered lost to history, Oscar Micheaux's film <em>Within Our Gates</em> is archived at the UCLA Film &amp; Television Archive in Los Angeles, California.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Founded in 2011, Thync is a neurotechnology company that develops neuromodulation technologies.</li><li>Neuromodulation technologies use neural interfaces to stimulate nervous system structures and influence neural activity.</li><li>Founded in 2009, BrainGate is a neurotechnology company that develops neuroprostheses.</li><li>Neuroprostheses act as replacement brain functions to restore the user's lost sensory, motor, or neural functions.</li><li>Founded in 2015, Neurable is a neurotechnology company that develops brain-computer interfaces (BCIs).</li><li>BCIs interpret and execute brain signals to allow users to control external software or hardware with their thoughts.</li></ul></blockquote>",
+      "question": "The student wants to contrast the type of neurotechnology Thync develops with the type of neurotechnology BrainGate develops. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Founded in 2011, Thync develops technology for stimulating nervous system structures, which, unlike BrainGate and Neurable, is categorized as a neuroprosthetic."
+        },
+        {
+          "name": "B",
+          "content": "Unlike BrainGate, which develops neurotechnology, Thync develops neuromodulation technologies."
+        },
+        {
+          "name": "C",
+          "content": "Neuromodulation technologies influence neural activity, but they don't restore sensory, motor, or neural functions as neuroprostheses do."
+        },
+        {
+          "name": "D",
+          "content": "Neuromodulation technologies use neural interfaces to stimulate nervous system structures and influence neural activity, whereas neuroprostheses allow users to control external software or hardware with their thoughts."
+        }
+      ],
+      "correct": "Neuromodulation technologies influence neural activity, but they don't restore sensory, motor, or neural functions as neuroprostheses do.",
+      "solution": ""
+    }
+  ]
+}

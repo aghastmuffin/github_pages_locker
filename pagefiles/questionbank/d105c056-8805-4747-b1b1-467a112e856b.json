@@ -1,0 +1,682 @@
+{
+  "uuid": "d105c056-8805-4747-b1b1-467a112e856b",
+  "chunk": "_MlbHFmm.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Bing Xie and her team have discovered that plains zebras make at least four types of vocalizations: \"snorts,\" \"soft snorts,\" \"squeals,\" and \"quagga quagga\" calls. The researchers used machine-learning algorithms to ______ recorded vocalizations according to type, finding that snorts vary across individual zebras, while squeals are more uniform across zebra populations.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "collapse"
+        },
+        {
+          "name": "B",
+          "content": "categorize"
+        },
+        {
+          "name": "C",
+          "content": "suppress"
+        },
+        {
+          "name": "D",
+          "content": "extend"
+        }
+      ],
+      "correct": "categorize",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Chinua Achebe's 1964 novel <i>Arrow of God</i>. The novel is set in Nigeria in the 1920s. Ezeulu, who is the religious leader for several villages, announces when the annual yam harvest can begin.</p><blockquote style=\"margin-left: 40px;\">Whenever Ezeulu <u>considered</u> the immensity of his power over the year and the crops and, therefore, over the people he wondered if it was real. It was true he named the day for the feast of the Pumpkin Leaves and for the New Yam feast; but he did not choose it. He was merely a watchman. His power was no more than the power of a child over a goat that was said to be his.</blockquote><p style=\"text-align: right;\">(Â©1964 by Chinua Achebe)</p>",
+      "question": "As used in the text, what does the word \"considered\" most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Respected"
+        },
+        {
+          "name": "B",
+          "content": "Anticipated"
+        },
+        {
+          "name": "C",
+          "content": "Pondered"
+        },
+        {
+          "name": "D",
+          "content": "Allowed"
+        }
+      ],
+      "correct": "Pondered",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Researchers have long debated the origins of silver used in European coins from the 600s through the early 800s CE. Geochemical analysis by Kershaw et al. of 49 coins dating to 660-820 CE provides concrete evidence that reconciles two competing theories: early coins were made from Byzantine silver, and later coins used Frankish silver, findings that provide firm details in a previously ______ area of study.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "authoritative"
+        },
+        {
+          "name": "B",
+          "content": "speculative"
+        },
+        {
+          "name": "C",
+          "content": "esoteric"
+        },
+        {
+          "name": "D",
+          "content": "solitary"
+        }
+      ],
+      "correct": "speculative",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the search for new impact craters on Mars, the roles of seismic monitoring and orbital imaging as data sources are ______ : when vibrations detected with seismic monitoring indicate roughly where an impact has occurred, researchers can use orbital images of that relatively limited area of the rocky surface to precisely locate a new crater.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "complementary"
+        },
+        {
+          "name": "B",
+          "content": "interchangeable"
+        },
+        {
+          "name": "C",
+          "content": "exhaustive"
+        },
+        {
+          "name": "D",
+          "content": "redundant"
+        }
+      ],
+      "correct": "complementary",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Understanding juvenile sea turtles' migratory patterns is crucial for conservation efforts. While adult sea turtles are well studied, little is known about juveniles during their oceanic stage, when they spend most of their time in the open ocean. To learn about this stage, researchers tagged and released six juvenile green sea turtles (<i>Chelonia mydas</i>) into the eastern Caribbean Sea. Their findings revealed that the majority of the turtles passively drifted with ocean currents throughout the region. However, two individuals swam against the currents, possibly in search of foraging grounds off the coast of South America.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To suggest reasons why some juvenile sea turtles swim against the ocean currents."
+        },
+        {
+          "name": "B",
+          "content": "To describe successful conservation efforts for sea turtles."
+        },
+        {
+          "name": "C",
+          "content": "To summarize research on an understudied stage of sea turtle development."
+        },
+        {
+          "name": "D",
+          "content": "To compare the behavior of adult and juvenile sea turtles during migration."
+        }
+      ],
+      "correct": "To summarize research on an understudied stage of sea turtle development.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Magical realism, a style that weaves fantasy into realistic narratives, coalesced in Latin America in the 1960s. It is associated with Gabriel Garcia MÃ¡rquez, whose <i>Big Mamaâs Funeral</i> is a key text. The style was embraced by Mexican American writers, such as Rudolfo Anaya, whose <i>Bless Me, Ultima</i> draws on Mexican folktales as a source of fantasy. Yet <i>Tortuga</i>, also by Anaya, features no fantastical plot events. <u>And despite his popular reputation, Garcia MÃ¡rquez himself wrote several works of strict realism, including <i>Love in the Time of Cholera</i>.</u></p>",
+      "question": "Which choice best states the function of the underlined sentence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To suggest that Mexican American authors who were influenced by GarcÃ­a MÃ¡rquez may have, in turn, influenced him."
+        },
+        {
+          "name": "B",
+          "content": "To challenge the common assumption that <i>Big Mama's Funeral</i> is superior to realist works by Garcia MÃ¡rquez."
+        },
+        {
+          "name": "C",
+          "content": "To refute the possible impression that Garcia MÃ¡rquez conformed to magical realism in all of his works."
+        },
+        {
+          "name": "D",
+          "content": "To identify an unrecognized point of similarity between <i>Love in the Time of Cholera</i> and <i>Bless Me, Ultima</i>."
+        }
+      ],
+      "correct": "To refute the possible impression that Garcia MÃ¡rquez conformed to magical realism in all of his works.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a section of a 1976 essay discussing cinema of the United States, James Baldwin observed that <i>Lady Sings the Blues</i> (1972), a biographical film about jazz singer Billie Holiday, can be said to reflect Holiday's life and the experiences of Black Americans only <u>\"by courtesy.\"</u> According to Baldwin, the failure of this film to authentically represent its subject matter is indicative of a larger trend in films of the era: rather than leveraging the medium's potential to confront difficult truths, filmmakers and studios often resorted to platitudes about contemporary US society.</p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It conveys Baldwin's rejection of contemporary US cinema in favor of earlier films that are more authentic representations of society."
+        },
+        {
+          "name": "B",
+          "content": "It characterizes the nature of the disconnect Baldwin identified between reality and how it was represented in US cinema."
+        },
+        {
+          "name": "C",
+          "content": "It illustrates a view of Baldwin's that the text explains departed substantially from the consensus view held by US film critics."
+        },
+        {
+          "name": "D",
+          "content": "It expresses Baldwin's initial reaction to a US film that the text suggests he would later reconsider."
+        }
+      ],
+      "correct": "It characterizes the nature of the disconnect Baldwin identified between reality and how it was represented in US cinema.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Microwave heating, a thermal technology used to preserve food on an industrial scale, is generally considered to be an improvement over more conventional thermal preservation methods. Scientists in Latin America have contributed to a better understanding of this technology, with researchers from Brazil demonstrating its effectiveness in preserving mango peels. As research continues, scientists hope to make advancements in hybrid systems combining multiple food preservation technologies, which would be advantageous over using microwave heating alone, given that <u>it often heats food unevenly.</u></p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It suggests an advantage that microwave heating has over conventional thermal processing methods."
+        },
+        {
+          "name": "B",
+          "content": "It identifies a flaw of microwave heating technologies."
+        },
+        {
+          "name": "C",
+          "content": "It explains why conventional thermal processing methods are popular in commercial applications."
+        },
+        {
+          "name": "D",
+          "content": "It introduces microwave heating as a food processing technology."
+        }
+      ],
+      "correct": "It identifies a flaw of microwave heating technologies.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/0d588c5795455e6ef5f81e4aa85dee76.png\" style=\"width: 600px; height: 567px;\"></div><p>Since the nation's earliest days, both houses of the United States Congress have counted many military veterans among their elected officials, including Hiram L. Fong (who served in the US Army Air Force) and Ralph Harold Metcalfe Sr. (who served in the US Army). A research institute gathered historical data about congressional members who have reported past military experience and determined that ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the sentence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the percentage of those members decreased substantially in both houses of Congress from 1973 to 2013."
+        },
+        {
+          "name": "B",
+          "content": "from 2003 to 2023, the House of Representatives had a higher percentage of those members than the Senate did."
+        },
+        {
+          "name": "C",
+          "content": "the percentage of those members remained fairly consistent, regardless of house, from 1993 to 2023."
+        },
+        {
+          "name": "D",
+          "content": "from 1953 to 2003, those members constituted a majority in both houses of Congress."
+        }
+      ],
+      "correct": "the percentage of those members decreased substantially in both houses of Congress from 1973 to 2013.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Man in the Brown Suit</i> is a 1924 novel by Agatha Christie. In the novel, the protagonist, Anne Beddingfeld, talks about how much her father disliked living in the present era, saying, ______ </p>",
+      "question": "Which quotation from <i>The Man in the Brown Suit</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"[Papa's] mind dwelt in Palaeolithic times, and the inconvenience of life for him was that his body inhabited the modern world.\""
+        },
+        {
+          "name": "B",
+          "content": "\"The opinion of other people never interested [Papa] in the slightest degree.\""
+        },
+        {
+          "name": "C",
+          "content": "\"Although [Papa] was a fellow of almost every important society, and had rows of letters after his name, the general public scarcely knew of his existence.\""
+        },
+        {
+          "name": "D",
+          "content": "\"In a few minutes Papa stalked off.\""
+        }
+      ],
+      "correct": "\"[Papa's] mind dwelt in Palaeolithic times, and the inconvenience of life for him was that his body inhabited the modern world.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/8de04942a95fa30aa045f7e9bae7ef15.png\" style=\"width: 600px; height: 250px;\"></div><p>A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The first task in this investigation is to determine how the decline in Argentina compares to that in other countries. The student finds that ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the student's conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the percent decrease in hours worked was greater in Argentina than it was in Ireland, Australia, or Peru."
+        },
+        {
+          "name": "B",
+          "content": "though the decline in number of hours worked in Argentina was less than that in Ireland and Australia, it was greater than that in Peru."
+        },
+        {
+          "name": "C",
+          "content": "while the number of hours worked rose in Argentina between 1950 and 2017, it declined in Ireland, Australia, and Peru."
+        },
+        {
+          "name": "D",
+          "content": "though the decline in number of hours worked in Argentina was greater than that in Ireland and Peru, it was less than that in Australia."
+        }
+      ],
+      "correct": "though the decline in number of hours worked in Argentina was less than that in Ireland and Australia, it was greater than that in Peru.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In subtropical Asia, <i>Apis dorsata</i> (giant honeybee) plays an essential role in pollinating a wide variety of crops and wild plants. To study how different agricultural land covers affect the species, Rika Raffiudin and colleagues monitored the foraging activity of the bees as well as the pollen content of the honey from <i>A. dorsata</i> colonies at two sites in Indonesia: Kampar, characterized by its surrounding monoculture farms (growing a single crop), and Kerinci, a forest-agriculture site where multiple crops, including hot peppers and coffee, are grown nearby. The researchers concluded that a lack of crop variety may reduce total pollen collection by <i>A. dorsata</i>.</p>",
+      "question": "Which finding, if true, would most directly support the researchers' conclusion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Pollen in honey samples from Kampar bee colonies was predominantly sourced from a single plant species, whereas pollen in honey samples from Kerinci bee colonies was sourced from multiple different plant species."
+        },
+        {
+          "name": "B",
+          "content": "Honey samples from Kerinci bee colonies contained significantly higher concentrations of pollen than honey samples from Kampar bee colonies did."
+        },
+        {
+          "name": "C",
+          "content": "In one Kerinci bee colony, a greater proportion of bees returned to their nests with pollen than returned without pollen, whereas the inverse was observed in a second Kerinci bee colony."
+        },
+        {
+          "name": "D",
+          "content": "Significantly fewer bees were observed engaging in foraging activities with the crops surrounding Kerinci than with the crops surrounding Kampar."
+        }
+      ],
+      "correct": "Honey samples from Kerinci bee colonies contained significantly higher concentrations of pollen than honey samples from Kampar bee colonies did.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The RarÃ¡muri language of northern Mexico has 20 vowel and consonant sounds. In contrast, the Taa language of southern Africa has over 100. Why would languages differ in this way? One researcher has claimed that when modern humans arose in Africa, they spoke a single language, but as humans gradually spread throughout Africa and then around the globe, that language developed into new languages. Those developed into still more languages as small bands of humans spread even farther, with each new language retaining fewer sounds from humanity's original language.</p>",
+      "question": "Which finding, if true, would most directly weaken the researcher's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A wider range of sounds is found across the languages of Africa as a whole than across the languages of South America as a whole."
+        },
+        {
+          "name": "B",
+          "content": "The number of sounds is fairly consistent across the various languages that emerged in the last parts of Africa to be settled by humans."
+        },
+        {
+          "name": "C",
+          "content": "Languages that emerged in Europe and Western Asia tend to have more sounds than languages that emerged in Africa do."
+        },
+        {
+          "name": "D",
+          "content": "Languages that emerged in Central America tend to have fewer sounds than languages that emerged in Western Europe do, and Central America is farther away from Africa than Western Europe is."
+        }
+      ],
+      "correct": "Languages that emerged in Europe and Western Asia tend to have more sounds than languages that emerged in Africa do.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for cooking utensils, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for home water tanks and the 300 series, which has more nickel than the 200 series and is often used for mining and chemical equipment or furnaces. Thus, stainless steel used to manufacture ______ </p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "cooking utensils will have a face-centered cubic crystalline structure."
+        },
+        {
+          "name": "B",
+          "content": "mining and chemical equipment will have a concentration of chromium lower than 10.5%, while stainless steel used to manufacture home water tanks will not."
+        },
+        {
+          "name": "C",
+          "content": "furnaces will have similar magnetic properties to stainless steel used to manufacture cooking utensils."
+        },
+        {
+          "name": "D",
+          "content": "home water tanks will have a lower percentage of chromium in its composition than stainless steel used for cooking utensils will."
+        }
+      ],
+      "correct": "home water tanks will have a lower percentage of chromium in its composition than stainless steel used for cooking utensils will.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Outi Tervo and team studied the effect of human-caused noise on narwhals (<i>Monodon monoceros</i>), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo's team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditionsâship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the narwhals weren't as sensitive to human-caused sounds as the researchers had predicted."
+        },
+        {
+          "name": "B",
+          "content": "sonic pulses can be heard at significantly greater ocean depths than ship sounds can."
+        },
+        {
+          "name": "C",
+          "content": "narwhals forage at shallower depths in the presence of ship sounds alone than in the presence of ship sounds coupled with sonic pulses."
+        },
+        {
+          "name": "D",
+          "content": "ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals' auditory environment."
+        }
+      ],
+      "correct": "ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals' auditory environment.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The Temple Street Night Market is a public market in Hong Kong that ______ operating decades ago. It is still active today, drawing shoppers who seek everything from street food to handmade textiles and gifts.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "began"
+        },
+        {
+          "name": "B",
+          "content": "will begin"
+        },
+        {
+          "name": "C",
+          "content": "begins"
+        },
+        {
+          "name": "D",
+          "content": "would begin"
+        }
+      ],
+      "correct": "began",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Featured among the more than 120 photographs in the 2021 exhibition <i>The New Woman Behind the Camera</i>, Olga MÃ¡tÃ©'s ______ \"Fisherman's Dock\" offers a glimpse back in time to 1930.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "photograph"
+        },
+        {
+          "name": "B",
+          "content": "photograph;"
+        },
+        {
+          "name": "C",
+          "content": "photograph:"
+        },
+        {
+          "name": "D",
+          "content": "photograph,"
+        }
+      ],
+      "correct": "photograph",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Enacted in 1868, Luxembourg's 5,601-word constitution, in contrast to Belgium's, which was enacted in 1831 and contains a far greater number (16,119) of words, ______ as the 9th shortest in the world. Such data are studied by constitutional scholars like Giovanni Sartori, who can use them to draw broader conclusions.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "ranks"
+        },
+        {
+          "name": "B",
+          "content": "have ranked"
+        },
+        {
+          "name": "C",
+          "content": "rank"
+        },
+        {
+          "name": "D",
+          "content": "are ranking"
+        }
+      ],
+      "correct": "ranks",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As a behavioral economist, Heather Sarsons of the University of British Columbia explores how psychological factors (such as emotion and bias) influence the economic choices that individuals ______ Sarsons's research considers the broader effects these choices have on the economy.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "make, moreover,"
+        },
+        {
+          "name": "B",
+          "content": "make; moreover,"
+        },
+        {
+          "name": "C",
+          "content": "make, moreover;"
+        },
+        {
+          "name": "D",
+          "content": "make, moreover."
+        }
+      ],
+      "correct": "make; moreover,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A 2024 study cataloged all the trees in Amsterdam to evaluate the biodiversity of the city's urban forest. The researchers, finding that administrative unit GM16 had a 0.66 ratio of native to non-native trees, ______ efforts to improve the biodiversity of the trees in that unit and other areas with a similarly moderate ratio.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "having recommended"
+        },
+        {
+          "name": "B",
+          "content": "to recommend"
+        },
+        {
+          "name": "C",
+          "content": "recommended"
+        },
+        {
+          "name": "D",
+          "content": "recommending"
+        }
+      ],
+      "correct": "recommended",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Astronomers Annie and Edward Maunder meticulously studied historical records of dark areas on the sun's surface known as sunspots. Their work in the late 1800s led to the identification of a period from 1645 to 1715ânow known as the Maunder ______ sunspots were notably scarce, a phenomenon that solar physicists continue to investigate.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Minimum when"
+        },
+        {
+          "name": "B",
+          "content": "Minimumâwhen"
+        },
+        {
+          "name": "C",
+          "content": "Minimum, when"
+        },
+        {
+          "name": "D",
+          "content": "Minimum: when"
+        }
+      ],
+      "correct": "Minimum, when",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Though its onboard laboratory allowed it to analyze rock samples on-site, the 2011 Mars <i>Curiosity</i> rover was unable to preserve samples for future analysis. ______ when creating the 2020 Mars <i>Perseverance</i> rover, robotics technologist Shreyansh Daftry and other members of NASA's Jet Propulsion Laboratory sought to implement a mechanism that could do exactly that.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Specifically,"
+        },
+        {
+          "name": "B",
+          "content": "Earlier,"
+        },
+        {
+          "name": "C",
+          "content": "Similarly,"
+        },
+        {
+          "name": "D",
+          "content": "Hence,"
+        }
+      ],
+      "correct": "Hence,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As Iestyn Barr and his team of researchers discovered when establishing the glacial timeline of Antarctica, the Transantarctic Mountainsâa 3,500-km mountain range spanning the continentâare home to glaciers of at least 60 million years in age. ______ the researchers concluded, Antarctica had glaciers long before the formation of its continent-wide ice sheet 34 million years ago.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Thus,"
+        },
+        {
+          "name": "B",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "C",
+          "content": "By contrast,"
+        },
+        {
+          "name": "D",
+          "content": "Even so,"
+        }
+      ],
+      "correct": "Thus,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a 1948 article titled <i>The Language of Lines</i>, Brazilian photographer JosÃ© Yalenti argued that black-and-white photography's distinctiveâand in his view, superiorâuse of lines is what elevates the medium to the status of fine art. ______ Yalenti insisted that conveying perspective through linear forms is photography's \"indisputable and exclusive domain,\" creating a visual language surpassing even celebrated painters' works.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "However,"
+        },
+        {
+          "name": "B",
+          "content": "Even so,"
+        },
+        {
+          "name": "C",
+          "content": "Indeed,"
+        },
+        {
+          "name": "D",
+          "content": "In any case,"
+        }
+      ],
+      "correct": "Indeed,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li><i>I Call Your Image to Mind...</i> is a 2004 sculpture by Welsh artist Cerith Wyn Evans.</li><li>It is crafted from white neon lighting that spells out the title phrase (\"I call your image to mind\").</li><li><i>Ginger</i> is a 2023 sculpture by Japanese artist Rikako Kawauchi.</li><li>It is crafted from pink neon lighting that forms an abstract squiggle shape.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Both Evans's and Kawauchi's sculptures are crafted from neon lighting."
+        },
+        {
+          "name": "B",
+          "content": "Kawauchi's sculpture <i>Ginger</i> consists of pink neon lighting in an abstract squiggle shape."
+        },
+        {
+          "name": "C",
+          "content": "The neon lighting in <i>I Call Your Image to Mind...</i> is white, but the lighting in <i>Ginger</i> is pink."
+        },
+        {
+          "name": "D",
+          "content": "Rather than spelling out a phrase, Kawauchi's sculpture forms an abstract squiggle shape."
+        }
+      ],
+      "correct": "Both Evans's and Kawauchi's sculptures are crafted from neon lighting.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.</li><li>Before automation, lighthouses were run by lighthouse keepers.</li><li>Laura J. Hecox was the lighthouse keeper at Santa Cruz Light in California.</li><li>She held this position for thirty-four years (1883â1917).</li><li>Catherine A. Moore was the lighthouse keeper at Black Rock Harbor Light in Connecticut.</li><li>She held this position for sixty-one years (1817â1878).</li></ul></blockquote>",
+      "question": "The student wants to compare the length of time Laura J. Hecox and Catherine A. Moore worked as lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "From 1883 to 1917, the nighttime waters of California were more navigable thanks to lighthouse keepers Laura J. Hecox and Catherine A. Moore."
+        },
+        {
+          "name": "B",
+          "content": "Laura J. Hecox and Catherine A. Moore were both lighthouse keepers at a time when such a person was needed to operate a lighthouse."
+        },
+        {
+          "name": "C",
+          "content": "Laura J. Hecox worked as a lighthouse keeper for thirty-four years, but Catherine A. Moore did so for even longer: sixty-one years."
+        },
+        {
+          "name": "D",
+          "content": "Before automation, lighthouse keepers like Laura J. Hecox, who served for thirty-four years, and Catherine A. Moore were crucial to ensuring safe navigation for watercraft."
+        }
+      ],
+      "correct": "Laura J. Hecox worked as a lighthouse keeper for thirty-four years, but Catherine A. Moore did so for even longer: sixty-one years.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.</li><li>It is also known as a land bridge.</li><li>The East Falkland Isthmus connects Lafonia to the northern part of East Falkland.</li><li>The East Falkland isthmus is located in the Falkland Islands.</li></ul></blockquote>",
+      "question": "The student wants to indicate the location of the East Falkland Isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The East Falkland isthmus is located in the Falkland Islands, where it connects Lafonia to the northern part of East Falkland."
+        },
+        {
+          "name": "B",
+          "content": "One example of an isthmus is the East Falkland Isthmus."
+        },
+        {
+          "name": "C",
+          "content": "An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces of land across an expanse of water."
+        },
+        {
+          "name": "D",
+          "content": "An isthmus, or land bridge, like the East Falkland Isthmus, connects two larger pieces of land."
+        }
+      ],
+      "correct": "The East Falkland isthmus is located in the Falkland Islands, where it connects Lafonia to the northern part of East Falkland.",
+      "solution": ""
+    }
+  ]
+}

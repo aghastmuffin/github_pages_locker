@@ -1,0 +1,682 @@
+{
+  "uuid": "bcfca978-b649-44b6-8774-fc731fcc4199",
+  "chunk": "BOapSE6T.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Many ancient sculptures of people's heads are missing their noses. This is because the nose is the most ______ part of a sculpture of a personâs head. It is delicate and sticks out from the rest of the sculpture, making it especially easy to break.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "recognizable"
+        },
+        {
+          "name": "B",
+          "content": "fragile"
+        },
+        {
+          "name": "C",
+          "content": "common"
+        },
+        {
+          "name": "D",
+          "content": "sophisticated"
+        }
+      ],
+      "correct": "fragile",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many readers both young and old enjoyed and ______ Margarita Engle's book <i>The Surrender Tree: Poems of Cuba's Struggle for Freedom</i>, so it was not a surprise when the Association for Library Service to Children named it a Newbery Honor Book in 2009.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "rejected"
+        },
+        {
+          "name": "B",
+          "content": "created"
+        },
+        {
+          "name": "C",
+          "content": "praised"
+        },
+        {
+          "name": "D",
+          "content": "ignored"
+        }
+      ],
+      "correct": "praised",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Rudolfo Anaya's 1972 novel <i>Bless Me, Ultima</i>. The young narrator and his friend Cico are staring into the water of a stream in rural New Mexico.</p><blockquote style=\"margin-left: 40px;\"><p>The golden fish swam by gracefully, cautiously, as if <u>testing</u> the water after a long sleep in his subterranean waters. His powerful tail moved in slow strokes as he slid though the water towards us.</p></blockquote>",
+      "question": "As used in the text, what does the word âtestingâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Wearing out"
+        },
+        {
+          "name": "B",
+          "content": "Trying out"
+        },
+        {
+          "name": "C",
+          "content": "Attacking"
+        },
+        {
+          "name": "D",
+          "content": "Approving"
+        }
+      ],
+      "correct": "Trying out",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Marianne North, who documented plant life from around the world with high scientific accuracy before photography was practical, undoubtedly accomplished much, but to gain a lasting place in our historical memory, there is little that can ______ being the first to do something. For example, people will always remember that Jean Batten was the first person to fly between England and New Zealand solo.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "fluctuate with"
+        },
+        {
+          "name": "B",
+          "content": "overreach by"
+        },
+        {
+          "name": "C",
+          "content": "constrain within"
+        },
+        {
+          "name": "D",
+          "content": "prevail over"
+        }
+      ],
+      "correct": "prevail over",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>According to a board-gaming website, the game Champions of Midgard has an average website-user rating of 7.8 out of 10. Although average ratings can be misleading when only a few users have rated the game, Champions of Midgard has been rated by over 8,000 users, which is an ______ number to feel confident that the average rating is reliable.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "excessive"
+        },
+        {
+          "name": "B",
+          "content": "adequate"
+        },
+        {
+          "name": "C",
+          "content": "accurate"
+        },
+        {
+          "name": "D",
+          "content": "insufficient"
+        }
+      ],
+      "correct": "adequate",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Nathan Upham and John Hafner showed that high moonlight intensity inhibits the activity of the desert kangaroo rat (<i>Dipodomys deserti</i>), a finding explicable in terms of benefits and costs; greater lunar intensity may not enable the kangaroo rats to increase foraging success enough to offset the higher chance of detection by predatory bobcats or owls. Though many other nocturnal mammals respond to lunar intensity variations similarly to desert kangaroo rats, white-footed mice (<i>Peromyscus leucopus</i>) display no such pattern, as their <u>heavy use of grass cover</u> results in a different balance of reward and risk.</p>",
+      "question": "Which choice best describes the function of the reference to âheavy use of grass coverâ in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It emphasizes an attribute of white-footed mice that enables them to respond to lunar intensity variations more rapidly than desert kangaroo rats and many other nocturnal mammals do."
+        },
+        {
+          "name": "B",
+          "content": "It identifies a characteristic of white-footed mice that explains why they do not reduce their activity under high lunar intensity like desert kangaroo rats and many other nocturnal mammals do."
+        },
+        {
+          "name": "C",
+          "content": "It presents a trait of white-footed mice that serves as evidence for the assertion that desert kangaroo rats are not the only nocturnal mammals whose activity is inhibited by high lunar intensity."
+        },
+        {
+          "name": "D",
+          "content": "It describes a behavioral pattern displayed by white-footed mice that is inconsistent with how they would be expected to respond to high lunar intensity based on benefits and costs."
+        }
+      ],
+      "correct": "It identifies a characteristic of white-footed mice that explains why they do not reduce their activity under high lunar intensity like desert kangaroo rats and many other nocturnal mammals do.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Lady Gregoryâs 1904 play <i>Spreading the News</i>. Mrs. Tarpey, Bartley, and Mrs. Fallon have been buying and selling goods at the local fair.</p><br><p>MRS. TARPEY: Good-morrow, Bartley Fallon; good-morrow, Mrs. Fallon. Well, Bartley, you'll find no cause for complaining to-day; they are all saying it was a good fair.</p><br><p>BARTLEY (raising his voice): It was not a good fair, Mrs. Tarpey. It was a scattered sort of a fair. If we didn't expect more, we got less. That's the way with me always: whatever I have to sell goes down and whatever I have to buy goes up. If there's ever any misfortune coming to this world, it's on myself it pitches, <u>like a flock of crows on seed potatoes.</u></p>",
+      "question": "Which choice best describes the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes an event that Bartley observed at the fair."
+        },
+        {
+          "name": "B",
+          "content": "It uses a counterexample to raise questions about a claim that Bartley made."
+        },
+        {
+          "name": "C",
+          "content": "It presents a vivid image to emphasize a claim that Bartley makes."
+        },
+        {
+          "name": "D",
+          "content": "It portrays Mrs. Tarpey as skeptical that a certain event will take place."
+        }
+      ],
+      "correct": "It presents a vivid image to emphasize a claim that Bartley makes.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><strong>Text 1</strong><br>In 1954 George Balanchine choreographed a production of <i>The Nutcracker</i>, a ballet by Pyotr Ilyich Tchaikovsky. It has since become a tradition for hundreds of dance companies in North America to stage <i>The Nutcracker</i> each year. <u>But the show is stuck in the past, with an old-fashioned story and references, so it should no longer be produced</u>. Ballet needs to create new traditions if it wants to stay relevant to contemporary audiences.</p><br><p><strong>Text 2</strong><br><i>The Nutcracker</i> is outdated, but it should be kept because it's a holiday favorite and provides substantial income for some dance companies. Although it can be behind the times, there are creative ways to update the show. For example, Debbie Allen successfully modernized the story. Her show <i>Hot Chocolate Nutcracker</i> combines ballet, tap, hip-hop, and other styles, and it has been gaining in popularity since it opened in 2009.</p>",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "By questioning the idea that the story of The Nutcracker is stuck in the past and by rejecting the suggestion that contemporary audiences would enjoy an updated version."
+        },
+        {
+          "name": "B",
+          "content": "By agreeing that contemporary audiences have largely stopped going to see performances of The Nutcracker because it's so old-fashioned."
+        },
+        {
+          "name": "C",
+          "content": "By pointing out that most dance companies could increase their incomes by offering modernized versions of The Nutcracker."
+        },
+        {
+          "name": "D",
+          "content": "By suggesting that dance companies should consider offering revised versions of The Nutcracker instead of completely rejecting the show."
+        }
+      ],
+      "correct": "By suggesting that dance companies should consider offering revised versions of The Nutcracker instead of completely rejecting the show.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2009 Danielle L. Dixson and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of <i>Amphiprion percula</i>, a species of fish. However, Dixson and colleagues' study relied on a mean sample size of only 15 fish. In a 2022 review of various scientists' conclusions about the impacts of ocean acidification on fish behavior, Timothy D. Clark and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.</p>",
+      "question": "What is the main topic of the scientific research discussed in the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Loss of marine diversity due to overfishing."
+        },
+        {
+          "name": "B",
+          "content": "Changes in technologies used to capture fish."
+        },
+        {
+          "name": "C",
+          "content": "Feeding patterns of top marine predators."
+        },
+        {
+          "name": "D",
+          "content": "Effects of ocean acidification on fish behavior."
+        }
+      ],
+      "correct": "Effects of ocean acidification on fish behavior.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Women like Grace Murray Hopper made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Hopper was a US naval admiral and computer scientist who coined the term \"debugging\" and invented the first compiler program for translating computer code. In this way, Hopper and others like her helped make it possible for more womenâsuch as Maureen Baginski, who currently works in intelligence and supports the FBIâto enter the field of cryptology.</p>",
+      "question": "Which choice best states the main topic of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Women in the field of cryptology."
+        },
+        {
+          "name": "B",
+          "content": "Research studies in the field of intelligence."
+        },
+        {
+          "name": "C",
+          "content": "The early education of Grace Murray Hopper."
+        },
+        {
+          "name": "D",
+          "content": "The career goals of Maureen Baginski."
+        }
+      ],
+      "correct": "Women in the field of cryptology.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 1940s, Evelyn Cunningham worked for the <i>Pittsburgh Courier</i>, focusing on coverage of the early civil rights movement. Cunningham's accomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National Association of Black Journalists, which was founded in Washington, DC, in 1975 to support Black media professionals and honor people like Cunningham.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Cunningham's achievements are often overlooked in countries other than the United States."
+        },
+        {
+          "name": "B",
+          "content": "The National Association of Black Journalists was founded in Washington, DC. in the 1900s."
+        },
+        {
+          "name": "C",
+          "content": "Black journalism in the United States has an important history that the National Association of Black Journalists helps to honor."
+        },
+        {
+          "name": "D",
+          "content": "Black journalism has an interesting history both inside and outside the United States."
+        }
+      ],
+      "correct": "Black journalism in the United States has an important history that the National Association of Black Journalists helps to honor.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Life Among the Paiutes</i> is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins. In the work, Winnemucca directly addresses the reader to establish her authority and credibility, writing ______</p>",
+      "question": "Which quotation from Life Among the Paiutes most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âBut how can I describe the scene that followed? Some of you, dear readers, can imagine.â"
+        },
+        {
+          "name": "B",
+          "content": "âWe do not call him a medicine man because he gives medicine to the sick, as your doctors do.â"
+        },
+        {
+          "name": "C",
+          "content": "âNow, my dear reader, there is no word so endearing as the word father, and that is why [my people] call all good people father or mother.â"
+        },
+        {
+          "name": "D",
+          "content": "âMy dear reader, I have not lived in this world for over thirty or forty years for nothing, and I know what I am talking about.â"
+        }
+      ],
+      "correct": "âMy dear reader, I have not lived in this world for over thirty or forty years for nothing, and I know what I am talking about.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\">Partial List of Candidate Species for De-extinction</p><div style=\"text-align:center;\"><img src=\"/images/2ffaec2c1faf047ee5f79c2057458d6e.png\" width=\"574\" height=\"244\"></div><p style=\"margin-top:16px; margin-bottom:16px; text-align:justify;\">The passage of time is among the many obstacles faced by scientists who are pursuing de-extinction effortsâthat is, efforts to use breeding or a mixture of cloning and genetic engineering to bring back extinct species. Specifically, researchers are concerned that the longer a species has been extinct, the less likely it is that a suitable habitat still exists for that species. Among candidate species for de-extinction, this problem would be especially concerning for the ____</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": " passenger pigeon (Ectopistes migratorius), which became extinct only a few years after the huia (Heteralocha acutirostris)."
+        },
+        {
+          "name": "B",
+          "content": " saber-toothed cat (Smilodon), which became extinct 11,000 years ago."
+        },
+        {
+          "name": "C",
+          "content": " woolly mammoth (Mammuthus primigenius), which became extinct several thousand years before the saber-toothed cat (Smilodon)."
+        },
+        {
+          "name": "D",
+          "content": " Caribbean monk seal (Monachus tropicalis), which became extinct in 1952."
+        }
+      ],
+      "correct": " saber-toothed cat (Smilodon), which became extinct 11,000 years ago.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Evan MacLean and colleagues evaluated behavioral and genetic data from over 14,000 dogs, representing more than 100 breeds, and found that certain similarities in behavior between breeds correspond to genetic similarities between those breeds, suggesting a genetic basis for breed differences in behavior. This was the case for both dog rivalry and energy but was especially pronounced for trainability, which can be seen when a dog demonstrates willingness to fetch objects. A different study found that the French bulldog and the bullmastiff breeds exhibit similar trainability behavior, suggesting that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "French bulldogs and bullmastiffs show a greater tendency toward trainability than most other dog breeds do."
+        },
+        {
+          "name": "B",
+          "content": "the two breeds will likely become less genetically similar over time."
+        },
+        {
+          "name": "C",
+          "content": "individual French bulldogs likely display higher levels of trainability than individual bullmastiffs."
+        },
+        {
+          "name": "D",
+          "content": "their similarities with respect to that behavior could result from a shared aspect of their genetics."
+        }
+      ],
+      "correct": "their similarities with respect to that behavior could result from a shared aspect of their genetics.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The practice of logging (cutting down trees for commercial and other uses) is often thought to be at odds with forest conservation (the work of preserving forests). However, a massive study in forest management and preservation spanning 700,000 hectares in Oregon's Malheur National Forest calls that view into question. So far, results of the study suggest that forest plots that have undergone limited logging (the careful removal of a controlled number of trees) may be more robust than plots that haven't been logged at all. These results, in turn, suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "logging may be useful for maintaining healthy forests, provided it is limited."
+        },
+        {
+          "name": "B",
+          "content": "other forest management strategies are more effective than limited logging."
+        },
+        {
+          "name": "C",
+          "content": "as time passes, it will be difficult to know whether limited logging has any benefits."
+        },
+        {
+          "name": "D",
+          "content": "the best way to support forest health may be to leave large forests entirely untouched."
+        }
+      ],
+      "correct": "logging may be useful for maintaining healthy forests, provided it is limited.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On the other hand, Chicago Midway International Airport, which ______ located in Chicago, Illinois, saw an overall increase in departing passengers over the same time period, from 8,252,347 total passengers to 10,080,385.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " is"
+        },
+        {
+          "name": "B",
+          "content": " have been"
+        },
+        {
+          "name": "C",
+          "content": " were"
+        },
+        {
+          "name": "D",
+          "content": " are"
+        }
+      ],
+      "correct": " is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Louise Bennet (1919â2006), also known as âMiss Lou,â was an influential Jamaican poet and folklorist. Her innovative poems ______ the use of Jamaican Creole (a spoken language) in literature.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " popularized:"
+        },
+        {
+          "name": "B",
+          "content": " popularized,"
+        },
+        {
+          "name": "C",
+          "content": " popularized"
+        },
+        {
+          "name": "D",
+          "content": " popularized;"
+        }
+      ],
+      "correct": " popularized",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When they were first introduced to western Europe from Byzantium in the eleventh century, table forks were met with much resistance. The Bishop of Ostia, St. Peter Damian, condemned the eating utensils because he considered ______ dangerous and unnecessary luxury items.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "them"
+        },
+        {
+          "name": "B",
+          "content": "this"
+        },
+        {
+          "name": "C",
+          "content": "that"
+        },
+        {
+          "name": "D",
+          "content": "it"
+        }
+      ],
+      "correct": "them",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On January 1, 2011, when Susana Martinez became its governor, New Mexico joined the list of US ______ to have been led by a woman.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "states and territory's"
+        },
+        {
+          "name": "B",
+          "content": "state's and territories'"
+        },
+        {
+          "name": "C",
+          "content": "states and territories"
+        },
+        {
+          "name": "D",
+          "content": "state's and territories"
+        }
+      ],
+      "correct": "states and territories",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At the London Meisner Company in London, England, students can study the Meisner technique. Developed in the mid-1900s by acting instructor Sanford Meisner, the technique trains actors to react spontaneously to the other actors in a scene, and sessions may ______ repetitive improvisation exercises to refine an actor's natural responses.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " include:"
+        },
+        {
+          "name": "B",
+          "content": " include"
+        },
+        {
+          "name": "C",
+          "content": " include;"
+        },
+        {
+          "name": "D",
+          "content": " include,"
+        }
+      ],
+      "correct": " include",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Each night in GijÃ³n, Spain, a section of the city's marina is bathed in a soft green glow. The source of the glow is the Ãrbol de la sidra, a large sculpture made up of 3,200 recycled glass bottles. A lamp inside the tree-shaped structure ______ the green glass.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " will be illuminating"
+        },
+        {
+          "name": "B",
+          "content": " illuminates"
+        },
+        {
+          "name": "C",
+          "content": " would illuminate"
+        },
+        {
+          "name": "D",
+          "content": " illuminated"
+        }
+      ],
+      "correct": " illuminates",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>KABU is a Native-run radio station broadcasting from the Spirit Lake Tribe's lands in North Dakota. In 2004, Loris Taylor wanted to make sure that stations like KABU continued to thrive. ______ she founded Native Public Media, a support system for Native radio stations that now includes around sixty stations.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Regardless,"
+        },
+        {
+          "name": "B",
+          "content": "Besides,"
+        },
+        {
+          "name": "C",
+          "content": "Therefore,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "Therefore,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Textile artist Amber Joy Greenidge-Sabral wanted to avoid using harsh synthetic dyes that could be damaging to the environment. ______ she began experimenting with more environmentally friendly natural dye methods, using organic materials like Texas paintbrush and madder root for their natural brown and red colors.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In any case,"
+        },
+        {
+          "name": "B",
+          "content": "To that end,"
+        },
+        {
+          "name": "C",
+          "content": "On the other hand,"
+        },
+        {
+          "name": "D",
+          "content": "In reality,"
+        }
+      ],
+      "correct": "To that end,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As part of a study, participants were asked to list animals they thought of as âcharismatic,â which was defined as âattractive, fascinating, or appealing.â Researchers compiled the responses into a single list and found that the cheetah and the blue whale both landed in the top twenty. ______ no animal outranked the tiger.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Still,"
+        },
+        {
+          "name": "B",
+          "content": "As a result,"
+        },
+        {
+          "name": "C",
+          "content": "In other words,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "Still,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The world's first airplane, the 1903 Wright Flyer, was not very aerodynamic, as evidenced by its low lift-to-drag ratio of just 8.3:1. The Comac ARJ21 Xiangfeng jet, like most modern aircraft, is far more aerodynamic. ______ its lift-to-drag ratio is more than twice that of the Wright Flyer.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In fact,"
+        },
+        {
+          "name": "B",
+          "content": "Nevertheless,"
+        },
+        {
+          "name": "C",
+          "content": "However,"
+        },
+        {
+          "name": "D",
+          "content": "In conclusion,"
+        }
+      ],
+      "correct": "In fact,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Courses on African American history can be found at colleges and universities across the US. For example, historian Juliet E.K. Walker teaches courses at the University of Texas about African American businesses. ______ at Howard University, historian Elizabeth Clark-Lewis teaches courses about African American communities in Washington, DC.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In other words,"
+        },
+        {
+          "name": "B",
+          "content": "Elsewhere,"
+        },
+        {
+          "name": "C",
+          "content": "Thus,"
+        },
+        {
+          "name": "D",
+          "content": "In particular,"
+        }
+      ],
+      "correct": "Elsewhere,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In a 2001 study, Wilby and Brown tested the effect of plant litter on seedling emergence in a grassland setting.</li><li>The test site was a flooded grassland in a temperate midlatitude climate in the United Kingdom.</li><li>The researchers found that in those environmental conditions the presence of plant litters had a negative effect on seedling emergence.</li><li>Seedling emergence is when a seedling sprouts above ground and begins photosynthesis.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given material to present the studyâs findings to an audience already familiar with the concept of seedling emergence?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The effect of plant litter, which included dead leaves and other plant matters, on seedling emergence has been the subject of scientist study."
+        },
+        {
+          "name": "B",
+          "content": "Wilby and Brown found that in a flooded grassland and a temperate midlatitude climate the presence of plant litter had a negative effect on seedling emergence."
+        },
+        {
+          "name": "C",
+          "content": "In a 2001 study by Wilby and Brown, plant litter was found to have a negative effect on seedling emergence, which is when a seedling sprouts and begin photosynthesis."
+        },
+        {
+          "name": "D",
+          "content": "The findings of Wilby and Brownâs study were published in 2001."
+        }
+      ],
+      "correct": "Wilby and Brown found that in a flooded grassland and a temperate midlatitude climate the presence of plant litter had a negative effect on seedling emergence.",
+      "solution": ""
+    }
+  ]
+}

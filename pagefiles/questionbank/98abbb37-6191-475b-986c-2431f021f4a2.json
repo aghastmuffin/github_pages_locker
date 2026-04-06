@@ -1,0 +1,682 @@
+{
+  "uuid": "98abbb37-6191-475b-986c-2431f021f4a2",
+  "chunk": "CAaTEhQw.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Few new parents ______ that their baby will someday become an astronaut. Yet if Jerry L. Ross's parents had made this prediction when he was born in 1948, they would have been correct, for NASA selected him for the job in 1980.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "disagree"
+        },
+        {
+          "name": "B",
+          "content": "ignore"
+        },
+        {
+          "name": "C",
+          "content": "require"
+        },
+        {
+          "name": "D",
+          "content": "anticipate"
+        }
+      ],
+      "correct": "anticipate",
+      "solution": "è¿æ®µæå­è®²è¿°äºå¾å°ææ°æç¶æ¯ä¼é¢æï¼anticipateï¼ä»ä»¬çå­©å­ææä¸æ¥ä¼æä¸ºä¸åå®èªåãç¶èï¼å¦ææ°çÂ·LÂ·ç½æ¯ï¼Jerry L.Rossï¼çç¶æ¯å¨ä»1948å¹´åºçæ¶ååºè¿æ ·çé¢æµï¼é£ä»ä»¬å°±è¯´å¯¹äºï¼å ä¸ºç¾å½å½å®¶èªç©ºèªå¤©å±ï¼NASAï¼å¨1980å¹´éä¸­äºä»ä»äºè¿ä»½å·¥ä½ã é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã éé¡¹Aâdisagreeâï¼ä¸åæï¼ï¼ä¸ææä¸ç¬¦ï¼è¿éä¸æ¯è¯´ç¶æ¯ä¸åæå­©å­ä¼æä¸ºå®èªåï¼Aéé¡¹éè¯¯ã éé¡¹Bâignoreâï¼å¿½è§ï¼ï¼ä¹ä¸ç¬¦åè¯­å¢ï¼ä¸æ¯è¯´ç¶æ¯å¿½è§å­©å­ä¼æä¸ºå®èªåè¿ä»¶äºï¼Béé¡¹ä¸åéã éé¡¹Cârequireâï¼è¦æ±ï¼ï¼æä¸­æ²¡ææåç¶æ¯å¯¹å­©å­ææä¸ºå®èªåçè¦æ±ï¼Céé¡¹ä¸æ­£ç¡®ã éé¡¹Dâanticipateâï¼é¢æãé¢æï¼ï¼è½å¤åç¡®è¡¨è¾¾åºå¾å°æç¶æ¯ä¼é¢æå°å­©å­æªæ¥ä¼æä¸ºå®èªåçææï¼ä¸åæå½¢æå¯¹æ¯ï¼Déé¡¹æ­£ç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Dãæä¸­çå®ä½ä¿¡æ¯æï¼æ°çÂ·LÂ·ç½æ¯ï¼Jerry L.Rossï¼ãç¾å½å½å®¶èªç©ºèªå¤©å±ï¼NASAï¼ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Kenneth Grahame's 1908 novel <i>The Wind in the Willows</i>. The Rat is looking for the Mole, his friend, in the woods.</p><blockquote style=\"margin-left: 40px;\">[The Rat] had patiently hunted through the wood for an hour or more, when at last to his joy he heard a little answering cry. <u>Guiding</u> himself by the sound, he made his way through the gathering darkness to the foot of an old beech tree.</blockquote>",
+      "question": "As used in the text, what does the word âguidingâ most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Withdrawing"
+        },
+        {
+          "name": "B",
+          "content": "Presenting"
+        },
+        {
+          "name": "C",
+          "content": "Instructing"
+        },
+        {
+          "name": "D",
+          "content": "Steering"
+        }
+      ],
+      "correct": "Steering",
+      "solution": "è¿æ®µæå­éèªè¯å°¼æ¯Â·æ ¼é·åå§ï¼Kenneth Grahameï¼1908å¹´çå°è¯´ãæ³æé£å£°ãï¼The Wind in the Willowsï¼ï¼æä¸­æè¿°èé¼ å¨æ æéå¯»æ¾ä»çæåé¼¹é¼ ï¼å®å·²ç»èå¿å°å¨æ æéæå¯»äºä¸ä¸ªå°æ¶ææ´ä¹ï¼æåç»äºé«å´å°å¬å°äºä¸å£°å°å°çååºå«å£°ãèé¼ å¾ªçå£°é³ï¼guiding himself by the soundï¼ï¼å¨æ¸æµçé»æä¸­èµ°å°äºä¸æ£µèå±±æ¯æ¦æ èä¸ã é¢ç®æ¯é®æä¸­âguidingâè¿ä¸ªè¯ææ¥è¿çææã éé¡¹AâWithdrawingâï¼æ¤åãæ¤éï¼ï¼ä¸æä¸­èé¼ å¾ªçå£°é³åè¿çææç¸åï¼Aéé¡¹éè¯¯ã éé¡¹BâPresentingâï¼åç°ãå±ç¤ºï¼ï¼ä¸è½è¡¨è¾¾åºèé¼ ä¾æ®å£°é³æ¥è¡å¨çææï¼Béé¡¹ä¸åéã éé¡¹CâInstructingâï¼æç¤ºãæå¯¼ï¼ï¼éå¸¸æäººå¯¹äººçæå¯¼ææç¤ºï¼å¨è¿éå½¢å®¹èé¼ ä¾æ®å£°é³è¡å¨ä¸æ°å½ï¼Céé¡¹ä¸æ­£ç¡®ã éé¡¹DâSteeringâï¼å¼å¯¼ãé©¾é©¶ï¼ï¼å¯ä»¥å½¢è±¡å°è¡¨ç¤ºèé¼ æ ¹æ®å£°é³æ¥æå¼èªå·±çæ¹åï¼ä¸åæè¯­å¢ç¸ç¬¦ï¼Déé¡¹æ­£ç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Dãæä¸­çå®ä½ä¿¡æ¯æï¼è¯å°¼æ¯Â·æ ¼é·åå§ç1908å¹´å°è¯´ãæ³æé£å£°ããèé¼ ï¼The Ratï¼ãé¼¹é¼ ï¼the Moleï¼ãæ æï¼the woodsï¼ãèå±±æ¯æ¦æ ï¼an old beech treeï¼ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Alfred Nobel intended for the Nobel Prize to be an award honoring those who have contributed âthe greatest benefit to mankind.â Indeed, the work of Richard Laurence Millington Synge represented a significant ______ the field of chemistry, and in 1952 he was among those awarded the Nobel Prize in Chemistry for âtheir invention of partition chromatography.â</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": " controversy in"
+        },
+        {
+          "name": "B",
+          "content": " exposure to"
+        },
+        {
+          "name": "C",
+          "content": " dependence on"
+        },
+        {
+          "name": "D",
+          "content": " advancement in"
+        }
+      ],
+      "correct": " advancement in",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The arrival of humans to the Americas is thought to have ______ a sudden decrease in biodiversity throughout the continents. Although the extinction of species like the <i>toxodon</i> was likely the result of a combination of factors, from decreasing food sources to habitat destruction, most of these factors can be directly tied to the presence of humans.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "followed"
+        },
+        {
+          "name": "B",
+          "content": "prolonged"
+        },
+        {
+          "name": "C",
+          "content": "counteracted"
+        },
+        {
+          "name": "D",
+          "content": "triggered"
+        }
+      ],
+      "correct": "triggered",
+      "solution": "è¿æ®µæå­è®²è¿°äºäººç±»å°è¾¾ç¾æ´²è¢«è®¤ä¸ºå¼åï¼triggeredï¼äºæ´ä¸ªå¤§éçç©å¤æ ·æ§ççªç¶åå°ãå°½ç®¡åéé½¿å½ï¼toxodonï¼è¿æ ·çç©ç§ç­ç»å¯è½æ¯å¤ç§å ç´ å±åä½ç¨çç»æï¼ä»é£ç©æ¥æºåå°å°æ æ¯å°ç ´åï¼ä½è¿äºå ç´ å¤§å¤ä¸äººç±»çå­å¨ç´æ¥ç¸å³ã é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã éé¡¹Aâfollowedâï¼è·éãç»§â¦â¦ä¹åï¼ï¼å¦æç¨followedï¼å¥å­ææåæäººç±»å°è¾¾ç¾æ´²ä¹åçç©å¤æ ·æ§åå°ï¼æ²¡æä½ç°åºå æå³ç³»ï¼Aéé¡¹ä¸åç¡®ã éé¡¹Bâprolongedâï¼å»¶é¿ãæå»¶ï¼ï¼ä¸çç©å¤æ ·æ§åå°çè¯­å¢ä¸ç¸ç¬¦ï¼Béé¡¹éè¯¯ã éé¡¹Câcounteractedâï¼æµæ¶ãå¯¹æï¼ï¼äººç±»å°è¾¾ç¾æ´²ä¸æ¯æµæ¶çç©å¤æ ·æ§åå°ï¼èæ¯å¯¼è´äºåå°ï¼Céé¡¹ä¸ç¬¦åææã éé¡¹Dâtriggeredâï¼å¼åãè§¦åï¼ï¼åç¡®å°è¡¨è¾¾äºäººç±»å°è¾¾ç¾æ´²æ¯å¯¼è´çç©å¤æ ·æ§çªç¶åå°çåå ï¼Déé¡¹æ­£ç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Dãæä¸­çå®ä½ä¿¡æ¯æï¼ç¾æ´²ï¼the Americasï¼ãéé½¿å½ï¼the toxodonï¼ã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>Some robots such as Surena (developed in 2008) and COMAN (developed in 2012) are designed to resemble humans so that people will find it easier to interact with them. To this end, certain features such as the ability to respond to voice commands can help to create the comforting semblance of humanity, but a robot that appears too similar to humans can make people feel more unsettled than ______.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "soothed"
+        },
+        {
+          "name": "B",
+          "content": "indifferent"
+        },
+        {
+          "name": "C",
+          "content": "revolted"
+        },
+        {
+          "name": "D",
+          "content": "vindicated"
+        }
+      ],
+      "correct": "soothed",
+      "solution": "è¿æ®µæå­æå°ä¸äºæºå¨äººï¼å¦2008å¹´å¼åçSurenaå2012å¹´å¼åçCOMANï¼è¢«è®¾è®¡å¾åäººç±»ï¼ä»¥ä¾¿äººä»¬æ´å®¹æä¸å®ä»¬äºå¨ãä¸ºæ­¤ï¼æäºåè½ï¼å¦ååºè¯­é³å½ä»¤çè½åï¼æå©äºè¥é åºä»¤äººèéçäººæ§åè¡¨è±¡ï¼ä½ä¸ä¸ªçèµ·æ¥ä¸äººç±»è¿äºç¸ä¼¼çæºå¨äººä¼è®©äººæ¯æå°å®æ°ï¼soothedï¼æ¶æ´ä¸å®ã é¢ç®æ¯è®©éæ©ä¸ä¸ªæç¬¦åé»è¾åç²¾ç¡®çè¯æç­è¯­æ¥å®æææ¬ã éé¡¹Aâsoothedâï¼å®æ°ãææ°ï¼ï¼ä¸åææå°çæºå¨äººè®¾è®¡ç®çæ¯è®©äººæè§èéç¸å¼åºï¼ä¸ä¸åæçâmore unsettled thanâå½¢æå¯¹æ¯ï¼Aéé¡¹æ­£ç¡®ã éé¡¹Bâindifferentâï¼å·æ¼ çãä¸å³å¿çï¼ï¼ä¸ææä¸ç¬¦ï¼è¿éä¸æ¯è¯´è®©äººæ¯å·æ¼ æ¶æ´ä¸å®ï¼Béé¡¹éè¯¯ã éé¡¹Cârevoltedâï¼åæ¶çãåæçï¼ï¼ç¨åº¦è¿éï¼ä¸ä¸åææºå¨äººè®¾è®¡çåè¡·åè¯­å¢ä¸ç¸ç¬¦ï¼Céé¡¹ä¸åéã éé¡¹Dâvindicatedâï¼è¯æâ¦â¦æ­£ç¡®ãè¾©æ¤ï¼ï¼ä¸ææ¬åå®¹æ¯«æ é»è¾å³ç³»ï¼Déé¡¹ä¸æ­£ç¡®ã æä»¥æ­£ç¡®ç­æ¡æ¯Aãæä¸­çå®ä½ä¿¡æ¯æï¼æºå¨äººSurenaãCOMANã<br>"
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is Rainer Maria Rilke's 1897 poem <i>Evening</i> (translated by Jessie Lamont in 1918).</p><blockquote style=\"margin-left: 40px;\"><u>The bleak fields are asleep,</u><br><u>My heart alone wakes;</u><br>The evening in the harbour<br>Down his red sails takes.<br><br>Night, guardian of dreams,<br>Now wanders through the land;<br>The moon, a lily white,<br>Blossoms within her hand.</blockquote>",
+      "question": "Which choice best states the function of the underlined portion in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It conveys the speaker's sense that he is alone while experiencing the evening."
+        },
+        {
+          "name": "B",
+          "content": "It shows that the speaker would rather look at the fields than at the water."
+        },
+        {
+          "name": "C",
+          "content": "It indicates the speaker's disappointment that other people dislike rural settings."
+        },
+        {
+          "name": "D",
+          "content": "It explains why the speaker has woken up from sleeping."
+        }
+      ],
+      "correct": "It conveys the speaker's sense that he is alone while experiencing the evening.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the bat-like <i>Ambopteryx</i>. However, many dinosaurs that didn't have wings also had feathers on their bodies. For instance, research indicates that the wingless, large <i>Yutyrannus</i> likely had feathers.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To discuss the presence of feathers on certain types of dinosaurs"
+        },
+        {
+          "name": "B",
+          "content": "To point out the differences between dinosaur feathers and bird feathers"
+        },
+        {
+          "name": "C",
+          "content": "To explain why feathered dinosaurs went extinct"
+        },
+        {
+          "name": "D",
+          "content": "To argue that only one species of dinosaur had feathers"
+        }
+      ],
+      "correct": "To discuss the presence of feathers on certain types of dinosaurs",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><b>Text 1</b></p><p>In 2017 Buenaventura, Colombia, was named a City of Gastronomy by UNESCO in recognition of the city's unique food culture. The honor is well known among residents of the city as well as tourists who visit. <u>It's obvious that the selection of Buenaventura by UNESCO has brought awareness to local recipes, cooking practices, and chefs and has provided a boost to the city's tourism industry.</u></p><p><b>Text 2</b></p><p>Many people in Buenaventura's restaurant industry hoped that food tourism would increase after the city was chosen as City of Gastronomy in 2017. However, as researcher Eerang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without an intentional effort to promote the city's food scene, many current and potential visitors to Buenaventura may not even be aware that it's home to uniquely delicious food.</p>",
+      "question": "Based on the texts, what would the author of Text 2 most likely say in response to the underlined claim in Text 1?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A city that UNESCO officially names as a City of Gastronomy should still make deliberate efforts to attract visitors [in order to boost] tourism."
+        },
+        {
+          "name": "B",
+          "content": "Many people worked together to help Buenaventura be recognized by UNESCO, but chefs deserve the most credit for Buenaventura's selection as a City of Gastronomy."
+        },
+        {
+          "name": "C",
+          "content": "There are other benefits to being named a UNESCO City of Gastronomy besides increased tourism."
+        },
+        {
+          "name": "D",
+          "content": "The naming of Buenaventura as a City of Gastronomy was long overdue, given the city's delicious food."
+        }
+      ],
+      "correct": "A city that UNESCO officially names as a City of Gastronomy should still make deliberate efforts to attract visitors [in order to boost] tourism.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Panama City, Panama, and Fortaleza, Brazil, were surveyed about parks in their cities. Of the 318 respondents from Panama City, 53.5% indicated that they use the city's parks, and of 938 respondents from Fortaleza, 35.7% indicated using city parks. Given that the percentage of Panama City respondents who reported living within a 10-minute walk of a park was much lower than that reported by Fortaleza respondents, greater proximity alone can't explain the difference in park use.</p>",
+      "question": "The text makes which point about the difference between the proportions of Panama City residents and Fortaleza residents using parks?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It was much larger than the researchers conducting the study expected."
+        },
+        {
+          "name": "B",
+          "content": "It could be due to inaccuracies in the survey results."
+        },
+        {
+          "name": "C",
+          "content": "It was calculated using sources that predate the survey."
+        },
+        {
+          "name": "D",
+          "content": "It is caused by something other than the parks' proximity to the residents."
+        }
+      ],
+      "correct": "It is caused by something other than the parks' proximity to the residents.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Daniel Defoe's 1704 nonfiction book <i>The Storm</i>.</p><blockquote style=\"margin-left: 40px;\">The sermon is a sound of words spoken to the ear, and prepared only for present meditation and extends no farther than the strength of memory can convey it; a book printed is a record, remaining in every man's possession, always ready to renew its acquaintance with his memory, and always ready to be produced as an authority or voucher to any reports he makes out of it, and conveys its contents for ages to come, to the eternity of mortal time, when the author is forgotten in his grave.</blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "People are less likely to forget a message when they hear it spoken aloud than they are when they read it in print."
+        },
+        {
+          "name": "B",
+          "content": "Unless a spoken message is delivered by a confident orator, it may be ignored."
+        },
+        {
+          "name": "C",
+          "content": "Most authors have little hope of being remembered well past their lifetimes."
+        },
+        {
+          "name": "D",
+          "content": "Words committed to print have a greater permanence than messages that are merely spoken aloud."
+        }
+      ],
+      "correct": "Words committed to print have a greater permanence than messages that are merely spoken aloud.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Far Side of the World</i>, first published in 1984, is a novel in Patrick OâBrian's Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, <i>The Far Side of the World</i> has a rather abrupt ending, but the following book, <i>The Reverse of the Medal</i>, picks up neatly where <i>The Far Side of the World</i> leaves off. Thus, the sudden ending is only an issue if one considers the books as independent textsâthe Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's <i>The Forsyte Saga.</i></p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is unfair that the Aubrey/Maturin series does not have the critical reputation of <i>The Forsyte Saga</i>, which has a similar structure."
+        },
+        {
+          "name": "B",
+          "content": "<i>The Far Side of the World and The Reverse of the Medal</i> are [two] of the most complex of Patrick OâBrianâs [novels of the Aubrey/Maturin series] with unconventional structures."
+        },
+        {
+          "name": "C",
+          "content": "The structure of each of the novels of the Aubrey/Maturin series suggests that the series should be considered a single continuous story."
+        },
+        {
+          "name": "D",
+          "content": "Many readers find the Aubrey/Maturin novels to be remarkably entertaining despite flaws novels' structures."
+        }
+      ],
+      "correct": "The structure of each of the novels of the Aubrey/Maturin series suggests that the series should be considered a single continuous story.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/1007dd1e493de6e0087f1ae2a1f1587d.png\" width=\"645\" height=\"215\"></p><p>One student is writing an essay about four pyramids for a history class and wants to indicate how long ago each pyramid was built. Consulting the table, the student finds that the Tikal Temple IV was built ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "1,900 to 2,300 years ago."
+        },
+        {
+          "name": "B",
+          "content": "1,300 years ago."
+        },
+        {
+          "name": "C",
+          "content": "4,500 to 4,600 years ago."
+        },
+        {
+          "name": "D",
+          "content": "3,800 to 4,000 years ago."
+        }
+      ],
+      "correct": "1,300 years ago.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>Life Among the Paiutes</i> is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins. In the work, Winnemucca directly addresses the reader to establish her authority and credibility, writing ______</p>",
+      "question": "Which quotation from <i>Life Among the Paiutes</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âMy dear reader, I have not lived in this world for over thirty or forty years for nothing, and I know what I am talking about.â"
+        },
+        {
+          "name": "B",
+          "content": "âI was born somewhere near 1844, but am not sure of the precise time.â"
+        },
+        {
+          "name": "C",
+          "content": "âOh, dear readers, these soldiers had gone only sixty miles away to Muddy Lake, where my people were then living and fishing.â"
+        },
+        {
+          "name": "D",
+          "content": "âBut how can I describe the scene that followed? Some of you, dear readers, can imagine.â"
+        }
+      ],
+      "correct": "âMy dear reader, I have not lived in this world for over thirty or forty years for nothing, and I know what I am talking about.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Underdogs</i> is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, the town of Juchipila is depicted as a striking sight for a group of soldiers as they view it from afar: ______</p>",
+      "question": "Which quotation from a translation of <i>The Underdogs</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "âAll day long [the soldiers] rode through the canyon, up and down the steep, round hills, dirty and bald as a man's head, hill after hill in endless succession.â"
+        },
+        {
+          "name": "B",
+          "content": "â[The soldiers] entered the streets of Juchipila as the church bells rang, loud and joyfully, with that peculiar tone that thrills every mountaineer.â"
+        },
+        {
+          "name": "C",
+          "content": "âJuchipila arose in the distance, white, bathed in sunlight, shining in the midst of a thick forest at the foot of a proud, lofty mountain.â"
+        },
+        {
+          "name": "D",
+          "content": "âThe sierra is clad in gala colors. Over its inaccessible peaks the opalescent fog settles like a snowy veil on the forehead of a bride.â"
+        }
+      ],
+      "correct": "âJuchipila arose in the distance, white, bathed in sunlight, shining in the midst of a thick forest at the foot of a proud, lofty mountain.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Hypothesizing that lullabies, characterized by their slow tempos, are universally calming to infants, Constance M. Bainbridge and colleagues played a lullaby sung in the Scottish Gaelic language and a non-lullaby sung in the Seri language to a group of infants. The team found that the infants' heart rates decreased more during the lullaby than during the non-lullaby. Since a decrease in heart rate is associated with relaxation, the team concluded that the lullaby relaxed the infants. Noting that reduced heart rate can also be associated with increased attention, one critic argues that instead, the lullaby simply attracted the infants' attention. Bainbridge and colleagues also measured pupil size, as pupils typically become larger when a stimulus captures a person's attention.</p>",
+      "question": "Which finding, if true, would most directly weaken the critic's claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Blinking, which indicates attention, was equally frequent whether infants were listening to the song in Scottish Gaelic or song in Seri."
+        },
+        {
+          "name": "B",
+          "content": "Neither the Scottish Gaelic language nor the melody of the traditional Scots lullaby was familiar to infants in the study."
+        },
+        {
+          "name": "C",
+          "content": "The infants' pupils were smaller when the infants were listening to lullabies than when they were listening to non-lullabies."
+        },
+        {
+          "name": "D",
+          "content": "Parents of infants in the study chose the lullaby over the non-lullaby when asked which song they would use to calm their child."
+        }
+      ],
+      "correct": "Blinking, which indicates attention, was equally frequent whether infants were listening to the song in Scottish Gaelic or song in Seri.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the early 19th, ships in the British Royal Navy were ranked based on military strength. The system considered the number of a ship's cannons and decks. âFirst rateâ was the highest ranking, and âsixth-rateâ was the lowest ranking, followed by unranked ships. This ranking determined the size of a ship's crew: first-rate ships had between 850 and 875 crewmen, while lower-ranked ships had fewer. Two of the ships in the British Royal Navy from this period were the <i>Dreadnought</i> (98 cannons and three decks) and the <i>Royal George</i> (120 cannons and three decks). Of these two, only the <i>Royal George</i> was ranked a first-rate ship. It can therefore be concluded that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the <i>Dreadnought</i> had between 850 and 875 crewmen."
+        },
+        {
+          "name": "B",
+          "content": "all ships with at least 98 cannons were ranked as first-rate ships."
+        },
+        {
+          "name": "C",
+          "content": "the <i>Royal George</i> needed a crew larger than 875 people in order to operate efficiently."
+        },
+        {
+          "name": "D",
+          "content": "not all ships with three decks were ranked as first-rate ships."
+        }
+      ],
+      "correct": "not all ships with three decks were ranked as first-rate ships.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>When bees pollinate flowers, they may be exposed to insecticides, potentially affecting their nervous systems. Recently, Dr. Rachel Parkinson of the University of Oxford added the common ______ to a sucralose solution to examine the insecticide's impact on honey bees' ability to walk in a straight line.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "insecticide sulfoxaflor"
+        },
+        {
+          "name": "B",
+          "content": "insecticide, sulfoxaflor,"
+        },
+        {
+          "name": "C",
+          "content": "insecticide sulfoxaflor,"
+        },
+        {
+          "name": "D",
+          "content": "insecticide, sulfoxaflor"
+        }
+      ],
+      "correct": "insecticide sulfoxaflor",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Argentinian CÃ©sar Milstein was a biochemist whose work has been instrumental in the diagnosis and treatment of disease. Initially overlooked as insignificant research by the scientific community, ______ contributed to the detection and treatment of numerous autoimmune diseases.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Milstein studied monoclonal antibodies in 1975; they"
+        },
+        {
+          "name": "B",
+          "content": "in 1975 Milstein studied monoclonal antibodies, which"
+        },
+        {
+          "name": "C",
+          "content": "Milstein's 1975 study of monoclonal antibodies"
+        },
+        {
+          "name": "D",
+          "content": "monoclonal antibodies were studied by Milstein in 1975 and"
+        }
+      ],
+      "correct": "Milstein's 1975 study of monoclonal antibodies",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>At 1,006 meters, the Forth Road Bridge in the United Kingdom is one of the longest suspension bridges in the ______ the Yavuz Sultan Selim Bridge in Turkey, at 1,408 meters, is even longer.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "world, but,"
+        },
+        {
+          "name": "B",
+          "content": "world,"
+        },
+        {
+          "name": "C",
+          "content": "world, but"
+        },
+        {
+          "name": "D",
+          "content": "world but"
+        }
+      ],
+      "correct": "world, but",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Both Heinrich BÃ¶ll and Camilo JosÃ© Cela have been commended for ______ contributions to literature, perhaps most notably when the Swedish Academy awarded BÃ¶ll the Nobel Prize in Literature in 1972 and Cela in 1989.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "itâs"
+        },
+        {
+          "name": "B",
+          "content": "their"
+        },
+        {
+          "name": "C",
+          "content": "its"
+        },
+        {
+          "name": "D",
+          "content": "theyâre"
+        }
+      ],
+      "correct": "their",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On the other hand, Newark Liberty International Airport, which ______ located in Newark, New Jersey, saw an overall increase in departing passengers over the same time period, from 16,704,844 total passengers to 23,171,827.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is"
+        },
+        {
+          "name": "B",
+          "content": "are"
+        },
+        {
+          "name": "C",
+          "content": "were"
+        },
+        {
+          "name": "D",
+          "content": "have been"
+        }
+      ],
+      "correct": "is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Rising 11,371 feet above sea level, Mount Leuser ______ among the world's tallest mountains.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is ranked"
+        },
+        {
+          "name": "B",
+          "content": "to rank"
+        },
+        {
+          "name": "C",
+          "content": "ranking"
+        },
+        {
+          "name": "D",
+          "content": "having ranked"
+        }
+      ],
+      "correct": "is ranked",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>As an object-oriented computer programming language Kotlin is used by coders like Black Girls Code founder Kimberly Bryant to create programs by manipulating âobjectsâ (that is, specifically defined variables or combinations of variables) into interacting with each other. Conversely Pascal, ______ in software development and educational instruction, is not an object-oriented language.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " to use"
+        },
+        {
+          "name": "B",
+          "content": " used"
+        },
+        {
+          "name": "C",
+          "content": " the use"
+        },
+        {
+          "name": "D",
+          "content": " using"
+        }
+      ],
+      "correct": " used",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Fans of the film <i>The Princess and the Frog</i> (2009) likely ______ the commanding bass voice behind the character Dr. Facilier. It belongs to actor Keith David. The veteran actor has performed in everything from commercials to Broadway musicals, but he is most known for his voice acting.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "recognizes"
+        },
+        {
+          "name": "B",
+          "content": "has recognized"
+        },
+        {
+          "name": "C",
+          "content": "recognize"
+        },
+        {
+          "name": "D",
+          "content": "is recognizing"
+        }
+      ],
+      "correct": "recognize",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Blackberries are fruits that contain ascorbic acid, an essential nutrient for humans.</li><li>Every 100 grams (g) of blackberries contains 21 milligrams (mg) of ascorbic acid.</li><li>Many animals can make ascorbic acid in their bodies, but humans cannot.</li><li>Humans must get ascorbic acid from foods, including fruits and vegetables.</li><li>Ascorbic acid is also known as Vitamin C.</li></ul></blockquote>",
+      "question": "The student wants to specify how much vitamin C is in blackberries. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Many animals can make ascorbic acid, which is also known as vitamin C, in their bodies, but humans cannot."
+        },
+        {
+          "name": "B",
+          "content": "There is 21 mg of vitamin C in every 100 g of blackberries."
+        },
+        {
+          "name": "C",
+          "content": "Since humans cannot make vitamin C in their bodies, they must get this essential nutrient from foods like blackberries."
+        },
+        {
+          "name": "D",
+          "content": "Blackberries contain vitamin C, which humans must get from food."
+        }
+      ],
+      "correct": "There is 21 mg of vitamin C in every 100 g of blackberries.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The Music by Black Composers (MBC) project aims to inspire aspiring music students by archiving and sharing information about the music of Black classical composers.</li><li>George Theophilus Walker is a Black classical music composer included in MBC's Historic Composers Directory.</li><li>He was born in 1922 and died in 2018.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to set up a discussion of Walker's career for an audience already familiar with the MBC Project?",
+      "options": [
+        {
+          "name": "A",
+          "content": "While George Theophilus Walker is considered a great composer, there are many more such composers included in MBC's Historic Composers Directory."
+        },
+        {
+          "name": "B",
+          "content": "Born in 1922, George Theophilus Walker passed away in 2018 according to the MBC project."
+        },
+        {
+          "name": "C",
+          "content": "Among the many talented figures included in the MBC project is classical music composer George Theophilus Walker."
+        },
+        {
+          "name": "D",
+          "content": "The MBC project's Historic Composers Directory highlights Black classical composers of the past, such as George Theophilus Walker (1922â2018), in order to inspire music students to become the classical composers of the future."
+        }
+      ],
+      "correct": "Among the many talented figures included in the MBC project is classical music composer George Theophilus Walker.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Sister cities are pairs of cities that form social or legal partnerships to promote each other's cultures.</li><li>Previously known as âtown twinning,â the concept of sister cities evolved in Europe after World War II as a way to repair bonds between cities.</li><li>Many cities in New York State maintain such partnerships with cities around the world.</li><li>Rhinebeck, New York, and Larreynaga, Nicaragua, became sister cities in 1989.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the duration of Rhinebeck and Larreynaga's sister city relationship. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Since the end of World War II, sister cities such as Rhinebeck, New York, and Larreynaga, Nicaragua, have continued to form social partnership to promote each other's cultures."
+        },
+        {
+          "name": "B",
+          "content": "As sister cities, Rhinebeck, New York, and Larreynaga, Nicaragua, have engaged in cultural exchange and partnership since 1989."
+        },
+        {
+          "name": "C",
+          "content": "Larreynaga, which in 1989 became a sister cityâor âtwin townââto Rhinebeck, New York, is located in Nicaragua."
+        },
+        {
+          "name": "D",
+          "content": "Despite their distance from each other, the sister cities of Rhinebeck, New York, and Larreynaga, Nicaragua have enjoyed the same partnership as many other sister cities."
+        }
+      ],
+      "correct": "As sister cities, Rhinebeck, New York, and Larreynaga, Nicaragua, have engaged in cultural exchange and partnership since 1989.",
+      "solution": ""
+    }
+  ]
+}

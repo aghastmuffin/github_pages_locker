@@ -1,0 +1,682 @@
+{
+  "uuid": "23fd9cca-199e-4a62-b065-4e2d5997bf7f",
+  "chunk": "CHN6Lf-P.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>Excavating a dilophosaur fossil is a ______ process, since it can take weeks or even months of hard, physically tiring work to clear away the dirt and rock covering the specimen.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "cheap"
+        },
+        {
+          "name": "B",
+          "content": "common"
+        },
+        {
+          "name": "C",
+          "content": "rapid"
+        },
+        {
+          "name": "D",
+          "content": "difficult"
+        }
+      ],
+      "correct": "difficult",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Lilliam Rivera’s 2020 novel <i>Never Look Back</i>. The text describes the narrator looking around his father’s apartment.</p><blockquote style=\"margin-left: 40px;\"><p>Pops’s pride and joy is his wall of towering bookshelves. He once said you can <u>tell</u> a man’s worth by the number of books he owns. I guess this means Pops is overflowing with riches because ever since I can remember I was never without a book within reach.</p></blockquote><p style=\"text-align: right; font-size: 12px;\">©2020 by Lilliam Rivera</p>",
+      "question": "As used in the text, what does the word “tell” most nearly mean?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Judge"
+        },
+        {
+          "name": "B",
+          "content": "Urge"
+        },
+        {
+          "name": "C",
+          "content": "Adore"
+        },
+        {
+          "name": "D",
+          "content": "Teach"
+        }
+      ],
+      "correct": "Judge",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The minor planet 1061 Paeonia was named after the plant genus that includes peonies. But most minor planets are given only an identification number, both because there are over 500,000 such bodies known at present and because any name chosen needs to be ______ that body: no two minor planets are allowed to have the same name.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": " exclusive to"
+        },
+        {
+          "name": "B",
+          "content": " evocative of"
+        },
+        {
+          "name": "C",
+          "content": " typical for"
+        },
+        {
+          "name": "D",
+          "content": " superseded by"
+        }
+      ],
+      "correct": " exclusive to",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Text corpora such as the British National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how ______ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “world,” but only an analysis of a corpus can prove that “world” is the eighth most commonly used noun.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "pervasive"
+        },
+        {
+          "name": "B",
+          "content": "credible"
+        },
+        {
+          "name": "C",
+          "content": "assertive"
+        },
+        {
+          "name": "D",
+          "content": "profound"
+        }
+      ],
+      "correct": "pervasive",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is adapted from Jean Webster’s 1912 novel <i>Daddy-Long-Legs</i>. The narrator is a young college student writing letters detailing her weekly experiences.</p><p style=\"margin-left: 40px;\">[The college is] organizing the Freshman basket-ball team and there’s just a chance that I shall make it. I’m little of course, but terribly quick and wiry and tough. While the others are hopping about in the air, I can dodge under their feet and grab the ball.</p>",
+      "question": "Which choice best states the main purpose of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "To compare basketball with other sports."
+        },
+        {
+          "name": "B",
+          "content": "To provide details of how to play basketball."
+        },
+        {
+          "name": "C",
+          "content": "To state how players will be chosen for the basketball team."
+        },
+        {
+          "name": "D",
+          "content": "To explain why the narrator thinks she might make the basketball team."
+        }
+      ],
+      "correct": "To explain why the narrator thinks she might make the basketball team.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Why do jungle cats purr but leopards roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats. <u>This bone is called the hyoid.</u> Jungle cats, which are much smaller than leopards, have a rigid hyoid that rumbles when the cat’s larynx vibrates, resulting in a purr. By contrast, leopards have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that jungle cats lack. These traits allow leopards and most other species of big cats to roar. The same traits may also prevent most big cats from purring.</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The sentence introduces a term that is used in the discussion that follows."
+        },
+        {
+          "name": "B",
+          "content": "The sentence explains the unique nature of the researchers’ hypothesis."
+        },
+        {
+          "name": "C",
+          "content": "The sentence summarizes the debate presented in the text."
+        },
+        {
+          "name": "D",
+          "content": "The sentence identifies the location of a bone in felines."
+        }
+      ],
+      "correct": "The sentence introduces a term that is used in the discussion that follows.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Octopuses and other animals, though, have busted the myth that tool use requires hands. Inventively, octopuses use two halves of a seashell to provide protection or a place to hide. Greater vasa parrots also get creative. They use date pits to grind seashells into calcium powder.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Unlike primates, octopuses are exceptionally skillful at using different tools."
+        },
+        {
+          "name": "B",
+          "content": "There are many myths about tool use that researchers are starting to challenge."
+        },
+        {
+          "name": "C",
+          "content": "Animals find it difficult to use objects as tools."
+        },
+        {
+          "name": "D",
+          "content": "Contrary to long-held beliefs, primates aren’t the only animals to use tools."
+        }
+      ],
+      "correct": "Contrary to long-held beliefs, primates aren’t the only animals to use tools.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The groundbreaking Negro Ensemble Company (NEC), founded in 1967, produced Paul Carter Harrison’s award-winning play <i>The Great Macdaddy</i> in 1974. The company was cofounded by Robert Hooks, an actor, producer, and activist, and actor and playwright Douglas Turner Ward, who had met while performing in a 1960 touring production of Lorraine Hansberry’s play <i>A Raisin in the Sun.</i> They shared a vision of a theater company that would nurture and showcase the work of Black theater professionals. Since its beginning, NEC has provided a forum for the voices of Harrison and other Black playwrights through workshops and performances.</p>",
+      "question": "According to the text, how did Hooks and Ward initially meet?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Harrison introduced Hooks to Ward at a performance of <i>The Great Macdaddy</i>."
+        },
+        {
+          "name": "B",
+          "content": "Hooks and Ward attended the same performance of <i>The Great Macdaddy</i>."
+        },
+        {
+          "name": "C",
+          "content": "Hooks and Ward participated in the same workshop at NEC."
+        },
+        {
+          "name": "D",
+          "content": "Hooks and Ward were both actors in a production of <i>A Raisin in the Sun</i>."
+        }
+      ],
+      "correct": "Hooks and Ward were both actors in a production of <i>A Raisin in the Sun</i>.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align:center;\">Annual Car Production in the United States, 1910-1925</p><div style=\"text-align:center;\"><img src=\"/images/8a9f5601212f795ee26483f6dfa8f894.png\" width=\"309\" height=\"136\" style=\"display:inline-block;\"></div><p style=\"margin-top:16px; margin-bottom:16px; text-align:justify;\">A student is using the table as part of a social studies class presentation on the US auto industry in the early twentieth century. The student notes that, according to the table, from 1910 to 1925 ______</p>",
+      "question": "Which choice most effectively uses data from the table to complete the statement?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the number of cars produced increased but the number of companies producing cars decreased."
+        },
+        {
+          "name": "B",
+          "content": "both the number of cars produced and the number of companies producing cars remained unchanged."
+        },
+        {
+          "name": "C",
+          "content": "the number of cars produced decreased but the number of companies producing cars remained unchanged."
+        },
+        {
+          "name": "D",
+          "content": "both the number of cars produced and the number of companies producing cars increased."
+        }
+      ],
+      "correct": "the number of cars produced increased but the number of companies producing cars decreased.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Card Game</i> is a painting by Jacob Lawrence, dated 1953. It’s part of the full collection of the SCAD Museum of Art in Savannah, Georgia. A digital image of it can also be found in an online collection. In a paper, a student claims that <u>people usually spend more time viewing a work of art in a museum than they do online.</u></p>",
+      "question": "Which finding, if true, would most directly support the underlined claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Most people spend about three minutes viewing <i>The Card Game</i> at the museum and only about one minute viewing it online."
+        },
+        {
+          "name": "B",
+          "content": "<i>The Card Game</i> isn’t the only work of art by Jacob Lawrence that has been put online."
+        },
+        {
+          "name": "C",
+          "content": "Most people who go to museums in Savannah are visiting from other places."
+        },
+        {
+          "name": "D",
+          "content": "More than one museum has works of art by Jacob Lawrence in its full collection."
+        }
+      ],
+      "correct": "Most people spend about three minutes viewing <i>The Card Game</i> at the museum and only about one minute viewing it online.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Research such as the 2010 study of arthropods by Alvin Aaden Yim-Hol Chan and colleagues has shown that noise from human activity, like traffic on a busy highway, has significant effects on animals, and many governments require studies of the potential noise effects on wildlife before approving highway construction projects. A report on one such study proposed many more actions to mitigate the effects on birds in the area than it did to mitigate the effects on arthropods in the area. Despite the lack of focus on measures specifically for arthropods, conservationists were satisfied that the proposed mitigations were sufficient to protect all the wildlife in the area because ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "the measures aimed at protecting birds will likely also minimize most of the effects on arthropods."
+        },
+        {
+          "name": "B",
+          "content": "the severity of the effects of noise on different species of birds can differ significantly."
+        },
+        {
+          "name": "C",
+          "content": "the effects of noise on birds have been less extensively documented than the effects on arthropods have."
+        },
+        {
+          "name": "D",
+          "content": "the measures intended to protect birds can sometimes have adverse effects on arthropods."
+        }
+      ],
+      "correct": "the measures aimed at protecting birds will likely also minimize most of the effects on arthropods.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the early 19th century, ships in the British Royal Navy were ranked based on military strength. The system considered the number of a ship’s cannons and decks. “First-rate” was the highest ranking and “sixth-rate” was the lowest ranking followed by unranked ships. This ranking determined the size of a ship’s crew; first-rate ships had between 850 and 875 crewmen, while lower-ranked ships had fewer. Two of the ships in the British Royal Navy from this period were the <i>Dreadnought</i> (98 cannons and three decks) and the <i>Caledonia</i> (120 cannons and three decks). Of these two, only the <i>Caledonia</i> was ranked a first-rate ship. It can therefore be concluded that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "not all ships with three decks were ranked as first-rate ships."
+        },
+        {
+          "name": "B",
+          "content": "all ships with at least 98 cannons were ranked as first-rate ships."
+        },
+        {
+          "name": "C",
+          "content": "the <i>Dreadnought</i> had between 850 and 875 crewmen."
+        },
+        {
+          "name": "D",
+          "content": "the <i>Caledonia</i> needed a crew larger than 875 people in order to operate efficiently."
+        }
+      ],
+      "correct": "not all ships with three decks were ranked as first-rate ships.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Austria, which, according to international indices, has relatively strong democratic institutions and low intranational income inequality, experienced an inflation rate of 2.08% in 2017, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.64% that year. Such a comparison may seem consistent with the theoretical critique that by diluting control over the economy, democratic institutions inhibit states’ ability to counteract inflationary pressures, but when Raj Desai et al. examined democratic strength, intranational inequality, and inflation in more than 100 countries, they found that democratic strength, if associated with low inequality, restrains inflationary pressures, which would suggest that ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "factors other than Austria’s political structure contributed to the country’s inflation rate exceeding that of Cameroon in 2017."
+        },
+        {
+          "name": "B",
+          "content": "the 2017 difference between Austria’s inflation rate and Cameroon’s inflation rate is primarily but not exclusively attributable to the different levels of intranational income inequality in the two countries."
+        },
+        {
+          "name": "C",
+          "content": "international indices may have underestimated the strength of Austria’s democratic institutions relative to Cameroon’s."
+        },
+        {
+          "name": "D",
+          "content": "inflation in Austria in 2017 would have been higher if Austria’s government had less control over the economy."
+        }
+      ],
+      "correct": "factors other than Austria’s political structure contributed to the country’s inflation rate exceeding that of Cameroon in 2017.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>On February 1, 2018, Florida-based researchers Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez ______ compiled climate data from several sites in Puerto Rico’s Luquillo Mountains. At 8:30 a.m., the air temperature was 16℃ at site CC1, the site with the highest elevation, and it had shifted to 16.8℃ by 11:00 p.m.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "compiled,"
+        },
+        {
+          "name": "B",
+          "content": "compiled"
+        },
+        {
+          "name": "C",
+          "content": "compiled;"
+        },
+        {
+          "name": "D",
+          "content": "compiled:"
+        }
+      ],
+      "correct": "compiled",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Summer is typically thought of as a sweltering season. However, the city of Ljubljana has rather cool summers. There, the average summer temperature ______ just 66.7 degrees Fahrenheit.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " is"
+        },
+        {
+          "name": "B",
+          "content": " is;"
+        },
+        {
+          "name": "C",
+          "content": " is:"
+        },
+        {
+          "name": "D",
+          "content": " is,"
+        }
+      ],
+      "correct": " is",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>What is the origin of the word “blatant”? Interestingly, ______ It first appears in the poem <i>The Faerie Queene</i> by English author Edmund Spenser.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " it was invented by an author?"
+        },
+        {
+          "name": "B",
+          "content": " it was invented by an author."
+        },
+        {
+          "name": "C",
+          "content": " was it invented by an author."
+        },
+        {
+          "name": "D",
+          "content": " wasn’t it invented by an author."
+        }
+      ],
+      "correct": " it was invented by an author.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 1929, Edwin Herbert Land invented a polarizing filter that was featured in a number of products, from sunglasses to 3D movies. A decade later, Land ______ his technology to invent the world’s first instant camera, the Polaroid Land camera.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " used"
+        },
+        {
+          "name": "B",
+          "content": " to have used"
+        },
+        {
+          "name": "C",
+          "content": " to use"
+        },
+        {
+          "name": "D",
+          "content": " using"
+        }
+      ],
+      "correct": " used",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>A harpsichord may look just like a piano, but the difference between the two instruments is easy to hear. When a harpsichord’s keys are pressed, the strings inside the ______ are plucked not struck.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " instrument:"
+        },
+        {
+          "name": "B",
+          "content": " instrument"
+        },
+        {
+          "name": "C",
+          "content": " instrument—"
+        },
+        {
+          "name": "D",
+          "content": " instrument."
+        }
+      ],
+      "correct": " instrument",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In forecasting weather events, meteorologists sometimes discuss the role of atmospheric rivers. What are atmospheric rivers, and how ______ Part of the water cycle, atmospheric rivers are narrow channels of moisture moving through the atmosphere. In certain conditions, these “rivers” can release some of their moisture as precipitation.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " do they affect our weather."
+        },
+        {
+          "name": "B",
+          "content": " they do affect our weather."
+        },
+        {
+          "name": "C",
+          "content": " do they affect our weather?"
+        },
+        {
+          "name": "D",
+          "content": " they do affect our weather?"
+        }
+      ],
+      "correct": " do they affect our weather?",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Included in <i>Every Day: Selections from the Collection,</i> a 2019 group exhibition at the Baltimore Museum of Art in Maryland, was the work of multimedia artist Lorna Simpson. The impact of Simpson’s work is ______ the horizons of conceptual photographic art, challenging conventional notions of race, gender, history, and memory, and shedding light on the experience of African American women in contemporary society.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": " threefold; expanding"
+        },
+        {
+          "name": "B",
+          "content": " threefold expanding"
+        },
+        {
+          "name": "C",
+          "content": " threefold. expanding"
+        },
+        {
+          "name": "D",
+          "content": " threefold: expanding"
+        }
+      ],
+      "correct": " threefold: expanding",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In eastern Mexico, Monument 61 and Monument 1 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ______ they each weigh more than 5 tons!</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "In any case,"
+        },
+        {
+          "name": "B",
+          "content": "Earlier,"
+        },
+        {
+          "name": "C",
+          "content": "In fact,"
+        },
+        {
+          "name": "D",
+          "content": "Instead,"
+        }
+      ],
+      "correct": "In fact,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In 2014, Nestor Gomez won his first-ever storytelling competition, relating a tale about his life as a Guatemalan immigrant living in Chicago. ______ in 2017, Gomez created the show <i>80 Minutes Around the World</i> as a platform for others to share stories about their immigration experiences.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Instead,"
+        },
+        {
+          "name": "B",
+          "content": "For example,"
+        },
+        {
+          "name": "C",
+          "content": "Later,"
+        },
+        {
+          "name": "D",
+          "content": "In other words,"
+        }
+      ],
+      "correct": "Later,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In his essay “Of Friendship,” French philosopher Michel de Montaigne explores a relatively light subject, but he addresses heavier fare in “Of the Uncertainty of Our Judgment.” Regardless of subject matter, Montaigne works to question his own perspective throughout his essays. ______ his personal motto was “What do I know?”</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Fittingly,"
+        },
+        {
+          "name": "B",
+          "content": "Conversely,"
+        },
+        {
+          "name": "C",
+          "content": "Nowadays,"
+        },
+        {
+          "name": "D",
+          "content": "Still,"
+        }
+      ],
+      "correct": "Fittingly,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Julius LeMoyne was an outspoken abolitionist whose Pennsylvania home was a stop on the Underground Railroad (the network of people and places that some enslaved people used to escape to freedom). It was relatively rare for supporters of the railroad to be secretive about their antislavery views. ______ they were vocal abolitionists like LeMoyne.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Fittingly,"
+        },
+        {
+          "name": "B",
+          "content": "Granted,"
+        },
+        {
+          "name": "C",
+          "content": "More often,"
+        },
+        {
+          "name": "D",
+          "content": "For example,"
+        }
+      ],
+      "correct": "More often,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Ynés Mexía was a Mexican American botanist.</li><li>Between 1917 and 1938, she collected over 150,000 botanical samples throughout the Americas.</li><li>She collected a sample of <i>Achyrocline vauthieriana</i> in Minas Gerais, Brazil, on May 3, 1930.</li><li>She collected a sample of <i>Vernonia liatroides</i> in Jalisco, Mexico, on February 14, 1927.</li><li>These specimens are members of the Asteraceae family.</li><li>They can now be viewed online at the C.V. Starr Virtual Herbarium.</li></ul></blockquote>",
+      "question": "Which choice most effectively uses information from the given sentences to emphasize  when she collected both of the samples?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Thousands of botanical samples collected by Ynés Mexía can now be found in one place: online at the C.V. Starr Virtual Herbarium."
+        },
+        {
+          "name": "B",
+          "content": "On May 3 in 1930, Ynés Mexía added a new specimen to her growing collection of botanical samples: <i>Achyrocline vauthierana</i> of the Asteraceae family."
+        },
+        {
+          "name": "C",
+          "content": "While both specimens collected by Ynés Mexía are members of the same family, <i>Achyrocline vauthierana</i> was found in Minas Gerais and <i>Vernonia liatroides</i> was found in Jalisco."
+        },
+        {
+          "name": "D",
+          "content": "Ynés Mexía collected a sample of <i>Achyrocline vauthierana</i> in May of 1930, after collecting <i>Vernonia liatroides</i> in February of 1927."
+        }
+      ],
+      "correct": "Ynés Mexía collected a sample of <i>Achyrocline vauthierana</i> in May of 1930, after collecting <i>Vernonia liatroides</i> in February of 1927.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>In astronomy, the mass of stars can be described in units called solar masses.</li><li>One solar mass is roughly equal to the mass of the Sun.</li><li>The mass of the star Proxima Centauri is 0.122 solar masses.</li><li>The mass of the star Sirius A is 2.063 solar masses.</li></ul></blockquote>",
+      "question": "The student wants to emphasize the mass of Sirius A. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The mass of stars, like Proxima Centauri, can be described in units called solar masses."
+        },
+        {
+          "name": "B",
+          "content": "In astronomy, the mass of stars can be described in units called solar masses, and one solar mass is roughly equal to the mass of the Sun."
+        },
+        {
+          "name": "C",
+          "content": "The Sun is more massive than Proxima Centauri, which has a mass of 0.122 solar masses."
+        },
+        {
+          "name": "D",
+          "content": "With a mass of 2.063 solar masses, Sirius A is more massive than the Sun."
+        }
+      ],
+      "correct": "With a mass of 2.063 solar masses, Sirius A is more massive than the Sun.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Documentary TV programs in the slow TV genre consist of uninterrupted broadcasts of ordinary events in real time.</li><li><i>All Aboard! The Sleigh Ride</i> (running time: 2 hours) is a British slow TV program that aired in 2015.</li><li>It documented a sleigh ride along an arctic postal route.</li><li><i>Monsen: Minutt for Minutt</i> (running time: 5 hours) is a Norwegian slow TV program that aired in 2020.</li><li>It documented a hike from Stigstuv to Rauhelleren in Norway.</li></ul></blockquote>",
+      "question": "The student wants to emphasize a similarity between the two TV programs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A prime example of the slow TV genre can be seen in <i>All Aboard! The Sleigh Ride</i>, a 2-hour British TV documentary program documenting a sleigh ride along an arctic postal route."
+        },
+        {
+          "name": "B",
+          "content": "While <i>All Aboard! The Sleigh Ride</i> depicts a sleigh ride along an arctic postal route, <i>Monsen: Minutt for Minutt</i> depicts a hike from Stigstuv to Rauhelleren in Norway."
+        },
+        {
+          "name": "C",
+          "content": "Compared to the 5-hour-long <i>Monsen: Minutt for Minutt</i>, the slow TV program <i>All Aboard! The Sleigh Ride</i> is relatively short, at 2 hours."
+        },
+        {
+          "name": "D",
+          "content": "Documenting ordinary events in real time, <i>All Aboard! The Sleigh Ride</i> and <i>Monsen: Minutt for Minutt</i> are both documentary programs in the slow TV genre."
+        }
+      ],
+      "correct": "Documenting ordinary events in real time, <i>All Aboard! The Sleigh Ride</i> and <i>Monsen: Minutt for Minutt</i> are both documentary programs in the slow TV genre.",
+      "solution": ""
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "uuid": "6e89fd3b-91b4-4432-a6bd-32d79b8e459a",
+  "chunk": "Crtxc6uj.js",
+  "question_count": 27,
+  "questions": [
+    {
+      "type": "choice",
+      "article": "<p>In the 1990s, conservationists began planting more than 500,000 native trees in the habitat of the Azores bullfinch to boost the bird's numbers. This approach was apparently ______: the Azores bullfinch's population size increased from as few as 100 birds at the end of the 1980s to around 1,300 in 2023.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "successful"
+        },
+        {
+          "name": "B",
+          "content": "disastrous"
+        },
+        {
+          "name": "C",
+          "content": "amusing"
+        },
+        {
+          "name": "D",
+          "content": "costly"
+        }
+      ],
+      "correct": "successful",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The discoverers of the minor planet <i>713 Luscinia</i> named it after the animal genus that includes nightingales. Most of the recently discovered minor planets, however, are given only an identification number, largely due to there being over 500,000 such bodies known at present, which makes the already challenging task of finding a unique name for each nearly ______.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "substantial"
+        },
+        {
+          "name": "B",
+          "content": "insurmountable"
+        },
+        {
+          "name": "C",
+          "content": "unnecessary"
+        },
+        {
+          "name": "D",
+          "content": "permissible"
+        }
+      ],
+      "correct": "insurmountable",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Posed in 1970, McMullen's g conjecture ______ many mathematicians before yielding to the efforts of Karim Adiprasito, who presented a proof of it in 2018.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "appeased"
+        },
+        {
+          "name": "B",
+          "content": "disregarded"
+        },
+        {
+          "name": "C",
+          "content": "confounded"
+        },
+        {
+          "name": "D",
+          "content": "indoctrinated"
+        }
+      ],
+      "correct": "confounded",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Although Hawaiian literature is highly heterogeneous in many ways, it is also characterized by considerable thematic ______: scholars have drawn connections linking works by writers such as David Malo and Lisa Linn Kanae to the traditional stories of the <i>Kanaka Maoli</i>, the Native Hawaiian people.</p>",
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": [
+        {
+          "name": "A",
+          "content": "innovation"
+        },
+        {
+          "name": "B",
+          "content": "continuity"
+        },
+        {
+          "name": "C",
+          "content": "subtlety"
+        },
+        {
+          "name": "D",
+          "content": "sophistication"
+        }
+      ],
+      "correct": "continuity",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Jessica Murray is a researcher who studies canopy soil. Canopy soil is formed in a tree's branches (its canopy) when dead leaves and other falling things collect. This material breaks down, becoming canopy soil. Canopy soil helps preserve healthy nutrient cycling (how nutrients move through the environment) in rainforests. This benefit is one reason Murray is interested in the canopy soils in large bully trees in rainforests in Costa Rica.</p>",
+      "question": "Which choice best describes the text's overall structure?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It presents an idea and mentions a researcher who disagrees with that idea."
+        },
+        {
+          "name": "B",
+          "content": "It introduces a researcher and gives information about what she researches."
+        },
+        {
+          "name": "C",
+          "content": "It explains a disagreement between researchers and how it was resolved."
+        },
+        {
+          "name": "D",
+          "content": "It compares the sizes of two types of trees over several years."
+        }
+      ],
+      "correct": "It introduces a researcher and gives information about what she researches.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from Louise Erdrich's 1986 novel <i>The Beet Queen</i>. The narrator discusses her relationship with her young niece, Dot. Celestine, the narrator's sister-in-law, is Dot's mother.</p><blockquote style=\"margin-left: 40px;\">Dot was as impatient with babyhood as I. She tried at once to grow out of it. Celestine never saw that, because she, and only she, took pleasure in Dot's helpless softness. Only Celestine was saddened by her daughter's fierce progress. Day by day, Dot grew stronger. <u>In her shopping-cart stroller she exercised to exhaustion, bouncing for hours to develop her leg muscles.</u></blockquote><p style=\"text-align: right;\">Â©1986 by Louise Erdrich</p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It makes a prediction about how Celestine will change as she grows older."
+        },
+        {
+          "name": "B",
+          "content": "It explores some of the narrator's psychological characteristics."
+        },
+        {
+          "name": "C",
+          "content": "It offers a detail that shows how Dot is growing stronger."
+        },
+        {
+          "name": "D",
+          "content": "It indicates how sad Celestine is by describing a behavior she engages in."
+        }
+      ],
+      "correct": "It offers a detail that shows how Dot is growing stronger.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Wakako Yamauchi is best known for <i>And the Soul Shall Dance</i>, her 1977 play about a Japanese American family in Southern California. The play is based on a short story Yamauchi had published three years earlier. Adapting the story wasn't easy. Theater relies on dialogue between characters, but the original story features little dialogue and instead describes its characters' silent thoughts. <u>To transform the story into a play, Yamauchi created situations where characters reveal their thoughts by speaking them aloud during conversations with each other.</u></p>",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "options": [
+        {
+          "name": "A",
+          "content": "It describes how Yamauchi chose the actors who performed in the play."
+        },
+        {
+          "name": "B",
+          "content": "It offers information about how Yamauchi adapted her short story into a play."
+        },
+        {
+          "name": "C",
+          "content": "It argues that Yamauchi's play influenced later playwrights."
+        },
+        {
+          "name": "D",
+          "content": "It explains why Yamauchi's short story is better known than the play adaptation is."
+        }
+      ],
+      "correct": "It offers information about how Yamauchi adapted her short story into a play.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Mexican textile artist Victoria Villasana weaves stories of triumph, using her unique method of applying colorful yarn to photographs of people. In some works, Villasana focuses on celebrating cultural icons who are people of color, as she does in her depiction of artist Yavoi Kusama. However, in other works, Villasana honors ordinary people, as she does in her captivating portrayal of a woman making tortillas. Villasana sees both of these approaches as ways of depicting the power and interconnectedness of all people.</p>",
+      "question": "According to the text, what kind of material does Villasana use in her artworks?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Stone"
+        },
+        {
+          "name": "B",
+          "content": "Chalk"
+        },
+        {
+          "name": "C",
+          "content": "Paint"
+        },
+        {
+          "name": "D",
+          "content": "Yarn"
+        }
+      ],
+      "correct": "Yarn",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>The following text is from JosÃ© Rizal's 1891 novel <i>The Reign of Greed</i> (translated by Charles Derbyshire in 1912).</p><blockquote style=\"margin-left: 40px;\">In his solitary retreat on the shore of the sea, whose mobile surface was visible through the open windows, extending outward until it mingled with the horizon, Padre Florentino was relieving the monotony by playing on his harmonium sad and melancholy tunes, to which the sonorous roar of the surf and the sighing of the treetops of the neighboring wood served as accompaniments. Notes long, full, mournful as a prayer, yet still vigorous, escaped from the old instrument, Padre Florentino, who was an accomplished musician, was improvising, and, as he was alone, gave free rein to the sadness in his heart.</blockquote>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The residence of Padre Florentino is especially isolated."
+        },
+        {
+          "name": "B",
+          "content": "Padre Florentino prefers to play music rather than listen to other musicians play."
+        },
+        {
+          "name": "C",
+          "content": "Padre Florentino has dedicated himself to becoming a skilled musician."
+        },
+        {
+          "name": "D",
+          "content": "The sadness of Padre Florentino's music reflects his own feelings."
+        }
+      ],
+      "correct": "The sadness of Padre Florentino's music reflects his own feelings.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Like many other bird species that live only on the Hawaiian archipelago, the Kaua'i 'amakihi has adapted to life in a well-defined habitat, resulting in highly specialized physical and behavioral characteristics that aid the species in survival. However, because the Kaua'i 'amakihi is highly specialized, it is especially vulnerable to environmental changes that can disrupt the delicately balanced ecosystem in which it lives.</p>",
+      "question": "Which choice best states the main idea of the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "The Kaua'i 'amakihi is a species of bird that is related to many other Hawaiian birds but does not share a habitat with any of them."
+        },
+        {
+          "name": "B",
+          "content": "The Kaua'i 'amakihi is an example of a highly specialized bird species found only on the Hawaiian archipelago and is related to several other highly specialized bird species found there."
+        },
+        {
+          "name": "C",
+          "content": "The Kaua'i 'amakihi is an example of a species unique to the Hawaiian archipelago that is highly specialized and therefore particularly susceptible to habitat disturbances."
+        },
+        {
+          "name": "D",
+          "content": "Hawaiian birds display a unique range of physical and behavioral characteristics and as a result can only live in habitats unique to the Hawaiian archipelago."
+        }
+      ],
+      "correct": "The Kaua'i 'amakihi is an example of a species unique to the Hawaiian archipelago that is highly specialized and therefore particularly susceptible to habitat disturbances.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Underdogs</i> is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey:</p>",
+      "question": "Which quotation from a translation of <i>The Underdogs</i> most effectively illustrates the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "\"The sonorous, joyful bells rang again. From within the church, the honeyed voices of a female chorus rose melancholy and grave.\""
+        },
+        {
+          "name": "B",
+          "content": "\"All day long the [soldiers] rode through the canyon, up and down the steep, round hills, dirty and bald as a man's head, hill after hill in endless succession. At last, late in the afternoon, they descried several stone church towers in the heart of a bluish ridge, and, beyond, the white road with its curling spirals of dust and its gray telegraph poles.\""
+        },
+        {
+          "name": "C",
+          "content": "\"The men threw out their chests as if to breathe the widening horizon, the immensity of the sky, the blue from the mountains and the fresh air redolent with the various odors of the sierra. They spurred their horses to a gallop as if in that mad race they laid claims of possession to the earth.\""
+        },
+        {
+          "name": "D",
+          "content": "\"Before Juchipila was lost from sight, Valderrama got off his horse. Bent down, kneeled, and gravely kissed the ground.\""
+        }
+      ],
+      "correct": "\"The men threw out their chests as if to breathe the widening horizon, the immensity of the sky, the blue from the mountains and the fresh air redolent with the various odors of the sierra. They spurred their horses to a gallop as if in that mad race they laid claims of possession to the earth.\"",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<div style=\"text-align: center;\"><img src=\"/images/3f31fdaa373fbc7b44fc44976d21f65c.png\" width=\"573\" height=\"597\"></div><p>It is common for freshwater lakes, near or above a latitude of 45Â° north of the equator, like Opeongo Lake in Canada, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the researcher's example?",
+      "options": [
+        {
+          "name": "A",
+          "content": "both Lake Mendota and KalmarinjÃ¤rvi, which had more days of ice in the winter of 2005-06 than they did in the winter of 1980-81."
+        },
+        {
+          "name": "B",
+          "content": "Lake Baikal, which had more days of ice in the winter of 2005-06 than it did in the winter of 1980-81."
+        },
+        {
+          "name": "C",
+          "content": "both Lake Baikal and KalmarinjÃ¤rvi, which had fewer than 200 days of ice in the winter of 1980-81."
+        },
+        {
+          "name": "D",
+          "content": "both Lake Baikal and KalmarinjÃ¤rvi, which had more than 95 days of ice in the winter of 2005-06."
+        }
+      ],
+      "correct": "Lake Baikal, which had more days of ice in the winter of 2005-06 than it did in the winter of 1980-81.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p style=\"text-align: center;\"><img src=\"/images/012c32e445c220ab8cacb73ad4ca6381.png\" width=\"627\" height=\"607\"></p><p>Urban agriculture is the practice of growing plant- or animal-based products in urban settings such as community gardens and rooftop farms. Esther SanyÃ©-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy-leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public-to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The survey results show that, on average, project leaders rated urban agriculture as contributing less to ______</p>",
+      "question": "Which choice most effectively uses data from the graph to complete the assertion?",
+      "options": [
+        {
+          "name": "A",
+          "content": "improving the local microclimate than to increasing global biodiversity."
+        },
+        {
+          "name": "B",
+          "content": "increasing global biodiversity than to providing tourist attractions."
+        },
+        {
+          "name": "C",
+          "content": "improving community members' sense of attachment to the neighborhood than to offering educational opportunities."
+        },
+        {
+          "name": "D",
+          "content": "increasing global biodiversity than to improving the local microclimate."
+        }
+      ],
+      "correct": "improving the local microclimate than to increasing global biodiversity.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p><i>The Clouds</i> is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as teaching students how to be persuasive without regard for what is morally good, as seen when the character______</p>",
+      "question": "Which choice most effectively uses a quotation from a translation of <em>The Clouds</em> to illustrate the claim?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Strepsiades encourages his son to learn to be a sophist, saying, âReform your habits as quickly as possible, and go and learn what I advise.â"
+        },
+        {
+          "name": "B",
+          "content": "Socrates, a sophist, says that he studies astronomy while in a basket hanging a few feet off the ground because âI should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air.â"
+        },
+        {
+          "name": "C",
+          "content": "Socrates, a sophist, says of a new customer, âI have not seen any man so boorish, nor so impracticable, nor so stupid, nor so forgetful; who, while learning some little petty quibbles, forgets them before he has learned them.â"
+        },
+        {
+          "name": "D",
+          "content": "Strepsiades hires a sophist to teach his son and says to the sophist, âBut see that he learns those two [styles of argument]; the better, whatever it may be; and the worse, which, by maintaining what is unjust, overturns the better. If not both, at any rate the unjust one by all means.â"
+        }
+      ],
+      "correct": "Strepsiades hires a sophist to teach his son and says to the sophist, âBut see that he learns those two [styles of argument]; the better, whatever it may be; and the worse, which, by maintaining what is unjust, overturns the better. If not both, at any rate the unjust one by all means.â",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Sheffield United Football Club won more than half its home matches between 1947 and 2003, helping to distinguish the team as a top British professional soccer club. Additionally Sheffield United, whose home uniform color is mainly red, was more successful in home matches than was Huddersfield Town Association Football Club, whose home uniform color is not red. Research has shown that many people associate the color red with power and dominance. Past experiences with red objects such as stop signs can even cause people to respond to the color red with caution and hesitation. These findings, if applicable in the context of athletic competitions, could suggest that in matches played at Sheffield United's home stadium, opponents may have ______</p>",
+      "question": "Which choice most logically completes the text?",
+      "options": [
+        {
+          "name": "A",
+          "content": "been influenced by the color of Sheffield United's uniforms."
+        },
+        {
+          "name": "B",
+          "content": "played more aggressively than they would have if their own uniforms were red."
+        },
+        {
+          "name": "C",
+          "content": "been unaffected by the red clothing worn by fans in the stadium."
+        },
+        {
+          "name": "D",
+          "content": "been aware that Sheffield United's uniform color affected their own performance."
+        }
+      ],
+      "correct": "been influenced by the color of Sheffield United's uniforms.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Featured among the more than 120 photographs in the 2021 exhibition <i>The New Woman Behind the Camera</i>, Lola Ãlvarez Bravo's ______ \"The Freeloaders\" offers a glimpse back in time to 1955.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "photograph,"
+        },
+        {
+          "name": "B",
+          "content": "photograph"
+        },
+        {
+          "name": "C",
+          "content": "photograph;"
+        },
+        {
+          "name": "D",
+          "content": "photograph:"
+        }
+      ],
+      "correct": "photograph",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>After he finally watched <i>North by Northwest</i> (1959) at last year's annual film festival, the infamously disagreeable film critic wrote a scathing review. Before that, the film he least enjoyed ______ the more recent classic <i>A Beautiful Mind</i> (2001).</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "is"
+        },
+        {
+          "name": "B",
+          "content": "had been"
+        },
+        {
+          "name": "C",
+          "content": "was being"
+        },
+        {
+          "name": "D",
+          "content": "has been"
+        }
+      ],
+      "correct": "had been",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Having devised an optical spectroscopy technique that allowed researchers to study ultrafast chemical reactions occurring within molecules, ______ known as femtochemistry. For this groundbreaking work, he won the Othmer Gold Medal and the Davy Medal from the Royal Society.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "chemist Ahmed Zewail introduced a new scientific discipline"
+        },
+        {
+          "name": "B",
+          "content": "a new scientific discipline was introduced by Ahmed Zewail, a chemist"
+        },
+        {
+          "name": "C",
+          "content": "the introduction of a new scientific discipline was initiated by chemist Ahmed Zewail"
+        },
+        {
+          "name": "D",
+          "content": "chemist Ahmed Zewail's introduction of a new scientific discipline would be"
+        }
+      ],
+      "correct": "chemist Ahmed Zewail introduced a new scientific discipline",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In his <i>Naturalis historia</i>, Pliny the Elder praised Hipparchus's star catalog, a second-century BCE list of roughly 850 different stars' celestial positions. For centuries, scholars dreamed about locating a copy of this legendary lost ______ fantasy (partially) became reality in 2022, when researchers uncovered traces of the star catalog on a palimpsest, a reused parchment.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "work, that"
+        },
+        {
+          "name": "B",
+          "content": "work and that"
+        },
+        {
+          "name": "C",
+          "content": "work that"
+        },
+        {
+          "name": "D",
+          "content": "work. That"
+        }
+      ],
+      "correct": "work. That",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>In the 1960s, Greece, Malta, and dozens of other countries were allocated unique country dialing codes to route international calls. Most of the original two-or three-digit codes ______ by the International Telegraph and Telephone Consultative Committee later changed in response to geopolitical circumstances or telecommunications needs.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "were assigned"
+        },
+        {
+          "name": "B",
+          "content": "had been assigned"
+        },
+        {
+          "name": "C",
+          "content": "assigned"
+        },
+        {
+          "name": "D",
+          "content": "would be assigned"
+        }
+      ],
+      "correct": "assigned",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Many works of the Greek dramatist Euripides (5th century BCE), including his play about the hero Alcmaeon, <i>Alcmaeon in Psophis</i>, have been lost to time. Antiquarians ______ to read one of Euripides's extant worksânot one known only through references to it by other authors, that isâmight instead procure a copy of his <i>Cyclops</i>, a satyr play.</p>",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": [
+        {
+          "name": "A",
+          "content": "hoped"
+        },
+        {
+          "name": "B",
+          "content": "hope"
+        },
+        {
+          "name": "C",
+          "content": "hoping"
+        },
+        {
+          "name": "D",
+          "content": "have hoped"
+        }
+      ],
+      "correct": "hoping",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the Cessna 310 jet, ______ helps it glide through wind with relative ease, while a boxy semitruck encounters more wind resistance, making it less aerodynamic.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "however,"
+        },
+        {
+          "name": "B",
+          "content": "for example,"
+        },
+        {
+          "name": "C",
+          "content": "additionally,"
+        },
+        {
+          "name": "D",
+          "content": "meanwhile,"
+        }
+      ],
+      "correct": "for example,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>With their distinctive cone shapes and steeply sloping sides, the volcanoes Almolonga (Guatemala) and Maungawhau (New Zealand) may look similar from afar. Tehnuka llanko and other volcanologists, ______ can tell by how each was formed that Almolonga is a composite volcano, while Maungawhau is a cinder cone volcano.</p>",
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": [
+        {
+          "name": "A",
+          "content": "therefore,"
+        },
+        {
+          "name": "B",
+          "content": "for example,"
+        },
+        {
+          "name": "C",
+          "content": "though,"
+        },
+        {
+          "name": "D",
+          "content": "in addition,"
+        }
+      ],
+      "correct": "though,",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<blockquote style=\"margin-left: 40px;\">\n<ul>\n<li>Samuel Delaney is a US writer known for his science fiction.</li>\n<li>Delaney's science fiction novel <i>Babel-17</i> was published in 1966.</li>\n<li>The novel won a Nebula Award in 1967.</li>\n<li>The Nebula Awards are given each year to the best works of science fiction published in the US.</li>\n</ul>\n</blockquote>",
+      "question": "The student wants to indicate the title of a novel that won a Nebula Award. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "One of Samuel Delaney's novels was among the best works of science fiction published in the US."
+        },
+        {
+          "name": "B",
+          "content": "Samuel Delaney is an award-winning US writer known for his science fiction."
+        },
+        {
+          "name": "C",
+          "content": "<i>Babel-17</i>, by Samuel Delaney, won a Nebula Award in 1967."
+        },
+        {
+          "name": "D",
+          "content": "Samuel Delaney published a science fiction novel in 1966."
+        }
+      ],
+      "correct": "<i>Babel-17</i>, by Samuel Delaney, won a Nebula Award in 1967.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p>\n<blockquote style=\"margin-left: 40px;\">\n  <ul>\n    <li>The El Pinito Mountains are a mountain range located in northwestern Mexico.</li>\n    <li>The range is one of the dozens of âsky islands\" in the southwestern US and northwestern Mexico.</li>\n    <li>A sky island is an isolated mountain range whose environment differs drastically from that of the surrounding lowlands.</li>\n    <li>The US Forest Service (USFS) said, âThe mountains are 'islands' surrounded by deserts that are 'seas.'â</li>\n    <li>The USFS said, âEach Sky Island is a unique ecosystem.â</li>\n  </ul>\n</blockquote>",
+      "question": "The student wants to provide an example of a sky island. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Sky islands are isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands; as the USFS puts it, âthe mountains are 'islands' surrounded by deserts that are 'seas.'â"
+        },
+        {
+          "name": "B",
+          "content": "The USFS considers each of the sky islands, whose environments differ drastically from that of the surrounding lowlands, to be a âunique ecosystem.â"
+        },
+        {
+          "name": "C",
+          "content": "There are dozens of sky islands in the southwestern US and northwestern Mexico, such as the El Pinito Mountains."
+        },
+        {
+          "name": "D",
+          "content": "In the southwestern US and northwestern Mexico, there are dozens of sky islands: isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands."
+        }
+      ],
+      "correct": "There are dozens of sky islands in the southwestern US and northwestern Mexico, such as the El Pinito Mountains.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>The engineer Robert Fulton designed the <i>Clermont</i> steamboat in 1807.</li><li>He designed it in New York City.</li><li><i>Clermont</i> was the world's first commercially successful steamboat.</li><li>The city of Fulton, Missouri, is named after Robert Fulton.</li><li>New York City's Fulton Street is named after him.</li></ul></blockquote>",
+      "question": "The student wants to indicate how Fulton, Missouri, got its name. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "Fulton Street is in New York City, where the steamboat <i>Clermont</i> was designed in 1807."
+        },
+        {
+          "name": "B",
+          "content": "Fulton, Missouri, is named after Robert Fulton, designer of the first commercially successful steamboat."
+        },
+        {
+          "name": "C",
+          "content": "Designed in 1807 in New York City, <i>Clermont</i> was the first commercially successful steamboat."
+        },
+        {
+          "name": "D",
+          "content": "Fulton, Missouri, shares its name with Fulton Street in New York City."
+        }
+      ],
+      "correct": "Fulton, Missouri, is named after Robert Fulton, designer of the first commercially successful steamboat.",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<p>While researching a topic, a student has taken the following notes:</p><blockquote style=\"margin-left: 40px;\"><ul><li>Generally, an object will heat up when twisted and cool down when untwisted.</li><li>The twisting of an object is known as torsion.</li><li>A 2019 study led by researchers Zunfeng Liu and Ray Baughman tested the torsional heating and cooling of various fibers.</li><li>They wanted to know whether torsional cooling could be used as a refrigeration method.</li><li>When ethylene propylene diene monomer (EPDM) rubber fiber was twisted, its average surface temperature increased by 12Â°C.</li><li>When three ply spandex rubber fiber was twisted, its average surface temperature increased by 14.6Â°C.</li></ul></blockquote>",
+      "question": "The student wants to present the study's research question. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": [
+        {
+          "name": "A",
+          "content": "A 2019 study researched whether torsional cooling could be used as a refrigeration method."
+        },
+        {
+          "name": "B",
+          "content": "Researchers determined that when both fibers were twisted, the surface temperature of three ply spandex rubber increased more than that of EPDM rubber."
+        },
+        {
+          "name": "C",
+          "content": "Torsional heating and cooling occurs when an object changes temperature while being twisted and untwisted."
+        },
+        {
+          "name": "D",
+          "content": "Torsion, the twisting of an object, will generally cause that object to heat up."
+        }
+      ],
+      "correct": "A 2019 study researched whether torsional cooling could be used as a refrigeration method.",
+      "solution": ""
+    }
+  ]
+}

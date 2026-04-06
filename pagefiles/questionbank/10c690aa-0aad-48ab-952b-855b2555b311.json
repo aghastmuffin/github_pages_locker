@@ -1,0 +1,455 @@
+{
+  "uuid": "10c690aa-0aad-48ab-952b-855b2555b311",
+  "chunk": "D1B2lXaT.js",
+  "question_count": 22,
+  "questions": [
+    {
+      "type": "write",
+      "article": "<img src=\"/images/3c63360e1a08bd33aa1265445d566095.png\" width=\"399\" height=\"330\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The graph of a rational function is shown for some values of <em>x</em>. What is the <em>y</em>-coordinate of the <em>y</em>-intercept of the graph?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "-3",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Monarch butterflies can fly only with a body temperature of at least 55.0 degrees Fahrenheit (Â°F). If a monarch butterfly's body temperature is 34.3Â°F, what is the minimum increase needed in its body temperature, in Â°F, so that it can fly?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "3.0<br>"
+        },
+        {
+          "name": "B",
+          "content": "4.3<br>"
+        },
+        {
+          "name": "C",
+          "content": "7.3<br>"
+        },
+        {
+          "name": "D",
+          "content": "20.7<br>"
+        }
+      ],
+      "correct": "20.7<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The lengths of two sides of a triangle are 5 centimeters and 7 centimeters. If the perimeter of the triangle is 16 centimeters, what is the length, in centimeters, of the third side of this triangle?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "2<br>"
+        },
+        {
+          "name": "B",
+          "content": "4<br>"
+        },
+        {
+          "name": "C",
+          "content": "12<br>"
+        },
+        {
+          "name": "D",
+          "content": "35<br>"
+        }
+      ],
+      "correct": "4<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<img src=\"/images/ac0ba0b7b6e4eafd0786352fee3880aa.png\" width=\"394\" height=\"328\"><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The scatterplot shows the relationship between two variables, <em>x</em> and <em>y.</em></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Which of the following equations is the most appropriate linear model for the data shown?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "y = 14.7 â 10x<br>"
+        },
+        {
+          "name": "B",
+          "content": "y = 14.7 + 10x<br>"
+        },
+        {
+          "name": "C",
+          "content": "y = â14.7 â 10x<br>"
+        },
+        {
+          "name": "D",
+          "content": "y = â14.7 +&nbsp;10x<br>"
+        }
+      ],
+      "correct": "y = 14.7 + 10x<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A dog has a mass of 36 kilograms. What is the dog's mass, in <u>grams</u>?(1 kilogram = 1,000 grams)</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "36,000<br>"
+        },
+        {
+          "name": "B",
+          "content": "1,296<br>"
+        },
+        {
+          "name": "C",
+          "content": "1,036<br>"
+        },
+        {
+          "name": "D",
+          "content": "964<br>"
+        }
+      ],
+      "correct": "36,000<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A certain goat weighed 5 pounds when it was born. The goat gained approximately </span></span><span class=\"mq-math-mode\" latex-data=\"\\frac{1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"7\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"8\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">pounds per day for the first 90 days of its life. Which function <em>g</em> gives the approximate weight, in pounds, of the goat <em>x</em> days after it was born?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "g(x)=<span class=\"mq-math-mode\" latex-data=\"\\frac{1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>x â 5<br>"
+        },
+        {
+          "name": "B",
+          "content": "g(x)=<span class=\"mq-math-mode\" latex-data=\"\\frac{1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>x +&nbsp;5<br>"
+        },
+        {
+          "name": "C",
+          "content": "g(x)=-<span class=\"mq-math-mode\" latex-data=\"\\frac{1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>x â 5<br>"
+        },
+        {
+          "name": "D",
+          "content": "g(x)=-<span class=\"mq-math-mode\" latex-data=\"\\frac{1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>x +&nbsp;5<br>"
+        }
+      ],
+      "correct": "g(x)=<span class=\"mq-math-mode\" latex-data=\"\\frac{1}{4}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">1</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span>x +&nbsp;5<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">If 7<em>n</em>=14, what is the value of <em>n</em>+5?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "7",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">What is the <em>y</em>-intercept of the graph of <em>y</em>=3<em>x</em><sup>2</sup>+7<em>x</em>+29 in the <em>xy</em>-plane?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "(0,3)<br>"
+        },
+        {
+          "name": "B",
+          "content": "(0,7)<br>"
+        },
+        {
+          "name": "C",
+          "content": "(0,29)<br>"
+        },
+        {
+          "name": "D",
+          "content": "(0,39)<br>"
+        }
+      ],
+      "correct": "(0,29)<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A group of <em>x</em> <em>Rosa sericea</em> flowers and <em>y</em> <em>Rosa caesia</em> flowers has a total of 77 petals. In this group, each <em>Rosa</em> <em>sericea</em> flower has 4 petals and each <em>Rosa caesia</em> flower has 5 petals. The equation 4x+5y=77 represents this situation. If there are 8 <em>Rosa sericea </em>flowers in this group, how many <em>Rosa caesia</em> flowers are in this group?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "69<br>"
+        },
+        {
+          "name": "B",
+          "content": "45<br>"
+        },
+        {
+          "name": "C",
+          "content": "32<br>"
+        },
+        {
+          "name": "D",
+          "content": "9<br>"
+        }
+      ],
+      "correct": "9<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The graph of the function <em>f </em>in the <em>xy</em>-plane, where <em>y</em>=<em>f(x)</em>, contains the points(0,3) , (9,0), and (24,0). Which of the following CANNOT be true?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "f(24)&lt; 0<br>"
+        },
+        {
+          "name": "B",
+          "content": "f(3)&lt; 0<br>"
+        },
+        {
+          "name": "C",
+          "content": "f(3)&gt; 0<br>"
+        },
+        {
+          "name": "D",
+          "content": "f(0)&lt; 24<br>"
+        }
+      ],
+      "correct": "f(24)&lt; 0<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/754fbaf277f417c500d12e467b7f8b15.png\" width=\"442\" height=\"249\"></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The histogram shows the distribution of 20 lengths, in feet, in a data set. The first bar represents the lengths that&nbsp;are less than 50 feet, the second bar represents the lengths that are at least 50 feet but less than 100 feet, and so on. Which of the following could be the maximum length, in feet, in this data set?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "68<br>"
+        },
+        {
+          "name": "B",
+          "content": "118<br>"
+        },
+        {
+          "name": "C",
+          "content": "168<br>"
+        },
+        {
+          "name": "D",
+          "content": "218<br>"
+        }
+      ],
+      "correct": "218<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A market researcher collected data on the price of a hot dog at 59 locations selected at random in a state. The mean price of a hot dog in the state was estimated to be $3.28, with an associated margin of error of $0.06. Which of the following is a plausible statement about the mean price of a hot dog for all locations that sell this product in the state?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "It is between $3.22 and $3.34.<br>"
+        },
+        {
+          "name": "B",
+          "content": "It is either less than $3.22 or greater than $3.34.<br>"
+        },
+        {
+          "name": "C",
+          "content": "It is less than $3.22.<br>"
+        },
+        {
+          "name": "D",
+          "content": "It is greater than $3.34.<br>"
+        }
+      ],
+      "correct": "It is between $3.22 and $3.34.<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;x + y = 105<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;x + y + y = 115 </span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The solution to the given system of equations is (<em>x, y</em>). What is the value of <em>y</em>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "10",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x = 8<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;y = x<sup>2</sup> + 7 </span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The graphs of the equations in the given system of equations intersect at the point(<em>x, y</em>) in the <em>xy</em>-plane. What is the value of <em>y</em>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "8<br>"
+        },
+        {
+          "name": "B",
+          "content": "23<br>"
+        },
+        {
+          "name": "C",
+          "content": "64<br>"
+        },
+        {
+          "name": "D",
+          "content": "71<br>"
+        }
+      ],
+      "correct": "71<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The kinetic energy, in joules, of an object with mass 7 kilograms traveling at a speed of <em>v</em> meters per second is given by the function <em>K</em>, where <em>K</em>(<em>v</em>)=</span></span><span class=\"mq-math-mode\" latex-data=\"\\frac{7}{2}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><span mathquill-command-id=\"8\">7</span></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"7\">2</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">v<sup>2</sup>&nbsp;. Which of the following is the best interpretation of <em>K</em>(<i>24</i>)=</span></span><span class=\"mq-math-mode\" latex-data=\"\\frac{7}{2}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span></span><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">2,016 in this context?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "The object traveling at 24 meters per second has a kinetic energy of 2,016 joules.<br>"
+        },
+        {
+          "name": "B",
+          "content": "The object traveling at 240 meters per second has a kinetic energy of 2,016 joules.<br>"
+        },
+        {
+          "name": "C",
+          "content": "The object traveling at 2,016 meters per second has a kinetic energy of 24 joules.<br>"
+        },
+        {
+          "name": "D",
+          "content": "The object traveling at 7,056 meters per second has a kinetic energy of 24 joules.<br>"
+        }
+      ],
+      "correct": "The object traveling at 24 meters per second has a kinetic energy of 2,016 joules.<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/8755b0370f693a094ad22e1ee93fcdd9.png\" width=\"277\" height=\"199\"></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">For the linear function <em>f</em>, the table shows three values of <em>x</em> and their corresponding values of <em>f(x).</em> Which equation defines <em>f(x)</em>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "f(x) = 38x + 43<br>"
+        },
+        {
+          "name": "B",
+          "content": "f(x) = 5x + 38<br>"
+        },
+        {
+          "name": "C",
+          "content": "f(x) = 43x + 48<br>"
+        },
+        {
+          "name": "D",
+          "content": "f(x) = 48x + 38<br>"
+        }
+      ],
+      "correct": "f(x) = 5x + 38<br>",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp;y â 34 = px</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The given equation relates the positive numbers <em>p</em>,<em> x</em>, and <em>y</em>. Which equation correctly expresses <em>y</em> in terms of <em>p&nbsp;</em>and <em>x</em>?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "y = 34x + p<br>"
+        },
+        {
+          "name": "B",
+          "content": "y = px + 34<br>"
+        },
+        {
+          "name": "C",
+          "content": "y = 34px<br>"
+        },
+        {
+          "name": "D",
+          "content": "y =<span class=\"mq-math-mode\" latex-data=\"\\frac{px}{34}\"><span class=\"mq-textarea\"><textarea autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" spellcheck=\"false\" x-palm-disable-ste-all=\"true\" data-cke-editable=\"1\" contenteditable=\"false\"></textarea></span><span class=\"mq-root-block\" mathquill-block-id=\"1\"><span class=\"mq-fraction mq-non-leaf\" mathquill-command-id=\"3\"><span class=\"mq-numerator\" mathquill-block-id=\"4\"><var mathquill-command-id=\"7\">p</var><var mathquill-command-id=\"8\">x</var></span><span class=\"mq-denominator\" mathquill-block-id=\"5\"><span mathquill-command-id=\"9\">3</span><span mathquill-command-id=\"10\">4</span></span><span style=\"display:inline-block;width:0\">â</span></span></span></span><span>&nbsp;</span>âââââââ<br>"
+        }
+      ],
+      "correct": "y = px + 34<br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><img src=\"/images/1c9d191bf7d01048509f66568691d640.png\" width=\"397\" height=\"343\"></span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">The point with coordinates(7, <em>c</em>) lies on the line shown. What is the value of <em>c</em>?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "4.5,9/2",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">A company has a customer loyalty program. In January 2018, there were 700 customers enrolled in the loyalty program. For the next 24 months after January 2018, the total number of customers enrolled in the loyalty program each month was 8% greater than the total number enrolled the previous month. Which equation gives the total number of customers, <em>c</em>, enrolled in the company's loyalty program <em>m</em> months after January 2018, where&nbsp;<em>m</em>â¤24?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "c=700(0.08)<sup>m</sup><br>"
+        },
+        {
+          "name": "B",
+          "content": "c=700(1.08)<sup>m</sup><br>"
+        },
+        {
+          "name": "C",
+          "content": "c=700(1.8)<sup>m</sup><br>"
+        },
+        {
+          "name": "D",
+          "content": "c=700(8)<sup>m</sup><br>"
+        }
+      ],
+      "correct": "c=700(1.08)<sup>m</sup><br>",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(x â 16)(x â 12)(x + 5)(x + 13)= 0</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">What is a positive solution to the given equation?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "16,12",
+      "solution": ""
+    },
+    {
+      "type": "write",
+      "article": "<span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Parallel lines <em>a</em> and <em>b</em> intersect parallel lines <em>c </em>and <em>d</em>, forming eight acute angles and eight obtuse angles. The measure, in degrees, of one of the acute angles is represented by the expression 5x+52. The measure, in degrees, of one of the obtuse angles is represented by the expression 7x+92. What is the sum of the measures, in degrees, of 2 of the acute angles and 3 of the obtuse angles?</span></span><br>",
+      "question": "",
+      "options": [],
+      "correct": "473",
+      "solution": ""
+    },
+    {
+      "type": "choice",
+      "article": "<br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2.5x + 4.2y = 7<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.5x + 12.6y = 21</span></span><br><span style=\"font-size:20px;\"><span style=\"font-family:Times New Roman,Times,serif;\">How many solutions does the given system of equations have?</span></span><br>",
+      "question": "",
+      "options": [
+        {
+          "name": "A",
+          "content": "Exactly one<br>"
+        },
+        {
+          "name": "B",
+          "content": "Exactly two<br>"
+        },
+        {
+          "name": "C",
+          "content": "Infinitely many<br>"
+        },
+        {
+          "name": "D",
+          "content": "<br>Zero<br>"
+        }
+      ],
+      "correct": "Infinitely many<br>",
+      "solution": ""
+    }
+  ]
+}
