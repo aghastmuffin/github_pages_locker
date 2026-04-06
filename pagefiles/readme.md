@@ -1,0 +1,1 @@
+do not replace index.html of main dir, include your project's indexhtml here
