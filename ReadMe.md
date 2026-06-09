@@ -1,3 +1,6 @@
+>[!Warning]
+> This documentation is incomplete, I'm a highschooler so I'll finish it when I can, but the code works fine
+
 # Create A Private Github Page
 GH pages is notoriously a public-only, "serverless" (it cannot run files, only serve preran files), solution to website hosting, and while it's great there are a couple caveats that come with that. One is access control, the aim of this project.
 
